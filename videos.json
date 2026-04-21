@@ -8,7 +8,7 @@
         "Url":  "https://youtu.be/S5WuuwZTsuc",
         "Thumbnail":  "https://i.ytimg.com/vi/S5WuuwZTsuc/hqdefault.jpg",
         "PublishedAt":  "2026-04-21T16:46:01.0000000Z",
-        "DiscoveredAt":  "2026-04-21T18:07:51.5184080Z",
+        "DiscoveredAt":  "2026-04-21T18:27:13.4343097Z",
         "Duration":  "00:07:41",
         "ViewsAtDiscovery":  4,
         "Live":  "none",
@@ -25,9 +25,9 @@
                           "Url":  "https://youtu.be/X7JEdo_BFE4",
                           "Thumbnail":  "https://i.ytimg.com/vi/X7JEdo_BFE4/hqdefault.jpg",
                           "PublishedAt":  "2026-04-21T16:45:06.0000000Z",
-                          "DiscoveredAt":  "2026-04-21T18:07:51.1898373Z",
+                          "DiscoveredAt":  "2026-04-21T18:27:13.1418816Z",
                           "Duration":  "00:12:27",
-                          "ViewsAtDiscovery":  109,
+                          "ViewsAtDiscovery":  120,
                           "Live":  "none",
                           "Status":  "active"
                       },
@@ -42,15 +42,15 @@
                                             "Url":  "https://youtu.be/XYc2XHtorGo",
                                             "Thumbnail":  "https://i.ytimg.com/vi/XYc2XHtorGo/hqdefault.jpg",
                                             "PublishedAt":  "2026-04-21T13:01:09.0000000Z",
-                                            "DiscoveredAt":  "2026-04-21T18:07:50.8883596Z",
+                                            "DiscoveredAt":  "2026-04-21T18:27:12.8678473Z",
                                             "Duration":  "00:11:42",
-                                            "ViewsAtDiscovery":  77,
+                                            "ViewsAtDiscovery":  86,
                                             "Live":  "none",
                                             "Status":  "active"
                                         },
                                         {
                                             "value":  [
-                                                          "@{schema_version=1; VideoId=T49tlfaIJQ8; Title=【Choose Me】歌って引いてみた (Band Maid Cover)『アリゾナ祭２０２６』Arizona Matsuri 2026 (Sunday); Channel=MUGEN 無限; ChannelId=UCHlE4Lpi6ty9QSTbQO53BfA; Url=https://youtu.be/T49tlfaIJQ8; Thumbnail=https://i.ytimg.com/vi/T49tlfaIJQ8/hqdefault.jpg; PublishedAt=2026-04-21T13:00:52.0000000Z; DiscoveredAt=2026-04-21T18:07:50.4301743Z; Duration=00:03:33; ViewsAtDiscovery=81; Live=none; Status=active}",
+                                                          "@{schema_version=1; VideoId=T49tlfaIJQ8; Title=【Choose Me】歌って引いてみた (Band Maid Cover)『アリゾナ祭２０２６』Arizona Matsuri 2026 (Sunday); Channel=MUGEN 無限; ChannelId=UCHlE4Lpi6ty9QSTbQO53BfA; Url=https://youtu.be/T49tlfaIJQ8; Thumbnail=https://i.ytimg.com/vi/T49tlfaIJQ8/hqdefault.jpg; PublishedAt=2026-04-21T13:00:52.0000000Z; DiscoveredAt=2026-04-21T18:27:12.5474079Z; Duration=00:03:33; ViewsAtDiscovery=81; Live=none; Status=active}",
                                                           "@{value=System.Object[]; Count=2}"
                                                       ],
                                             "Count":  2
