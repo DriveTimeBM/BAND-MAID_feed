@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BAND-MAID — New Videos</title>
+    <link>https://drivetimebm.github.io/BAND-MAID_feed/</link>
+    <description>Newly discovered YouTube videos mentioning BAND-MAID.</description>
+    <language>en-us</language>
+    <ttl>30</ttl>
+    <generator>BAND-MAID video tracker (PowerShell)</generator>
+    <lastBuildDate>Tue, 21 Apr 2026 17:49:47 GMT</lastBuildDate>
+    <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAND-MAID-TAMAYA Reaction</title>
+      <link>https://youtu.be/S5WuuwZTsuc</link>
+      <guid isPermaLink="false">yt:video:S5WuuwZTsuc</guid>
+      <pubDate>Tue, 21 Apr 2026 16:46:01 GMT</pubDate>
+      <author>James M </author>
+      <category>James M </category>
+      <description><![CDATA[<p><a href="https://youtu.be/S5WuuwZTsuc"><img src="https://i.ytimg.com/vi/S5WuuwZTsuc/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: James M <br/>Duration: 00:07:41<br/>Views at discovery: 3</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/S5WuuwZTsuc/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>#84 BAND-MAID / I still seek revenge. - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING</title>
+      <link>https://youtu.be/X7JEdo_BFE4</link>
+      <guid isPermaLink="false">yt:video:X7JEdo_BFE4</guid>
+      <pubDate>Tue, 21 Apr 2026 16:45:06 GMT</pubDate>
+      <author>K-Ross Reacts</author>
+      <category>K-Ross Reacts</category>
+      <description><![CDATA[<p><a href="https://youtu.be/X7JEdo_BFE4"><img src="https://i.ytimg.com/vi/X7JEdo_BFE4/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: K-Ross Reacts<br/>Duration: 00:12:27<br/>Views at discovery: 86</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/X7JEdo_BFE4/hqdefault.jpg" />
+    </item>
+  </channel>
+</rss>
