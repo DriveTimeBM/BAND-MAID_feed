@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xmXtbwul4KY",
+        "Title":  "Dilly-Dally Live | Band-Maid Reaction",
+        "Channel":  "Halley Furlong",
+        "ChannelId":  "UC772bjJuJjw5XkPMTZCrlqg",
+        "Url":  "https://youtu.be/xmXtbwul4KY",
+        "Thumbnail":  "https://i.ytimg.com/vi/xmXtbwul4KY/hqdefault.jpg",
+        "PublishedAt":  "2026-04-21T18:37:21.0000000Z",
+        "DiscoveredAt":  "2026-04-21T18:41:43.0677488Z",
+        "Duration":  "00:08:18",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "S5WuuwZTsuc",
         "Title":  "BAND-MAID-TAMAYA Reaction",
         "Channel":  "James M ",
@@ -8,57 +23,85 @@
         "Url":  "https://youtu.be/S5WuuwZTsuc",
         "Thumbnail":  "https://i.ytimg.com/vi/S5WuuwZTsuc/hqdefault.jpg",
         "PublishedAt":  "2026-04-21T16:46:01.0000000Z",
-        "DiscoveredAt":  "2026-04-21T18:32:17.5481394Z",
+        "DiscoveredAt":  "2026-04-21T18:41:42.7505685Z",
         "Duration":  "00:07:41",
-        "ViewsAtDiscovery":  7,
+        "ViewsAtDiscovery":  8,
         "Live":  "none",
         "Status":  "active"
     },
     {
-        "value":  [
-                      {
-                          "schema_version":  1,
-                          "VideoId":  "X7JEdo_BFE4",
-                          "Title":  "#84 BAND-MAID / I still seek revenge. - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
-                          "Channel":  "K-Ross Reacts",
-                          "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
-                          "Url":  "https://youtu.be/X7JEdo_BFE4",
-                          "Thumbnail":  "https://i.ytimg.com/vi/X7JEdo_BFE4/hqdefault.jpg",
-                          "PublishedAt":  "2026-04-21T16:45:06.0000000Z",
-                          "DiscoveredAt":  "2026-04-21T18:32:17.1882153Z",
-                          "Duration":  "00:12:27",
-                          "ViewsAtDiscovery":  124,
-                          "Live":  "none",
-                          "Status":  "active"
-                      },
-                      {
-                          "value":  [
-                                        {
-                                            "schema_version":  1,
-                                            "VideoId":  "XYc2XHtorGo",
-                                            "Title":  "BAND-MAID / Thrill (スリル) (Official Music Video) | Reaction",
-                                            "Channel":  "WaywardCulture",
-                                            "ChannelId":  "UCgsZeQwznikU0d6LR3Ih0jw",
-                                            "Url":  "https://youtu.be/XYc2XHtorGo",
-                                            "Thumbnail":  "https://i.ytimg.com/vi/XYc2XHtorGo/hqdefault.jpg",
-                                            "PublishedAt":  "2026-04-21T13:01:09.0000000Z",
-                                            "DiscoveredAt":  "2026-04-21T18:32:16.8457614Z",
-                                            "Duration":  "00:11:42",
-                                            "ViewsAtDiscovery":  87,
-                                            "Live":  "none",
-                                            "Status":  "active"
-                                        },
-                                        {
-                                            "value":  [
-                                                          "@{schema_version=1; VideoId=T49tlfaIJQ8; Title=【Choose Me】歌って引いてみた (Band Maid Cover)『アリゾナ祭２０２６』Arizona Matsuri 2026 (Sunday); Channel=MUGEN 無限; ChannelId=UCHlE4Lpi6ty9QSTbQO53BfA; Url=https://youtu.be/T49tlfaIJQ8; Thumbnail=https://i.ytimg.com/vi/T49tlfaIJQ8/hqdefault.jpg; PublishedAt=2026-04-21T13:00:52.0000000Z; DiscoveredAt=2026-04-21T18:32:16.5853749Z; Duration=00:03:33; ViewsAtDiscovery=81; Live=none; Status=active}",
-                                                          "@{value=System.Object[]; Count=2}"
-                                                      ],
-                                            "Count":  2
-                                        }
-                                    ],
-                          "Count":  2
-                      }
-                  ],
-        "Count":  2
+        "schema_version":  1,
+        "VideoId":  "X7JEdo_BFE4",
+        "Title":  "#84 BAND-MAID / I still seek revenge. - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/X7JEdo_BFE4",
+        "Thumbnail":  "https://i.ytimg.com/vi/X7JEdo_BFE4/hqdefault.jpg",
+        "PublishedAt":  "2026-04-21T16:45:06.0000000Z",
+        "DiscoveredAt":  "2026-04-21T18:41:42.2472967Z",
+        "Duration":  "00:12:27",
+        "ViewsAtDiscovery":  128,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "XYc2XHtorGo",
+        "Title":  "BAND-MAID / Thrill (スリル) (Official Music Video) | Reaction",
+        "Channel":  "WaywardCulture",
+        "ChannelId":  "UCgsZeQwznikU0d6LR3Ih0jw",
+        "Url":  "https://youtu.be/XYc2XHtorGo",
+        "Thumbnail":  "https://i.ytimg.com/vi/XYc2XHtorGo/hqdefault.jpg",
+        "PublishedAt":  "2026-04-21T13:01:09.0000000Z",
+        "DiscoveredAt":  "2026-04-21T18:41:41.8741547Z",
+        "Duration":  "00:11:42",
+        "ViewsAtDiscovery":  90,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "T49tlfaIJQ8",
+        "Title":  "【Choose Me】歌って引いてみた (Band Maid Cover)『アリゾナ祭２０２６』Arizona Matsuri 2026 (Sunday)",
+        "Channel":  "MUGEN 無限",
+        "ChannelId":  "UCHlE4Lpi6ty9QSTbQO53BfA",
+        "Url":  "https://youtu.be/T49tlfaIJQ8",
+        "Thumbnail":  "https://i.ytimg.com/vi/T49tlfaIJQ8/hqdefault.jpg",
+        "PublishedAt":  "2026-04-21T13:00:52.0000000Z",
+        "DiscoveredAt":  "2026-04-21T18:41:41.3828320Z",
+        "Duration":  "00:03:33",
+        "ViewsAtDiscovery":  81,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "c_N2aep59_I",
+        "Title":  "1st Time Reaction to BAND-MAID  Present Perfect",
+        "Channel":  "P Reacts Daily",
+        "ChannelId":  "UCjzeCUthjtU3kTvz70sw2wg",
+        "Url":  "https://youtu.be/c_N2aep59_I",
+        "Thumbnail":  "https://i.ytimg.com/vi/c_N2aep59_I/hqdefault.jpg",
+        "PublishedAt":  "2026-04-21T13:00:00.0000000Z",
+        "DiscoveredAt":  "2026-04-21T18:41:41.1440437Z",
+        "Duration":  "00:08:36",
+        "ViewsAtDiscovery":  86,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "YLro5An65RQ",
+        "Title":  "Brothers REACT to BAND-MAID: the non-fiction days (2016 Marugame Castle Fest)",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/YLro5An65RQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/YLro5An65RQ/hqdefault.jpg",
+        "PublishedAt":  "2026-04-21T10:00:59.0000000Z",
+        "DiscoveredAt":  "2026-04-21T18:41:40.8887448Z",
+        "Duration":  "00:09:52",
+        "ViewsAtDiscovery":  824,
+        "Live":  "none",
+        "Status":  "active"
     }
 ]
