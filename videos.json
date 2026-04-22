@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CH7smwRnkVM",
+        "Title":  "Band-Maid / Dilly Dally (Live!) - The MIDI Sequence",
+        "Channel":  "Dean F",
+        "ChannelId":  "UCXaaXZk7hJieGIPh7I_MIhA",
+        "Url":  "https://youtu.be/CH7smwRnkVM",
+        "Thumbnail":  "https://i.ytimg.com/vi/CH7smwRnkVM/hqdefault.jpg",
+        "PublishedAt":  "2026-04-22T13:45:06.0000000Z",
+        "DiscoveredAt":  "2026-04-22T14:13:37.4385520Z",
+        "Duration":  "00:04:39",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "tTuKYOqfjPM",
         "Title":  "BAND-MAID & The Warning - SHOW THEM | Ultimate Female Rock Collaboration!",
         "Channel":  "DevelopeReaction",
