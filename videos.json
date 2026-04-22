@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YBFXtNvFTNM",
+        "Title":  "Hearing BAND-MAID – ANEMONE 🤯 | Emotional Japanese Rock Reaction",
+        "Channel":  "Rock and Reactions",
+        "ChannelId":  "UCqAy-EERjiQYNBVIOj3MY7A",
+        "Url":  "https://youtu.be/YBFXtNvFTNM",
+        "Thumbnail":  "https://i.ytimg.com/vi/YBFXtNvFTNM/hqdefault.jpg",
+        "PublishedAt":  "2026-04-22T06:00:21.0000000Z",
+        "DiscoveredAt":  "2026-04-22T07:48:21.6234224Z",
+        "Duration":  "00:13:12",
+        "ViewsAtDiscovery":  117,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "1w1qG2ryV4I",
+        "Title":  "BABYMETAL FAN REACTS TO BAND-MAID - BLOOMING",
+        "Channel":  "Highlander Reactions",
+        "ChannelId":  "UClDGS7fefvBzjZLtVvjRqaw",
+        "Url":  "https://youtu.be/1w1qG2ryV4I",
+        "Thumbnail":  "https://i.ytimg.com/vi/1w1qG2ryV4I/hqdefault.jpg",
+        "PublishedAt":  "2026-04-22T06:00:03.0000000Z",
+        "DiscoveredAt":  "2026-04-22T07:48:21.2908557Z",
+        "Duration":  "00:05:33",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bOmdeNY-esk",
         "Title":  "REACTION TO BAND-MAID - I'LL LIVE - LIVE PERFORMANCE",
         "Channel":  "Cold Fire",
