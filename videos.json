@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AaxTTMcTurs",
+        "Title":  "BAND-MAID Special collaborative session Digest",
+        "Channel":  "生きた証を残す旅 2",
+        "ChannelId":  "UCo57puZ6964Slfmd8-R7B8w",
+        "Url":  "https://youtu.be/AaxTTMcTurs",
+        "Thumbnail":  "https://i.ytimg.com/vi/AaxTTMcTurs/hqdefault.jpg",
+        "PublishedAt":  "2026-04-22T10:20:41.0000000Z",
+        "DiscoveredAt":  "2026-04-22T10:39:08.8433261Z",
+        "Duration":  "00:05:01",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YBFXtNvFTNM",
         "Title":  "Hearing BAND-MAID – ANEMONE 🤯 | Emotional Japanese Rock Reaction",
         "Channel":  "Rock and Reactions",
