@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-YQN43zcVwc",
+        "Title":  "BAND-MAID / Play (Official Live Video) 🌸Reaction🌸",
+        "Channel":  "Faro & Sofi",
+        "ChannelId":  "UCLQzdUgHF9l_eybT3_Wo22A",
+        "Url":  "https://youtu.be/-YQN43zcVwc",
+        "Thumbnail":  "https://i.ytimg.com/vi/-YQN43zcVwc/hqdefault.jpg",
+        "PublishedAt":  "2026-04-22T15:30:00.0000000Z",
+        "DiscoveredAt":  "2026-04-22T15:45:38.2905054Z",
+        "Duration":  "00:12:01",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "M0OhSQirjck",
+        "Title":  "Band-Maid - Dice [Legendado]",
+        "Channel":  "Forma Sonora",
+        "ChannelId":  "UCdySxZ4xTaiY_CSBgWasUiQ",
+        "Url":  "https://youtu.be/M0OhSQirjck",
+        "Thumbnail":  "https://i.ytimg.com/vi/M0OhSQirjck/hqdefault.jpg",
+        "PublishedAt":  "2026-04-22T15:24:06.0000000Z",
+        "DiscoveredAt":  "2026-04-22T15:45:38.0345066Z",
+        "Duration":  "00:04:15",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "CH7smwRnkVM",
         "Title":  "Band-Maid / Dilly Dally (Live!) - The MIDI Sequence",
         "Channel":  "Dean F",
