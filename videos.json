@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Pbo9ScpNlOk",
+        "Title":  "LRQ Stream April 21 2026 // BAND-MAID, Angine de Poitrine, Hanabie. - and more!",
+        "Channel":  "Ryan Mear",
+        "ChannelId":  "UCvKUIZjMmlHJ9vjGJey0SBQ",
+        "Url":  "https://youtu.be/Pbo9ScpNlOk",
+        "Thumbnail":  "https://i.ytimg.com/vi/Pbo9ScpNlOk/hqdefault.jpg",
+        "PublishedAt":  "2026-04-22T15:01:35.0000000Z",
+        "DiscoveredAt":  "2026-04-22T18:20:14.0005477Z",
+        "Duration":  "03:12:46",
+        "ViewsAtDiscovery":  873,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-YQN43zcVwc",
         "Title":  "BAND-MAID / Play (Official Live Video) 🌸Reaction🌸",
         "Channel":  "Faro & Sofi",
