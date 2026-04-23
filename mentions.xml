@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>BAND-MAID Social Mentions</title>
+    <link>https://drivetimebm.github.io/BAND-MAID_feed/</link>
+    <description>BAND-MAID mentions from across social media.</description>
+    <language>en-us</language>
+    <ttl>30</ttl>
+    <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
+    <lastBuildDate>Thu, 23 Apr 2026 17:50:01 GMT</lastBuildDate>
+    <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastadon] 四月初的 CENTRAL2026 音樂祭演出限時公開啦，到台灣時間週六的 22:59 而已，要補檔的抓緊時間啊</title>
+      <link>https://g0v.social/@santou_hong/116455233205466647</link>
+      <guid isPermaLink="true">https://g0v.social/@santou_hong/116455233205466647</guid>
+      <pubDate>Thu, 23 Apr 2026 17:37:18 GMT</pubDate>
+      <dc:creator>三頭 :raised_eyebrow_cat_2: (santou_hong@g0v.social)</dc:creator>
+      <category>Mastadon</category>
+      <description><![CDATA[<p>四月初的 CENTRAL2026 音樂祭演出限時公開啦，到台灣時間週六的 22:59 而已，要補檔的抓緊時間啊<br/>https://g0v.social/tags/ReoNa https://g0v.social/tags/AveMujica https://g0v.social/tags/BANDMAID<br/><br/>:ave_mujica: 的片段總算改善了那個垃圾混音跟運鏡 QQ<br/>李子大人真的好帥喔......<br/><br/>https://www.youtube.com/watch?v=DMtcR8q3e7I</p><p><em>Mastadon &middot; santou_hong@g0v.social</em></p>]]></description>
+    </item>
+  </channel>
+</rss>
