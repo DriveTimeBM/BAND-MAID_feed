@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Ze4R2MLj7ps",
+        "Title":  "Double Feature Band Maid | Awkward | Live and Acoustic",
+        "Channel":  "Kyros Reactions",
+        "ChannelId":  "UCo6VhAuklHvW8ZC35pIezXg",
+        "Url":  "https://youtu.be/Ze4R2MLj7ps",
+        "Thumbnail":  "https://i.ytimg.com/vi/Ze4R2MLj7ps/hqdefault.jpg",
+        "PublishedAt":  "2026-04-23T12:01:04.0000000Z",
+        "DiscoveredAt":  "2026-04-23T12:03:41.1749615Z",
+        "Duration":  "00:14:01",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "w57M4Jlj_jo",
         "Title":  "Musician reacts to Band-Maid / EverGreen | Uplifting & Rocking!",
         "Channel":  "Vault of Art",
