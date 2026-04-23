@@ -588,8 +588,19 @@
     });
 
     if (items.length === 0) {
-      doc.querySelectorAll('entry').forEach(el => {
-        const title = el.querySelector('title')?.textContent?.trim() || '';
+       const stripHtml = (s) => {
+          const tmp = document.createElement('div');
+          tmp.innerHTML = s;
+          return (tmp.textContent || tmp.innerText || '').trim();
+       };
+
+       doc.querySelectorAll('entry').forEach(el => {
+         const titleEl = el.querySelector('title');
+         let title = titleEl?.textContent?.trim() || '';
+         if (titleEl?.getAttribute('type') === 'html' || /<[a-z][^>]*>/i.test(title)) {
+           title = stripHtml(title);
+         } 
+                
         const link = el.querySelector('link')?.getAttribute('href') || '';
         const guid = el.querySelector('id')?.textContent?.trim() || link;
         const pubDate = el.querySelector('published, updated')?.textContent?.trim();
