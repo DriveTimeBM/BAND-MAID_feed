@@ -259,7 +259,7 @@
     transition: opacity 0.2s;
   }
   .article.unread .article-unread-mark { opacity: 1; }
-  
+
   .article-title {
     font-family: var(--serif-hd);
     font-weight: 700;
@@ -634,7 +634,7 @@
 
     const cache = loadCache();
     const anyProxy = feeds.some(f => f.use_proxy);
-    document.getElementById('proxy-warning').classList.toggle('active', anyProxy);
+    //document.getElementById('proxy-warning').classList.toggle('active', anyProxy);
 
     await Promise.all(feeds.map(async feed => {
       if (useCache && cache[feed.id]) {
