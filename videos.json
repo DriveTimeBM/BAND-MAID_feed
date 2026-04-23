@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hpqvkHelUPo",
+        "Title":  "Band-Maid - Ready to Rock (guitar solo)",
+        "Channel":  "Guitar Solo Tracks",
+        "ChannelId":  "UC2HQH01Et8x48Mb4MWap2Hg",
+        "Url":  "https://youtu.be/hpqvkHelUPo",
+        "Thumbnail":  "https://i.ytimg.com/vi/hpqvkHelUPo/hqdefault.jpg",
+        "PublishedAt":  "2026-04-23T20:54:07.0000000Z",
+        "DiscoveredAt":  "2026-04-23T21:13:47.9774298Z",
+        "Duration":  "00:03:43",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_pzjJPMvO-4",
         "Title":  "BAND-MAID / \"READY TO ROCK\" FIRST LISTEN ANOTHER BANGER!!",
         "Channel":  "Pour, Press Play: The Listening Room",
