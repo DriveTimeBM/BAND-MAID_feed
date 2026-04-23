@@ -18,7 +18,26 @@
             "enabled": true,
             "use_proxy": true,
             "notes": "New BAND-MAID related Google Alerts"
-        }    ],
+        },    
+        {
+            "id": "reddit-bandmaid",
+            "name": "r/BandMaid",
+            "url": "https://www.reddit.com/r/BandMaid/new/.rss",
+            "color": "#ff4500",
+            "enabled": true,
+            "use_proxy": true,
+            "notes": "New posts in r/BandMaid subreddit"
+        },
+        {
+            "id": "reddit-mentions",
+            "name": "Reddit Mentions",
+            "url": "https://www.reddit.com/search.rss?q=band-maid&sort=new&restrict_sr=off",
+            "color": "#ff8c42",
+            "enabled": true,
+            "use_proxy": true,
+            "notes": "BAND-MAID mentions across all of Reddit"
+        }    
+    ],
     "cors_proxy": "https://corsproxy.io/?url=",
     "refresh_minutes": 30
 }
