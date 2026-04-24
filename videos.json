@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CNv9xn3qjk0",
+        "Title":  "BAND MAID　2026新歓ライブ",
+        "Channel":  "Lilac Rainbows(同志社)",
+        "ChannelId":  "UCOi-oaygEodP5SpzX7sw3nQ",
+        "Url":  "https://youtu.be/CNv9xn3qjk0",
+        "Thumbnail":  "https://i.ytimg.com/vi/CNv9xn3qjk0/hqdefault.jpg",
+        "PublishedAt":  "2026-04-24T16:22:04.0000000Z",
+        "DiscoveredAt":  "2026-04-24T16:47:43.9111494Z",
+        "Duration":  "00:06:57",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "fBA3scpU8yE",
         "Title":  "【英語Remake】Thrill｜ BAND-MAID  | English Cover | 【English Reimagined】",
         "Channel":  "VIVI_Project_AI",
