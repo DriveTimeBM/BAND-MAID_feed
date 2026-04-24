@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "IDH_k4TgDBQ",
+        "Title":  "DOUBLE FEATURE!!! | BAND-MAID - Anemone Live Acoustic Zepp Tokyo 2018 + Original comparison reaction",
+        "Channel":  "PhoebeFromTV",
+        "ChannelId":  "UCWBQXzPdSa_m-sJhxQtxsRA",
+        "Url":  "https://youtu.be/IDH_k4TgDBQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/IDH_k4TgDBQ/hqdefault.jpg",
+        "PublishedAt":  "2026-04-24T09:39:43.0000000Z",
+        "DiscoveredAt":  "2026-04-24T10:08:28.7622142Z",
+        "Duration":  "00:20:36",
+        "ViewsAtDiscovery":  112,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "e8EXmLsequw",
         "Title":  "『BAND MAID』 Ready to Rock　歌ってみた　【byCC69】",
         "Channel":  "CC69 TV",
