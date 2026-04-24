@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "fBA3scpU8yE",
+        "Title":  "【英語Remake】Thrill｜ BAND-MAID  | English Cover | 【English Reimagined】",
+        "Channel":  "VIVI_Project_AI",
+        "ChannelId":  "UCllfN4uCICXyRZXHXXvTegQ",
+        "Url":  "https://youtu.be/fBA3scpU8yE",
+        "Thumbnail":  "https://i.ytimg.com/vi/fBA3scpU8yE/hqdefault.jpg",
+        "PublishedAt":  "2026-04-24T13:41:50.0000000Z",
+        "DiscoveredAt":  "2026-04-24T13:43:52.4015692Z",
+        "Duration":  "00:03:49",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Xe7Mjer31RY",
         "Title":  "Band-Maid - Unleash | Reaction | Puuuuunk!!🤘🏻",
         "Channel":  "Battoosh & Nonna",
