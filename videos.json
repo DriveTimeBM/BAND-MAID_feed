@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "e8EXmLsequw",
+        "Title":  "『BAND MAID』 Ready to Rock　歌ってみた　【byCC69】",
+        "Channel":  "CC69 TV",
+        "ChannelId":  "UCQvR7WZ33QY3b-XftNwfoEw",
+        "Url":  "https://youtu.be/e8EXmLsequw",
+        "Thumbnail":  "https://i.ytimg.com/vi/e8EXmLsequw/hqdefault.jpg",
+        "PublishedAt":  "2026-04-24T03:00:40.0000000Z",
+        "DiscoveredAt":  "2026-04-24T03:22:02.8429383Z",
+        "Duration":  "00:03:53",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hpqvkHelUPo",
         "Title":  "Band-Maid - Ready to Rock (guitar solo)",
         "Channel":  "Guitar Solo Tracks",
