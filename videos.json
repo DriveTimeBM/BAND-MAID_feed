@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "PjcXv88NFUw",
+        "Title":  "Cha'R - Ladybaby - Band-maid - Atarashii Gakko!  e Mais....",
+        "Channel":  "Ramieh Reacts & Live",
+        "ChannelId":  "UCR588hWYawFA6vfBSJeyIrA",
+        "Url":  "https://youtu.be/PjcXv88NFUw",
+        "Thumbnail":  "https://i.ytimg.com/vi/PjcXv88NFUw/hqdefault.jpg",
+        "PublishedAt":  "2026-04-25T11:50:14.0000000Z",
+        "DiscoveredAt":  "2026-04-25T12:00:11.5739334Z",
+        "Duration":  "01:38:52",
+        "ViewsAtDiscovery":  174,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "GNzut6XHjbY",
+        "Title":  "BAND-MAID “Carry on Living” Live Performance Reaction | WOW Factor!",
+        "Channel":  "Jimmy D's Rock Talk",
+        "ChannelId":  "UCDYa7g_ZcN5RfjOqUf6N2QQ",
+        "Url":  "https://youtu.be/GNzut6XHjbY",
+        "Thumbnail":  "https://i.ytimg.com/vi/GNzut6XHjbY/hqdefault.jpg",
+        "PublishedAt":  "2026-04-25T11:46:42.0000000Z",
+        "DiscoveredAt":  "2026-04-25T12:00:11.1014342Z",
+        "Duration":  "00:04:48",
+        "ViewsAtDiscovery":  18,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-x9QCd_-jI0",
         "Title":  "🇯🇵 BAND-MAID –「DICE / Different」(LIVE) | アメリカ人ドラマー初見リアクション 🖤",
         "Channel":  "Rea Reacts JP",
