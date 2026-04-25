@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 14:33:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 18:40:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Freedom - Bandmaid</title>
+      <link>https://bsky.app/profile/did:plc:ycvcyz5aw4b26zisskjojujz/post/3mkdlv3aw6k2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycvcyz5aw4b26zisskjojujz/post/3mkdlv3aw6k2x</guid>
+      <pubDate>Sat, 25 Apr 2026 17:46:28 GMT</pubDate>
+      <dc:creator>Bob Sacemano (bobsacemano.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Freedom - Bandmaid<br/>www.youtube.com/watch?v=FHpu...</p><p><em>BlueSky &middot; bobsacemano.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mkd7dbiht72k</link>
