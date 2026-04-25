@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zux9HfJaEG8",
+        "Title":  "BAND-MAID / secret My lips (Official Music Video) reaction",
+        "Channel":  "WilkVizReacts",
+        "ChannelId":  "UCy0T2G7KTFKSY9P-9COw9zg",
+        "Url":  "https://youtu.be/zux9HfJaEG8",
+        "Thumbnail":  "https://i.ytimg.com/vi/zux9HfJaEG8/hqdefault.jpg",
+        "PublishedAt":  "2026-04-25T16:13:35.0000000Z",
+        "DiscoveredAt":  "2026-04-25T16:36:08.2248275Z",
+        "Duration":  "00:08:44",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "39OovuqSfi4",
         "Title":  "BABY METAL/BAND MAID #ライブ #メタル女子",
         "Channel":  "RadioTuber",
