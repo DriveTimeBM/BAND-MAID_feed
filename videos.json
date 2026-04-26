@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DptECg1NV4A",
+        "Title":  "Band Maid Puzzle (live) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/DptECg1NV4A",
+        "Thumbnail":  "https://i.ytimg.com/vi/DptECg1NV4A/hqdefault.jpg",
+        "PublishedAt":  "2026-04-26T16:32:59.0000000Z",
+        "DiscoveredAt":  "2026-04-26T16:44:24.2939174Z",
+        "Duration":  "00:04:49",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KKSc0m6zsLw",
         "Title":  "Reaction BAND MAID  without holding back Official Live Video",
         "Channel":  "Joker Spotlight",
