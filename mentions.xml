@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 14:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 18:46:50 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mkg4vleyp423</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mkg4vleyp423</guid>
+      <pubDate>Sun, 26 Apr 2026 17:56:18 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (mcanimeradio.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; mcanimeradio.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Today's music:</title>
       <link>https://bsky.app/profile/did:plc:cbpcxfm7j4rybd7gwsuia34m/post/3mkfo2f5ua22u</link>
