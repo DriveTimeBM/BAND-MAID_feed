@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LDEuT7eREdY",
+        "Title":  "From Hard Rock to Heavy Metal Energy!: Lovebites, Band-Maid & Hagane Reaction!",
+        "Channel":  "DevelopeReaction",
+        "ChannelId":  "UCHKivAu2YBYV-jb51udLH-A",
+        "Url":  "https://youtu.be/LDEuT7eREdY",
+        "Thumbnail":  "https://i.ytimg.com/vi/LDEuT7eREdY/hqdefault.jpg",
+        "PublishedAt":  "2026-04-26T00:30:30.0000000Z",
+        "DiscoveredAt":  "2026-04-26T00:48:57.0582243Z",
+        "Duration":  "00:39:28",
+        "ViewsAtDiscovery":  34,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "X_4WrmTRL6c",
         "Title":  "Band-Maid - World Domination Tour 【Evolution】 at Line Cube Shibuya (Shibuya Public Hall) (2020)",
         "Channel":  "escoriador89",
