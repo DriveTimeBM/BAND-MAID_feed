@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KKSc0m6zsLw",
+        "Title":  "Reaction BAND MAID  without holding back Official Live Video",
+        "Channel":  "Joker Spotlight",
+        "ChannelId":  "UCidQYtKWLQquLv5idwsxkag",
+        "Url":  "https://youtu.be/KKSc0m6zsLw",
+        "Thumbnail":  "https://i.ytimg.com/vi/KKSc0m6zsLw/hqdefault.jpg",
+        "PublishedAt":  "2026-04-26T15:41:20.0000000Z",
+        "DiscoveredAt":  "2026-04-26T15:43:15.9451265Z",
+        "Duration":  "00:07:41",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "0i0gB8i5T4c",
+        "Title":  "Reaction: BAND-MAID - 『輪廻 \"RINNE\"』(Official Music Video)",
+        "Channel":  "Ramieh Reacts & Live",
+        "ChannelId":  "UCR588hWYawFA6vfBSJeyIrA",
+        "Url":  "https://youtu.be/0i0gB8i5T4c",
+        "Thumbnail":  "https://i.ytimg.com/vi/0i0gB8i5T4c/hqdefault.jpg",
+        "PublishedAt":  "2026-04-26T15:15:00.0000000Z",
+        "DiscoveredAt":  "2026-04-26T15:43:15.6146528Z",
+        "Duration":  "00:08:05",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9g2ylefVj-M",
         "Title":  "Flutist goes Behind the Music!|BAND-MAID, PAGE",
         "Channel":  "NittPicc",
