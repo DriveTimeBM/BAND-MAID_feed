@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "apW8h7vUFrQ",
+        "Title":  "Who’s on Stage with BAND-MAID? + KOIAI’s New Formation!",
+        "Channel":  "Venus Gaijin",
+        "ChannelId":  "UCzXt_lAr9Nvi3-3RfaSmh_Q",
+        "Url":  "https://youtu.be/apW8h7vUFrQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/apW8h7vUFrQ/hqdefault.jpg",
+        "PublishedAt":  "2026-04-26T19:20:06.0000000Z",
+        "DiscoveredAt":  "2026-04-26T19:45:30.0995469Z",
+        "Duration":  "00:03:02",
+        "ViewsAtDiscovery":  34,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vhaY0Zvo_MI",
         "Title":  "BAND-MAID Dilly Dally Live Reaction | Caught Me Off Guard!",
         "Channel":  "Drink The Kool Aid",
