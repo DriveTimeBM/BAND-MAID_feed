@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dcCJIblzjo8",
+        "Title":  "BAND-MAID (Mo-Cap) / TAKARAJIMA-宝島 (T-SQUARE) -ロックは淑女の嗜みでして-",
+        "Channel":  "Kenji Onoda",
+        "ChannelId":  "UCg4XpSqKhrCMKsxM69PIfIw",
+        "Url":  "https://youtu.be/dcCJIblzjo8",
+        "Thumbnail":  "https://i.ytimg.com/vi/dcCJIblzjo8/hqdefault.jpg",
+        "PublishedAt":  "2026-04-27T06:32:54.0000000Z",
+        "DiscoveredAt":  "2026-04-27T07:47:17.2118030Z",
+        "Duration":  "00:05:02",
+        "ViewsAtDiscovery":  14,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "OzlqIjR8JOI",
         "Title":  "BAND-MAID - Secret My Lips | FIRST TIME REACTION",
         "Channel":  "Amit Malool",
