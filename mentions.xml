@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 01:52:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 04:56:59 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mkh7bo2prn2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mkh7bo2prn2x</guid>
+      <pubDate>Mon, 27 Apr 2026 04:11:31 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (mcanimeradio.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; mcanimeradio.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band-Maid. A series of A6 cards in ink. A bit on the simplistic side I suppos...</title>
       <link>https://bsky.app/profile/did:plc:fafgrurqauxlq7dijmdvfhdo/post/3mkguck62gk2k</link>
