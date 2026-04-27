@@ -7,8 +7,44 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 04:56:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 07:58:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: azure</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mkhfpg2gvo2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mkhfpg2gvo2o</guid>
+      <pubDate>Mon, 27 Apr 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: azure<br/>Album: CONQUEROR<br/>Release: 12/10/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 12 years ago Band-Maid played 13 songs at Shibuya Milkyway in Tokyo JP on 201...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mkhfd6t2sw2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mkhfd6t2sw2a</guid>
+      <pubDate>Mon, 27 Apr 2026 05:59:44 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>12 years ago Band-Maid played 13 songs at Shibuya Milkyway in Tokyo JP on 2014/4/27. The opening song was Be OK.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 4 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mkhbqcvp6u2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mkhbqcvp6u2i</guid>
+      <pubDate>Mon, 27 Apr 2026 04:55:30 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>4 years ago<br/>BAND-MAID ONLINE ACOUSTIC OKYU-JI<br/>CD<br/>released<br/>2022/4/27<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 12 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mkhbqbqybk25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mkhbqbqybk25</guid>
+      <pubDate>Mon, 27 Apr 2026 04:55:28 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>12 years ago<br/>Ai to Jonetsu no Matador [Love, Passion, Matador]<br/>live debut<br/>Shibuya Milkyway, Tokyo, Japan<br/>2014/4/27<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mkh7bo2prn2x</link>
