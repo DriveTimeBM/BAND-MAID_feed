@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 16:24:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 18:59:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] FYI I'm pretty sure the account you tagged is not BAND-MAID. They would annou...</title>
+      <link>https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mkip43zzks2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mkip43zzks2n</guid>
+      <pubDate>Mon, 27 Apr 2026 18:27:24 GMT</pubDate>
+      <dc:creator>Acer Rubrum (d-t-39810.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>FYI I&#39;m pretty sure the account you tagged is not BAND-MAID. They would announce it if they had an account, and the handle would likely be suffixed by &quot;.bandmaid.tokyo&quot;. Anyone can register a &quot;.bsky.social&quot; handle.</p><p><em>BlueSky &middot; d-t-39810.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] @band-maid.bsky.social Please bring NEKI as support on your North American to...</title>
       <link>https://bsky.app/profile/did:plc:inwerhmpygqmizoi23sarqta/post/3mkifennvcc2u</link>
