@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "07Wab9G3ak8",
+        "Title":  "Composer Reacts to BAND-MAID / Dilly-Dally (Official Live Video)",
+        "Channel":  "Peace Beats with Dan Blackwell",
+        "ChannelId":  "UClegyeZzlSHbcw5vyAv9OxQ",
+        "Url":  "https://youtu.be/07Wab9G3ak8",
+        "Thumbnail":  "https://i.ytimg.com/vi/07Wab9G3ak8/hqdefault.jpg",
+        "PublishedAt":  "2026-04-27T18:00:00.0000000Z",
+        "DiscoveredAt":  "2026-04-27T18:27:38.2626358Z",
+        "Duration":  "00:09:46",
+        "ViewsAtDiscovery":  15,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xmebYkJIy9Q",
         "Title":  "BAND-MAID- Don't you tell ME (LIVE) Reaction",
         "Channel":  "James M ",
