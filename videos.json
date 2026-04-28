@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zqhoBtxzNWM",
+        "Title":  "BAND-MAID 'Smile' - racially ambiguous guy analyzes",
+        "Channel":  "DrumRoast",
+        "ChannelId":  "UC-WWqxF7LPOssDbasMJyOJg",
+        "Url":  "https://youtu.be/zqhoBtxzNWM",
+        "Thumbnail":  "https://i.ytimg.com/vi/zqhoBtxzNWM/hqdefault.jpg",
+        "PublishedAt":  "2026-04-28T03:05:41.0000000Z",
+        "DiscoveredAt":  "2026-04-28T03:22:48.1644299Z",
+        "Duration":  "00:12:04",
+        "ViewsAtDiscovery":  14,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "IQzKc0X3fcI",
         "Title":  "BAND-MAID / Before Yesterday (Music Video vs Live) Reaction",
         "Channel":  "Cryptic Cris ",
