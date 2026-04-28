@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 10:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 14:58:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I think they did a song with Band-Maid. I like Band-Maid.</title>
+      <link>https://bsky.app/profile/did:plc:eofbsx7z4p5eq4ml2sujfeqo/post/3mkkrvig65c2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eofbsx7z4p5eq4ml2sujfeqo/post/3mkkrvig65c2f</guid>
+      <pubDate>Tue, 28 Apr 2026 14:22:43 GMT</pubDate>
+      <dc:creator>David Middleham (dmiddleham.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I think they did a song with Band-Maid. I like Band-Maid.</p><p><em>BlueSky &middot; dmiddleham.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] #NowPlaying: BAND-MAID - "ORDER" www.youtube.com/watch?v=3J-T...</title>
       <link>https://bsky.app/profile/did:plc:j2n3nckxwe2if5op2sym43r2/post/3mkk6iyxktk26</link>
