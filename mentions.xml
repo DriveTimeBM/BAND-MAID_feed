@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 16:26:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 20:00:21 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] amo ouçar musga</title>
+      <link>https://bsky.app/profile/did:plc:3obfeb6j7g7isgyqisfndjrl/post/3mklbyud25k2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3obfeb6j7g7isgyqisfndjrl/post/3mklbyud25k2j</guid>
+      <pubDate>Tue, 28 Apr 2026 19:10:56 GMT</pubDate>
+      <dc:creator>evys (hrrwnova.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>amo ou&#231;ar musga</p><p><em>BlueSky &middot; hrrwnova.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band-Maid keep popping up, I'm gonna have to give them a go too 😊</title>
       <link>https://bsky.app/profile/did:plc:owqextwtohttyf7i34zgrxhj/post/3mkkvxootuc27</link>
