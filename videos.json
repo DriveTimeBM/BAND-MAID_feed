@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-jPMgdJvnRo",
+        "Title":  "First Time Hearing BAND-MAID / SUPER SUNSHINE (Official Live Video)",
+        "Channel":  "Chadeo",
+        "ChannelId":  "UCjLSPiLvfo-1EDEQamZ87KQ",
+        "Url":  "https://youtu.be/-jPMgdJvnRo",
+        "Thumbnail":  "https://i.ytimg.com/vi/-jPMgdJvnRo/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T15:17:50.0000000Z",
+        "DiscoveredAt":  "2026-04-29T15:35:34.2690908Z",
+        "Duration":  "00:06:45",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "MZdPQeEb3RA",
+        "Title":  "Band-Maid - Super Sunshine ( Reaction ) OFFICIAL LIVE VIDEO",
+        "Channel":  "Local Band Smokeout",
+        "ChannelId":  "UC_OwIfvGco2rDw8kX8NKg8A",
+        "Url":  "https://youtu.be/MZdPQeEb3RA",
+        "Thumbnail":  "https://i.ytimg.com/vi/MZdPQeEb3RA/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T15:15:06.0000000Z",
+        "DiscoveredAt":  "2026-04-29T15:35:33.9889850Z",
+        "Duration":  "00:07:05",
+        "ViewsAtDiscovery":  35,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Lx_rdxtSQbE",
         "Title":  "Miku loud and proud! Band Maid, Super Sunshine. Official live!",
         "Channel":  "Twistedshredder",
