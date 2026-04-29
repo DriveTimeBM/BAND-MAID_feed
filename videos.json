@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "oYlZ-_ZUYJg",
+        "Title":  "Tunesday - Band-Maid Scoop",
+        "Channel":  "KitzMoMedia",
+        "ChannelId":  "UCbwRrjUM3xncEAglgY-EHAw",
+        "Url":  "https://youtu.be/oYlZ-_ZUYJg",
+        "Thumbnail":  "https://i.ytimg.com/vi/oYlZ-_ZUYJg/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T08:14:07.0000000Z",
+        "DiscoveredAt":  "2026-04-29T08:15:50.9481782Z",
+        "Duration":  "00:58:19",
+        "ViewsAtDiscovery":  187,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oWhKNez4UGs",
         "Title":  "【BAND-MAID】J-WAVE GOLDEN WEEK SPECIAL LAWSON TICKET presents WE LOVE SUMMER SONIC（2026.04.29）",
         "Channel":  "佐々木20XX",
