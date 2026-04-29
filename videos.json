@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "UuWJ8WUGXmM",
+        "Title":  "BAND-MAID - SUPER SUNSHINE | REACTION",
+        "Channel":  "Darth Bane",
+        "ChannelId":  "UCVtNX9wHTraq3sInjv19WuA",
+        "Url":  "https://youtu.be/UuWJ8WUGXmM",
+        "Thumbnail":  "https://i.ytimg.com/vi/UuWJ8WUGXmM/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T16:04:05.0000000Z",
+        "DiscoveredAt":  "2026-04-29T16:06:14.2622446Z",
+        "Duration":  "00:09:22",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Ilau3rK36cE",
+        "Title":  "BAND-MAID \"SUPER SUNSHINE\" Live (Theme of \"HAUTAKE SHIRO\") Reaction | JMD Reactions",
+        "Channel":  "JMD",
+        "ChannelId":  "UCAVBOW62oMj8dFEji7hxuPQ",
+        "Url":  "https://youtu.be/Ilau3rK36cE",
+        "Thumbnail":  "https://i.ytimg.com/vi/Ilau3rK36cE/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T16:02:44.0000000Z",
+        "DiscoveredAt":  "2026-04-29T16:06:13.9459224Z",
+        "Duration":  "00:10:19",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-jPMgdJvnRo",
         "Title":  "First Time Hearing BAND-MAID / SUPER SUNSHINE (Official Live Video)",
         "Channel":  "Chadeo",
