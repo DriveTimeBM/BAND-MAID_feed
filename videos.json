@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_DdrTB1u2bI",
+        "Title":  "First Time Hearing \"Super Sunshine\" By Band-Maid Musician Reacts",
+        "Channel":  "The Mad Scientist Musician",
+        "ChannelId":  "UCzeKtrOlYvPT--er4QIyPGg",
+        "Url":  "https://youtu.be/_DdrTB1u2bI",
+        "Thumbnail":  "https://i.ytimg.com/vi/_DdrTB1u2bI/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T21:35:50.0000000Z",
+        "DiscoveredAt":  "2026-04-29T21:43:14.4090966Z",
+        "Duration":  "00:16:59",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "zo-5_XsewNk",
+        "Title":  "Reacting to Band-Maid | Super Sunshine | NEW RELEASE",
+        "Channel":  "Kyros Reactions",
+        "ChannelId":  "UCo6VhAuklHvW8ZC35pIezXg",
+        "Url":  "https://youtu.be/zo-5_XsewNk",
+        "Thumbnail":  "https://i.ytimg.com/vi/zo-5_XsewNk/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T21:19:27.0000000Z",
+        "DiscoveredAt":  "2026-04-29T21:43:14.0338671Z",
+        "Duration":  "00:07:54",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "IVPdlGmjfWI",
         "Title":  "HOLD UP WHO ARE BAND MAID - Shambles Official Music Video | THIS LADY'S ARE GOODDDD #reaction",
         "Channel":  "Streelux Trend",
