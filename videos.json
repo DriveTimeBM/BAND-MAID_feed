@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "9zHigPqN3hk",
+        "Title":  "BAND-MAID - SUPER SUNSHINE (Live@ Countdown 25/26 Reaction",
+        "Channel":  "James M ",
+        "ChannelId":  "UCDw9j7ufQGH7mg4l3Z8In9A",
+        "Url":  "https://youtu.be/9zHigPqN3hk",
+        "Thumbnail":  "https://i.ytimg.com/vi/9zHigPqN3hk/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T11:27:02.0000000Z",
+        "DiscoveredAt":  "2026-04-29T11:30:33.5541532Z",
+        "Duration":  "00:08:22",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "62BVw-00ILE",
+        "Title":  "BAND-MAID- Don't you ME (Live) Reaction",
+        "Channel":  "James M ",
+        "ChannelId":  "UCDw9j7ufQGH7mg4l3Z8In9A",
+        "Url":  "https://youtu.be/62BVw-00ILE",
+        "Thumbnail":  "https://i.ytimg.com/vi/62BVw-00ILE/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T11:11:59.0000000Z",
+        "DiscoveredAt":  "2026-04-29T11:30:33.3304442Z",
+        "Duration":  "00:06:35",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "OQWLBJ2B1W4",
         "Title":  "BAND-MAID - SUPER SUNSHINE (Live) Commercial Theme Song for “Hakutake Shiro” (Reaction)",
         "Channel":  "Old Mr B",
