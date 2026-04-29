@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LwbXcAY0lhU",
+        "Title":  "BAND-MAID / SUPER SUNSHINE (Official Live Video)　高橋酒造株式会社「白岳しろ」CMソング",
+        "Channel":  "BAND-MAID",
+        "ChannelId":  "UCHNhsC0VPItCMeAl11T3rAQ",
+        "Url":  "https://youtu.be/LwbXcAY0lhU",
+        "Thumbnail":  "https://i.ytimg.com/vi/LwbXcAY0lhU/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T03:00:00.0000000Z",
+        "DiscoveredAt":  "2026-04-29T03:09:29.4284882Z",
+        "Duration":  "00:04:06",
+        "ViewsAtDiscovery":  1007,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7LwwasoLx00",
         "Title":  "SUPER EXCITED, STRESSED & AGED A DECADE! With Band-Maid, Dimrays, Doll Parts, Undying Words & More!",
         "Channel":  "MAID NEWS NETWORK",
