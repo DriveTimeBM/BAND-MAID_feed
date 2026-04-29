@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 16:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 17:38:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>band maid</title>
+      <link>https://youtu.be/WdDaJ4oQMPw</link>
+      <guid isPermaLink="false">yt:video:WdDaJ4oQMPw</guid>
+      <pubDate>Wed, 29 Apr 2026 17:31:41 GMT</pubDate>
+      <dc:creator>Matheus</dc:creator>
+      <category>Matheus</category>
+      <description><![CDATA[<p><a href="https://youtu.be/WdDaJ4oQMPw"><img src="https://i.ytimg.com/vi/WdDaJ4oQMPw/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Matheus<br/>Duration: 00:01:32<br/>Views at discovery: 4</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/WdDaJ4oQMPw/hqdefault.jpg" />
+    </item>
     <item>
       <title>BAND-MAID / Bestie (Official Music Video) reaction</title>
       <link>https://youtu.be/Uf1BrvgETGI</link>
