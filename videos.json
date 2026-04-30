@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "brE5Cwm5WPA",
+        "Title":  "BAND-MAID “FREEDOM” Is PURE CHAOS 🔥 (Reaction)",
+        "Channel":  "Kasey Reacts",
+        "ChannelId":  "UCz-TAdUNEv1cZXt0_kw8bgg",
+        "Url":  "https://youtu.be/brE5Cwm5WPA",
+        "Thumbnail":  "https://i.ytimg.com/vi/brE5Cwm5WPA/hqdefault.jpg",
+        "PublishedAt":  "2026-04-30T17:02:07.0000000Z",
+        "DiscoveredAt":  "2026-04-30T17:25:58.7638332Z",
+        "Duration":  "00:09:33",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lNAogvyB7pI",
         "Title":  "Band Maid HATE Reaction",
         "Channel":  "Jammer's Metal Mischief",
