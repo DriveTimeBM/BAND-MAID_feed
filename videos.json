@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vgwIcTv7aDk",
+        "Title":  "FIRST TIME Watching BAND-MAID / SUPER SUNSHINE (Official Live Video)",
+        "Channel":  "TYLR Reacts",
+        "ChannelId":  "UCw7Mzx9avrOx_6_FSw7uaiQ",
+        "Url":  "https://youtu.be/vgwIcTv7aDk",
+        "Thumbnail":  "https://i.ytimg.com/vi/vgwIcTv7aDk/hqdefault.jpg",
+        "PublishedAt":  "2026-04-30T04:05:01.0000000Z",
+        "DiscoveredAt":  "2026-04-30T04:06:28.7138806Z",
+        "Duration":  "00:14:09",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "V_zCTjhqb3A",
         "Title":  "Band Maid – ‘SUPER SUNSHINE’ LIVE | First Reaction – This Energy Is REAL",
         "Channel":  "Midlife Mixer Reacts",
