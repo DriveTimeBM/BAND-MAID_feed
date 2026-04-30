@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rboxK7-Ap5Y",
+        "Title":  "Beauty and the Beast - BAND-MAID (English Ver. Cover by VIVI) 【English Reimagined】",
+        "Channel":  "VIVI_Project_AI",
+        "ChannelId":  "UCllfN4uCICXyRZXHXXvTegQ",
+        "Url":  "https://youtu.be/rboxK7-Ap5Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/rboxK7-Ap5Y/hqdefault.jpg",
+        "PublishedAt":  "2026-04-30T11:33:56.0000000Z",
+        "DiscoveredAt":  "2026-04-30T11:45:18.8831918Z",
+        "Duration":  "00:04:02",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JN_TptlA9FM",
         "Title":  "👀 | BAND-MAID vs Mrs. GREEN APPLE + ねそべり紅白 Reaction. Not a Competition… But Who Wins?",
         "Channel":  "Coffee Guy reacts",
