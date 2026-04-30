@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "JN_TptlA9FM",
+        "Title":  "👀 | BAND-MAID vs Mrs. GREEN APPLE + ねそべり紅白 Reaction. Not a Competition… But Who Wins?",
+        "Channel":  "Coffee Guy reacts",
+        "ChannelId":  "UCb40WR2QgE9r2TTYWkZcgeg",
+        "Url":  "https://youtu.be/JN_TptlA9FM",
+        "Thumbnail":  "https://i.ytimg.com/vi/JN_TptlA9FM/hqdefault.jpg",
+        "PublishedAt":  "2026-04-30T07:38:31.0000000Z",
+        "DiscoveredAt":  "2026-04-30T07:46:28.3056498Z",
+        "Duration":  "00:05:41",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "pNzHfU3gCi0",
+        "Title":  "BAND-MAID Super Sunshine Live Reaction — Sake Ad to Rock BANGER?",
+        "Channel":  "Jaimunji | Metal on Tap",
+        "ChannelId":  "UCIfzJfBZZ36rtV5QLwkTedA",
+        "Url":  "https://youtu.be/pNzHfU3gCi0",
+        "Thumbnail":  "https://i.ytimg.com/vi/pNzHfU3gCi0/hqdefault.jpg",
+        "PublishedAt":  "2026-04-30T07:00:45.0000000Z",
+        "DiscoveredAt":  "2026-04-30T07:46:24.8838066Z",
+        "Duration":  "00:06:49",
+        "ViewsAtDiscovery":  29,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zRXkWWSid_g",
         "Title":  "WHAT A GREAT PERFORMANCE!! 🔥🔥BAND-MAID / SUPER SUNSHINE (Official Live Video)  (REACTION)",
         "Channel":  "Ravage Mike Reacts",
