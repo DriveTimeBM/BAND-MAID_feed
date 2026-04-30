@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lNAogvyB7pI",
+        "Title":  "Band Maid HATE Reaction",
+        "Channel":  "Jammer's Metal Mischief",
+        "ChannelId":  "UC2qJjs2b-eH7aYiQxaCdViw",
+        "Url":  "https://youtu.be/lNAogvyB7pI",
+        "Thumbnail":  "https://i.ytimg.com/vi/lNAogvyB7pI/hqdefault.jpg",
+        "PublishedAt":  "2026-04-30T16:10:20.0000000Z",
+        "DiscoveredAt":  "2026-04-30T16:24:51.1941040Z",
+        "Duration":  "00:06:11",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "j-Rp98Rjy4g",
+        "Title":  "WHAT WAS THAT?BAND-MAID - DOMINATION REACTION",
+        "Channel":  "ReacTherapy",
+        "ChannelId":  "UCctii5N0knXiHL1P3vjl88A",
+        "Url":  "https://youtu.be/j-Rp98Rjy4g",
+        "Thumbnail":  "https://i.ytimg.com/vi/j-Rp98Rjy4g/hqdefault.jpg",
+        "PublishedAt":  "2026-04-30T16:01:27.0000000Z",
+        "DiscoveredAt":  "2026-04-30T16:24:50.9291169Z",
+        "Duration":  "00:10:50",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "65w_n2tHNt8",
         "Title":  "Reaction: BAND-MAID - 『SUPER SUNSHINE』Official Live Video | 高橋酒造株式会社「白岳しろ」CMソング",
         "Channel":  "Ramieh Reacts & Live",
