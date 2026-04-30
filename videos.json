@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BlvK7GEFDoE",
+        "Title":  "BAND-MAID / SUPER SUNSHINE (Official Live Video) Hakutake Shiro Opening | Metal Vocalist Reacts",
+        "Channel":  "JohnReavesLive",
+        "ChannelId":  "UCbcBmBTMsbLxYv-rOyPiRWw",
+        "Url":  "https://youtu.be/BlvK7GEFDoE",
+        "Thumbnail":  "https://i.ytimg.com/vi/BlvK7GEFDoE/hqdefault.jpg",
+        "PublishedAt":  "2026-04-30T00:00:13.0000000Z",
+        "DiscoveredAt":  "2026-04-30T00:19:35.1477244Z",
+        "Duration":  "00:07:39",
+        "ViewsAtDiscovery":  44,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Kt_oQbyMvU8",
+        "Title":  "🔥 BAND-MAID – from now on (Official Music Video) Reaction 🔥",
+        "Channel":  "Mike Mosrie",
+        "ChannelId":  "UCbYIHB8IhjoOiUTILynsZFA",
+        "Url":  "https://youtu.be/Kt_oQbyMvU8",
+        "Thumbnail":  "https://i.ytimg.com/vi/Kt_oQbyMvU8/hqdefault.jpg",
+        "PublishedAt":  "2026-04-29T23:57:53.0000000Z",
+        "DiscoveredAt":  "2026-04-30T00:19:34.7185253Z",
+        "Duration":  "00:05:09",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SBr6T0h7LKI",
         "Title":  "Band-Maid Saiki,LOVEBITES Asami,HANABIE Yukina Live Vocal DISASTER 2026 – Off Key Taiwan & US FanCam",
         "Channel":  "Erina N",
