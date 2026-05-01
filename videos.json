@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rUsCylpZSvI",
+        "Title":  "Band-Maid | Bubbles | Reaction",
+        "Channel":  "Bear Reacts",
+        "ChannelId":  "UCNTyd-CKVahsHhWC5KxW6Ng",
+        "Url":  "https://youtu.be/rUsCylpZSvI",
+        "Thumbnail":  "https://i.ytimg.com/vi/rUsCylpZSvI/hqdefault.jpg",
+        "PublishedAt":  "2026-05-01T14:01:35.0000000Z",
+        "DiscoveredAt":  "2026-05-01T14:20:26.4161824Z",
+        "Duration":  "00:06:51",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wK8qogUvna4",
         "Title":  "1st Time Reaction to BAND-MAID - From Now On",
         "Channel":  "P Reacts Daily",
