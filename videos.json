@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xigdoIXT2Qc",
+        "Title":  "1st Time Reaction to BAND-MAID  Zen",
+        "Channel":  "P Reacts Daily",
+        "ChannelId":  "UCjzeCUthjtU3kTvz70sw2wg",
+        "Url":  "https://youtu.be/xigdoIXT2Qc",
+        "Thumbnail":  "https://i.ytimg.com/vi/xigdoIXT2Qc/hqdefault.jpg",
+        "PublishedAt":  "2026-05-02T13:00:00.0000000Z",
+        "DiscoveredAt":  "2026-05-02T13:04:58.5528077Z",
+        "Duration":  "00:08:38",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "sBvRM0QYRfo",
         "Title":  "The Ultimate J-Rock Magic: Band-Maid - Magie Reaction!",
         "Channel":  "DevelopeReaction",
