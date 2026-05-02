@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "a58CFYk415w",
+        "Title":  "🇯🇵 BAND-MAID –「SUPER SUNSHINE」(LIVE) | アメリカ人ドラマー初見リアクション ☀️",
+        "Channel":  "Rea Reacts JP",
+        "ChannelId":  "UCJw7aqL3uWdG3lO7cmr8jcw",
+        "Url":  "https://youtu.be/a58CFYk415w",
+        "Thumbnail":  "https://i.ytimg.com/vi/a58CFYk415w/hqdefault.jpg",
+        "PublishedAt":  "2026-05-02T09:00:00.0000000Z",
+        "DiscoveredAt":  "2026-05-02T09:01:40.7880287Z",
+        "Duration":  "00:14:16",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3H6WGXB1vk0",
         "Title":  "“They’re TOO tight… BAND-MAID DOMINATION LIVE blew my mind”",
         "Channel":  "Reactions with Vinny",
