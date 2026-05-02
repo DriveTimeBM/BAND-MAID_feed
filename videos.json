@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "s6dzrc4QGxc",
+        "Title":  "BAND-MAID / SUPER SUNSHINE (Official Live Video) REACTION",
+        "Channel":  "The AMP Theory",
+        "ChannelId":  "UCwHk6Z-w-ES4qutiPCDG1IA",
+        "Url":  "https://youtu.be/s6dzrc4QGxc",
+        "Thumbnail":  "https://i.ytimg.com/vi/s6dzrc4QGxc/hqdefault.jpg",
+        "PublishedAt":  "2026-05-02T00:46:41.0000000Z",
+        "DiscoveredAt":  "2026-05-02T01:02:52.2260112Z",
+        "Duration":  "00:11:35",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "pi4S6S_48Ds",
         "Title":  "Musician Reacts to BAND MAID \"Dilly Dally\" LIVE",
         "Channel":  "Max Sikkink Reacts",
