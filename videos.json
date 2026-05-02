@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ooL_GxnaIwU",
+        "Title":  "band maid - dice (official video) first time reaction",
+        "Channel":  "zach Stephens",
+        "ChannelId":  "UCvDk5Jq1dCrVLCE5yPG5q_g",
+        "Url":  "https://youtu.be/ooL_GxnaIwU",
+        "Thumbnail":  "https://i.ytimg.com/vi/ooL_GxnaIwU/hqdefault.jpg",
+        "PublishedAt":  "2026-05-02T19:21:06.0000000Z",
+        "DiscoveredAt":  "2026-05-02T19:42:50.9629523Z",
+        "Duration":  "00:06:02",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "c2AaBpEflAg",
         "Title":  "BAND-MAID ‘SUPER SUNSHINE’ LIVE REACTION 🌞🔥 THIS HIT DIFFERENT!!",
         "Channel":  "Ginger T Reacts",
