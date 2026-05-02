@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "4eDrCdveJIM",
+        "Title":  "BAND-MAID - alone Tab (Full Band Tab)",
+        "Channel":  "Frostic Tabs",
+        "ChannelId":  "UCJgjHK1zDcpm0hiSpMqkPGw",
+        "Url":  "https://youtu.be/4eDrCdveJIM",
+        "Thumbnail":  "https://i.ytimg.com/vi/4eDrCdveJIM/hqdefault.jpg",
+        "PublishedAt":  "2026-05-02T21:00:30.0000000Z",
+        "DiscoveredAt":  "2026-05-02T21:14:28.2567427Z",
+        "Duration":  "00:03:26",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "W7vjGX1SoXI",
         "Title":  "Band-Maid - Dilly Dally (live) - first time reaction",
         "Channel":  "OldManPete",
