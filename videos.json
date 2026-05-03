@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "REBLhVjP-P4",
+        "Title":  "BAND-MAID | My first record | Mi primer disco | 私のファーストアルバム",
+        "Channel":  "Andrés Random Videos",
+        "ChannelId":  "UCy73dD5KOHeL4ecQLKEF__A",
+        "Url":  "https://youtu.be/REBLhVjP-P4",
+        "Thumbnail":  "https://i.ytimg.com/vi/REBLhVjP-P4/hqdefault.jpg",
+        "PublishedAt":  "2026-05-03T11:00:47.0000000Z",
+        "DiscoveredAt":  "2026-05-03T11:32:16.9160226Z",
+        "Duration":  "00:04:01",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "eHeNsaVHMaI",
         "Title":  "BAND-MAID - Giovanni Tab (Full Band Tab)",
         "Channel":  "Frostic Tabs",
