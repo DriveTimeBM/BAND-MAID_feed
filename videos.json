@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "msCbLPy7WBQ",
+        "Title":  "Lovebites & Band-Maid: The Ultimate J-Metal & Hard Rock Backstage Experience!",
+        "Channel":  "DevelopeReaction",
+        "ChannelId":  "UCHKivAu2YBYV-jb51udLH-A",
+        "Url":  "https://youtu.be/msCbLPy7WBQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/msCbLPy7WBQ/hqdefault.jpg",
+        "PublishedAt":  "2026-05-03T00:00:21.0000000Z",
+        "DiscoveredAt":  "2026-05-03T00:48:16.3849767Z",
+        "Duration":  "00:34:47",
+        "ViewsAtDiscovery":  84,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "b5HM48TUbCk",
         "Title":  "BAND-MAID - Super Sunshine | [Kanji/Romaji/English]",
         "Channel":  "Kanamincho",
