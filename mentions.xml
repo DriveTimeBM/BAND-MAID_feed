@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 02 May 2026 08:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 03:21:12 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'm #now_listening_to "from now on" by BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mkw2sypy7s2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mkw2sypy7s2q</guid>
+      <pubDate>Sun, 03 May 2026 02:01:40 GMT</pubDate>
+      <dc:creator>métal vert foncé (darkgreenmetal.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;m #now_listening_to &quot;from now on&quot; by BAND-MAID</p><p><em>BlueSky &middot; darkgreenmetal.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Summer Drive</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mktxzy7zhm2s</link>
