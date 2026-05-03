@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 03 May 2026 07:27:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 09:59:37 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAND-MAID - Giovanni Tab (Full Band Tab)</title>
+      <link>https://youtu.be/eHeNsaVHMaI</link>
+      <guid isPermaLink="false">yt:video:eHeNsaVHMaI</guid>
+      <pubDate>Sun, 03 May 2026 09:30:05 GMT</pubDate>
+      <dc:creator>Frostic Tabs</dc:creator>
+      <category>Frostic Tabs</category>
+      <description><![CDATA[<p><a href="https://youtu.be/eHeNsaVHMaI"><img src="https://i.ytimg.com/vi/eHeNsaVHMaI/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Frostic Tabs<br/>Duration: 00:04:07<br/>Views at discovery: 3</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/eHeNsaVHMaI/hqdefault.jpg" />
+    </item>
     <item>
       <title>THE MIKU SCREAM!| BAND-MAID - SUPER SUNSHINE (Live Reaction)</title>
       <link>https://youtu.be/6DM-Vqx6oZc</link>

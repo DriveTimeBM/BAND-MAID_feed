@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "eHeNsaVHMaI",
+        "Title":  "BAND-MAID - Giovanni Tab (Full Band Tab)",
+        "Channel":  "Frostic Tabs",
+        "ChannelId":  "UCJgjHK1zDcpm0hiSpMqkPGw",
+        "Url":  "https://youtu.be/eHeNsaVHMaI",
+        "Thumbnail":  "https://i.ytimg.com/vi/eHeNsaVHMaI/hqdefault.jpg",
+        "PublishedAt":  "2026-05-03T09:30:05.0000000Z",
+        "DiscoveredAt":  "2026-05-03T09:59:37.7232372Z",
+        "Duration":  "00:04:07",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6DM-Vqx6oZc",
         "Title":  "THE MIKU SCREAM!| BAND-MAID - SUPER SUNSHINE (Live Reaction)",
         "Channel":  "Nicky's Music Box",
