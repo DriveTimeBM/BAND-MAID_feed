@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rpiFjbJJ4rI",
+        "Title":  "Metalhead First Time Reaction To BAND-MAID - Thrill (スリル) (Official Music Video)",
+        "Channel":  "Disputedgore",
+        "ChannelId":  "UCLzhK4nGY3Of_G3HxqBYMag",
+        "Url":  "https://youtu.be/rpiFjbJJ4rI",
+        "Thumbnail":  "https://i.ytimg.com/vi/rpiFjbJJ4rI/hqdefault.jpg",
+        "PublishedAt":  "2026-05-03T12:01:31.0000000Z",
+        "DiscoveredAt":  "2026-05-03T12:02:47.2488425Z",
+        "Duration":  "00:07:58",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Y7tKmrkXuC8",
+        "Title":  "BAND-MAID - SUPER SUNSHINE (Official Live Video) Reaction Ft. Emma",
+        "Channel":  "Tim Overman",
+        "ChannelId":  "UCHxSDK2kjF9zqxPOmYFjB0Q",
+        "Url":  "https://youtu.be/Y7tKmrkXuC8",
+        "Thumbnail":  "https://i.ytimg.com/vi/Y7tKmrkXuC8/hqdefault.jpg",
+        "PublishedAt":  "2026-05-03T12:00:53.0000000Z",
+        "DiscoveredAt":  "2026-05-03T12:02:46.6060804Z",
+        "Duration":  "00:12:19",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "REBLhVjP-P4",
         "Title":  "BAND-MAID | My first record | Mi primer disco | 私のファーストアルバム",
         "Channel":  "Andrés Random Videos",
