@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yhoy9J7WHXE",
+        "Title":  "BAND MAID BEFORE YESTERDAY MV REACTION",
+        "Channel":  "Demon_Gaming 101",
+        "ChannelId":  "UCR03DDvKTh7wGn-NlWYxCxw",
+        "Url":  "https://youtu.be/yhoy9J7WHXE",
+        "Thumbnail":  "https://i.ytimg.com/vi/yhoy9J7WHXE/hqdefault.jpg",
+        "PublishedAt":  "2026-05-03T01:01:02.0000000Z",
+        "DiscoveredAt":  "2026-05-03T01:18:52.7044193Z",
+        "Duration":  "00:05:05",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "msCbLPy7WBQ",
         "Title":  "Lovebites & Band-Maid: The Ultimate J-Metal & Hard Rock Backstage Experience!",
         "Channel":  "DevelopeReaction",
