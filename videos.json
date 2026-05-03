@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZksZWeTUGNg",
+        "Title":  "We React to BAND-MAID \"Bubble\" (Did Not Expect This)",
+        "Channel":  "THECLAYSREACTTV",
+        "ChannelId":  "UC4aQEuPe-2sjKCeFL6dks1Q",
+        "Url":  "https://youtu.be/ZksZWeTUGNg",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZksZWeTUGNg/hqdefault.jpg",
+        "PublishedAt":  "2026-05-03T17:00:00.0000000Z",
+        "DiscoveredAt":  "2026-05-03T17:07:50.8721856Z",
+        "Duration":  "00:15:19",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Y7YSFw9sIJw",
+        "Title":  "This were April 26's most viewed videos in Japan's HR&HM: BAND-MAID, HAGANE, DIR EN GREY, NIGHTMARE",
+        "Channel":  "Rock Unmei",
+        "ChannelId":  "UCs_aNbh_vL0290nXAs3Ue2g",
+        "Url":  "https://youtu.be/Y7YSFw9sIJw",
+        "Thumbnail":  "https://i.ytimg.com/vi/Y7YSFw9sIJw/hqdefault.jpg",
+        "PublishedAt":  "2026-05-03T16:30:06.0000000Z",
+        "DiscoveredAt":  "2026-05-03T17:07:50.5660885Z",
+        "Duration":  "00:08:45",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "CRf1efwmxm0",
         "Title":  "WHAT KIND OF PERFORMANCE IS THIS!? | Band Maid - Honkai 💭 INTJreacts",
         "Channel":  "INTJ Reacts",
