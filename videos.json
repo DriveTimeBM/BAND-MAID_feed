@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "VPdHBmMMp28",
+        "Title":  "BAND-MAID HATE Live Reaction | These Ladies Just ROCKED My Whole World 🤩 | First Time Hearing!",
+        "Channel":  "Overthinking with Dennis",
+        "ChannelId":  "UCvk87FOUye_htA5xMl3GtIQ",
+        "Url":  "https://youtu.be/VPdHBmMMp28",
+        "Thumbnail":  "https://i.ytimg.com/vi/VPdHBmMMp28/hqdefault.jpg",
+        "PublishedAt":  "2026-05-03T21:00:37.0000000Z",
+        "DiscoveredAt":  "2026-05-03T21:12:55.0906392Z",
+        "Duration":  "00:14:31",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "oN4iwgGh24k",
+        "Title":  "Reaction - BAND-MAID - SUPER SUNSHINE (Official Live Video)　高橋酒造株式会社「白岳しろ」CMソング",
+        "Channel":  "NAR_by_Marek",
+        "ChannelId":  "UC53wjwxrZyoG1w2S3R2PrZw",
+        "Url":  "https://youtu.be/oN4iwgGh24k",
+        "Thumbnail":  "https://i.ytimg.com/vi/oN4iwgGh24k/hqdefault.jpg",
+        "PublishedAt":  "2026-05-03T20:44:13.0000000Z",
+        "DiscoveredAt":  "2026-05-03T21:12:54.7552265Z",
+        "Duration":  "00:10:33",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lJ5b30L-AQA",
         "Title":  "BAND-MAID DO NOT USE AUTO-TUNE LIVE..",
         "Channel":  "Wings of Pegasus",
