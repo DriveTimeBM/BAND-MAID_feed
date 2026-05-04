@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 04 May 2026 16:56:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 21:05:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID on the Forza Horizon 6 soundtrack LFG!</title>
+      <link>https://bsky.app/profile/did:plc:rmhzytlnf6u5t3ssmfvfuhxd/post/3ml2ij3b4a22p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rmhzytlnf6u5t3ssmfvfuhxd/post/3ml2ij3b4a22p</guid>
+      <pubDate>Mon, 04 May 2026 20:17:19 GMT</pubDate>
+      <dc:creator>Richard Wakeling (richwakeling.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID on the Forza Horizon 6 soundtrack LFG!<br/><br/>www.youtube.com/watch?v=yfOR...</p><p><em>BlueSky &middot; richwakeling.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] My favorite band is in the game! Let's gooooo! Freaking LOVE Band-Maid!</title>
       <link>https://bsky.app/profile/did:plc:iocj4uzuzynucz2xxqfsrj6y/post/3ml22u544os22</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (mcanimeradio.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; mcanimeradio.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mk6uqasxxo2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mk6uqasxxo2e</guid>
-      <pubDate>Thu, 23 Apr 2026 20:41:31 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (mcanimeradio.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; mcanimeradio.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
