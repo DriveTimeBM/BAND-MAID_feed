@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mqGSlEoTOSo",
+        "Title":  "Band Maid - I'll (Guitar Cover)",
+        "Channel":  "Daydream Hero",
+        "ChannelId":  "UCljLwN1FzWq_U4SHB5xmsiw",
+        "Url":  "https://youtu.be/mqGSlEoTOSo",
+        "Thumbnail":  "https://i.ytimg.com/vi/mqGSlEoTOSo/hqdefault.jpg",
+        "PublishedAt":  "2026-05-04T07:41:12.0000000Z",
+        "DiscoveredAt":  "2026-05-04T08:08:10.0973957Z",
+        "Duration":  "00:04:03",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "IIqmDHzxBMM",
+        "Title":  "ガールズ音楽バンド 「Band-Maid」が、口ラパルーザ2023 USAで大観衆の心を掴みました。",
+        "Channel":  "japan news ",
+        "ChannelId":  "UCEo8zKbJz7KEf2cx3d6xsYg",
+        "Url":  "https://youtu.be/IIqmDHzxBMM",
+        "Thumbnail":  "https://i.ytimg.com/vi/IIqmDHzxBMM/hqdefault.jpg",
+        "PublishedAt":  "2026-05-04T06:03:49.0000000Z",
+        "DiscoveredAt":  "2026-05-04T08:08:09.8336717Z",
+        "Duration":  "00:02:03",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "K8tQM7kptjg",
         "Title":  "BAND-MAID / SUPER SUNSHINE Reaction",
         "Channel":  "React and Chill",
