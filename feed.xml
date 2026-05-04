@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 03 May 2026 23:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 02:20:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAND-MAID / SUPER SUNSHINE Reaction</title>
+      <link>https://youtu.be/K8tQM7kptjg</link>
+      <guid isPermaLink="false">yt:video:K8tQM7kptjg</guid>
+      <pubDate>Mon, 04 May 2026 02:12:08 GMT</pubDate>
+      <dc:creator>React and Chill</dc:creator>
+      <category>React and Chill</category>
+      <description><![CDATA[<p><a href="https://youtu.be/K8tQM7kptjg"><img src="https://i.ytimg.com/vi/K8tQM7kptjg/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: React and Chill<br/>Duration: 00:08:50<br/>Views at discovery: 4</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/K8tQM7kptjg/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band-Maid Train Ride.</title>
       <link>https://youtu.be/P1bkTcq2oWs</link>
