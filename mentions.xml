@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 04 May 2026 00:17:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 01:19:21 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid's "Manners"  www.youtube.com/watch?v=-FWu...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mkygts2qwc2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mkygts2qwc2k</guid>
+      <pubDate>Mon, 04 May 2026 00:42:11 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid&#39;s &quot;Manners&quot;  www.youtube.com/watch?v=-FWu...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 22. “Arrow of Love” by Electric Callboy. “Skyline” by Amaranthe. “HATE?” by B...</title>
       <link>https://bsky.app/profile/did:plc:rjocjyf62gbtmpvk5bzmk62x/post/3mkyd7avdy22e</link>
