@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 05 May 2026 14:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 16:32:59 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Have you listened to BAND-MAID yet? Very solid Japanese all female hard rock ...</title>
+      <link>https://bsky.app/profile/did:plc:2lfsjnkcmffehlbz5bwijhlh/post/3ml4jd5rlhc2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2lfsjnkcmffehlbz5bwijhlh/post/3ml4jd5rlhc2x</guid>
+      <pubDate>Tue, 05 May 2026 15:37:13 GMT</pubDate>
+      <dc:creator>Yvalarevolution⁷ (yvalarevolution.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Have you listened to BAND-MAID yet? Very solid Japanese all female hard rock band.</p><p><em>BlueSky &middot; yvalarevolution.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Forza 6 has Band-Maid on the soundtrack.</title>
       <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3ml4bbp5xmc2l</link>
@@ -899,15 +908,6 @@
       <dc:creator>まころひー (hokkori.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>「CENTRAL MUSIC &amp; ENTERTAINMENT FESTIVAL 2026」<br/>アーカイブスゲー！<br/>AveMujicaとBAND-MAID<br/>言うなれば<br/>BanG Dreamとロックは淑女の嗜みでして<br/>圧巻でした♫</p><p><em>BlueSky &middot; hokkori.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] They don't fit the mould as a rule, but Band Maid's Hate (apparently about a ...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mkcfeg5sv227</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mkcfeg5sv227</guid>
-      <pubDate>Sat, 25 Apr 2026 06:17:07 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>They don&#39;t fit the mould as a rule, but Band Maid&#39;s Hate (apparently about a guy who cheated on singer Saiki&#39;s friend) is a great angry song, and a great intro to the best rock band around. Subtitles on for this one.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
