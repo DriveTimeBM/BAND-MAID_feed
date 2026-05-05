@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 05 May 2026 06:48:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 14:00:02 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Forza 6 has Band-Maid on the soundtrack.</title>
+      <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3ml4bbp5xmc2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3ml4bbp5xmc2l</guid>
+      <pubDate>Tue, 05 May 2026 13:13:14 GMT</pubDate>
+      <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Forza 6 has Band-Maid on the soundtrack.<br/><br/>I was going to pass on this version cos I&#39;m a bit tired of Forza but with this news... I&#39;m back in all over again :)<br/><br/>store.steampowered.com/app/2483190/...</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I know nothing about guitar on a technical level, but in terms of encapsulati...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3ml3jlulfuc2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>They don&#39;t fit the mould as a rule, but Band Maid&#39;s Hate (apparently about a guy who cheated on singer Saiki&#39;s friend) is a great angry song, and a great intro to the best rock band around. Subtitles on for this one.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Giovanni</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mkcerjs4hl2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mkcerjs4hl2o</guid>
-      <pubDate>Sat, 25 Apr 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Giovanni<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
