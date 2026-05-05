@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 04 May 2026 23:39:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 00:41:17 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] これはちょっとやってみたいよなあ。音楽参加もそんなに増えてるのか</title>
+      <link>https://bsky.app/profile/did:plc:3a7bv75qdfrpd3q2gykcmiss/post/3ml2vgsu5zq2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3a7bv75qdfrpd3q2gykcmiss/post/3ml2vgsu5zq2m</guid>
+      <pubDate>Tue, 05 May 2026 00:08:41 GMT</pubDate>
+      <dc:creator>Sugano `Koshian' Yoshihisa(E) (koshian.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>これはちょっとやってみたいよなあ。音楽参加もそんなに増えてるのか<br/><br/>日本舞台の新作レースゲーム『Forza Horizon 6』開発完了！ゲーム内ラジオにONE OK ROCK、BABYMETAL、BAND-MAID、打首獄門同好会など著名アーティストが参加決定。今後も追加発表される予定</p><p><em>BlueSky &middot; koshian.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 日本舞台の新作レースゲーム『Forza Horizon 6』開発完了！ゲーム内ラジオにONE OK ROCK、BABYMETAL、BAND-MAID、打首...</title>
       <link>https://bsky.app/profile/did:plc:pboxaqj7pofc32h3n27kbupw/post/3ml2qjqjkes2k</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played 6 songs at MOSAiC in Tokyo JP on 2016/4/24. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 23 songs at BIGCAT in Osaka JP on 2023/4/24. The...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mk7twgu2lq26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mk7twgu2lq26</guid>
-      <pubDate>Fri, 24 Apr 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at BIGCAT in Osaka JP on 2023/4/24. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
