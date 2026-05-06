@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mh1W856P0rQ",
+        "Title":  "Glorious Performance! BAND-MAID | 'Dilly-Dally' Live M/V (Reaction)",
+        "Channel":  "SpicyBenTV Reacts",
+        "ChannelId":  "UCXDT7IoxQ3nBpPnD1bpWK2w",
+        "Url":  "https://youtu.be/mh1W856P0rQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/mh1W856P0rQ/hqdefault.jpg",
+        "PublishedAt":  "2026-05-06T11:01:18.0000000Z",
+        "DiscoveredAt":  "2026-05-06T11:22:57.5261530Z",
+        "Duration":  "00:10:30",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "H8eTk3fi9Qw",
+        "Title":  "Musician reacts to Band-Maid / Bye My Tears | Love the guitar solo!",
+        "Channel":  "Vault of Art",
+        "ChannelId":  "UCZJ9ZsJGHLHmkqIh30knRXw",
+        "Url":  "https://youtu.be/H8eTk3fi9Qw",
+        "Thumbnail":  "https://i.ytimg.com/vi/H8eTk3fi9Qw/hqdefault.jpg",
+        "PublishedAt":  "2026-05-06T11:00:23.0000000Z",
+        "DiscoveredAt":  "2026-05-06T11:22:56.9593904Z",
+        "Duration":  "00:07:34",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "LDv6OKF2Qsw",
         "Title":  "BAND-MAID - Don't You Tell Me reaction | Completely changed my assumptions",
         "Channel":  "Nick out of Focus",
