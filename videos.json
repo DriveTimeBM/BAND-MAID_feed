@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "joDq5efEtqg",
+        "Title":  "Band-Maid | Secret My Lips (Live) | Mixed Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/joDq5efEtqg",
+        "Thumbnail":  "https://i.ytimg.com/vi/joDq5efEtqg/hqdefault.jpg",
+        "PublishedAt":  "2026-05-06T14:07:01.0000000Z",
+        "DiscoveredAt":  "2026-05-06T14:28:29.5757611Z",
+        "Duration":  "00:04:17",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DJeL2zWWOYw",
         "Title":  "Band-Maid | Don't Let Me Down (Live) | Mixed Video",
         "Channel":  "NormanatorTV",
