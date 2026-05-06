@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "TE4TlDhOnMk",
+        "Title":  "BAND-MAID - Before Yesterday Tab (Full Band Tab)",
+        "Channel":  "Frostic Tabs",
+        "ChannelId":  "UCJgjHK1zDcpm0hiSpMqkPGw",
+        "Url":  "https://youtu.be/TE4TlDhOnMk",
+        "Thumbnail":  "https://i.ytimg.com/vi/TE4TlDhOnMk/hqdefault.jpg",
+        "PublishedAt":  "2026-05-06T09:07:24.0000000Z",
+        "DiscoveredAt":  "2026-05-06T09:19:47.6497979Z",
+        "Duration":  "00:03:40",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "8YA1lrIpaKU",
         "Title":  "BAND-MAID - you. (Live at Zepp Tokyo 2018) Reaction | How Did I Miss This?!",
         "Channel":  "Coffee Guy reacts",
