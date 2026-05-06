@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 06 May 2026 12:55:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 21:07:50 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BABYMETAL AND YOASOBI are on Forza Horizon 6's Japan-set soundtrack alongside...</title>
+      <link>https://bsky.app/profile/did:plc:luq5ehmrudmuwqq4qntmir7y/post/3ml7itqhlpb23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:luq5ehmrudmuwqq4qntmir7y/post/3ml7itqhlpb23</guid>
+      <pubDate>Wed, 06 May 2026 20:06:35 GMT</pubDate>
+      <dc:creator>playswave (playswave.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BABYMETAL AND YOASOBI are on Forza Horizon 6&#39;s Japan-set soundtrack alongside ONE OK ROCK, BAND-MAID, PassCode, and more.<br/><br/>A racing game just became the most exciting thing in gaming 🇯🇵</p><p><em>BlueSky &middot; playswave.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Habt Ihr Ideen dazu, wie ich als greiser Drummer dazu beitragen kann, dass mi...</title>
       <link>https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3ml6ovsy2qs26</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>12 years ago Band-Maid played at VUENOS in Tokyo JP on 2014/4/26. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mkerbhbqlo2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mkerbhbqlo2w</guid>
-      <pubDate>Sun, 26 Apr 2026 04:55:31 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago<br/>Band-Maid YouTube channel <br/>milestone<br/>surpassed 200 million views<br/>2024/4/26<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
