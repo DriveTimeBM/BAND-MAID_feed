@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "E9Ai-xex3ng",
+        "Title":  "BAND-MAID Just Changed My Opinion On Rock Music 😳 | Thrill Reaction",
+        "Channel":  "Kasey Reacts",
+        "ChannelId":  "UCz-TAdUNEv1cZXt0_kw8bgg",
+        "Url":  "https://youtu.be/E9Ai-xex3ng",
+        "Thumbnail":  "https://i.ytimg.com/vi/E9Ai-xex3ng/hqdefault.jpg",
+        "PublishedAt":  "2026-05-06T17:01:32.0000000Z",
+        "DiscoveredAt":  "2026-05-06T17:02:10.8508078Z",
+        "Duration":  "00:08:39",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "T4TKTPVZWMk",
+        "Title":  "Chemical Reaction - BAND-MAID | DRUM SCORE Sheet Music | #696 DRUMSCRIBE",
+        "Channel":  "Drumscribe",
+        "ChannelId":  "UCGNcppf5dfV-D1vyyvm0Cdg",
+        "Url":  "https://youtu.be/T4TKTPVZWMk",
+        "Thumbnail":  "https://i.ytimg.com/vi/T4TKTPVZWMk/hqdefault.jpg",
+        "PublishedAt":  "2026-05-06T17:00:46.0000000Z",
+        "DiscoveredAt":  "2026-05-06T17:02:10.4407699Z",
+        "Duration":  "00:04:48",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "joDq5efEtqg",
         "Title":  "Band-Maid | Secret My Lips (Live) | Mixed Video",
         "Channel":  "NormanatorTV",
