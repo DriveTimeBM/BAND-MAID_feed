@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LnYOzA1_JtQ",
+        "Title":  "Band-Maid “SUPER SUNSHINE” LIVE REACTION | INSANE Energy You HAVE to See! 🔥",
+        "Channel":  "RJS_Reactions",
+        "ChannelId":  "UCfOmuwwHkq0wbruIT0FdLiQ",
+        "Url":  "https://youtu.be/LnYOzA1_JtQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/LnYOzA1_JtQ/hqdefault.jpg",
+        "PublishedAt":  "2026-05-06T00:05:41.0000000Z",
+        "DiscoveredAt":  "2026-05-06T00:08:29.5546383Z",
+        "Duration":  "00:08:10",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7toLi-lqriU",
         "Title":  "#86 BAND-MAID / サヨナキドリ \"Sayonakidori\" + ACOUSTIC - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
         "Channel":  "K-Ross Reacts",
