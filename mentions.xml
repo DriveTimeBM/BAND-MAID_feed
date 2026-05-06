@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 06 May 2026 21:07:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 22:39:25 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Pretty much anything by Band-Maid does that for me, but this is a prime examp...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3ml7o2g3oqs2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3ml7o2g3oqs2l</guid>
+      <pubDate>Wed, 06 May 2026 21:39:48 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Pretty much anything by Band-Maid does that for me, but this is a prime example for the Just Bring It album... www.youtube.com/watch?v=tGXz...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BABYMETAL AND YOASOBI are on Forza Horizon 6's Japan-set soundtrack alongside...</title>
       <link>https://bsky.app/profile/did:plc:luq5ehmrudmuwqq4qntmir7y/post/3ml7itqhlpb23</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: about Us<br/>Album: about Us<br/>Release: 2/2/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played at VUENOS in Tokyo JP on 2014/4/26. The setlist...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mkeuuagol42q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mkeuuagol42q</guid>
-      <pubDate>Sun, 26 Apr 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played at VUENOS in Tokyo JP on 2014/4/26. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
