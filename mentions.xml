@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 07 May 2026 05:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 06:50:46 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Bye My Tears</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlakeldqsu2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlakeldqsu2g</guid>
+      <pubDate>Thu, 07 May 2026 06:06:32 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Bye My Tears<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:1/29/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] JOURNEY、NIGHT RANGER、BAND-MAID出演の音楽イベント”THE GREATEST ROCK FUKUOKA”、追加出演者にLOUD...</title>
       <link>https://bsky.app/profile/did:plc:cazef5u2rbzqfpzhqve5wshg/post/3mlagohvd2h2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>bionicgrit.bsky.social</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid. A series of A6 cards in ink. A bit on the simplistic side I suppose. Whoever designed their logo is a genius. 😊 #art #fanart #TraditionalArt #BandMaid #Jrock #HardRock #Japan</p><p><em>BlueSky &middot; bionicgrit.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Ty Franck (half of the writing team James S.A. Corey that created The Expanse...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mkgctigdpc2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mkgctigdpc2j</guid>
-      <pubDate>Sun, 26 Apr 2026 19:42:31 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Ty Franck (half of the writing team James S.A. Corey that created The Expanse) posted a Tweet about the best rock band he&#39;s ever heard. It was Band-Maid and he linked this live video. He was right, I was hooked instantly.  www.youtube.com/watch?v=QbyQ...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
