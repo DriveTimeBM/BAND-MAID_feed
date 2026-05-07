@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jO0hx-m7V4k",
+        "Title":  "Chemical Reaction (DRUMS ONLY) - BAND-MAID | DRUM SCORE Sheet Music | #696 DRUMSCRIBE",
+        "Channel":  "Drumscribe",
+        "ChannelId":  "UCGNcppf5dfV-D1vyyvm0Cdg",
+        "Url":  "https://youtu.be/jO0hx-m7V4k",
+        "Thumbnail":  "https://i.ytimg.com/vi/jO0hx-m7V4k/hqdefault.jpg",
+        "PublishedAt":  "2026-05-07T17:00:57.0000000Z",
+        "DiscoveredAt":  "2026-05-07T17:02:59.2706266Z",
+        "Duration":  "00:04:48",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "HLWLBPCVTFQ",
+        "Title":  "FIRST TIME HEARING | Band-Maid - Super Sunshine REACTION",
+        "Channel":  "Priya Veda Reacts ",
+        "ChannelId":  "UCEWBWHfjngz_g_6LH_A-_BA",
+        "Url":  "https://youtu.be/HLWLBPCVTFQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/HLWLBPCVTFQ/hqdefault.jpg",
+        "PublishedAt":  "2026-05-07T16:45:04.0000000Z",
+        "DiscoveredAt":  "2026-05-07T17:02:58.8507035Z",
+        "Duration":  "00:14:37",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Ec2VfKewJQ8",
         "Title":  "1st Time Reaction to Band-Maid  - Moratorium (Live at Zepp Tokyo 2018)",
         "Channel":  "P Reacts Daily",
