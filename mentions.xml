@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 07 May 2026 04:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:49:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] JOURNEY、NIGHT RANGER、BAND-MAID出演の音楽イベント”THE GREATEST ROCK FUKUOKA”、追加出演者にLOUD...</title>
+      <link>https://bsky.app/profile/did:plc:cazef5u2rbzqfpzhqve5wshg/post/3mlagohvd2h2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:cazef5u2rbzqfpzhqve5wshg/post/3mlagohvd2h2p</guid>
+      <pubDate>Thu, 07 May 2026 05:00:26 GMT</pubDate>
+      <dc:creator>MAGMOE (magmoe.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>JOURNEY、NIGHT RANGER、BAND-MAID出演の音楽イベント”THE GREATEST ROCK FUKUOKA”、追加出演者にLOUDNESS、HOUND DOG決定！<br/><br/>https://www.magmoe.com/2958134/entertainment-news/2026-05-07/<br/><br/>8月29日に、みずほPayPayドーム福岡にて開催される大型音楽ライヴ・イベント”THE GREATEST ROCK FUKUOKA”に、新たにHOUND DOG、LOUDNESSの出演が決定した [...]</p><p><em>BlueSky &middot; magmoe.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] https://www.wacoca.com/media/649319/ JOURNEY、NIGHT RANGER、BAND-MAID出演の音楽イベント”...</title>
       <link>https://wakoka.com/@media/116531480959263990</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Ty Franck (half of the writing team James S.A. Corey that created The Expanse) posted a Tweet about the best rock band he&#39;s ever heard. It was Band-Maid and he linked this live video. He was right, I was hooked instantly.  www.youtube.com/watch?v=QbyQ...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mkg4vleyp423</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mkg4vleyp423</guid>
-      <pubDate>Sun, 26 Apr 2026 17:56:18 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (mcanimeradio.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; mcanimeradio.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
