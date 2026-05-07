@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "JhYH6A8KQKI",
+        "Title":  "Reacting to Band Maid | Acoustic Concert | Smile",
+        "Channel":  "Kyros Reactions",
+        "ChannelId":  "UCo6VhAuklHvW8ZC35pIezXg",
+        "Url":  "https://youtu.be/JhYH6A8KQKI",
+        "Thumbnail":  "https://i.ytimg.com/vi/JhYH6A8KQKI/hqdefault.jpg",
+        "PublishedAt":  "2026-05-07T18:00:14.0000000Z",
+        "DiscoveredAt":  "2026-05-07T18:04:20.9741735Z",
+        "Duration":  "00:07:43",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lRviVskfg3g",
         "Title":  "Primera reacción a Band-Maid - DICE Live ¡Esto es rock japonés de OTRO NIVEL! 🔥",
         "Channel":  "Rockeando con Fernando",
