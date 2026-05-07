@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 07 May 2026 03:47:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 04:18:15 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 『THE GREATEST ROCK FUKUOKA』にHOUND DOG、LOUDNESS出演決定 JOURNEY、NIGHT RANGER、BAND-...</title>
+      <link>https://bsky.app/profile/did:plc:abdj6zdyjhs4pn54jefzm3bt/post/3mlaayc5d3l2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:abdj6zdyjhs4pn54jefzm3bt/post/3mlaayc5d3l2a</guid>
+      <pubDate>Thu, 07 May 2026 03:18:37 GMT</pubDate>
+      <dc:creator>芸能エンタメちゃんねる (geino-entame.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>『THE GREATEST ROCK FUKUOKA』にHOUND DOG、LOUDNESS出演決定 JOURNEY、NIGHT RANGER、BAND-MAIDに続き発表<br/>#ライブ情報 #洋楽 #音楽 #芸能ニュース</p><p><em>BlueSky &middot; geino-entame.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 福岡ドーム「THE GREATEST ROCK」に</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mla7yilzsy2r</link>
@@ -899,15 +908,6 @@
       <dc:creator>Fionnbharr (fionnbharr.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Today&#39;s music:<br/><br/>BAND-MAID / Present Perfect<br/><br/>youtu.be/yzSdgw-tdr0<br/><br/>#rock #HardRock #japan #music #np #NowPlaying  #MusicSky</p><p><em>BlueSky &middot; fionnbharr.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ong, I was very conscious of our progress, and I really wanted to show anothe...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mkevaicjph22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mkevaicjph22</guid>
-      <pubDate>Sun, 26 Apr 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>ong, I was very conscious of our progress, and I really wanted to show another new Band-Maid. And, of course, because of the Budokan Okyu-ji. It’s like a song we will play at the end to strengthen everyone’s feeling and sense of unity, when we perform on a bigger stage in the future. Also, our maste</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
