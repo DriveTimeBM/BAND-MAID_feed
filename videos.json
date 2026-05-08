@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Yc8jDa7F3Ec",
+        "Title":  "🔥 BAND-MAID – “SCREAMING” | FIRST TIME REACTION  🔥",
+        "Channel":  "Jimmy D's Rock Talk",
+        "ChannelId":  "UCDYa7g_ZcN5RfjOqUf6N2QQ",
+        "Url":  "https://youtu.be/Yc8jDa7F3Ec",
+        "Thumbnail":  "https://i.ytimg.com/vi/Yc8jDa7F3Ec/hqdefault.jpg",
+        "PublishedAt":  "2026-05-08T15:31:35.0000000Z",
+        "DiscoveredAt":  "2026-05-08T15:35:23.0460030Z",
+        "Duration":  "00:05:27",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0j6Nuapipoo",
         "Title":  "J-rock fan reacts to BAND-MAID / SUPER SUNSHINE (Official Live Video) Theme Song for Hakutake Shiro",
         "Channel":  "J-ROCK MD",
