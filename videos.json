@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_fJj-ARhtr4",
+        "Title":  "Reacting to Band Maid | At The Drop of a Hat | Acoustic Concert",
+        "Channel":  "Kyros Reactions",
+        "ChannelId":  "UCo6VhAuklHvW8ZC35pIezXg",
+        "Url":  "https://youtu.be/_fJj-ARhtr4",
+        "Thumbnail":  "https://i.ytimg.com/vi/_fJj-ARhtr4/hqdefault.jpg",
+        "PublishedAt":  "2026-05-08T09:00:52.0000000Z",
+        "DiscoveredAt":  "2026-05-08T09:27:17.2425222Z",
+        "Duration":  "00:07:03",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "QlbkpqdxCDI",
         "Title":  "INTRODUCING MY METALHEAD FRIEND TO BAND-MAID (THRILL MV. HATE LIVE, GIOVANNI INST. AND FREEDOM LIVE)",
         "Channel":  "Ravage Mike Reacts",
