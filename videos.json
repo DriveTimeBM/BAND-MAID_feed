@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rQxaS2g00qQ",
+        "Title":  "Band-Maid - Manners (drums backing track)",
+        "Channel":  "Drum DNA Minus Tracks",
+        "ChannelId":  "UCYZ1ZZi0kyL6nggbaVZEQKQ",
+        "Url":  "https://youtu.be/rQxaS2g00qQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/rQxaS2g00qQ/hqdefault.jpg",
+        "PublishedAt":  "2026-05-08T11:09:16.0000000Z",
+        "DiscoveredAt":  "2026-05-08T11:29:17.5187486Z",
+        "Duration":  "00:03:58",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "YNI1oYi8p54",
+        "Title":  "There's Another ALL Female Band In Japan??? | BAND-MAID - Bubble | REACTION!!!",
+        "Channel":  "CooLeoYT",
+        "ChannelId":  "UCeI0lkdRCWmsW3Nwi1P4Ckw",
+        "Url":  "https://youtu.be/YNI1oYi8p54",
+        "Thumbnail":  "https://i.ytimg.com/vi/YNI1oYi8p54/hqdefault.jpg",
+        "PublishedAt":  "2026-05-08T11:01:03.0000000Z",
+        "DiscoveredAt":  "2026-05-08T11:29:17.1537830Z",
+        "Duration":  "00:09:17",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_fJj-ARhtr4",
         "Title":  "Reacting to Band Maid | At The Drop of a Hat | Acoustic Concert",
         "Channel":  "Kyros Reactions",
