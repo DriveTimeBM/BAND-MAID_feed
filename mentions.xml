@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 08 May 2026 06:54:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 21:22:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Rock Is A Lady's Modesty ("Ready to Rock" - BAND-MAID)</title>
+      <link>https://bsky.app/profile/did:plc:obxfuxowaalvcyn7qas5sgsr/post/3mlek7h5tss2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:obxfuxowaalvcyn7qas5sgsr/post/3mlek7h5tss2j</guid>
+      <pubDate>Fri, 08 May 2026 20:14:20 GMT</pubDate>
+      <dc:creator>Will!🐀🔞 ➡️ AC 2026 (wkdart.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Rock Is A Lady&#39;s Modesty (&quot;Ready to Rock&quot; - BAND-MAID)</p><p><em>BlueSky &middot; wkdart.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] this heaviness is becoming another uniqueness of Band-Maid.</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mld2tonag42s</link>
@@ -899,15 +908,6 @@
       <dc:creator>Acer Rubrum (d-t-39810.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>FYI I&#39;m pretty sure the account you tagged is not BAND-MAID. They would announce it if they had an account, and the handle would likely be suffixed by &quot;.bandmaid.tokyo&quot;. Anyone can register a &quot;.bsky.social&quot; handle.</p><p><em>BlueSky &middot; d-t-39810.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] @band-maid.bsky.social Please bring NEKI as support on your North American to...</title>
-      <link>https://bsky.app/profile/did:plc:inwerhmpygqmizoi23sarqta/post/3mkifennvcc2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:inwerhmpygqmizoi23sarqta/post/3mkifennvcc2u</guid>
-      <pubDate>Mon, 27 Apr 2026 15:33:14 GMT</pubDate>
-      <dc:creator>Jason Nord (jknord.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>@band-maid.bsky.social Please bring NEKI as support on your North American tour! I am eagerly awaiting dates to be announced.</p><p><em>BlueSky &middot; jknord.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
