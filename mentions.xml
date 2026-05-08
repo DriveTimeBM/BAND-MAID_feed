@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 08 May 2026 21:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 22:54:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'd like to make a small suggestion, of either the two on the right-side of t...</title>
+      <link>https://bsky.app/profile/did:plc:wlutnnrkjru347x4dhxkpq4m/post/3mlepbp4zts23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wlutnnrkjru347x4dhxkpq4m/post/3mlepbp4zts23</guid>
+      <pubDate>Fri, 08 May 2026 21:45:05 GMT</pubDate>
+      <dc:creator>Rezaria (rezaria.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;d like to make a small suggestion, of either the two on the right-side of the image, the guitarist and singer from one of my favorite JRock bands, Band-Maid</p><p><em>BlueSky &middot; rezaria.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Rock Is A Lady's Modesty ("Ready to Rock" - BAND-MAID)</title>
       <link>https://bsky.app/profile/did:plc:obxfuxowaalvcyn7qas5sgsr/post/3mlek7h5tss2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>3 years ago<br/>Thrill MV<br/>milestone<br/>surpassed 19 million views<br/>2023/4/28<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] FYI I'm pretty sure the account you tagged is not BAND-MAID. They would annou...</title>
-      <link>https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mkip43zzks2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mkip43zzks2n</guid>
-      <pubDate>Mon, 27 Apr 2026 18:27:24 GMT</pubDate>
-      <dc:creator>Acer Rubrum (d-t-39810.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>FYI I&#39;m pretty sure the account you tagged is not BAND-MAID. They would announce it if they had an account, and the handle would likely be suffixed by &quot;.bandmaid.tokyo&quot;. Anyone can register a &quot;.bsky.social&quot; handle.</p><p><em>BlueSky &middot; d-t-39810.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
