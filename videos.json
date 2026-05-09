@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SdetDGZryJg",
+        "Title":  "Metalhead Reacts TO BAND-MAID with The Warning  SHOW THEM",
+        "Channel":  "Disputedgore",
+        "ChannelId":  "UCLzhK4nGY3Of_G3HxqBYMag",
+        "Url":  "https://youtu.be/SdetDGZryJg",
+        "Thumbnail":  "https://i.ytimg.com/vi/SdetDGZryJg/hqdefault.jpg",
+        "PublishedAt":  "2026-05-09T17:00:37.0000000Z",
+        "DiscoveredAt":  "2026-05-09T17:21:04.9927829Z",
+        "Duration":  "00:07:07",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hLROCCzhMM0",
         "Title":  "BAND-MAID Played on South African Radio! 🇿🇦 5 Songs Across 2 Stations!",
         "Channel":  "Ginger T Reacts",
