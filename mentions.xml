@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 09 May 2026 08:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 09:06:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 【2026/5/10(日)開催】 BAND-MAID WORLD TOUR 2026</title>
+      <link>https://bsky.app/profile/did:plc:n6wcnxzhv4kkultodgqn44mn/post/3mlfrx5uz3m2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:n6wcnxzhv4kkultodgqn44mn/post/3mlfrx5uz3m2x</guid>
+      <pubDate>Sat, 09 May 2026 08:05:31 GMT</pubDate>
+      <dc:creator>座席表ガイド Bluesky (music-mdata.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>【2026/5/10(日)開催】 BAND-MAID WORLD TOUR 2026<br/><br/>Zepp羽田（ホール/2,925席）座席表<br/>🎫1階はスタンディング（公式情報をご確認ください）<br/>https://zaseki.music-mdata.com/detail/27036/1</p><p><em>BlueSky &middot; music-mdata.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Me when Forza Horizon 6 releases since Babymetal and Band-Maid are on the sou...</title>
       <link>https://bsky.app/profile/did:plc:jiovjvuq5n6bpo3c32swc6kl/post/3mlfppjv6ds23</link>
@@ -899,15 +908,6 @@
       <dc:creator>evys (hrrwnova.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>amo ou&#231;ar musga</p><p><em>BlueSky &middot; hrrwnova.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid keep popping up, I'm gonna have to give them a go too 😊</title>
-      <link>https://bsky.app/profile/did:plc:owqextwtohttyf7i34zgrxhj/post/3mkkvxootuc27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:owqextwtohttyf7i34zgrxhj/post/3mkkvxootuc27</guid>
-      <pubDate>Tue, 28 Apr 2026 15:35:32 GMT</pubDate>
-      <dc:creator>Soph 🖤 (flannelqueen.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid keep popping up, I&#39;m gonna have to give them a go too 😊</p><p><em>BlueSky &middot; flannelqueen.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
