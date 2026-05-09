@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 09 May 2026 16:50:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 22:57:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Today is Maid's Day</title>
+      <link>https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3mlhbxtw3ac2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3mlhbxtw3ac2u</guid>
+      <pubDate>Sat, 09 May 2026 22:24:55 GMT</pubDate>
+      <dc:creator>bmcssu.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Today is Maid&#39;s Day<br/><br/>#bandmaid</p><p><em>BlueSky &middot; bmcssu.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 5月10日はメイドの日</title>
       <link>https://bsky.app/profile/did:plc:rhycy2qbdvx7l2qjsj6ctwkn/post/3mlglwhhgx22s</link>
@@ -899,15 +908,6 @@
       <dc:creator>Keith Sowerby (jamesksowerby.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>www.youtube.com/watch?v=LwbX... Your Wednesday brekkie Tune comes from Band-Maid</p><p><em>BlueSky &middot; jamesksowerby.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 6 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mkmco3q6ys25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mkmco3q6ys25</guid>
-      <pubDate>Wed, 29 Apr 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>6 years ago<br/>WORLD DOMINATION TOUR at LINE CUBE SHIBUYA<br/>Blu-ray/DVD<br/>released<br/>2020/4/29<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
