@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 09 May 2026 03:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:03:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: without holding back</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlflcgq3rk2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlflcgq3rk2a</guid>
+      <pubDate>Sat, 09 May 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: without holding back<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: <br/>Arrangement: BAND-MAID<br/>1st Live:1/11/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 白岳しろ×BAND-MAID『SUPER SUNSHINE』</title>
       <link>https://bsky.app/profile/did:plc:xadchjnbtfe27igf5nwfz6a3/post/3mldtwmd6tshk</link>
@@ -899,15 +908,6 @@
       <dc:creator>David Middleham (dmiddleham.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I think they did a song with Band-Maid. I like Band-Maid.</p><p><em>BlueSky &middot; dmiddleham.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] #NowPlaying: BAND-MAID - "ORDER" www.youtube.com/watch?v=3J-T...</title>
-      <link>https://bsky.app/profile/did:plc:j2n3nckxwe2if5op2sym43r2/post/3mkk6iyxktk26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:j2n3nckxwe2if5op2sym43r2/post/3mkk6iyxktk26</guid>
-      <pubDate>Tue, 28 Apr 2026 08:35:43 GMT</pubDate>
-      <dc:creator>Knight øf Cerebus (scioperative.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>#NowPlaying: BAND-MAID - &quot;ORDER&quot; www.youtube.com/watch?v=3J-T...</p><p><em>BlueSky &middot; scioperative.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
