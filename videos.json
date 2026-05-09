@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "z4bEdriIVNk",
+        "Title":  "Band-Maid - Yolo [Legendado]",
+        "Channel":  "Forma Sonora",
+        "ChannelId":  "UCdySxZ4xTaiY_CSBgWasUiQ",
+        "Url":  "https://youtu.be/z4bEdriIVNk",
+        "Thumbnail":  "https://i.ytimg.com/vi/z4bEdriIVNk/hqdefault.jpg",
+        "PublishedAt":  "2026-05-09T00:59:52.0000000Z",
+        "DiscoveredAt":  "2026-05-09T01:27:52.9446339Z",
+        "Duration":  "00:04:37",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "45H-OPSbWq8",
+        "Title":  "Band-Maid - Thrill [Legendado]",
+        "Channel":  "Forma Sonora",
+        "ChannelId":  "UCdySxZ4xTaiY_CSBgWasUiQ",
+        "Url":  "https://youtu.be/45H-OPSbWq8",
+        "Thumbnail":  "https://i.ytimg.com/vi/45H-OPSbWq8/hqdefault.jpg",
+        "PublishedAt":  "2026-05-09T00:59:47.0000000Z",
+        "DiscoveredAt":  "2026-05-09T01:27:52.0429497Z",
+        "Duration":  "00:04:11",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "5ZkSZ1sQ2tc",
         "Title":  "BAND-MAID / onset (Official Live Video) | Metal Vocalist Reacts",
         "Channel":  "JohnReavesLive",
@@ -416,21 +446,6 @@
         "DiscoveredAt":  "2026-05-06T14:28:29.5757611Z",
         "Duration":  "00:04:17",
         "ViewsAtDiscovery":  4,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
-        "VideoId":  "DJeL2zWWOYw",
-        "Title":  "Band-Maid | Don't Let Me Down (Live) | Mixed Video",
-        "Channel":  "NormanatorTV",
-        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
-        "Url":  "https://youtu.be/DJeL2zWWOYw",
-        "Thumbnail":  "https://i.ytimg.com/vi/DJeL2zWWOYw/hqdefault.jpg",
-        "PublishedAt":  "2026-05-06T13:05:26.0000000Z",
-        "DiscoveredAt":  "2026-05-06T13:26:05.3543371Z",
-        "Duration":  "00:03:26",
-        "ViewsAtDiscovery":  5,
         "Live":  "none",
         "Status":  "active"
     },
