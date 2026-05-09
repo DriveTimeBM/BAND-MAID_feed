@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hLROCCzhMM0",
+        "Title":  "BAND-MAID Played on South African Radio! 🇿🇦 5 Songs Across 2 Stations!",
+        "Channel":  "Ginger T Reacts",
+        "ChannelId":  "UCZWOGhnKe5lh_KnpNaWRtQg",
+        "Url":  "https://youtu.be/hLROCCzhMM0",
+        "Thumbnail":  "https://i.ytimg.com/vi/hLROCCzhMM0/hqdefault.jpg",
+        "PublishedAt":  "2026-05-09T13:01:28.0000000Z",
+        "DiscoveredAt":  "2026-05-09T13:11:16.7134574Z",
+        "Duration":  "00:25:43",
+        "ViewsAtDiscovery":  15,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "6I13-CQPYnY",
+        "Title":  "1st Time Reaction to BAND-MAID  Don't You Tell ME (Official Video & Official Live)",
+        "Channel":  "P Reacts Daily",
+        "ChannelId":  "UCjzeCUthjtU3kTvz70sw2wg",
+        "Url":  "https://youtu.be/6I13-CQPYnY",
+        "Thumbnail":  "https://i.ytimg.com/vi/6I13-CQPYnY/hqdefault.jpg",
+        "PublishedAt":  "2026-05-09T13:00:00.0000000Z",
+        "DiscoveredAt":  "2026-05-09T13:11:16.1342625Z",
+        "Duration":  "00:14:05",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3IOg5jQjlzU",
         "Title":  "Reacting to Band Maid | No God | Acoustic Concert",
         "Channel":  "Kyros Reactions",
