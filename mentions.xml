@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 09 May 2026 09:06:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 13:41:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] So... this was not the first time #Kreator have played at Welcome to Rockville.</title>
+      <link>https://bsky.app/profile/did:plc:64lmxzqui4e5bqdmb2rxziwu/post/3mlgdu6gyuap2</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:64lmxzqui4e5bqdmb2rxziwu/post/3mlgdu6gyuap2</guid>
+      <pubDate>Sat, 09 May 2026 13:25:45 GMT</pubDate>
+      <dc:creator>Kreator Fangirls (kreatorfangirls.metalhead.club.ap.brid.gy)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>So... this was not the first time #Kreator have played at Welcome to Rockville.<br/><br/>In 2023, they played a 30 minute show round 4-something PM.<br/><br/>And for a curious fan from half way around the world, it was not the most pleasant experience checking what others to […] <br/><br/>[Original post on metalhead.club]</p><p><em>BlueSky &middot; kreatorfangirls.metalhead.club.ap.brid.gy</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 【2026/5/10(日)開催】 BAND-MAID WORLD TOUR 2026</title>
       <link>https://bsky.app/profile/did:plc:n6wcnxzhv4kkultodgqn44mn/post/3mlfrx5uz3m2x</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Ohboyohboyohboyohboy! New Band-Maid official live release minutes ago, Super Sunshine from the Tokyo Gardens Theatre show last December. This is a summer song for sure. www.youtube.com/watch?v=LwbX...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] amo ouçar musga</title>
-      <link>https://bsky.app/profile/did:plc:3obfeb6j7g7isgyqisfndjrl/post/3mklbyud25k2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3obfeb6j7g7isgyqisfndjrl/post/3mklbyud25k2j</guid>
-      <pubDate>Tue, 28 Apr 2026 19:10:56 GMT</pubDate>
-      <dc:creator>evys (hrrwnova.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>amo ou&#231;ar musga</p><p><em>BlueSky &middot; hrrwnova.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
