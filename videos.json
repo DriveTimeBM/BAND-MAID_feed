@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "O6tbwZXLOgY",
+        "Title":  "BAND-MAID、メイドの日に新曲「ENERGETIC」サプライズ発表！",
+        "Channel":  "Nippon Star Tv",
+        "ChannelId":  "UCqEsTSjeLm9Ja8i7wG67ikw",
+        "Url":  "https://youtu.be/O6tbwZXLOgY",
+        "Thumbnail":  "https://i.ytimg.com/vi/O6tbwZXLOgY/hqdefault.jpg",
+        "PublishedAt":  "2026-05-10T13:00:43.0000000Z",
+        "DiscoveredAt":  "2026-05-10T13:01:50.5265228Z",
+        "Duration":  "00:03:06",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "R6rCVfJihCA",
+        "Title":  "1st Time Reaction to BAND-MAID  Don’t Let Me Down",
+        "Channel":  "P Reacts Daily",
+        "ChannelId":  "UCjzeCUthjtU3kTvz70sw2wg",
+        "Url":  "https://youtu.be/R6rCVfJihCA",
+        "Thumbnail":  "https://i.ytimg.com/vi/R6rCVfJihCA/hqdefault.jpg",
+        "PublishedAt":  "2026-05-10T13:00:00.0000000Z",
+        "DiscoveredAt":  "2026-05-10T13:01:44.4380525Z",
+        "Duration":  "00:07:38",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "V3mqtRXesHQ",
         "Title":  "【遊☆戯☆王VRAINS/歌ってみた】glory/BAND-MAID covered by 羽竜メイ",
         "Channel":  "羽竜メイのMei.Channel",
