@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rV5svYhxf2U",
+        "Title":  "LIVE CHAT: New music & Updates (BAND-MAID, LOVEBITES, OTO, EMNW and more...)",
+        "Channel":  "Baka Broadcast",
+        "ChannelId":  "UCsCDhY3EoeFTYAG6JKtrC5A",
+        "Url":  "https://youtu.be/rV5svYhxf2U",
+        "Thumbnail":  "https://i.ytimg.com/vi/rV5svYhxf2U/hqdefault.jpg",
+        "PublishedAt":  "2026-05-10T15:02:25.0000000Z",
+        "DiscoveredAt":  "2026-05-10T17:39:51.8187742Z",
+        "Duration":  "01:10:27",
+        "ViewsAtDiscovery":  132,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZvtuUqccT50",
         "Title":  "Reacting to Band Maid | Acoustic Concert | H G K & Miku Introduction",
         "Channel":  "Kyros Reactions",
