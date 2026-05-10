@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "V3mqtRXesHQ",
+        "Title":  "【遊☆戯☆王VRAINS/歌ってみた】glory/BAND-MAID covered by 羽竜メイ",
+        "Channel":  "羽竜メイのMei.Channel",
+        "ChannelId":  "UCrlkfpyLO8FM1fLZy7u5p9g",
+        "Url":  "https://youtu.be/V3mqtRXesHQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/V3mqtRXesHQ/hqdefault.jpg",
+        "PublishedAt":  "2026-05-10T11:00:06.0000000Z",
+        "DiscoveredAt":  "2026-05-10T11:29:43.6646302Z",
+        "Duration":  "00:03:33",
+        "ViewsAtDiscovery":  100,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "b2oHV7onbDA",
         "Title":  "Band-Maid -  Day of Maid 2026 Post Show!",
         "Channel":  "JohnReavesLive",
