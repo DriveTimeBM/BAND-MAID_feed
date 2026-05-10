@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AjTub-zeWuc",
+        "Title":  "BAND-MAID、4年半ぶり衝撃発表…🔥「ENERGETIC」に込めた本当の意味とは？",
+        "Channel":  "Japan news",
+        "ChannelId":  "UCL6Ot6oqi8xmtnHQrSj7PXg",
+        "Url":  "https://youtu.be/AjTub-zeWuc",
+        "Thumbnail":  "https://i.ytimg.com/vi/AjTub-zeWuc/hqdefault.jpg",
+        "PublishedAt":  "2026-05-10T19:01:20.0000000Z",
+        "DiscoveredAt":  "2026-05-10T19:11:30.0981554Z",
+        "Duration":  "00:08:00",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rV5svYhxf2U",
         "Title":  "LIVE CHAT: New music & Updates (BAND-MAID, LOVEBITES, OTO, EMNW and more...)",
         "Channel":  "Baka Broadcast",
