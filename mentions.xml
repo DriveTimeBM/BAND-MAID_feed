@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 10 May 2026 21:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:15:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Usually they're all so young it's just awww, but thankfully Band Maid are all...</title>
+      <link>https://bsky.app/profile/did:plc:6csq4nt7yowkwyiylro3uu2t/post/3mljpgihitk2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6csq4nt7yowkwyiylro3uu2t/post/3mljpgihitk2c</guid>
+      <pubDate>Sun, 10 May 2026 21:31:04 GMT</pubDate>
+      <dc:creator>Oftentimes Jack 🇮🇪🤝🇵🇸 (pepsffk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Usually they&#39;re all so young it&#39;s just awww, but thankfully Band Maid are all closer to me.<br/><br/>Sai-chan is beautiful, those teeth are adorable.</p><p><em>BlueSky &middot; pepsffk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band Maid provided some music for the anime and i have tickets for their conc...</title>
       <link>https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mljnsn7ar22k</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Summer Drive<br/>Album: Love, Passion, Matador<br/>Release: 8/12/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:6/27/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 5 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mktu2xo56h2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mktu2xo56h2w</guid>
-      <pubDate>Sat, 02 May 2026 04:55:31 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>5 years ago<br/>DICE MV<br/>milestone<br/>surpassed 6 million views<br/>2021/5/2<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
