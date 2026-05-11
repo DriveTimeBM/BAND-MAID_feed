@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "F3SlmygeRz4",
+        "Title":  "First Time Hearing \"YOLO\" From Band-Maid. Metal Head Musician Reacts",
+        "Channel":  "The Mad Scientist Musician",
+        "ChannelId":  "UCzeKtrOlYvPT--er4QIyPGg",
+        "Url":  "https://youtu.be/F3SlmygeRz4",
+        "Thumbnail":  "https://i.ytimg.com/vi/F3SlmygeRz4/hqdefault.jpg",
+        "PublishedAt":  "2026-05-11T03:07:39.0000000Z",
+        "DiscoveredAt":  "2026-05-11T03:22:16.0127770Z",
+        "Duration":  "00:08:33",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "AD8WyEEjGyM",
         "Title":  "BAND-MAID、メイドの日に新曲『ENERGETIC』発表！世界が注目するサプライズ展開 🚀🎸",
         "Channel":  "all news japan",
