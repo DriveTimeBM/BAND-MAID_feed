@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AD8WyEEjGyM",
+        "Title":  "BAND-MAID、メイドの日に新曲『ENERGETIC』発表！世界が注目するサプライズ展開 🚀🎸",
+        "Channel":  "all news japan",
+        "ChannelId":  "UCnDFrEmO-XV6IrJoMlAe3Rw",
+        "Url":  "https://youtu.be/AD8WyEEjGyM",
+        "Thumbnail":  "https://i.ytimg.com/vi/AD8WyEEjGyM/hqdefault.jpg",
+        "PublishedAt":  "2026-05-11T01:06:55.0000000Z",
+        "DiscoveredAt":  "2026-05-11T01:19:20.5555288Z",
+        "Duration":  "00:06:17",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "N1viMvWS8Xs",
+        "Title":  "GOKO Reacts to BAND-MAID / Bubble (Official Music Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/N1viMvWS8Xs",
+        "Thumbnail":  "https://i.ytimg.com/vi/N1viMvWS8Xs/hqdefault.jpg",
+        "PublishedAt":  "2026-05-11T00:00:18.0000000Z",
+        "DiscoveredAt":  "2026-05-11T01:19:19.9374151Z",
+        "Duration":  "00:05:59",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JXQkE16YPQ4",
         "Title":  "🔥 BAND-MAID – “After Life” (Official Music Video) Reaction! 🔥",
         "Channel":  "Mike Mosrie",
