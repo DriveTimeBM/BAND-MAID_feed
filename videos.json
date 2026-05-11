@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "csAnqKVZ_fI",
+        "Title":  "BAND-MAID / SUPER SUNSHINE (Official Video)　Commercial Theme Song for “Hakutake Shiro” - Reaction",
+        "Channel":  "Xsezz",
+        "ChannelId":  "UCAgT8Z5ThEyvpl58586myWA",
+        "Url":  "https://youtu.be/csAnqKVZ_fI",
+        "Thumbnail":  "https://i.ytimg.com/vi/csAnqKVZ_fI/hqdefault.jpg",
+        "PublishedAt":  "2026-05-11T22:38:08.0000000Z",
+        "DiscoveredAt":  "2026-05-11T22:53:07.5843854Z",
+        "Duration":  "00:05:38",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rF-SlDmFzLU",
         "Title":  "Band-Maid Day of Maid 5-10-2026 Recap #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
