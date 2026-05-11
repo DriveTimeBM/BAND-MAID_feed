@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dxEHnXHzH1c",
+        "Title":  "BAND-MAID - Domination Reaction | Unbelievable performance! (Official live)",
+        "Channel":  "Nick out of Focus",
+        "ChannelId":  "UCYf97wOAY_jz-VOVvpN1dyw",
+        "Url":  "https://youtu.be/dxEHnXHzH1c",
+        "Thumbnail":  "https://i.ytimg.com/vi/dxEHnXHzH1c/hqdefault.jpg",
+        "PublishedAt":  "2026-05-11T10:01:05.0000000Z",
+        "DiscoveredAt":  "2026-05-11T10:05:04.7656388Z",
+        "Duration":  "00:11:34",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "F3SlmygeRz4",
         "Title":  "First Time Hearing \"YOLO\" From Band-Maid. Metal Head Musician Reacts",
         "Channel":  "The Mad Scientist Musician",
