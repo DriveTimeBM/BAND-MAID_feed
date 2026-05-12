@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 11 May 2026 21:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 01:28:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I could not agree more with that. Misa from Band-Maid, the barefoot assassin,...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mlml2kaw4k2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mlml2kaw4k2p</guid>
+      <pubDate>Tue, 12 May 2026 00:50:48 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I could not agree more with that. Misa from Band-Maid, the barefoot assassin, is as cool as it can get. And what incredible bass tone.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] in the meantime doesn't band-maid have something new coming out soon?</title>
       <link>https://bsky.app/profile/did:plc:om5ovtia6u3fsbemcmdhdmf6/post/3mlm2yrfphc2z</link>
@@ -899,15 +908,6 @@
       <dc:creator>Merry Ol' Soul (merryolsoul.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I&#39;ve never been so nervous to play a youtube video.<br/><br/>But all is well. <br/><br/>BAND-MAID is a real LIVE band , real singing and real playing , when you go to a show. <br/><br/>#music #japan <br/><br/>youtu.be/lJ5b30L-AQA?...</p><p><em>BlueSky &middot; merryolsoul.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] メイド服という記号が消えたあとに残るのは、</title>
-      <link>https://bsky.app/profile/did:plc:hfqiuadj2tusxjoxn2qwstvn/post/3mkyk6tvz6s2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hfqiuadj2tusxjoxn2qwstvn/post/3mkyk6tvz6s2s</guid>
-      <pubDate>Mon, 04 May 2026 01:42:03 GMT</pubDate>
-      <dc:creator>我楽Gara (gara3.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>メイド服という記号が消えたあとに残るのは、<br/>“構造の意志”だった。<br/>BAND-MAID が世界で違和感なく読まれた理由を、<br/>身体・建築・記号の反転から静かに解き明かす。<br/><br/>#BANDMAID #QuietThunder<br/>garaosyou.hatenablog.com/entry/hr-hm/...</p><p><em>BlueSky &middot; gara3.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
