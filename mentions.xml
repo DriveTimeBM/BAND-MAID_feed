@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 12 May 2026 17:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 23:29:32 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAIDの小鳩ミクがくるっぽ名義で参加してる楽曲聞いて欲しい</title>
+      <link>https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3mloufkuozk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3mloufkuozk2o</guid>
+      <pubDate>Tue, 12 May 2026 22:43:20 GMT</pubDate>
+      <dc:creator>さかざき(`^´69) (red-herring-11250.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDの小鳩ミクがくるっぽ名義で参加してる楽曲聞いて欲しい</p><p><em>BlueSky &middot; red-herring-11250.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] These amazing ladies of Band-Maid.</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mloan7oyr227</link>
@@ -899,15 +908,6 @@
       <dc:creator>Vilson Stratos (vilsonstratos.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Segue lista de possiveis candidatas:<br/><br/>- Ado<br/>- Aina the End<br/>- Band Maid<br/>- Kessoku Band<br/><br/>De nada</p><p><em>BlueSky &middot; vilsonstratos.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Lovebites and Band Maid and The Warning. Three non-American all women metal b...</title>
-      <link>https://bsky.app/profile/did:plc:cdz3txy46qm4wzzwg25azce4/post/3mkzltjgkkk2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:cdz3txy46qm4wzzwg25azce4/post/3mkzltjgkkk2c</guid>
-      <pubDate>Mon, 04 May 2026 11:44:10 GMT</pubDate>
-      <dc:creator>Kalra Kilrai (kalra.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Lovebites and Band Maid and The Warning. Three non-American all women metal bands that are amazing.</p><p><em>BlueSky &middot; kalra.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
