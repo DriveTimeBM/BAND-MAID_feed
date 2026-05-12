@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XVRBBb8EnrE",
+        "Title":  "Grading YouTubes Top 5 Band-Maid Song Guitar Solos",
+        "Channel":  "The Mad Scientist Musician",
+        "ChannelId":  "UCzeKtrOlYvPT--er4QIyPGg",
+        "Url":  "https://youtu.be/XVRBBb8EnrE",
+        "Thumbnail":  "https://i.ytimg.com/vi/XVRBBb8EnrE/hqdefault.jpg",
+        "PublishedAt":  "2026-05-12T14:01:02.0000000Z",
+        "DiscoveredAt":  "2026-05-12T14:15:31.3744420Z",
+        "Duration":  "00:07:50",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "aoSy8NpxZqY",
         "Title":  "1st Time Reaction to BAND-MAID - The Dragon Cries",
         "Channel":  "P Reacts Daily",
