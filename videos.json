@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HB4WQCwurO4",
+        "Title":  "Japan Metal News METALVERSE , LOVEBITE, NEW Band Maid song!〈Gacharic Spin /DOLL$BOXX〉",
+        "Channel":  "APOKALYPSE34",
+        "ChannelId":  "UCBt3JX654OyVDFwYUtZFkDw",
+        "Url":  "https://youtu.be/HB4WQCwurO4",
+        "Thumbnail":  "https://i.ytimg.com/vi/HB4WQCwurO4/hqdefault.jpg",
+        "PublishedAt":  "2026-05-12T15:00:25.0000000Z",
+        "DiscoveredAt":  "2026-05-12T15:16:46.3340654Z",
+        "Duration":  "00:15:35",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XVRBBb8EnrE",
         "Title":  "Grading YouTubes Top 5 Band-Maid Song Guitar Solos",
         "Channel":  "The Mad Scientist Musician",
