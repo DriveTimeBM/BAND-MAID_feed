@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "R3x7Vu6dzeg",
+        "Title":  "BAND-MAID / Blooming (Official Music Video) 🌸Reaction🌸",
+        "Channel":  "Faro & Sofi",
+        "ChannelId":  "UCLQzdUgHF9l_eybT3_Wo22A",
+        "Url":  "https://youtu.be/R3x7Vu6dzeg",
+        "Thumbnail":  "https://i.ytimg.com/vi/R3x7Vu6dzeg/hqdefault.jpg",
+        "PublishedAt":  "2026-05-12T16:30:22.0000000Z",
+        "DiscoveredAt":  "2026-05-12T16:37:13.7406166Z",
+        "Duration":  "00:08:16",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "h4fbKn3_0mE",
         "Title":  "#87 BAND-MAID / Why Why Why - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
         "Channel":  "K-Ross Reacts",
