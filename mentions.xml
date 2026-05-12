@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 12 May 2026 12:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 17:44:27 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] These amazing ladies of Band-Maid.</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mloan7oyr227</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mloan7oyr227</guid>
+      <pubDate>Tue, 12 May 2026 16:49:42 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>These amazing ladies of Band-Maid.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Make a band out of two others.</title>
       <link>https://bsky.app/profile/did:plc:x52kedh6ykzctkbh7anybn6n/post/3mlnpyfv3us2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>Kalra Kilrai (kalra.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Lovebites and Band Maid and The Warning. Three non-American all women metal bands that are amazing.</p><p><em>BlueSky &middot; kalra.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Unfair game</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mkyyxtqhgu2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mkyyxtqhgu2q</guid>
-      <pubDate>Mon, 04 May 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Unfair game<br/>Album: YOLO<br/>Release: 11/15/2016<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:12/6/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
