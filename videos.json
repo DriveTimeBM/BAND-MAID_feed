@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CKQG7-E-5gA",
+        "Title":  "FREEDOM LIVE | Band-Maid Reaction",
+        "Channel":  "Halley Furlong",
+        "ChannelId":  "UC772bjJuJjw5XkPMTZCrlqg",
+        "Url":  "https://youtu.be/CKQG7-E-5gA",
+        "Thumbnail":  "https://i.ytimg.com/vi/CKQG7-E-5gA/hqdefault.jpg",
+        "PublishedAt":  "2026-05-12T22:40:51.0000000Z",
+        "DiscoveredAt":  "2026-05-12T22:58:34.1320943Z",
+        "Duration":  "00:06:43",
+        "ViewsAtDiscovery":  19,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "W-CnxQjicbM",
         "Title":  "Nobody Warned Me About MISA's Bass 😭🔥 | BAND-MAID Manners + Black Hole Live Reaction",
         "Channel":  "Overthinking with Dennis",
