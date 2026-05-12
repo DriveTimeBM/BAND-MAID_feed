@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 12 May 2026 05:33:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 06:34:35 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] ENERGETIC[初回生産限定盤(CD+BD)] - BAND-MAID(メガジャケ(オリジナル絵柄)付) (Amazon限定) が、ミュージックランキ...</title>
+      <link>https://bsky.app/profile/did:plc:pwulbd4luduxjsdhbylismds/post/3mln2xhyqz52u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pwulbd4luduxjsdhbylismds/post/3mln2xhyqz52u</guid>
+      <pubDate>Tue, 12 May 2026 05:35:21 GMT</pubDate>
+      <dc:creator>ランキング急上昇情報 (amasmashhit.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>ENERGETIC[初回生産限定盤(CD+BD)] - BAND-MAID(メガジャケ(オリジナル絵柄)付) (Amazon限定) が、ミュージックランキングでその後2位まで上り詰めました。</p><p><em>BlueSky &middot; amasmashhit.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 5 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlmyq5b3e42y</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago<br/>Thrill MV<br/>milestone<br/>surpassed 7 million views<br/>2018/5/4<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 11 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mkyuyrpa7x2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mkyuyrpa7x2a</guid>
-      <pubDate>Mon, 04 May 2026 04:55:30 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>11 years ago<br/>Arcadia Girl<br/>live debut<br/>Shibuya Eggman, Tokyo, Japan<br/>2015/5/4<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
