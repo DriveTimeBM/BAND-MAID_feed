@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FtiJ48QDH_s",
+        "Title":  "BAND-MAID Special collaborative session Digest MUSIC REACTION",
+        "Channel":  "Hood Digital Da Rock Reactor",
+        "ChannelId":  "UCKHaikgsu3Nfrhx-Va6rGGw",
+        "Url":  "https://youtu.be/FtiJ48QDH_s",
+        "Thumbnail":  "https://i.ytimg.com/vi/FtiJ48QDH_s/hqdefault.jpg",
+        "PublishedAt":  "2026-05-12T17:18:01.0000000Z",
+        "DiscoveredAt":  "2026-05-12T17:44:06.4812080Z",
+        "Duration":  "00:09:25",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "R3x7Vu6dzeg",
         "Title":  "BAND-MAID / Blooming (Official Music Video) 🌸Reaction🌸",
         "Channel":  "Faro & Sofi",
