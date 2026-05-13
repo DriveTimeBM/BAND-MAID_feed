@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 12 May 2026 23:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 03:04:55 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] looking at the FH6 soundtrack</title>
+      <link>https://bsky.app/profile/did:plc:xos5rxmwedq5bqc2dkbobmys/post/3mlp6gcbepnbi</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xos5rxmwedq5bqc2dkbobmys/post/3mlp6gcbepnbi</guid>
+      <pubDate>Wed, 13 May 2026 01:42:42 GMT</pubDate>
+      <dc:creator>funny racc (remyraccoon.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>looking at the FH6 soundtrack<br/><br/>Coheed? ONE OK ROCK? Rise Against? BABYMETAL? BAND-MAID? Utada Hikaru???? It actually looks really solid dude I’m so mad</p><p><em>BlueSky &middot; remyraccoon.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAIDの小鳩ミクがくるっぽ名義で参加してる楽曲聞いて欲しい</title>
       <link>https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3mloufkuozk2o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Madaô (madao.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Estarei l&#225; ouvindo Band Maid 🫡</p><p><em>BlueSky &middot; madao.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Segue lista de possiveis candidatas:</title>
-      <link>https://bsky.app/profile/did:plc:nwq466lcf7p5cdokbjvxuvjh/post/3mkzwomiopu2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:nwq466lcf7p5cdokbjvxuvjh/post/3mkzwomiopu2p</guid>
-      <pubDate>Mon, 04 May 2026 14:57:12 GMT</pubDate>
-      <dc:creator>Vilson Stratos (vilsonstratos.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Segue lista de possiveis candidatas:<br/><br/>- Ado<br/>- Aina the End<br/>- Band Maid<br/>- Kessoku Band<br/><br/>De nada</p><p><em>BlueSky &middot; vilsonstratos.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
