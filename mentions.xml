@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 14 May 2026 16:37:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 20:17:24 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Bonus 10 because I forgot to put Coldrian on the previous list 🤦‍♂️😁</title>
+      <link>https://bsky.app/profile/did:plc:ppseob43lpzhi3j6vaa4pk4r/post/3mltbwilfrs2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ppseob43lpzhi3j6vaa4pk4r/post/3mltbwilfrs2t</guid>
+      <pubDate>Thu, 14 May 2026 16:56:06 GMT</pubDate>
+      <dc:creator>MarcGriffiths (therpgenius.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Bonus 10 because I forgot to put Coldrian on the previous list 🤦‍♂️😁<br/><br/>. Coldrain<br/>. The Black Keys<br/>. Band Maid<br/>. Wunderhorse <br/>. The Ks<br/>. Black Sabbath<br/>. Heart <br/>. Arctic Monkeys <br/>. The Wombats<br/>. L.A.B</p><p><em>BlueSky &middot; therpgenius.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] En la emisora metalera también están Babymetal y Band-Maid, así que automátic...</title>
       <link>https://bsky.app/profile/did:plc:ogy56g7j7pls2xz7cnsu7iqd/post/3mlt5kt2vhx2k</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I know nothing about guitar on a technical level, but in terms of encapsulating the emotion of a song in a (short) solo, Kanami Tono on Band Maid&#39;s Daydreaming is pretty much perfect, IMO (www.youtube.com/watch?v=g6S0...)</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Alive-or-Dead</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3ml3jgupm3n2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3ml3jgupm3n2z</guid>
-      <pubDate>Tue, 05 May 2026 06:06:36 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Alive-or-Dead<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
