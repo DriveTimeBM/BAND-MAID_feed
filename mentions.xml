@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 14 May 2026 11:28:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 16:37:36 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] En la emisora metalera también están Babymetal y Band-Maid, así que automátic...</title>
+      <link>https://bsky.app/profile/did:plc:ogy56g7j7pls2xz7cnsu7iqd/post/3mlt5kt2vhx2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ogy56g7j7pls2xz7cnsu7iqd/post/3mlt5kt2vhx2k</guid>
+      <pubDate>Thu, 14 May 2026 15:38:00 GMT</pubDate>
+      <dc:creator>Kraken17 🦑 (kraken17.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>En la emisora metalera tambi&#233;n est&#225;n Babymetal y Band-Maid, as&#237; que autom&#225;ticamente mejor soundtrack de Forza de todos los tiempos, declaro.</p><p><em>BlueSky &middot; kraken17.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAIDにハマったなこれ</title>
       <link>https://bsky.app/profile/did:plc:jlllypqim6p72djtkhaqksig/post/3mlsnkaxr3l62</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Alive-or-Dead<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played at Shibuya Milkyway in Tokyo JP on 2014/5/5. Th...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3ml3j2ko5dg2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3ml3j2ko5dg2x</guid>
-      <pubDate>Tue, 05 May 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played at Shibuya Milkyway in Tokyo JP on 2014/5/5. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
