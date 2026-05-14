@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LWODSISW2r4",
+        "Title":  "BAND-MAID、4年半ぶり衝撃発表... 「ENERGETIC」に込めた本当の意味とは?",
+        "Channel":  "japan info",
+        "ChannelId":  "UC_Nf-z4XFIENVEUHPLsZxPQ",
+        "Url":  "https://youtu.be/LWODSISW2r4",
+        "Thumbnail":  "https://i.ytimg.com/vi/LWODSISW2r4/hqdefault.jpg",
+        "PublishedAt":  "2026-05-14T01:31:33.0000000Z",
+        "DiscoveredAt":  "2026-05-14T01:47:34.9593551Z",
+        "Duration":  "00:01:46",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "49_BIvOzaJY",
         "Title":  "BAND-MAID - “Super Sunshine” Live 😳 First Reaction | Pure POSITIVITY!",
         "Channel":  "Zack Reacts",
