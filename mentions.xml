@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 14 May 2026 06:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 11:28:49 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAIDにハマったなこれ</title>
+      <link>https://bsky.app/profile/did:plc:jlllypqim6p72djtkhaqksig/post/3mlsnkaxr3l62</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jlllypqim6p72djtkhaqksig/post/3mlsnkaxr3l62</guid>
+      <pubDate>Thu, 14 May 2026 10:51:20 GMT</pubDate>
+      <dc:creator>La+ (laplusdestiny.misskey.io.ap.brid.gy)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDにハマったなこれ</p><p><em>BlueSky &middot; laplusdestiny.misskey.io.ap.brid.gy</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: After Life</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mls5n3mmnn2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>12 years ago Band-Maid played at Shibuya Milkyway in Tokyo JP on 2014/5/5. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 11 years ago Band-Maid played 6 songs at Shibuya Milkyway in Tokyo JP on 2015...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3ml3j2jqlpv2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3ml3j2jqlpv2z</guid>
-      <pubDate>Tue, 05 May 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>11 years ago Band-Maid played 6 songs at Shibuya Milkyway in Tokyo JP on 2015/5/5. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
