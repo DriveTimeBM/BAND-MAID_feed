@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 13 May 2026 16:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 02:49:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #MusicChallenge</title>
+      <link>https://bsky.app/profile/did:plc:4hlqhppsazwbhyfajonzdxzb/post/3mlrpsyx4is2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4hlqhppsazwbhyfajonzdxzb/post/3mlrpsyx4is2y</guid>
+      <pubDate>Thu, 14 May 2026 01:59:22 GMT</pubDate>
+      <dc:creator>SUgoiBxMxC1968 - Bass Player (babymetalfanatic.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#MusicChallenge<br/>Name 10 bands you&#39;ve obsessed over at some point:<br/>(11 for the price of 10)<br/><br/>1. Rush<br/>2. Dream Theater<br/>3. Fates Warning<br/>4. Babymetal<br/>5. Slayer<br/>6. Depeche Mode<br/>7. The Cure<br/>8. Epica<br/>9. Band-Maid<br/>10. Jinjer<br/>11. Yes<br/><br/>There are too many to list. This is what came off the top of my head.</p><p><em>BlueSky &middot; babymetalfanatic.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band Maid is so impressive on every level it blows me away every time I liste...</title>
       <link>https://bsky.app/profile/did:plc:32lwbzn2edvgge4wsycgqd7i/post/3mlqnyjbj5s2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>5 years ago<br/>Warning! MV<br/>milestone<br/>surpassed 1 million views<br/>2021/5/5<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 11 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3ml3fhm5pxn2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3ml3fhm5pxn2s</guid>
-      <pubDate>Tue, 05 May 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>11 years ago<br/>FREEZER<br/>live debut<br/>Shibuya Milkyway, Tokyo, Japan<br/>2015/5/5<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
