@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 15 May 2026 06:33:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 07:03:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Woo Hoo!".</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mluo3xmfia22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mluo3xmfia22</guid>
+      <pubDate>Fri, 15 May 2026 06:06:34 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Woo Hoo!&quot;.<br/><br/>Kobato: The way the tension rises when I say the title or play the intro before the performance is amazing. It&#39;s a slow song which is unusual for BAND-MAID but overseas, the audience just goes wild.<br/><br/>Saiki: Also, in &quot;Before Yesterday,&quot; everyone starts buzzing the moment the intro backtra</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Song: Before Yesterday</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mluo3x42u52o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mluo3x42u52o</guid>
+      <pubDate>Fri, 15 May 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Before Yesterday<br/>Album: Brand New MAID<br/>Release: 5/17/2016<br/>Music: 岡本仁志 [Okamoto, Hitoshi]<br/>Lyrics: 中村彼方 [Nakamura, Kanata]<br/>Arrangement: 岡本仁志 [Okamoto, Hitoshi]<br/>1st Live:3/19/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 12 years ago Band-Maid played at morph in Tokyo JP on 2014/5/15. The setlist ...</title>
       <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mlunpvlyr72z</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: H-G-K<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played at BoRDER in Hiroshima JP on 2016/5/6. The setl...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3ml5zjhvxq42a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3ml5zjhvxq42a</guid>
-      <pubDate>Wed, 06 May 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played at BoRDER in Hiroshima JP on 2016/5/6. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago Band-Maid played 2 songs at Oomiya Sonic City in Saitama JP on 20...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3ml5zjgwcwr2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3ml5zjgwcwr2m</guid>
-      <pubDate>Wed, 06 May 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago Band-Maid played 2 songs at Oomiya Sonic City in Saitama JP on 2018/5/6. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
