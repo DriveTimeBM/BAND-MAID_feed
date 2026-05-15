@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 15 May 2026 07:03:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 11:40:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://www.wacoca.com/media/656872/ MISA（BAND-MAID）、シグネチャー・モデル・ベース第2弾”PR BET...</title>
+      <link>https://wakoka.com/@media/116578328660848898</link>
+      <guid isPermaLink="true">https://wakoka.com/@media/116578328660848898</guid>
+      <pubDate>Fri, 15 May 2026 11:22:06 GMT</pubDate>
+      <dc:creator>Media Japan (media@wakoka.com)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://www.wacoca.com/media/656872/ MISA（BAND-MAID）、シグネチャー・モデル・ベース第2弾”PR BETA-J5 MISA”発売決定！ | 激ロック ニュース https://wakoka.com/tags/BANDMAID https://wakoka.com/tags/music https://wakoka.com/tags/%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%89 https://wakoka.com/tags/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A1%E3%82%A4%E3%83%89 https://wakoka.com/tags/%E9%9F%B3%E6%A5%BD</p><p><em>Mastodon &middot; media@wakoka.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Woo Hoo!".</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mluo3xmfia22</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>ut Band-Maid songs have such a cool development of the D-melody [note: different verse] after the chorus.<br/><br/>Kobato: You love changing developments, right? [Note: said to Kanami.]<br/><br/>Kanami: Of course we have songs like A-melody, B-melody, chorus, interlude, guitar solo, final chorus, and that’s all, bu</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: H-G-K</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3ml5zvo5ymk2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3ml5zvo5ymk2o</guid>
-      <pubDate>Wed, 06 May 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: H-G-K<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
