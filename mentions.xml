@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 15 May 2026 05:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 06:33:16 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 12 years ago Band-Maid played at morph in Tokyo JP on 2014/5/15. The setlist ...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mlunpvlyr72z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mlunpvlyr72z</guid>
+      <pubDate>Fri, 15 May 2026 05:59:49 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>12 years ago Band-Maid played at morph in Tokyo JP on 2014/5/15. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 3 years ago Band-Maid played 19 songs at Emo's in Austin US on 2023/5/15. The...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mlunpujxni2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mlunpujxni2p</guid>
+      <pubDate>Fri, 15 May 2026 05:59:47 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>3 years ago Band-Maid played 19 songs at Emo&#39;s in Austin US on 2023/5/15. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] anyways praying that i win the lottery for the BAND-MAID world tour final con...</title>
       <link>https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3mluiavhwdk2e</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago Band-Maid played 2 songs at Oomiya Sonic City in Saitama JP on 2018/5/6. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Have you listened to BAND-MAID yet? Very solid Japanese all female hard rock ...</title>
-      <link>https://bsky.app/profile/did:plc:2lfsjnkcmffehlbz5bwijhlh/post/3ml4jd5rlhc2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2lfsjnkcmffehlbz5bwijhlh/post/3ml4jd5rlhc2x</guid>
-      <pubDate>Tue, 05 May 2026 15:37:13 GMT</pubDate>
-      <dc:creator>Yvalarevolution⁷ (yvalarevolution.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Have you listened to BAND-MAID yet? Very solid Japanese all female hard rock band.</p><p><em>BlueSky &middot; yvalarevolution.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Forza 6 has Band-Maid on the soundtrack.</title>
-      <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3ml4bbp5xmc2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3ml4bbp5xmc2l</guid>
-      <pubDate>Tue, 05 May 2026 13:13:14 GMT</pubDate>
-      <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Forza 6 has Band-Maid on the soundtrack.<br/><br/>I was going to pass on this version cos I&#39;m a bit tired of Forza but with this news... I&#39;m back in all over again :)<br/><br/>store.steampowered.com/app/2483190/...</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
