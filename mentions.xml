@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 15 May 2026 11:40:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 06:48:07 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: ansan</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlx6ku6gh72o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlx6ku6gh72o</guid>
+      <pubDate>Sat, 16 May 2026 06:06:32 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: ansan<br/>Album: BAND-MAIKO<br/>Release: 3/31/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] https://www.wacoca.com/media/656872/ MISA（BAND-MAID）、シグネチャー・モデル・ベース第2弾”PR BET...</title>
       <link>https://wakoka.com/@media/116578328660848898</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>een having more songs like that since Secret My lips, right?<br/><br/>Kanami: Is that so? I don’t remember.<br/><br/>Kobato: We’ve been having more and more developments like that since then, po.<br/><br/>Kanami: I’m glad when I’m said “You Band-Maid have a lot of songs like that” because I like them quite a lot.<br/><br/>— I’m dr</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ut Band-Maid songs have such a cool development of the D-melody [note: differ...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3ml5zvpti3p2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3ml5zvpti3p2t</guid>
-      <pubDate>Wed, 06 May 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>ut Band-Maid songs have such a cool development of the D-melody [note: different verse] after the chorus.<br/><br/>Kobato: You love changing developments, right? [Note: said to Kanami.]<br/><br/>Kanami: Of course we have songs like A-melody, B-melody, chorus, interlude, guitar solo, final chorus, and that’s all, bu</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
