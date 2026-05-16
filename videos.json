@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "GgPxm-1R0RI",
+        "Title":  "Band Maid Gion Cho Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/GgPxm-1R0RI",
+        "Thumbnail":  "https://i.ytimg.com/vi/GgPxm-1R0RI/hqdefault.jpg",
+        "PublishedAt":  "2026-05-16T06:05:06.0000000Z",
+        "DiscoveredAt":  "2026-05-16T06:17:26.3822647Z",
+        "Duration":  "00:04:05",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "lcHWeA9buwc",
+        "Title":  "世界へ、そして武道館へ-BAND-MAID“小休止”前の最後の約束 」",
+        "Channel":  "japan info",
+        "ChannelId":  "UC_Nf-z4XFIENVEUHPLsZxPQ",
+        "Url":  "https://youtu.be/lcHWeA9buwc",
+        "Thumbnail":  "https://i.ytimg.com/vi/lcHWeA9buwc/hqdefault.jpg",
+        "PublishedAt":  "2026-05-16T05:55:33.0000000Z",
+        "DiscoveredAt":  "2026-05-16T06:17:25.8260975Z",
+        "Duration":  "00:01:26",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wP7kusW6XiY",
         "Title":  "BAND-MAID │ Unleash!!!!! LIVE │ \"What a GREAT preformance of a GREAT song!!!!!🤘🤘🤘",
         "Channel":  "Wakijax",
