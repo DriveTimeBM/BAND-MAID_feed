@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 16 May 2026 06:48:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 18:19:59 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] we got BAND-MAID in here</title>
+      <link>https://bsky.app/profile/did:plc:smo4shq4iappod6tbhflfmxu/post/3mlyei4xg7c2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:smo4shq4iappod6tbhflfmxu/post/3mlyei4xg7c2i</guid>
+      <pubDate>Sat, 16 May 2026 17:25:04 GMT</pubDate>
+      <dc:creator>Standard Issue Computing (standardissuecomputing.blog)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>we got BAND-MAID in here</p><p><em>BlueSky &middot; standardissuecomputing.blog</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: ansan</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlx6ku6gh72o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Grumpyrocker (grumpyrocker.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Baby Metal and Band Maid in the Forza Horizon 6 tracklist:<br/>forza.net/news/forza-h...</p><p><em>BlueSky &middot; grumpyrocker.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] een having more songs like that since Secret My lips, right?</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3ml5zvqiiyx2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3ml5zvqiiyx2y</guid>
-      <pubDate>Wed, 06 May 2026 06:06:36 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>een having more songs like that since Secret My lips, right?<br/><br/>Kanami: Is that so? I don’t remember.<br/><br/>Kobato: We’ve been having more and more developments like that since then, po.<br/><br/>Kanami: I’m glad when I’m said “You Band-Maid have a lot of songs like that” because I like them quite a lot.<br/><br/>— I’m dr</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
