@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 16 May 2026 18:19:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 19:21:32 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Relatable. Band Maid goes hard</title>
+      <link>https://bsky.app/profile/did:plc:jmw7j327qhc52mopp3jfvmye/post/3mlyhlrgids2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jmw7j327qhc52mopp3jfvmye/post/3mlyhlrgids2g</guid>
+      <pubDate>Sat, 16 May 2026 18:20:47 GMT</pubDate>
+      <dc:creator>Deer Kult (deerkult.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Relatable. Band Maid goes hard</p><p><em>BlueSky &middot; deerkult.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] we got BAND-MAID in here</title>
       <link>https://bsky.app/profile/did:plc:smo4shq4iappod6tbhflfmxu/post/3mlyei4xg7c2i</link>
@@ -899,15 +908,6 @@
       <dc:creator>Marc on Drums ← ZURÜCK in die ZUKUNFT ← den Backlash beenden! (marcondrums.eurosky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Mehr Frauen in der Rockmusik – wo ansetzen?<br/><br/>Ich gehe davon aus, dass Einstellungen, Verhalten und auch Interessen von Menschen haupts&#228;chlich durch ihre Sozialisation gepr&#228;gt sind und Auspr&#228;gungen wie bspw. „Frauen- und M&#228;nnerberufe“ eher kulturell als biologisch begr&#252;ndet sind.<br/><br/>1/4<br/><br/>#FLINTA #Rock</p><p><em>BlueSky &middot; marcondrums.eurosky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Baby Metal and Band Maid in the Forza Horizon 6 tracklist:</title>
-      <link>https://bsky.app/profile/did:plc:rzsoymmwrahqnjyoqlytwppd/post/3ml6fpgd3o32s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rzsoymmwrahqnjyoqlytwppd/post/3ml6fpgd3o32s</guid>
-      <pubDate>Wed, 06 May 2026 09:37:42 GMT</pubDate>
-      <dc:creator>Grumpyrocker (grumpyrocker.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Baby Metal and Band Maid in the Forza Horizon 6 tracklist:<br/>forza.net/news/forza-h...</p><p><em>BlueSky &middot; grumpyrocker.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
