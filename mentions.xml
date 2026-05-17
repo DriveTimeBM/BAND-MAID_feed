@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 17 May 2026 06:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 07:40:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Ten musical acts you’ve obsessed over, in no particular order</title>
+      <link>https://bsky.app/profile/did:plc:dzdzk7cqkstbq3gehytlbvyo/post/3mlzr64mewc23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dzdzk7cqkstbq3gehytlbvyo/post/3mlzr64mewc23</guid>
+      <pubDate>Sun, 17 May 2026 06:44:46 GMT</pubDate>
+      <dc:creator>Ducky 🦆 (duckatakeyboard.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Ten musical acts you’ve obsessed over, in no particular order<br/><br/>NOFX<br/>Incubus<br/>Deftones<br/>BANDMAID<br/>Baby Metal<br/>Taylor Swift<br/>Ghost<br/>MF DOOM<br/>MC Chris<br/>Gorillaz</p><p><em>BlueSky &middot; duckatakeyboard.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Corallium</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlzozsjn372t</link>
@@ -899,15 +908,6 @@
       <dc:creator>芸能エンタメちゃんねる (geino-entame.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>『THE GREATEST ROCK FUKUOKA』にHOUND DOG、LOUDNESS出演決定 JOURNEY、NIGHT RANGER、BAND-MAIDに続き発表<br/>#ライブ情報 #洋楽 #音楽 #芸能ニュース</p><p><em>BlueSky &middot; geino-entame.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 福岡ドーム「THE GREATEST ROCK」に</title>
-      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mla7yilzsy2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mla7yilzsy2r</guid>
-      <pubDate>Thu, 07 May 2026 03:00:48 GMT</pubDate>
-      <dc:creator>音楽ナタリー (music.natalie.mu)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>福岡ドーム「THE GREATEST ROCK」に<br/>HOUND DOGとLOUDNESSも出演🎸<br/><br/>🔽共演はJourney、Night Ranger、BAND-MAID<br/>https://natalie.mu/music/news/671018?utm_source=bluesky&amp;utm_medium=social<br/><br/>#FUKUROCK</p><p><em>BlueSky &middot; music.natalie.mu</em></p>]]></description>
     </item>
   </channel>
 </rss>
