@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 17 May 2026 07:40:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 13:50:51 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 新譜・話題作、もうチェックした？</title>
+      <link>https://bsky.app/profile/did:plc:qimtgi33gkhroitggfrb56nm/post/3mm2ggzi74j2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qimtgi33gkhroitggfrb56nm/post/3mm2ggzi74j2y</guid>
+      <pubDate>Sun, 17 May 2026 13:05:32 GMT</pubDate>
+      <dc:creator>Muva@おすすめCD紹介 (muva-rakuten.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>新譜・話題作、もうチェックした？<br/><br/>『SCOOOOOP(通常盤) - BAND-MAID (特典なし)』/ SCOOOOOP<br/><br/>🛒 商品ページはこちら！<br/>🎧 商品ページはこちら！<br/><br/>#SCOOOOOP #音楽 #PR #神曲 #メルカリ</p><p><em>BlueSky &middot; muva-rakuten.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Ten musical acts you’ve obsessed over, in no particular order</title>
       <link>https://bsky.app/profile/did:plc:dzdzk7cqkstbq3gehytlbvyo/post/3mlzr64mewc23</link>
@@ -899,15 +908,6 @@
       <dc:creator>Media Japan (media@wakoka.com)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>https://www.wacoca.com/media/649319/ JOURNEY、NIGHT RANGER、BAND-MAID出演の音楽イベント”THE GREATEST ROCK FUKUOKA”、追加出演者にLOUDNESS、HOUND DOG決定！ https://wakoka.com/tags/BANDMAID https://wakoka.com/tags/LOUDNESS https://wakoka.com/tags/music https://wakoka.com/tags/%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%89 https://wakoka.com/tags/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A1%E3%82%A4%E3%83%89 https://wakoka.com/tags/%E3%83%A9%E3%82%A6%E3%83%89%E3%83%8D%E3%82%B9 https://wakoka.com/tags/%E9%9F%B3%E6%A5%BD</p><p><em>Mastodon &middot; media@wakoka.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 『THE GREATEST ROCK FUKUOKA』にHOUND DOG、LOUDNESS出演決定 JOURNEY、NIGHT RANGER、BAND-...</title>
-      <link>https://bsky.app/profile/did:plc:abdj6zdyjhs4pn54jefzm3bt/post/3mlaayc5d3l2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:abdj6zdyjhs4pn54jefzm3bt/post/3mlaayc5d3l2a</guid>
-      <pubDate>Thu, 07 May 2026 03:18:37 GMT</pubDate>
-      <dc:creator>芸能エンタメちゃんねる (geino-entame.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>『THE GREATEST ROCK FUKUOKA』にHOUND DOG、LOUDNESS出演決定 JOURNEY、NIGHT RANGER、BAND-MAIDに続き発表<br/>#ライブ情報 #洋楽 #音楽 #芸能ニュース</p><p><em>BlueSky &middot; geino-entame.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
