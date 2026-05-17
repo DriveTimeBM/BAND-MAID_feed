@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 16 May 2026 19:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 03:34:23 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid! :D</title>
+      <link>https://bsky.app/profile/did:plc:q5vvppacnqkhfr6xy37kwgqo/post/3mlze5u6pqc2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:q5vvppacnqkhfr6xy37kwgqo/post/3mlze5u6pqc2p</guid>
+      <pubDate>Sun, 17 May 2026 02:51:59 GMT</pubDate>
+      <dc:creator>Vermillion X. Fox (vermyfox.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid! :D<br/><br/>www.youtube.com/watch?v=ZpAY...</p><p><em>BlueSky &middot; vermyfox.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Relatable. Band Maid goes hard</title>
       <link>https://bsky.app/profile/did:plc:jmw7j327qhc52mopp3jfvmye/post/3mlyhlrgids2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>Marc on Drums ← ZURÜCK in die ZUKUNFT ← den Backlash beenden! (marcondrums.eurosky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Habt Ihr Ideen dazu, wie ich als greiser Drummer dazu beitragen kann, dass mich FLINTAs am Schlagzeug abl&#246;sen wollen?<br/><br/>4/4<br/><br/>(Foto im Ausgangspost: Akane Hirose von Band-Maid 🤘)</p><p><em>BlueSky &middot; marcondrums.eurosky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Mehr Frauen in der Rockmusik – wo ansetzen?</title>
-      <link>https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3ml6oocbmac26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3ml6oocbmac26</guid>
-      <pubDate>Wed, 06 May 2026 12:18:15 GMT</pubDate>
-      <dc:creator>Marc on Drums ← ZURÜCK in die ZUKUNFT ← den Backlash beenden! (marcondrums.eurosky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Mehr Frauen in der Rockmusik – wo ansetzen?<br/><br/>Ich gehe davon aus, dass Einstellungen, Verhalten und auch Interessen von Menschen haupts&#228;chlich durch ihre Sozialisation gepr&#228;gt sind und Auspr&#228;gungen wie bspw. „Frauen- und M&#228;nnerberufe“ eher kulturell als biologisch begr&#252;ndet sind.<br/><br/>1/4<br/><br/>#FLINTA #Rock</p><p><em>BlueSky &middot; marcondrums.eurosky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
