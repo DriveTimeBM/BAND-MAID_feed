@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 17 May 2026 17:29:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 23:43:34 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 🎧 BAND-MAID lança em 24 de junho o single “ENERGETIC” e segue com shows no R...</title>
+      <link>https://bsky.app/profile/did:plc:s3fz3schntxmeoqvoqaqtqtp/post/3mm3hw5esck2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:s3fz3schntxmeoqvoqaqtqtp/post/3mm3hw5esck2q</guid>
+      <pubDate>Sun, 17 May 2026 23:04:35 GMT</pubDate>
+      <dc:creator>JaME Brasil + KoME Brasil (jamebr.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>🎧 BAND-MAID lan&#231;a em 24 de junho o single “ENERGETIC” e segue com shows no Reino Unido, Alemanha e Fran&#231;a na etapa europeia da WORLD TOUR 2026. <br/>#BANDMAID #ENERGETIC #HardRock #Jrock #MusicaJaponesa <br/><br/>🔗 Detalhes: www.jame-world.com/br/news/1713...</p><p><em>BlueSky &middot; jamebr.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 🎥 Our REACTION is live! 🔹 The guitar solo was absolutely mind-blowing and f...</title>
       <link>https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mm2s3opfqq2w</link>
@@ -899,15 +908,6 @@
       <dc:creator>Bishop Steiner (bishopsteiner.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>18) Band-Maid, the Warning, Lovebites, Nightwish, Loreena McKennitt, Metallica, Iron Maiden, Epica, Opeth, Bach, Beethoven, Mozart, Johnny Cash, Marty Robinson, Beyond the Black, Charlie Crockett, Bolt Thrower, Death, Death Angel, etc....</p><p><em>BlueSky &middot; bishopsteiner.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Bye My Tears</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlakeldqsu2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlakeldqsu2g</guid>
-      <pubDate>Thu, 07 May 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Bye My Tears<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:1/29/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
