@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 17 May 2026 05:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 06:38:46 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Corallium</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlzozsjn372t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mlzozsjn372t</guid>
+      <pubDate>Sun, 17 May 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Corallium<br/>Album: Sense<br/>Release: 10/26/2021<br/>Music: BAND-MAID<br/>Lyrics: 彩姫 [Saiki]<br/>Arrangement: BAND-MAID<br/>1st Live:8/13/2022<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 13 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlzl2pwldf2a</link>
@@ -899,15 +908,6 @@
       <dc:creator>音楽ナタリー (music.natalie.mu)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>福岡ドーム「THE GREATEST ROCK」に<br/>HOUND DOGとLOUDNESSも出演🎸<br/><br/>🔽共演はJourney、Night Ranger、BAND-MAID<br/>https://natalie.mu/music/news/671018?utm_source=bluesky&amp;utm_medium=social<br/><br/>#FUKUROCK</p><p><em>BlueSky &middot; music.natalie.mu</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Pretty much anything by Band-Maid does that for me, but this is a prime examp...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3ml7o2g3oqs2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3ml7o2g3oqs2l</guid>
-      <pubDate>Wed, 06 May 2026 21:39:48 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Pretty much anything by Band-Maid does that for me, but this is a prime example for the Just Bring It album... www.youtube.com/watch?v=tGXz...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
