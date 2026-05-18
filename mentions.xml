@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 18 May 2026 06:37:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 17:50:11 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Lovebites, BAND-MAID, and Hagane...</title>
+      <link>https://bsky.app/profile/did:plc:hrkghhhpcteggnokd7dcbt7j/post/3mm5dmwq2l422</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hrkghhhpcteggnokd7dcbt7j/post/3mm5dmwq2l422</guid>
+      <pubDate>Mon, 18 May 2026 16:53:10 GMT</pubDate>
+      <dc:creator>Ordoalea (ordoalea.hr)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Lovebites, BAND-MAID, and Hagane...<br/><br/>Duuuh</p><p><em>BlueSky &middot; ordoalea.hr</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] t the lyrics will remain in your ears, until now we haven’t written songs for...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mm47isynkj2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: without holding back<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: <br/>Arrangement: BAND-MAID<br/>1st Live:1/11/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 白岳しろ×BAND-MAID『SUPER SUNSHINE』</title>
-      <link>https://bsky.app/profile/did:plc:xadchjnbtfe27igf5nwfz6a3/post/3mldtwmd6tshk</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xadchjnbtfe27igf5nwfz6a3/post/3mldtwmd6tshk</guid>
-      <pubDate>Fri, 08 May 2026 13:35:42 GMT</pubDate>
-      <dc:creator>atasinti🍺 (atasinti.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>白岳しろ&#215;BAND-MAID『SUPER SUNSHINE』<br/><br/>詳しくはブログに。<br/>https://atasinti.chu.jp/dad3/archives/90553<br/><br/>#BANDMAID #イラスト </p><p><em>BlueSky &middot; atasinti.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
