@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 17 May 2026 23:43:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 01:30:52 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] The Bandmaid's Tale</title>
+      <link>https://bsky.app/profile/did:plc:pmbnlvrtaphj52ht5c3zbzzt/post/3mm3n777k6k2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pmbnlvrtaphj52ht5c3zbzzt/post/3mm3n777k6k2v</guid>
+      <pubDate>Mon, 18 May 2026 00:39:07 GMT</pubDate>
+      <dc:creator>Henry LaCaville (henrylacaville.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>The Bandmaid&#39;s Tale</p><p><em>BlueSky &middot; henrylacaville.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 🎧 BAND-MAID lança em 24 de junho o single “ENERGETIC” e segue com shows no R...</title>
       <link>https://bsky.app/profile/did:plc:s3fz3schntxmeoqvoqaqtqtp/post/3mm3hw5esck2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Bishop Steiner (bishopsteiner.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>19) Can&#39;t think of a singular favorite song.<br/><br/>While My Guitar Gently Weeps - the Beatles<br/>Infinite Dreams - Iron Maiden<br/>From Now On - Band Maid<br/>Master&#39;s Apprentices - Opeth<br/>the Highwayman - Loreena McKennitt<br/>War Pigs - Black Sabbath <br/>Am I evil? Metallica and Diamond Head<br/>Ring of Fire, Johnny Cash</p><p><em>BlueSky &middot; bishopsteiner.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 18) Band-Maid, the Warning, Lovebites, Nightwish, Loreena McKennitt, Metallic...</title>
-      <link>https://bsky.app/profile/did:plc:nevvrmlbmoagga6hc3g6eqyw/post/3mlc2ttjuws2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:nevvrmlbmoagga6hc3g6eqyw/post/3mlc2ttjuws2o</guid>
-      <pubDate>Thu, 07 May 2026 20:34:05 GMT</pubDate>
-      <dc:creator>Bishop Steiner (bishopsteiner.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>18) Band-Maid, the Warning, Lovebites, Nightwish, Loreena McKennitt, Metallica, Iron Maiden, Epica, Opeth, Bach, Beethoven, Mozart, Johnny Cash, Marty Robinson, Beyond the Black, Charlie Crockett, Bolt Thrower, Death, Death Angel, etc....</p><p><em>BlueSky &middot; bishopsteiner.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
