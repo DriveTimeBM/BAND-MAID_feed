@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6dElU4R94AY",
+        "Title":  "Dilemma - BAND MAID (Lyric Music) Easy lyric",
+        "Channel":  "ItsmeKazuka",
+        "ChannelId":  "UCML3fPLWnH9XqfiB2N3lYwQ",
+        "Url":  "https://youtu.be/6dElU4R94AY",
+        "Thumbnail":  "https://i.ytimg.com/vi/6dElU4R94AY/hqdefault.jpg",
+        "PublishedAt":  "2026-05-18T07:39:52.0000000Z",
+        "DiscoveredAt":  "2026-05-18T07:45:34.4343758Z",
+        "Duration":  "00:03:35",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Soc8m5p2xXg",
         "Title":  "Reacting to Band Maid | Acoustic Concert | Sayonakidori",
         "Channel":  "Kyros Reactions",
