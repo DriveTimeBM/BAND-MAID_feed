@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 19 May 2026 10:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 12:53:01 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'm #now_listening_to "FORWARD" by BAND-MAID®</title>
+      <link>https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mm7eiqpqyk2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mm7eiqpqyk2w</guid>
+      <pubDate>Tue, 19 May 2026 12:14:03 GMT</pubDate>
+      <dc:creator>métal vert foncé (darkgreenmetal.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;m #now_listening_to &quot;FORWARD&quot; by BAND-MAID&#174;</p><p><em>BlueSky &middot; darkgreenmetal.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Je ne cesse de penser au concert de Band Maid en Juin… Mais je sais que nivea...</title>
       <link>https://bsky.app/profile/did:plc:qgvawvveornmasqlwddyysn3/post/3mm73qsaco22a</link>
@@ -899,15 +908,6 @@
       <dc:creator>佐藤弘輔 (kosukesato.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>5月10日はメイドの日<br/><br/>#メイ食べ #BAND-MAID</p><p><em>BlueSky &middot; kosukesato.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mlgj4hb6vg27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mlgj4hb6vg27</guid>
-      <pubDate>Sat, 09 May 2026 15:00:05 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
