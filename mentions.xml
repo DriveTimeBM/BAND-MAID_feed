@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 19 May 2026 06:42:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 10:18:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Je ne cesse de penser au concert de Band Maid en Juin… Mais je sais que nivea...</title>
+      <link>https://bsky.app/profile/did:plc:qgvawvveornmasqlwddyysn3/post/3mm73qsaco22a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qgvawvveornmasqlwddyysn3/post/3mm73qsaco22a</guid>
+      <pubDate>Tue, 19 May 2026 09:37:29 GMT</pubDate>
+      <dc:creator>Plumy (plumy.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Je ne cesse de penser au concert de Band Maid en Juin… Mais je sais que niveau fatigue &#231;a le fera pas 😭</p><p><em>BlueSky &middot; plumy.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] of BAND-MAID’s songs. Guitar heroes cannot resist a seeming guitar heroine (l...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mm6pxoqbcu2u</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] So... this was not the first time #Kreator have played at Welcome to Rockville.</title>
-      <link>https://bsky.app/profile/did:plc:64lmxzqui4e5bqdmb2rxziwu/post/3mlgdu6gyuap2</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:64lmxzqui4e5bqdmb2rxziwu/post/3mlgdu6gyuap2</guid>
-      <pubDate>Sat, 09 May 2026 13:25:45 GMT</pubDate>
-      <dc:creator>Kreator Fangirls (kreatorfangirls.metalhead.club.ap.brid.gy)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>So... this was not the first time #Kreator have played at Welcome to Rockville.<br/><br/>In 2023, they played a 30 minute show round 4-something PM.<br/><br/>And for a curious fan from half way around the world, it was not the most pleasant experience checking what others to […] <br/><br/>[Original post on metalhead.club]</p><p><em>BlueSky &middot; kreatorfangirls.metalhead.club.ap.brid.gy</em></p>]]></description>
     </item>
   </channel>
 </rss>
