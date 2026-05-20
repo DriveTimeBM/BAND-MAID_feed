@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 20 May 2026 01:00:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 02:02:31 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] ‪BEST OPENING THEME OF 2025‬</title>
+      <link>https://bsky.app/profile/did:plc:rhqey3up4arztpp4kpxbatst/post/3mmapmsrq6226</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rhqey3up4arztpp4kpxbatst/post/3mmapmsrq6226</guid>
+      <pubDate>Wed, 20 May 2026 01:05:50 GMT</pubDate>
+      <dc:creator>Wolfie (aftershockwolf.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>‪BEST OPENING THEME OF 2025‬<br/><br/>‪RUNNER-UP: “Ready to Rock” by BAND-MAID [Rock is a Lady’s Modesty]‬</p><p><em>BlueSky &middot; aftershockwolf.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] I have yet to hear any Band Maid or Babymetal. Keeps feeding me this techno e...</title>
+      <link>https://bsky.app/profile/did:plc:whvyroqthu6mkocjiagur42c/post/3mmaozdo6qc2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:whvyroqthu6mkocjiagur42c/post/3mmaozdo6qc2y</guid>
+      <pubDate>Wed, 20 May 2026 00:54:57 GMT</pubDate>
+      <dc:creator>Defyeler Blackheart (畢家俊) (defyeler.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I have yet to hear any Band Maid or Babymetal. Keeps feeding me this techno edm shit. I don&#39;t see radio stations, just the annoying announcer that keeps repeating what I just did.</p><p><em>BlueSky &middot; defyeler.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band-Maid, Babymetal, Spiritbox, Poppy… whoever was in charge of picking the ...</title>
       <link>https://bsky.app/profile/did:plc:jwa6ti2hat7u3zqockexklvv/post/3mmammr5jq22k</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>7 years ago<br/>endless Story<br/>live debut<br/>TSUTAYA O-East, Tokyo, Japan<br/>2019/5/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlhxsdcrvz2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlhxsdcrvz2z</guid>
-      <pubDate>Sun, 10 May 2026 04:55:31 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago<br/>decided by myself<br/>live debut<br/>Shimokitazawa GARDEN, Tokyo, Japan<br/>2017/5/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 5 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlhxsc6fek2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlhxsc6fek2f</guid>
-      <pubDate>Sun, 10 May 2026 04:55:30 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>5 years ago<br/>CHEMICAL REACTION<br/>live debut<br/>Harevutai, Tokyo, Japan<br/>2021/5/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
