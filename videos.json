@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DjXrzSL3an0",
+        "Title":  "GOKO Reacts to BAND-MAID / DOMINATION (Official Live Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/DjXrzSL3an0",
+        "Thumbnail":  "https://i.ytimg.com/vi/DjXrzSL3an0/hqdefault.jpg",
+        "PublishedAt":  "2026-05-20T00:00:05.0000000Z",
+        "DiscoveredAt":  "2026-05-20T00:29:48.9123689Z",
+        "Duration":  "00:07:11",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "aGsgxRrwzWA",
         "Title":  "UNCOORDINATED | Jason's Reaction | From Now On | BAND-MAID",
         "Channel":  "Media Ugly",
