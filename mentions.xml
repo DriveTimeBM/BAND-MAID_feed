@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 20 May 2026 17:59:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 21:03:20 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Old men watch Band-Maid</title>
+      <link>https://bsky.app/profile/did:plc:brnxud72pxirkkj4erejjffv/post/3mmcosqimsk2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:brnxud72pxirkkj4erejjffv/post/3mmcosqimsk2c</guid>
+      <pubDate>Wed, 20 May 2026 19:56:35 GMT</pubDate>
+      <dc:creator>Harry Marουδας🧿⚓ (harrymaroudas.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Old men watch Band-Maid</p><p><em>BlueSky &middot; harrymaroudas.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] #Jrock #bandmaid #ENERGETIC</title>
       <link>https://bsky.app/profile/did:plc:6sihfl3lwu5qkbjw4rfyt5m4/post/3mmcfww2roc2c</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>3 years ago Band-Maid played 2 songs at STUDIO E-RA in Tokyo JP on 2023/5/10. The opening song was Don&#39;t you tell ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago Band-Maid played 22 songs at Zepp Haneda (TOKYO) in Tokyo JP on 2...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mli3f5hmcd2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mli3f5hmcd2x</guid>
-      <pubDate>Sun, 10 May 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago Band-Maid played 22 songs at Zepp Haneda (TOKYO) in Tokyo JP on 2024/5/10. The opening song was BLACK HOLE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
