@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 20 May 2026 00:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 01:00:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid, Babymetal, Spiritbox, Poppy… whoever was in charge of picking the ...</title>
+      <link>https://bsky.app/profile/did:plc:jwa6ti2hat7u3zqockexklvv/post/3mmammr5jq22k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jwa6ti2hat7u3zqockexklvv/post/3mmammr5jq22k</guid>
+      <pubDate>Wed, 20 May 2026 00:12:07 GMT</pubDate>
+      <dc:creator>Jourdan (galaktix.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid, Babymetal, Spiritbox, Poppy… whoever was in charge of picking the music in Forza Horizon 6 has wonderful taste.</p><p><em>BlueSky &middot; galaktix.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band-Maid</title>
       <link>https://bsky.app/profile/did:plc:shsdmagrq3gtt4fdar3yrzjn/post/3mm7pcxzg3222</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>5 years ago<br/>CHEMICAL REACTION<br/>live debut<br/>Harevutai, Tokyo, Japan<br/>2021/5/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Today is Maid's Day</title>
-      <link>https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3mlhbxtw3ac2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3mlhbxtw3ac2u</guid>
-      <pubDate>Sat, 09 May 2026 22:24:55 GMT</pubDate>
-      <dc:creator>bmcssu.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Today is Maid&#39;s Day<br/><br/>#bandmaid</p><p><em>BlueSky &middot; bmcssu.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
