@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 20 May 2026 15:56:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 17:59:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #Jrock #bandmaid #ENERGETIC</title>
+      <link>https://bsky.app/profile/did:plc:6sihfl3lwu5qkbjw4rfyt5m4/post/3mmcfww2roc2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6sihfl3lwu5qkbjw4rfyt5m4/post/3mmcfww2roc2c</guid>
+      <pubDate>Wed, 20 May 2026 17:17:51 GMT</pubDate>
+      <dc:creator>JaME France (jameworldfr.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#Jrock #bandmaid #ENERGETIC <br/><br/>Le groupe de hard rock BAND-MAID sortira son tout premier single de 2026, intitul&#233; &quot;ENERGETIC&quot;, le 24 juin.<br/><br/>www.jame-world.com/fr/news/1712...</p><p><em>BlueSky &middot; jameworldfr.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Really loving the XS Radio in Forza Horizon 6 with Babymetal, Poppy, Band-Mai...</title>
       <link>https://bsky.app/profile/did:plc:jiovjvuq5n6bpo3c32swc6kl/post/3mmc6irgcjc2z</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2 years ago Band-Maid played 22 songs at Zepp Haneda (TOKYO) in Tokyo JP on 2024/5/10. The opening song was BLACK HOLE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 5 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlhxsm3q6d22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlhxsm3q6d22</guid>
-      <pubDate>Sun, 10 May 2026 04:55:41 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>5 years ago<br/>Youth<br/>live debut<br/>Harevutai, Tokyo, Japan<br/>2021/5/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
