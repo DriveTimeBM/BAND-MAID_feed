@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 20 May 2026 08:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 10:14:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] アンコールやりすぎるバンドの陰陽座とアンコール一切やらないバンドのBAND-MAIDで対バンしてみません？妖怪vsメイド</title>
+      <link>https://bsky.app/profile/did:plc:sjmeckasqbgh75gqx4mfob6u/post/3mmbjatpfrq2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sjmeckasqbgh75gqx4mfob6u/post/3mmbjatpfrq2o</guid>
+      <pubDate>Wed, 20 May 2026 08:44:25 GMT</pubDate>
+      <dc:creator>ぺんたついすと (pentatwist.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>アンコールやりすぎるバンドの陰陽座とアンコール一切やらないバンドのBAND-MAIDで対バンしてみません？妖怪vsメイド</p><p><em>BlueSky &middot; pentatwist.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Turn me on</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmbagkwsxm2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>5 years ago<br/>I still seek revenge.<br/>live debut<br/>Harevutai, Tokyo, Japan<br/>2021/5/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 5 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlhxshas5b2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlhxshas5b2z</guid>
-      <pubDate>Sun, 10 May 2026 04:55:35 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>5 years ago<br/>HONKAI<br/>live debut<br/>Harevutai, Tokyo, Japan<br/>2021/5/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
