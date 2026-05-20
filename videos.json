@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jRAv7dCiZVw",
+        "Title":  "Metal Guitarist Reacts to BAND-MAID Corallium Live",
+        "Channel":  "APOKALYPSE34",
+        "ChannelId":  "UCBt3JX654OyVDFwYUtZFkDw",
+        "Url":  "https://youtu.be/jRAv7dCiZVw",
+        "Thumbnail":  "https://i.ytimg.com/vi/jRAv7dCiZVw/hqdefault.jpg",
+        "PublishedAt":  "2026-05-20T15:57:01.0000000Z",
+        "DiscoveredAt":  "2026-05-20T16:27:21.3553269Z",
+        "Duration":  "00:07:25",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Yxr7jUKpYss",
         "Title":  "BAND-MAID in einer Nussschale.",
         "Channel":  "J-Music-Fuchs",
