@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 21 May 2026 11:21:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:52:04 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] introduce yourself with 10 bands / musicians you've seen live</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mmebobity22f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mmebobity22f</guid>
+      <pubDate>Thu, 21 May 2026 11:06:46 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>introduce yourself with 10 bands / musicians you&#39;ve seen live<br/><br/>Tori Amos<br/>The Cardigans<br/>Blood Red Shoes<br/>The Knife / Fever Ray<br/>AC DC<br/>The Black Crowes<br/>M&#216;<br/>The Duke Spirit<br/>Sons and Daughters<br/>Band Maid [Online gigs]</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Introduce yourself with 10 bands you've seen live</title>
       <link>https://bsky.app/profile/did:plc:sco55fkrliyeikgpy6glqbpq/post/3mme74juits2h</link>
@@ -899,15 +908,6 @@
       <dc:creator>void 🦇🏳️‍⚧️ (meakashihen.blacksky.app)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>band maid my beloveddddssss</p><p><em>BlueSky &middot; meakashihen.blacksky.app</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Happy Maid Day, listen to BAND-MAID</title>
-      <link>https://bsky.app/profile/did:plc:ljyaoc6u3yg7pqkphnbxugzs/post/3mliugemenk2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ljyaoc6u3yg7pqkphnbxugzs/post/3mliugemenk2k</guid>
-      <pubDate>Sun, 10 May 2026 13:27:49 GMT</pubDate>
-      <dc:creator>cola🔜ACEN 2026 (colamander.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Happy Maid Day, listen to BAND-MAID</p><p><em>BlueSky &middot; colamander.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
