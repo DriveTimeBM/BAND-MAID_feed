@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 21 May 2026 08:06:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:21:26 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Introduce yourself with 10 bands you've seen live</title>
+      <link>https://bsky.app/profile/did:plc:sco55fkrliyeikgpy6glqbpq/post/3mme74juits2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sco55fkrliyeikgpy6glqbpq/post/3mme74juits2h</guid>
+      <pubDate>Thu, 21 May 2026 10:21:03 GMT</pubDate>
+      <dc:creator>Just4funsa (just4funsa.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Introduce yourself with 10 bands you&#39;ve seen live<br/><br/>- ZZ Top<br/>- Type O Negative<br/>- Aerosmith<br/>- Megadeth<br/>- Kiss<br/>- Ozzy Osbourne<br/>- Korn<br/>- Ronnie Dio<br/>- Nita Strauss<br/>- Band-Maid</p><p><em>BlueSky &middot; just4funsa.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BIG DUB FOR MONA!!!!!!!!!!!!!!!!!!!</title>
       <link>https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3mmdt43iuq22l</link>
@@ -899,15 +908,6 @@
       <dc:creator>cola🔜ACEN 2026 (colamander.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Happy Maid Day, listen to BAND-MAID</p><p><em>BlueSky &middot; colamander.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 📎 ワールドツアーを日本武道館2daysで飾るBAND-MAIDが、”メイドの日”にニューシングル「ENERGETIC」のリリースをサプライズ発表！収録...</title>
-      <link>https://bsky.app/profile/did:plc:7jrmrtzkxalkgerejxudybb6/post/3mliudqpsfk2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7jrmrtzkxalkgerejxudybb6/post/3mliudqpsfk2i</guid>
-      <pubDate>Sun, 10 May 2026 13:26:21 GMT</pubDate>
-      <dc:creator>日刊エンタメクリップ (entameclip.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>📎 ワールドツアーを日本武道館2daysで飾るBAND-MAIDが、”メイドの日”にニューシングル「ENERGETIC」のリリースをサプライズ発表！収録内容&amp;ジャケット画像を公開！アーティスト写真も一新！<br/><br/>【記事を読む】<br/>entameclip.com/news/478220/<br/><br/>#BANDMAID</p><p><em>BlueSky &middot; entameclip.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
