@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 21 May 2026 12:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 13:24:14 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Introduce yourself with ten bands you've seen live:</title>
+      <link>https://bsky.app/profile/did:plc:pjtalvrnokmkez7waip3uylv/post/3mmeh5xoje22a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pjtalvrnokmkez7waip3uylv/post/3mmeh5xoje22a</guid>
+      <pubDate>Thu, 21 May 2026 12:45:01 GMT</pubDate>
+      <dc:creator>star ⭐ (gamingbricabrac.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Introduce yourself with ten bands you&#39;ve seen live:<br/><br/>The Gaslight Anthem<br/>The Goo Goo Dolls<br/>Counting Crows<br/>Weird Al Yankovic<br/>Tanglefoot<br/>Aerosmith<br/>KISS<br/>Band-Maid<br/>The Last Rockstars<br/>Hanabie</p><p><em>BlueSky &middot; gamingbricabrac.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band Maid: Endless Story [Live]</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mmef5gcb7c2f</link>
@@ -899,15 +908,6 @@
       <dc:creator>ChibiZerberus (chibizerberus.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band Maid provided some music for the anime and i have tickets for their concert next month😁</p><p><em>BlueSky &middot; chibizerberus.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] New image from Band Maid. I try to keep my posts about them focused on the mu...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mljhqziz5s2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mljhqziz5s2v</guid>
-      <pubDate>Sun, 10 May 2026 19:13:47 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>New image from Band Maid. I try to keep my posts about them focused on the music but come on, just look at them all here.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
