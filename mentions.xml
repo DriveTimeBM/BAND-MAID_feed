@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 21 May 2026 11:52:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 12:53:26 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band Maid: Endless Story [Live]</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mmef5gcb7c2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mmef5gcb7c2f</guid>
+      <pubDate>Thu, 21 May 2026 12:08:55 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band Maid: Endless Story [Live]<br/>The closer of their 3 1/2 hour, 33 song 10th anniversary show, extended with a specially written verse. I saw it live online, and you bet I was crying along with the band members. Subs on for this one.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] introduce yourself with 10 bands / musicians you've seen live</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mmebobity22f</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>New image from Band Maid. I try to keep my posts about them focused on the music but come on, just look at them all here.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] band maid my beloveddddssss</title>
-      <link>https://bsky.app/profile/did:plc:htnfanxecwrxci52anxrtdeb/post/3mliv42hybk2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:htnfanxecwrxci52anxrtdeb/post/3mliv42hybk2w</guid>
-      <pubDate>Sun, 10 May 2026 13:39:57 GMT</pubDate>
-      <dc:creator>void 🦇🏳️‍⚧️ (meakashihen.blacksky.app)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>band maid my beloveddddssss</p><p><em>BlueSky &middot; meakashihen.blacksky.app</em></p>]]></description>
     </item>
   </channel>
 </rss>
