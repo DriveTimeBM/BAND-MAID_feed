@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "VxwLmgJxDb8",
+        "Title":  "Let's Review Some BAND-MAID! - \"Unleash\" Full Album Review by James Fulgieri",
+        "Channel":  "James Fulgieri",
+        "ChannelId":  "UCdBWZKT0kmZ6dzItcdifKBw",
+        "Url":  "https://youtu.be/VxwLmgJxDb8",
+        "Thumbnail":  "https://i.ytimg.com/vi/VxwLmgJxDb8/hqdefault.jpg",
+        "PublishedAt":  "2026-05-21T20:00:22.0000000Z",
+        "DiscoveredAt":  "2026-05-21T20:07:24.5030807Z",
+        "Duration":  "00:19:15",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "v0iZs5DU1Ng",
         "Title":  "BAND-MAID - Shambles STAGE Reaction 🎸🥁 #bandmaid #jrock",
         "Channel":  "Purple Paradise Neon",
