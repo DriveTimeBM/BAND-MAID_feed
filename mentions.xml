@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 21 May 2026 13:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 14:56:27 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] most jealous of mcr mastodon and band maid but like. all of it. i think i've ...</title>
+      <link>https://bsky.app/profile/did:plc:vu7rasmt7oitpdegeh44envn/post/3mmelnti5ds25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vu7rasmt7oitpdegeh44envn/post/3mmelnti5ds25</guid>
+      <pubDate>Thu, 21 May 2026 14:05:28 GMT</pubDate>
+      <dc:creator>Allie! 🏳️‍⚧️ (alliezweihander.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>most jealous of mcr mastodon and band maid but like. all of it. i think i&#39;ve been to maybe 2 shows ever</p><p><em>BlueSky &middot; alliezweihander.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] introduce yourself with 10 bands you've seen live</title>
       <link>https://bsky.app/profile/did:plc:dtcivmqyofwv4hq3ll2f563s/post/3mmej2iefg22h</link>
@@ -899,15 +908,6 @@
       <dc:creator>7neko (7nekonet.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2026/06/24発売 BAND-MAID「ENERGETIC」特典まとめ<br/><br/>7neko.net/bandmaid-tok...</p><p><em>BlueSky &middot; 7nekonet.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Hard rock band BAND-MAID will release their first new single of 2026, "ENERGE...</title>
-      <link>https://bsky.app/profile/did:plc:46oe4e4l4bpfsqg22aidsadq/post/3mljuzxhppc2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:46oe4e4l4bpfsqg22aidsadq/post/3mljuzxhppc2i</guid>
-      <pubDate>Sun, 10 May 2026 23:11:26 GMT</pubDate>
-      <dc:creator>JaME (English Version) (jameworld.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Hard rock band BAND-MAID will release their first new single of 2026, &quot;ENERGETIC&quot;, on June 24th.<br/><br/>www.jame-world.com/en/news/1712...<br/><br/>#BANDMAID #jrock</p><p><em>BlueSky &middot; jameworld.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
