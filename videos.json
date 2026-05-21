@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "emWjDfjzCZE",
+        "Title":  "BAND-MAID - Domination - REACTION! First Listen!",
+        "Channel":  "React Life",
+        "ChannelId":  "UCV3bDk_tnno3emeQDrC9JTQ",
+        "Url":  "https://youtu.be/emWjDfjzCZE",
+        "Thumbnail":  "https://i.ytimg.com/vi/emWjDfjzCZE/hqdefault.jpg",
+        "PublishedAt":  "2026-05-21T00:48:30.0000000Z",
+        "DiscoveredAt":  "2026-05-21T01:08:43.8185213Z",
+        "Duration":  "00:11:27",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "uN5B_HR7Q7s",
         "Title":  "GOKO Reacts to BAND-MAID / Thrill (スリル) (Official Music Video)",
         "Channel":  "GOKO Reacts",
