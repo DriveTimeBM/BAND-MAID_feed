@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "uN5B_HR7Q7s",
+        "Title":  "GOKO Reacts to BAND-MAID / Thrill (スリル) (Official Music Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/uN5B_HR7Q7s",
+        "Thumbnail":  "https://i.ytimg.com/vi/uN5B_HR7Q7s/hqdefault.jpg",
+        "PublishedAt":  "2026-05-21T00:00:21.0000000Z",
+        "DiscoveredAt":  "2026-05-21T00:07:28.0423458Z",
+        "Duration":  "00:06:51",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "38iVANN8re0",
+        "Title":  "Reacting to Band Maid | Acoustic Concert | Catharsis",
+        "Channel":  "Kyros Reactions",
+        "ChannelId":  "UCo6VhAuklHvW8ZC35pIezXg",
+        "Url":  "https://youtu.be/38iVANN8re0",
+        "Thumbnail":  "https://i.ytimg.com/vi/38iVANN8re0/hqdefault.jpg",
+        "PublishedAt":  "2026-05-21T00:00:09.0000000Z",
+        "DiscoveredAt":  "2026-05-21T00:07:27.4198507Z",
+        "Duration":  "00:07:52",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "x6rIb3SBUhQ",
         "Title":  "JUST A LOT OF GUH! | Jason's Reaction | Dice | BAND-MAID",
         "Channel":  "Media Ugly",
