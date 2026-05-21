@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 21 May 2026 14:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:58:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] introduce yourself with 10 bands you've seen live</title>
+      <link>https://bsky.app/profile/did:plc:gcfhiq647nh7pl6w567envkb/post/3mmeq55w34c2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gcfhiq647nh7pl6w567envkb/post/3mmeq55w34c2m</guid>
+      <pubDate>Thu, 21 May 2026 15:25:38 GMT</pubDate>
+      <dc:creator>Sparkling Wide Depression (serenawanderer.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>introduce yourself with 10 bands you&#39;ve seen live<br/><br/>Metallica<br/>dc Talk<br/>Reliant K<br/>Evanescence <br/>Dream Theater<br/>Blind Guardian<br/>Iron Maiden<br/>Band-Maid <br/>Lacuna Coil<br/>The Warning<br/><br/>Chronological order of first time seeing them to the best I can remember. Very “two of these are not like the others”.</p><p><em>BlueSky &middot; serenawanderer.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] most jealous of mcr mastodon and band maid but like. all of it. i think i've ...</title>
       <link>https://bsky.app/profile/did:plc:vu7rasmt7oitpdegeh44envn/post/3mmelnti5ds25</link>
@@ -899,15 +908,6 @@
       <dc:creator>新刊発見bot (discover.sinkan.net)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2026年6月24日 『ENERGETIC』 BAND-MAID ((株)ポニーキャニオン) [Music] https://sinkan.net/?ean=4524135307743&amp;action_item=true #新刊情報 #sinkan</p><p><em>BlueSky &middot; discover.sinkan.net</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2026/06/24発売 BAND-MAID「ENERGETIC」特典まとめ</title>
-      <link>https://bsky.app/profile/did:plc:itajckz2hscqplpijhvjcak4/post/3mlkiljok3s2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:itajckz2hscqplpijhvjcak4/post/3mlkiljok3s2q</guid>
-      <pubDate>Mon, 11 May 2026 05:01:17 GMT</pubDate>
-      <dc:creator>7neko (7nekonet.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2026/06/24発売 BAND-MAID「ENERGETIC」特典まとめ<br/><br/>7neko.net/bandmaid-tok...</p><p><em>BlueSky &middot; 7nekonet.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
