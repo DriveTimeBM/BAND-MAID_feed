@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 21 May 2026 15:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 18:01:23 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Introduce yourself with 10 bands you've seen live</title>
+      <link>https://bsky.app/profile/did:plc:72spjsnx3s5lsynoyumo7d4g/post/3mmewrth7bk2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:72spjsnx3s5lsynoyumo7d4g/post/3mmewrth7bk2i</guid>
+      <pubDate>Thu, 21 May 2026 17:24:34 GMT</pubDate>
+      <dc:creator>Astra 🔜 Des Moines Con (astrawitch.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Introduce yourself with 10 bands you&#39;ve seen live<br/><br/>Beach Bunny<br/>Dream Catcher<br/>Poppy<br/>Chvrches<br/>Dethklok<br/>Bandmaid<br/>Japanese Breakfast<br/>Dance with the Dead<br/>Chappell Roan<br/>TWRP</p><p><em>BlueSky &middot; astrawitch.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] introduce yourself with 10 bands you've seen live</title>
       <link>https://bsky.app/profile/did:plc:gcfhiq647nh7pl6w567envkb/post/3mmeq55w34c2m</link>
@@ -899,15 +908,6 @@
       <dc:creator>新刊発見bot (discover.sinkan.net)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2026年6月24日 『ENERGETIC』 BAND-MAID ((株)ポニーキャニオン) [Music] https://sinkan.net/?ean=4524135307750&amp;action_item=true #新刊情報 #sinkan</p><p><em>BlueSky &middot; discover.sinkan.net</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2026年6月24日 『ENERGETIC』 BAND-MAID ((株)ポニーキャニオン) [Music] https://sinkan.net/?ea...</title>
-      <link>https://bsky.app/profile/did:plc:smdkfx7db3pbvkdfwidns4rv/post/3mlkit2xwmt2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:smdkfx7db3pbvkdfwidns4rv/post/3mlkit2xwmt2z</guid>
-      <pubDate>Mon, 11 May 2026 05:05:16 GMT</pubDate>
-      <dc:creator>新刊発見bot (discover.sinkan.net)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2026年6月24日 『ENERGETIC』 BAND-MAID ((株)ポニーキャニオン) [Music] https://sinkan.net/?ean=4524135307743&amp;action_item=true #新刊情報 #sinkan</p><p><em>BlueSky &middot; discover.sinkan.net</em></p>]]></description>
     </item>
   </channel>
 </rss>
