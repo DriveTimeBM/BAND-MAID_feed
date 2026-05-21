@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "qtV1phqgLbI",
+        "Title":  "Reaction to BAND MAID - Before Yesterday (Live at Akasaka Blitz 2017)",
+        "Channel":  "P Reacts Daily",
+        "ChannelId":  "UCjzeCUthjtU3kTvz70sw2wg",
+        "Url":  "https://youtu.be/qtV1phqgLbI",
+        "Thumbnail":  "https://i.ytimg.com/vi/qtV1phqgLbI/hqdefault.jpg",
+        "PublishedAt":  "2026-05-21T13:15:28.0000000Z",
+        "DiscoveredAt":  "2026-05-21T13:24:06.0920030Z",
+        "Duration":  "00:06:51",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "goj6VIF56qw",
+        "Title":  "BAND-MAID Keep Surprising Us! | “alone” First Reaction",
+        "Channel":  "BIGTONYSTV",
+        "ChannelId":  "UCeAf_CPDRtxc_-UPmqzC4Aw",
+        "Url":  "https://youtu.be/goj6VIF56qw",
+        "Thumbnail":  "https://i.ytimg.com/vi/goj6VIF56qw/hqdefault.jpg",
+        "PublishedAt":  "2026-05-21T13:01:07.0000000Z",
+        "DiscoveredAt":  "2026-05-21T13:24:05.5563261Z",
+        "Duration":  "00:06:18",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NrN-UhhOJ7Y",
         "Title":  "BAND-MAID - TAMAYA! | REACTION",
         "Channel":  "Darth Bane",
