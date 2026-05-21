@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 21 May 2026 18:01:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 20:07:34 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I am not sure I have enough all women for 10 but:</title>
+      <link>https://bsky.app/profile/did:plc:f6ldkogzf4zu3xmyxsgigjyl/post/3mmf56duthk2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:f6ldkogzf4zu3xmyxsgigjyl/post/3mmf56duthk2m</guid>
+      <pubDate>Thu, 21 May 2026 19:18:56 GMT</pubDate>
+      <dc:creator>Tray Dawg (traydawg.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I am not sure I have enough all women for 10 but: <br/><br/>Kittie (they were VERY cringe at the time) <br/>BAND-MAID<br/>Mary Chapin Carpenter<br/>Chantal Kreviazuk<br/><br/>And probably some Christian artists whose names I&#39;ve forgotten by now back when I listened to Christian music lol</p><p><em>BlueSky &middot; traydawg.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Introduce yourself with 10 bands you've seen live</title>
       <link>https://bsky.app/profile/did:plc:72spjsnx3s5lsynoyumo7d4g/post/3mmewrth7bk2i</link>
@@ -899,15 +908,6 @@
       <dc:creator>新刊発見bot (discover.sinkan.net)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2026年6月24日 『【楽天ブックス限定先着特典】ENERGETIC(初回生産限定盤 CD+Blu-ray)(マルチケース)』 BAND-MAID ((株)ポニーキャニオン) [Music] https://sinkan.net/?ean=2100014991146&amp;action_item=true #新刊情報 #sinkan</p><p><em>BlueSky &middot; discover.sinkan.net</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2026年6月24日 『ENERGETIC』 BAND-MAID ((株)ポニーキャニオン) [Music] https://sinkan.net/?ea...</title>
-      <link>https://bsky.app/profile/did:plc:smdkfx7db3pbvkdfwidns4rv/post/3mlkiuce65a2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:smdkfx7db3pbvkdfwidns4rv/post/3mlkiuce65a2p</guid>
-      <pubDate>Mon, 11 May 2026 05:06:04 GMT</pubDate>
-      <dc:creator>新刊発見bot (discover.sinkan.net)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2026年6月24日 『ENERGETIC』 BAND-MAID ((株)ポニーキャニオン) [Music] https://sinkan.net/?ean=4524135307750&amp;action_item=true #新刊情報 #sinkan</p><p><em>BlueSky &middot; discover.sinkan.net</em></p>]]></description>
     </item>
   </channel>
 </rss>
