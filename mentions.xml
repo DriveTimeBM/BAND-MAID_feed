@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 22 May 2026 20:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 21:33:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Introduce yourself with 10 bands you've seen live:</title>
+      <link>https://bsky.app/profile/did:plc:sshd5rjj3665hkrc7tgt6t3t/post/3mmhrc6vc2c2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sshd5rjj3665hkrc7tgt6t3t/post/3mmhrc6vc2c2i</guid>
+      <pubDate>Fri, 22 May 2026 20:24:19 GMT</pubDate>
+      <dc:creator>I Used to Be Cool, on Message Boards... (polyphemous.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Introduce yourself with 10 bands you&#39;ve seen live:<br/><br/>AC/DC<br/>Iron Maiden<br/>Judas Priest<br/>Metallica<br/>Soundgarden<br/>Nirvana<br/>Fugazi<br/>NIN<br/>Failure<br/>Nile<br/><br/>Also<br/>Tool<br/>Anthrax<br/>NOFX<br/>Saxon<br/>Scorpions<br/>Kiss<br/>Danzig<br/>Obituary<br/>Morbid Angel<br/>Voivod<br/>Loudness<br/>Band Maid<br/>Slayer<br/>Riot<br/>ZZ Top<br/>Offspring<br/>Black Sabbath<br/>Melvins</p><p><em>BlueSky &middot; polyphemous.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Only 2 weeks left... BAND-MAID live in Frankfurt 🤘🏻</title>
       <link>https://bsky.app/profile/did:plc:pjfsyvg7qg3l4ajh2w7vus3o/post/3mmhnbqu5c22t</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I could not agree more with that. Misa from Band-Maid, the barefoot assassin, is as cool as it can get. And what incredible bass tone.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] in the meantime doesn't band-maid have something new coming out soon?</title>
-      <link>https://bsky.app/profile/did:plc:om5ovtia6u3fsbemcmdhdmf6/post/3mlm2yrfphc2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:om5ovtia6u3fsbemcmdhdmf6/post/3mlm2yrfphc2z</guid>
-      <pubDate>Mon, 11 May 2026 20:03:28 GMT</pubDate>
-      <dc:creator>april (4oh3.net)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>in the meantime doesn&#39;t band-maid have something new coming out soon?</p><p><em>BlueSky &middot; 4oh3.net</em></p>]]></description>
     </item>
   </channel>
 </rss>
