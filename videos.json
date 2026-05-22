@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rDT7ByWjZHQ",
+        "Title":  "GOKO Reacts to BAND-MAID / influencer (Official Music Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/rDT7ByWjZHQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/rDT7ByWjZHQ/hqdefault.jpg",
+        "PublishedAt":  "2026-05-22T00:00:06.0000000Z",
+        "DiscoveredAt":  "2026-05-22T00:09:58.8257439Z",
+        "Duration":  "00:07:29",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "032lSwFopiY",
         "Title":  "Band-Maid - Super Sunshine (live) - reaction",
         "Channel":  "OldManPete",
