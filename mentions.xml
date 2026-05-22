@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 22 May 2026 12:51:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 20:00:52 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Only 2 weeks left... BAND-MAID live in Frankfurt 🤘🏻</title>
+      <link>https://bsky.app/profile/did:plc:pjfsyvg7qg3l4ajh2w7vus3o/post/3mmhnbqu5c22t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pjfsyvg7qg3l4ajh2w7vus3o/post/3mmhnbqu5c22t</guid>
+      <pubDate>Fri, 22 May 2026 19:12:30 GMT</pubDate>
+      <dc:creator>Kolja (kdimmek.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Only 2 weeks left... BAND-MAID live in Frankfurt 🤘🏻<br/><br/>youtube.com/watch?v=itYD...</p><p><em>BlueSky &middot; kdimmek.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Introduce yourself with 10 bands you've seen live:</title>
       <link>https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mmgw4f3ml22s</link>
@@ -899,15 +908,6 @@
       <dc:creator>april (4oh3.net)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>in the meantime doesn&#39;t band-maid have something new coming out soon?</p><p><em>BlueSky &middot; 4oh3.net</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Nouvel album annoncé pour le groupe #BANDMAID. "ENERGETIC" sortira le 24/06 e...</title>
-      <link>https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3mlldvqkvcc2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3mlldvqkvcc2x</guid>
-      <pubDate>Mon, 11 May 2026 13:10:10 GMT</pubDate>
-      <dc:creator>Xavier F. (fxmaccobra.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Nouvel album annonc&#233; pour le groupe #BANDMAID. &quot;ENERGETIC&quot; sortira le 24/06 et est disponible en pr&#233;-commande<br/>RE: www.cdjapan.co.jp/product/PCCA...<br/>LE(DVD): www.cdjapan.co.jp/product/PCCA...<br/>LE(BD): www.cdjapan.co.jp/product/PCCA...<br/><br/>Le groupe sera en concert au Bataclan (Paris) le 09/06.</p><p><em>BlueSky &middot; fxmaccobra.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
