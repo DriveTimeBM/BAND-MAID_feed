@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 22 May 2026 08:04:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 12:51:26 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Introduce yourself with 10 bands you've seen live:</title>
+      <link>https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mmgw4f3ml22s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mmgw4f3ml22s</guid>
+      <pubDate>Fri, 22 May 2026 12:17:54 GMT</pubDate>
+      <dc:creator>Dustykatt (dustykatt.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Introduce yourself with 10 bands you&#39;ve seen live:<br/><br/>The Tubes<br/>The Dirtbombs<br/>Bob Seger and the Silver Bullet Band<br/>ZZ Top<br/>The Georgia Satellites<br/>Demolition Doll Rods<br/>Band Maid<br/>Kansas<br/>Weird Al<br/>Warrant<br/>Trickster</p><p><em>BlueSky &middot; dustykatt.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 9/20の台北公演に行きたいがチケットの購入方法がいまいちわからん(笑)</title>
       <link>https://bsky.app/profile/did:plc:6o7dcase6ent5ohoeammpi3b/post/3mmgenomtnk2u</link>
@@ -899,15 +908,6 @@
       <dc:creator>Xavier F. (fxmaccobra.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Nouvel album annonc&#233; pour le groupe #BANDMAID. &quot;ENERGETIC&quot; sortira le 24/06 et est disponible en pr&#233;-commande<br/>RE: www.cdjapan.co.jp/product/PCCA...<br/>LE(DVD): www.cdjapan.co.jp/product/PCCA...<br/>LE(BD): www.cdjapan.co.jp/product/PCCA...<br/><br/>Le groupe sera en concert au Bataclan (Paris) le 09/06.</p><p><em>BlueSky &middot; fxmaccobra.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ENERGETIC（初回生産限定盤Blu-ray＋初回生産限定盤DVD＋通常盤 3枚セット）</title>
-      <link>https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3mllokrjhj227</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3mllokrjhj227</guid>
-      <pubDate>Mon, 11 May 2026 16:20:53 GMT</pubDate>
-      <dc:creator>くぼんヌ。@ジミコスキー (kubonnu.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>ENERGETIC（初回生産限定盤Blu-ray＋初回生産限定盤DVD＋通常盤 3枚セット）<br/>これってBlu-ray版とDVD版両方買うより高いけど、パッケージとか特別仕様なのかしらん？<br/>7net.omni7.jp/detail/13015...<br/> #bandmaid</p><p><em>BlueSky &middot; kubonnu.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
