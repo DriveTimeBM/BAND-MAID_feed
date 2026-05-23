@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ANdhUJ2pwYE",
+        "Title":  "GOKO Reacts to BAND-MAID / DICE (Official Music Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/ANdhUJ2pwYE",
+        "Thumbnail":  "https://i.ytimg.com/vi/ANdhUJ2pwYE/hqdefault.jpg",
+        "PublishedAt":  "2026-05-23T00:00:19.0000000Z",
+        "DiscoveredAt":  "2026-05-23T00:06:55.9807971Z",
+        "Duration":  "00:08:03",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "q8LYm7znCg8",
         "Title":  "FIRST TIME Hearing Band-Maid “Shambles” | 80’s Thrash Influence?!",
         "Channel":  "Riffs and Reactions With Berry",
