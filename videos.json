@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "pmOaTNA0ZsU",
+        "Title":  "BAND-MAID、最新曲「What is justice?」 がTVアニメ『桃源暗鬼』エンディング主題歌に決定",
+        "Channel":  "japan news ",
+        "ChannelId":  "UCEo8zKbJz7KEf2cx3d6xsYg",
+        "Url":  "https://youtu.be/pmOaTNA0ZsU",
+        "Thumbnail":  "https://i.ytimg.com/vi/pmOaTNA0ZsU/hqdefault.jpg",
+        "PublishedAt":  "2026-05-23T11:05:47.0000000Z",
+        "DiscoveredAt":  "2026-05-23T11:22:46.8959855Z",
+        "Duration":  "00:01:10",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "igqaSk6WRG0",
         "Title":  "BAND-MAID - Dilly Dally Reaction | This changes things... (Official live)",
         "Channel":  "Nick out of Focus",
