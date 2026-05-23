@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 22 May 2026 23:36:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 06:45:32 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] to: We had talked about wanting a song like that at the meeting, and since it...</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmirtfdidq2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmirtfdidq2u</guid>
+      <pubDate>Sat, 23 May 2026 06:06:36 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>to: We had talked about wanting a song like that at the meeting, and since it has been said for some time that there are almost no songs that can be called ballads in BAND-MAID, we had hoped to take this opportunity to make one such song. The timing of the tour coincided with the U.S. tour, and KANA</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Song: Memorable</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmirtcdwz32d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmirtcdwz32d</guid>
+      <pubDate>Sat, 23 May 2026 06:06:32 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Memorable<br/>Album: Epic Narratives<br/>Release: 2/21/2023<br/>Music: BAND-MAID<br/>Lyrics: Kobato &amp; Saiki<br/>Arrangement: BAND-MAID<br/>1st Live:1/8/2023<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Lrp i fucking LOVE bandmaid</title>
       <link>https://bsky.app/profile/did:plc:lc7flltaigud5xoot5hvqema/post/3mmhyy4ddpk2j</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: I can&#39;t live without you.<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:3/17/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ENERGETIC[初回生産限定盤(CD+BD)] - BAND-MAID(メガジャケ(オリジナル絵柄)付) (Amazon限定) が、ミュージックランキ...</title>
-      <link>https://bsky.app/profile/did:plc:pwulbd4luduxjsdhbylismds/post/3mln2xhyqz52u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pwulbd4luduxjsdhbylismds/post/3mln2xhyqz52u</guid>
-      <pubDate>Tue, 12 May 2026 05:35:21 GMT</pubDate>
-      <dc:creator>ランキング急上昇情報 (amasmashhit.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>ENERGETIC[初回生産限定盤(CD+BD)] - BAND-MAID(メガジャケ(オリジナル絵柄)付) (Amazon限定) が、ミュージックランキングでその後2位まで上り詰めました。</p><p><em>BlueSky &middot; amasmashhit.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 5 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlmyq5b3e42y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlmyq5b3e42y</guid>
-      <pubDate>Tue, 12 May 2026 04:55:30 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>5 years ago<br/>REAL EXISTENCE MV<br/>milestone<br/>surpassed 13 million views<br/>2021/5/12<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
