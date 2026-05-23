@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ElM8UYy3hwQ",
+        "Title":  "🇯🇵 BAND-MAID –「SAYONAKIDORI」(Acoustic & Live) | アメリカ人ドラマー初見リアクション 🕊️",
+        "Channel":  "Rea Reacts JP",
+        "ChannelId":  "UCJw7aqL3uWdG3lO7cmr8jcw",
+        "Url":  "https://youtu.be/ElM8UYy3hwQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/ElM8UYy3hwQ/hqdefault.jpg",
+        "PublishedAt":  "2026-05-23T09:00:30.0000000Z",
+        "DiscoveredAt":  "2026-05-23T09:18:21.4156536Z",
+        "Duration":  "00:21:58",
+        "ViewsAtDiscovery":  22,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "01XZZcT9oZ0",
         "Title":  "Akane Minato - Isyana Sarasvati - SiM - band-maid  e  Mais....",
         "Channel":  "Ramieh Reacts & Live",
