@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0lZJqyovDfU",
+        "Title":  "Band-Maid Train Ride 4.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/0lZJqyovDfU",
+        "Thumbnail":  "https://i.ytimg.com/vi/0lZJqyovDfU/hqdefault.jpg",
+        "PublishedAt":  "2026-05-23T15:30:30.0000000Z",
+        "DiscoveredAt":  "2026-05-24T01:20:22.8666893Z",
+        "Duration":  "01:13:21",
+        "ViewsAtDiscovery":  72,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zgF_M3nmQKI",
         "Title":  "GOKO Reacts to BAND-MAID / Blooming (Official Music Video)",
         "Channel":  "GOKO Reacts",
