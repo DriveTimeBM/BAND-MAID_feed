@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zgF_M3nmQKI",
+        "Title":  "GOKO Reacts to BAND-MAID / Blooming (Official Music Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/zgF_M3nmQKI",
+        "Thumbnail":  "https://i.ytimg.com/vi/zgF_M3nmQKI/hqdefault.jpg",
+        "PublishedAt":  "2026-05-24T00:00:06.0000000Z",
+        "DiscoveredAt":  "2026-05-24T00:10:55.5477226Z",
+        "Duration":  "00:06:11",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ncAQSSYca40",
         "Title":  "BAND-MAID Unleash MV + Live + Instrumental REACTION | They Just Keep Getting Better 🖤",
         "Channel":  "Overthinking with Dennis",
