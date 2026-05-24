@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 24 May 2026 07:58:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 11:22:11 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 下半年兩場</title>
+      <link>https://bsky.app/profile/did:plc:vijgopklpr3m3er5stcloh23/post/3mmltey46es2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vijgopklpr3m3er5stcloh23/post/3mmltey46es2b</guid>
+      <pubDate>Sun, 24 May 2026 11:12:19 GMT</pubDate>
+      <dc:creator>夏ちゃん( •8• ) (natttr10969.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>下半年兩場<br/>不知道下週的BAND-MAID搶不搶得到<br/>有就9月會再多一場</p><p><em>BlueSky &middot; natttr10969.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: the non-fiction days</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmlcc7viml2y</link>
@@ -899,15 +908,6 @@
       <dc:creator>mae✨ (maesekiha.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>granted, horizon XS has... band-maid, babymetal and one ok rock. which isn&#39;t Bad but is pretty basic. i guess i appreciate ADTR, rise against and spiritbox being there even if they&#39;re not japanese</p><p><em>BlueSky &middot; maesekiha.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ENERGETIC[初回生産限定盤(CD+BD)] - BAND-MAID(メガジャケ(オリジナル絵柄)付) (Amazon限定) が、ミュージックランキ...</title>
-      <link>https://bsky.app/profile/did:plc:pwulbd4luduxjsdhbylismds/post/3mlpp42kyzi24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pwulbd4luduxjsdhbylismds/post/3mlpp42kyzi24</guid>
-      <pubDate>Wed, 13 May 2026 06:41:00 GMT</pubDate>
-      <dc:creator>ランキング急上昇情報 (amasmashhit.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>ENERGETIC[初回生産限定盤(CD+BD)] - BAND-MAID(メガジャケ(オリジナル絵柄)付) (Amazon限定) が、ミュージックランキングでその後1位まで上り詰めました。</p><p><em>BlueSky &middot; amasmashhit.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
