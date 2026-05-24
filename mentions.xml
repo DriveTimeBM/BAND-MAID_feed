@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 24 May 2026 11:22:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 13:56:13 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mmm2ccg7s52k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mmm2ccg7s52k</guid>
+      <pubDate>Sun, 24 May 2026 13:16:05 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 下半年兩場</title>
       <link>https://bsky.app/profile/did:plc:vijgopklpr3m3er5stcloh23/post/3mmltey46es2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>Nuclear Boarhead🐗🏳️‍⚧️ (yuriswine.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band Maid is so impressive on every level it blows me away every time I listen to them or watch their live videos and I want to see them live so badly some day. Incredible artists 💜💜💜💜💜💜💜<br/>youtu.be/iaf94nNSRGE?...</p><p><em>BlueSky &middot; yuriswine.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] granted, horizon XS has... band-maid, babymetal and one ok rock. which isn't ...</title>
-      <link>https://bsky.app/profile/did:plc:epnqq3gy5z674gqhtsdinprr/post/3mlqlxxqqi22i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:epnqq3gy5z674gqhtsdinprr/post/3mlqlxxqqi22i</guid>
-      <pubDate>Wed, 13 May 2026 15:17:54 GMT</pubDate>
-      <dc:creator>mae✨ (maesekiha.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>granted, horizon XS has... band-maid, babymetal and one ok rock. which isn&#39;t Bad but is pretty basic. i guess i appreciate ADTR, rise against and spiritbox being there even if they&#39;re not japanese</p><p><em>BlueSky &middot; maesekiha.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
