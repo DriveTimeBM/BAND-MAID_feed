@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "kK-ywqBLpxk",
+        "Title":  "Reaction: BAND-MAID - Warning! - Official Music Video",
+        "Channel":  "Ramieh Reacts & Live",
+        "ChannelId":  "UCR588hWYawFA6vfBSJeyIrA",
+        "Url":  "https://youtu.be/kK-ywqBLpxk",
+        "Thumbnail":  "https://i.ytimg.com/vi/kK-ywqBLpxk/hqdefault.jpg",
+        "PublishedAt":  "2026-05-25T10:45:03.0000000Z",
+        "DiscoveredAt":  "2026-05-25T11:45:32.6975362Z",
+        "Duration":  "00:09:39",
+        "ViewsAtDiscovery":  18,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Ee1xXnt-pjY",
+        "Title":  "BAND-MAID - Unleash!!!!! | [Kanji/Romaji/English]",
+        "Channel":  "Kanamincho",
+        "ChannelId":  "UCHNJpI8sUnbvNC2FWgQ7OFA",
+        "Url":  "https://youtu.be/Ee1xXnt-pjY",
+        "Thumbnail":  "https://i.ytimg.com/vi/Ee1xXnt-pjY/hqdefault.jpg",
+        "PublishedAt":  "2026-05-25T09:33:24.0000000Z",
+        "DiscoveredAt":  "2026-05-25T11:45:32.2827508Z",
+        "Duration":  "00:03:11",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mGFA0pAfaNM",
         "Title":  "BAND-MAID / SUPER SUNSHINE (Official Live Video) Commercial Theme Song for “Hakutake Shiro” reaction",
         "Channel":  "WilkVizReacts",
