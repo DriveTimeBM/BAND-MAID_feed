@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 26 May 2026 14:30:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 16:02:31 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Zum Band-Maid Konzert in einer Maid Uniform gehen ist wie ein T-Shirt der Hau...</title>
+      <link>https://bsky.app/profile/did:plc:vlvrfm45mknzutdyse4s3udh/post/3mmrc4kcqnk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vlvrfm45mknzutdyse4s3udh/post/3mmrc4kcqnk2o</guid>
+      <pubDate>Tue, 26 May 2026 15:19:21 GMT</pubDate>
+      <dc:creator>Johnny Lazerpunch (lazerpunch.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Zum Band-Maid Konzert in einer Maid Uniform gehen ist wie ein T-Shirt der Hauptband tragen.</p><p><em>BlueSky &middot; lazerpunch.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] https://www.wacoca.com/media/665265/ JOURNEY、NIGHT RANGER、LOUDNESS、BAND-MAID等...</title>
       <link>https://wakoka.com/@media/116633146978643404</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>13 years ago<br/>Kanami played solo gig<br/>pre Band-Maid<br/>Shibuya RICK<br/>2013/5/17<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 6 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlzl2mwony25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mlzl2mwony25</guid>
-      <pubDate>Sun, 17 May 2026 04:55:26 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>6 years ago<br/>Choose Me MV<br/>milestone<br/>surpassed 7 million views<br/>2020/5/17<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
