@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "uMmfnTRQCz8",
+        "Title":  "BAND-MAID TOI ET MOI Reaction | Japanese Rock PERFECTION! | Rock and Reactions",
+        "Channel":  "Rock and Reactions",
+        "ChannelId":  "UCqAy-EERjiQYNBVIOj3MY7A",
+        "Url":  "https://youtu.be/uMmfnTRQCz8",
+        "Thumbnail":  "https://i.ytimg.com/vi/uMmfnTRQCz8/hqdefault.jpg",
+        "PublishedAt":  "2026-05-26T19:30:40.0000000Z",
+        "DiscoveredAt":  "2026-05-26T19:36:52.3373437Z",
+        "Duration":  "00:16:34",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "y0Q4bnzGaZE",
+        "Title":  "Reaction: BAND-MAID / Present Perfect (Official Music Video)",
+        "Channel":  "Madison Rice マディソン",
+        "ChannelId":  "UCC-ODBiipVKl6CqoXylAD4Q",
+        "Url":  "https://youtu.be/y0Q4bnzGaZE",
+        "Thumbnail":  "https://i.ytimg.com/vi/y0Q4bnzGaZE/hqdefault.jpg",
+        "PublishedAt":  "2026-05-26T19:13:14.0000000Z",
+        "DiscoveredAt":  "2026-05-26T19:36:51.6842642Z",
+        "Duration":  "00:09:08",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Xb9pjTJvZ0I",
         "Title":  "BAND-MAID / Toi et moi - You and me (Live) (Reaction)",
         "Channel":  "Old Mr B",
