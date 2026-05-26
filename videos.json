@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "kXNnEf_HLYk",
+        "Title":  "Debbie Harry Vibes?! | BAND MAID “Choose me”",
+        "Channel":  "MusicVideoVirgin",
+        "ChannelId":  "UC_8oQAzDCKNkbmRY9JZFfJg",
+        "Url":  "https://youtu.be/kXNnEf_HLYk",
+        "Thumbnail":  "https://i.ytimg.com/vi/kXNnEf_HLYk/hqdefault.jpg",
+        "PublishedAt":  "2026-05-26T22:00:15.0000000Z",
+        "DiscoveredAt":  "2026-05-26T22:10:24.4653260Z",
+        "Duration":  "00:07:35",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9NT7SRDxm5k",
         "Title":  "INCREDIBLE! BAND-MAID / Toi et moi (Official Live Video) REACTION",
         "Channel":  "Chadeo",
