@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 27 May 2026 15:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 17:53:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Ending de Grendizer U</title>
+      <link>https://bsky.app/profile/did:plc:p7ngswfhtm23lvhxbhijb4jt/post/3mmtxl76wfk2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:p7ngswfhtm23lvhxbhijb4jt/post/3mmtxl76wfk2t</guid>
+      <pubDate>Wed, 27 May 2026 16:48:41 GMT</pubDate>
+      <dc:creator>Vespa que remove esmalte 🐝 (nailunpolish.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Ending de Grendizer U<br/>&#201; BAND-MAID, s&#243; isso</p><p><em>BlueSky &middot; nailunpolish.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] https://social.tchncs.de/tags/MusicWomenWednesday</title>
       <link>https://social.tchncs.de/@sariash/116647259386881566</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago<br/>Brand New MAID<br/>album<br/>released<br/>2016/5/18<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Oooh, what's Nancy's favorite BAND-MAID song?</title>
-      <link>https://bsky.app/profile/did:plc:qryyqa5fhayswr5bvo6w5k6b/post/3mm3xjwmyzs2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qryyqa5fhayswr5bvo6w5k6b/post/3mm3xjwmyzs2y</guid>
-      <pubDate>Mon, 18 May 2026 03:44:05 GMT</pubDate>
-      <dc:creator>Gabe Puratekuta (gabepuratekuta.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Oooh, what&#39;s Nancy&#39;s favorite BAND-MAID song?</p><p><em>BlueSky &middot; gabepuratekuta.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
