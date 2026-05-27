@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 27 May 2026 14:40:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 15:42:23 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://social.tchncs.de/tags/MusicWomenWednesday</title>
+      <link>https://social.tchncs.de/@sariash/116647259386881566</link>
+      <guid isPermaLink="true">https://social.tchncs.de/@sariash/116647259386881566</guid>
+      <pubDate>Wed, 27 May 2026 15:32:05 GMT</pubDate>
+      <dc:creator>sariash (sariash@social.tchncs.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://social.tchncs.de/tags/MusicWomenWednesday <br/><br/>BAND-MAID / Toi et moi (Official Live Video)<br/><br/>youtube link:<br/>https://youtu.be/_NTozqcillo<br/><br/>https://social.tchncs.de/tags/Music https://social.tchncs.de/tags/HardRock https://social.tchncs.de/tags/JRock https://social.tchncs.de/tags/BandMaid https://social.tchncs.de/tags/%E3%83%90%E3%83%B3%E3%83%89%E3%83%A1%E3%82%A4%E3%83%89</p><p><em>Mastodon &middot; sariash@social.tchncs.de</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] ケンガンシーズン3、SiMは聞いてたけどBAND MAIDもいるの！？激アツすぎらぁ！BAND MAIDかっこよくてしゅき</title>
       <link>https://bsky.app/profile/did:plc:2t6a42ckzcjuplp3ihyiiauh/post/3mmtngq2ghk2a</link>
@@ -899,15 +908,6 @@
       <dc:creator>Gabe Puratekuta (gabepuratekuta.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Oooh, what&#39;s Nancy&#39;s favorite BAND-MAID song?</p><p><em>BlueSky &middot; gabepuratekuta.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] The Bandmaid's Tale</title>
-      <link>https://bsky.app/profile/did:plc:pmbnlvrtaphj52ht5c3zbzzt/post/3mm3n777k6k2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pmbnlvrtaphj52ht5c3zbzzt/post/3mm3n777k6k2v</guid>
-      <pubDate>Mon, 18 May 2026 00:39:07 GMT</pubDate>
-      <dc:creator>Henry LaCaville (henrylacaville.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>The Bandmaid&#39;s Tale</p><p><em>BlueSky &middot; henrylacaville.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
