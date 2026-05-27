@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 27 May 2026 06:54:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 14:40:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] ケンガンシーズン3、SiMは聞いてたけどBAND MAIDもいるの！？激アツすぎらぁ！BAND MAIDかっこよくてしゅき</title>
+      <link>https://bsky.app/profile/did:plc:2t6a42ckzcjuplp3ihyiiauh/post/3mmtngq2ghk2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2t6a42ckzcjuplp3ihyiiauh/post/3mmtngq2ghk2a</guid>
+      <pubDate>Wed, 27 May 2026 13:47:14 GMT</pubDate>
+      <dc:creator>しば。(しばまる)🕺 (aosbsiba.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>ケンガンシーズン3、SiMは聞いてたけどBAND MAIDもいるの！？激アツすぎらぁ！BAND MAIDかっこよくてしゅき</p><p><em>BlueSky &middot; aosbsiba.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: onset</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmstoy53iy2s</link>
@@ -899,15 +908,6 @@
       <dc:creator>Henry LaCaville (henrylacaville.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>The Bandmaid&#39;s Tale</p><p><em>BlueSky &middot; henrylacaville.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 🎧 BAND-MAID lança em 24 de junho o single “ENERGETIC” e segue com shows no R...</title>
-      <link>https://bsky.app/profile/did:plc:s3fz3schntxmeoqvoqaqtqtp/post/3mm3hw5esck2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:s3fz3schntxmeoqvoqaqtqtp/post/3mm3hw5esck2q</guid>
-      <pubDate>Sun, 17 May 2026 23:04:35 GMT</pubDate>
-      <dc:creator>JaME Brasil + KoME Brasil (jamebr.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>🎧 BAND-MAID lan&#231;a em 24 de junho o single “ENERGETIC” e segue com shows no Reino Unido, Alemanha e Fran&#231;a na etapa europeia da WORLD TOUR 2026. <br/>#BANDMAID #ENERGETIC #HardRock #Jrock #MusicaJaponesa <br/><br/>🔗 Detalhes: www.jame-world.com/br/news/1713...</p><p><em>BlueSky &middot; jamebr.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
