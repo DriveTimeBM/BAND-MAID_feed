@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 27 May 2026 05:52:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 06:54:46 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: onset</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmstoy53iy2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmstoy53iy2s</guid>
+      <pubDate>Wed, 27 May 2026 06:06:32 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: onset<br/>Album: <br/>Release: 1/15/2019<br/>Music: BAND-MAID<br/>Lyrics: <br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 3 years ago Band-Maid played 7 songs at Hollywood Casino Amphitheatre in Mary...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmstcrkwvi2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmstcrkwvi2p</guid>
+      <pubDate>Wed, 27 May 2026 05:59:43 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>3 years ago Band-Maid played 7 songs at Hollywood Casino Amphitheatre in Maryland Heights US on 2023/5/27. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 6 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mmsppvmadh2x</link>
@@ -890,24 +908,6 @@
       <dc:creator>JaME Brasil + KoME Brasil (jamebr.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>🎧 BAND-MAID lan&#231;a em 24 de junho o single “ENERGETIC” e segue com shows no Reino Unido, Alemanha e Fran&#231;a na etapa europeia da WORLD TOUR 2026. <br/>#BANDMAID #ENERGETIC #HardRock #Jrock #MusicaJaponesa <br/><br/>🔗 Detalhes: www.jame-world.com/br/news/1713...</p><p><em>BlueSky &middot; jamebr.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 🎥 Our REACTION is live! 🔹 The guitar solo was absolutely mind-blowing and f...</title>
-      <link>https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mm2s3opfqq2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mm2s3opfqq2w</guid>
-      <pubDate>Sun, 17 May 2026 16:33:57 GMT</pubDate>
-      <dc:creator>AngelTalion (angeltalion.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>🎥 Our REACTION is live! 🔹 The guitar solo was absolutely mind-blowing and fast-paced!<br/><br/>What should we check out next from Band-Maid?<br/><br/>https://www.youtube.com/watch?v=pE0huGZurwU&amp;list=PL7MzXPGtHwvCpOtbZmSz5FAt_oLkjooMn</p><p><em>BlueSky &middot; angeltalion.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Nancy listens to Baby Metal 🦊and Band Maid 🦹‍♀️.</title>
-      <link>https://bsky.app/profile/did:plc:gw7ayo7i7ttmdty5fzjxxjhp/post/3mm2rdh6qjs2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gw7ayo7i7ttmdty5fzjxxjhp/post/3mm2rdh6qjs2m</guid>
-      <pubDate>Sun, 17 May 2026 16:20:25 GMT</pubDate>
-      <dc:creator>Kedamono (kedamono1st.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Nancy listens to Baby Metal 🦊and Band Maid 🦹‍♀️.</p><p><em>BlueSky &middot; kedamono1st.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
