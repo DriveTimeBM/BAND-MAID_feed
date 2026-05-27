@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XE12VUBl9cY",
+        "Title":  "Reacting to Band Maid  |Toi et moi | Official Live Video",
+        "Channel":  "Kyros Reactions",
+        "ChannelId":  "UCo6VhAuklHvW8ZC35pIezXg",
+        "Url":  "https://youtu.be/XE12VUBl9cY",
+        "Thumbnail":  "https://i.ytimg.com/vi/XE12VUBl9cY/hqdefault.jpg",
+        "PublishedAt":  "2026-05-27T23:00:34.0000000Z",
+        "DiscoveredAt":  "2026-05-27T23:02:19.8406082Z",
+        "Duration":  "00:06:35",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "UEkPmbcjgCc",
         "Title":  "This Live Energy is UNREAL! ✨ BAND-MAID - Toi et moi Reaction",
         "Channel":  "The EagleFan",
