@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ztlqLMJTr5g",
+        "Title":  "GOKO Reacts to BAND-MAID / HATE? (Official Live Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/ztlqLMJTr5g",
+        "Thumbnail":  "https://i.ytimg.com/vi/ztlqLMJTr5g/hqdefault.jpg",
+        "PublishedAt":  "2026-05-27T00:00:18.0000000Z",
+        "DiscoveredAt":  "2026-05-27T00:13:32.4648185Z",
+        "Duration":  "00:10:07",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "W_fzT_SR-ew",
+        "Title":  "The Fam Jay Crew Reactions // BAND-MAID / Toi et moi (Official Live Video)",
+        "Channel":  "The Fam Jay Crew",
+        "ChannelId":  "UCr_wpkXp9lDwG0t35vs1Jvg",
+        "Url":  "https://youtu.be/W_fzT_SR-ew",
+        "Thumbnail":  "https://i.ytimg.com/vi/W_fzT_SR-ew/hqdefault.jpg",
+        "PublishedAt":  "2026-05-26T23:49:43.0000000Z",
+        "DiscoveredAt":  "2026-05-27T00:13:31.7836416Z",
+        "Duration":  "00:08:18",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "w4OCwQPjLuk",
         "Title":  "Reaction BAND MAID Don’t let me down",
         "Channel":  "Joker Spotlight",
