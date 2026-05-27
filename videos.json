@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gWq2LXs3esU",
+        "Title":  "BAND-MAID - FREEDOM (Official Live Video) REACTION ",
+        "Channel":  "Angelo's World",
+        "ChannelId":  "UCbnHnqTT_GDmFxFMJ75adog",
+        "Url":  "https://youtu.be/gWq2LXs3esU",
+        "Thumbnail":  "https://i.ytimg.com/vi/gWq2LXs3esU/hqdefault.jpg",
+        "PublishedAt":  "2026-05-27T19:00:06.0000000Z",
+        "DiscoveredAt":  "2026-05-27T19:25:55.3158897Z",
+        "Duration":  "00:14:24",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4Ph9K7bUKLs",
         "Title":  "BAND-MAID  Toi et moi MUSIC REACTION",
         "Channel":  "Hood Digital Da Rock Reactor",
