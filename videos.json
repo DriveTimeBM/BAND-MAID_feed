@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_K3loPvg27k",
+        "Title":  "BAND-MAID / Toi et moi. New Favorite Song",
+        "Channel":  "Anastasia Luna",
+        "ChannelId":  "UCqDxqsqyyBZKfK7PJj8hrVw",
+        "Url":  "https://youtu.be/_K3loPvg27k",
+        "Thumbnail":  "https://i.ytimg.com/vi/_K3loPvg27k/hqdefault.jpg",
+        "PublishedAt":  "2026-05-28T21:28:46.0000000Z",
+        "DiscoveredAt":  "2026-05-28T21:42:41.9491904Z",
+        "Duration":  "00:06:46",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "5HBhho41xVk",
         "Title":  "BAND-MAID - HIDE AND SEEK | Twin Peaks Inspired AI MV",
         "Channel":  "こばやしまさき / キカクタンイ",
