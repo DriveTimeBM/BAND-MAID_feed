@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "B3_qgdMuTP4",
+        "Title":  "Reaction: BAND-MAID - Toi et moi (Official Live Video)",
+        "Channel":  "Ramieh Reacts & Live",
+        "ChannelId":  "UCR588hWYawFA6vfBSJeyIrA",
+        "Url":  "https://youtu.be/B3_qgdMuTP4",
+        "Thumbnail":  "https://i.ytimg.com/vi/B3_qgdMuTP4/hqdefault.jpg",
+        "PublishedAt":  "2026-05-28T15:30:09.0000000Z",
+        "DiscoveredAt":  "2026-05-28T15:34:19.2501584Z",
+        "Duration":  "00:06:12",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KXcqZilqkrg",
         "Title":  "BAND-MAID / Toi et moi (Official Live Video 🌸Reaction🌸",
         "Channel":  "Faro & Sofi",
