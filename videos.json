@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6M8mA0RqQJ4",
+        "Title":  "GOKO Reacts to BAND-MAID / Play (Official Live Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/6M8mA0RqQJ4",
+        "Thumbnail":  "https://i.ytimg.com/vi/6M8mA0RqQJ4/hqdefault.jpg",
+        "PublishedAt":  "2026-05-28T00:00:08.0000000Z",
+        "DiscoveredAt":  "2026-05-28T00:13:34.0009633Z",
+        "Duration":  "00:06:55",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XE12VUBl9cY",
         "Title":  "Reacting to Band Maid  |Toi et moi | Official Live Video",
         "Channel":  "Kyros Reactions",
