@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FHGDtVa0ZlU",
+        "Title":  "【Bass Cover】Thrill (スリル) / BAND-MAID 【ベース弾いてみた】",
+        "Channel":  "六花。弾いてみたの人🧐",
+        "ChannelId":  "UCovKdeVg1oKXVsITtTIs1ug",
+        "Url":  "https://youtu.be/FHGDtVa0ZlU",
+        "Thumbnail":  "https://i.ytimg.com/vi/FHGDtVa0ZlU/hqdefault.jpg",
+        "PublishedAt":  "2026-05-28T11:00:36.0000000Z",
+        "DiscoveredAt":  "2026-05-28T11:28:40.3313174Z",
+        "Duration":  "00:04:07",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "vlqjvUIAf6Q",
+        "Title":  "BAND-MAIDの『Thrill』をベースで弾いてみた🎸#BANDMAID #Thrill #スリル #ベース弾いてみた #BassCover #MISA #バンメ #弾いてみた",
+        "Channel":  "六花。弾いてみたの人🧐",
+        "ChannelId":  "UCovKdeVg1oKXVsITtTIs1ug",
+        "Url":  "https://youtu.be/vlqjvUIAf6Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/vlqjvUIAf6Q/hqdefault.jpg",
+        "PublishedAt":  "2026-05-28T11:00:28.0000000Z",
+        "DiscoveredAt":  "2026-05-28T11:28:39.5950431Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  56,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bn7iFC4jLwk",
         "Title":  "⚡Hollywood Producers React to BAND-MAID's LIVE Performance for the Very First Time! | Reaction Video",
         "Channel":  "Hollywood Producers React!",
