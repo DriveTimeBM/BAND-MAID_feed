@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dd38QG0WEk0",
+        "Title":  "BAND-MAID / Toi et moi (Official Live Video) REACTION",
+        "Channel":  "guitarist reacts ",
+        "ChannelId":  "UC8GaaQyOb0LeVykG4hZ5kVA",
+        "Url":  "https://youtu.be/dd38QG0WEk0",
+        "Thumbnail":  "https://i.ytimg.com/vi/dd38QG0WEk0/hqdefault.jpg",
+        "PublishedAt":  "2026-05-28T17:22:43.0000000Z",
+        "DiscoveredAt":  "2026-05-28T17:37:25.2804641Z",
+        "Duration":  "00:05:18",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "pTRpXV9XAAs",
+        "Title":  "BAND-MAID / Toi et moi (Official Live Video) REACTION",
+        "Channel":  "Blender Tutorial ",
+        "ChannelId":  "UC1yfCACXJ4eh8I9TLFNrzQg",
+        "Url":  "https://youtu.be/pTRpXV9XAAs",
+        "Thumbnail":  "https://i.ytimg.com/vi/pTRpXV9XAAs/hqdefault.jpg",
+        "PublishedAt":  "2026-05-28T17:20:35.0000000Z",
+        "DiscoveredAt":  "2026-05-28T17:37:24.7844315Z",
+        "Duration":  "00:05:18",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "UZc6YTy8KgY",
         "Title":  "Band Maid Bubble (live) Reaction",
         "Channel":  "jmnassar",
