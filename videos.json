@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "R4onUBU95Ho",
+        "Title":  "BAND-MAID - Toi et moi (Official Live Video)",
+        "Channel":  "Pappy's Channel",
+        "ChannelId":  "UCYok5F7c2kHJP36zH9GgEng",
+        "Url":  "https://youtu.be/R4onUBU95Ho",
+        "Thumbnail":  "https://i.ytimg.com/vi/R4onUBU95Ho/hqdefault.jpg",
+        "PublishedAt":  "2026-05-28T04:43:16.0000000Z",
+        "DiscoveredAt":  "2026-05-28T04:51:08.1698203Z",
+        "Duration":  "00:02:59",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "nlZRwrmdH_U",
         "Title":  "Band Maid Don't Let Me Down (live) Reaction",
         "Channel":  "jmnassar",

@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 28 May 2026 04:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 04:51:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAND-MAID - Toi et moi (Official Live Video)</title>
+      <link>https://youtu.be/R4onUBU95Ho</link>
+      <guid isPermaLink="false">yt:video:R4onUBU95Ho</guid>
+      <pubDate>Thu, 28 May 2026 04:43:16 GMT</pubDate>
+      <dc:creator>Pappy's Channel</dc:creator>
+      <category>Pappy's Channel</category>
+      <description><![CDATA[<p><a href="https://youtu.be/R4onUBU95Ho"><img src="https://i.ytimg.com/vi/R4onUBU95Ho/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Pappy's Channel<br/>Duration: 00:02:59<br/>Views at discovery: 0</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/R4onUBU95Ho/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band Maid Don't Let Me Down (live) Reaction</title>
       <link>https://youtu.be/nlZRwrmdH_U</link>
