@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bB_K_frswGo",
+        "Title":  "Musician reacts to BAND-MAID / Toi et moi (Official Live Video)",
+        "Channel":  "Vault of Art",
+        "ChannelId":  "UCZJ9ZsJGHLHmkqIh30knRXw",
+        "Url":  "https://youtu.be/bB_K_frswGo",
+        "Thumbnail":  "https://i.ytimg.com/vi/bB_K_frswGo/hqdefault.jpg",
+        "PublishedAt":  "2026-05-29T12:00:05.0000000Z",
+        "DiscoveredAt":  "2026-05-29T12:06:04.7134359Z",
+        "Duration":  "00:07:04",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "5D5wTzjcdQ4",
         "Title":  "BAND-MAID - 'Moratorium' | This Performance is INSANE!",
         "Channel":  "Jeanette Music",
