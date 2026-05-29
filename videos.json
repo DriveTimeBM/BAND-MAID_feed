@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "iTvSldSIcsI",
+        "Title":  "GOKO Reacts to BAND-MAID / Warning! (Official Music Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/iTvSldSIcsI",
+        "Thumbnail":  "https://i.ytimg.com/vi/iTvSldSIcsI/hqdefault.jpg",
+        "PublishedAt":  "2026-05-29T00:00:18.0000000Z",
+        "DiscoveredAt":  "2026-05-29T00:16:07.4841790Z",
+        "Duration":  "00:06:02",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "jxipzjq99l0",
+        "Title":  "BAND-MAID WORLD TOUR 2026 in Taipei - May 29, 2026",
+        "Channel":  "Nin puzzle",
+        "ChannelId":  "UCCZ3DnDT0dT1-5AuoEGN7GQ",
+        "Url":  "https://youtu.be/jxipzjq99l0",
+        "Thumbnail":  "https://i.ytimg.com/vi/jxipzjq99l0/hqdefault.jpg",
+        "PublishedAt":  "2026-05-28T23:55:57.0000000Z",
+        "DiscoveredAt":  "2026-05-29T00:16:06.6652299Z",
+        "Duration":  "00:01:10",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_K3loPvg27k",
         "Title":  "BAND-MAID / Toi et moi. New Favorite Song",
         "Channel":  "Anastasia Luna",
