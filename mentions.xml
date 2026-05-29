@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 28 May 2026 06:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 06:57:26 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Brand-New Road</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmxumv4ce22o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmxumv4ce22o</guid>
+      <pubDate>Fri, 29 May 2026 06:06:34 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Brand-New Road<br/>Album: Brand New MAID<br/>Release: 5/17/2016<br/>Music: 後藤康二 [Goto, Koji]<br/>Lyrics: 山下慎一狼 [Yamashita, Shinichiro]<br/>Arrangement: 後藤康二 [Goto, Koji]<br/>1st Live:4/9/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 10 years ago Band-Maid played 5 songs at ExCel in London GB on 2016/5/29. The...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmxuanxs3h2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmxuanxs3h2u</guid>
+      <pubDate>Fri, 29 May 2026 05:59:44 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>10 years ago Band-Maid played 5 songs at ExCel in London GB on 2016/5/29. The opening song was the non-fiction days.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] he want for the song and I wrote it up.</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmve5xufjb2t</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 7 songs at Nagoya CLUB QUATTRO in Nagoya JP on 2017/5/19. The opening song was Awkward.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 19 songs at Buckhead Theatre in Atlanta US on 20...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mm6plnfgvk2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mm6plnfgvk2x</guid>
-      <pubDate>Tue, 19 May 2026 05:59:50 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 19 songs at Buckhead Theatre in Atlanta US on 2023/5/19. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Lovebites, BAND-MAID, and Hagane...</title>
-      <link>https://bsky.app/profile/did:plc:hrkghhhpcteggnokd7dcbt7j/post/3mm5dmwq2l422</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hrkghhhpcteggnokd7dcbt7j/post/3mm5dmwq2l422</guid>
-      <pubDate>Mon, 18 May 2026 16:53:10 GMT</pubDate>
-      <dc:creator>Ordoalea (ordoalea.hr)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Lovebites, BAND-MAID, and Hagane...<br/><br/>Duuuh</p><p><em>BlueSky &middot; ordoalea.hr</em></p>]]></description>
     </item>
   </channel>
 </rss>
