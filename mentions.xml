@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 29 May 2026 06:57:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 11:34:41 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 気分上がる一枚🎶</title>
+      <link>https://bsky.app/profile/did:plc:qimtgi33gkhroitggfrb56nm/post/3mmyfcz56r32q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qimtgi33gkhroitggfrb56nm/post/3mmyfcz56r32q</guid>
+      <pubDate>Fri, 29 May 2026 11:05:16 GMT</pubDate>
+      <dc:creator>Muva@おすすめCD紹介 (muva-rakuten.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>気分上がる一枚🎶<br/><br/>『【Amazon.co.jp限定】ENERGETIC[初回生産限定盤(CD+Blu-ray)] - BAND-MAID(メガジャケ(オリジナル絵柄)付)』/ BAND-MAID<br/><br/>🛒 商品ページはこちら！<br/>🎧 商品ページはこちら！<br/><br/>#BANDMAID #CD #PR #フォロバ100</p><p><em>BlueSky &middot; muva-rakuten.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Brand-New Road</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmxumv4ce22o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: decided by myself<br/>Album: Just Bring It<br/>Release: 1/10/2017<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku] 彩姫 [Saiki]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2017<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 7 songs at Nagoya CLUB QUATTRO in Nagoya JP on 2...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mm6plsgfek2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mm6plsgfek2p</guid>
-      <pubDate>Tue, 19 May 2026 05:59:56 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 7 songs at Nagoya CLUB QUATTRO in Nagoya JP on 2017/5/19. The opening song was Awkward.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
