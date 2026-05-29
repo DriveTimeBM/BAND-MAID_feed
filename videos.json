@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dCqxnIPv_hE",
+        "Title":  "Band-Maid New Outfits! Taipei Promo Sept Okyuj World Tour 2026  #バンドメイド #bandmaid",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/dCqxnIPv_hE",
+        "Thumbnail":  "https://i.ytimg.com/vi/dCqxnIPv_hE/hqdefault.jpg",
+        "PublishedAt":  "2026-05-29T03:52:11.0000000Z",
+        "DiscoveredAt":  "2026-05-29T03:53:38.7474158Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "EhBMQ773mJA",
         "Title":  "Band-Maid Taipei Promo Sept Okyuji Promo  #バンドメイド #bandmaid",
         "Channel":  "Uncle Yoshi",
