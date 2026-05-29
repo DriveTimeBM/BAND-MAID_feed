@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "G7lWsMpvjJM",
+        "Title":  "BAND MAID | Toi et moi (Official Live Video) | First Time Reaction",
+        "Channel":  "B-Drags Den",
+        "ChannelId":  "UCAzN5A_zST9aX8IiJ753uCA",
+        "Url":  "https://youtu.be/G7lWsMpvjJM",
+        "Thumbnail":  "https://i.ytimg.com/vi/G7lWsMpvjJM/hqdefault.jpg",
+        "PublishedAt":  "2026-05-29T17:21:19.0000000Z",
+        "DiscoveredAt":  "2026-05-29T17:42:26.3633075Z",
+        "Duration":  "00:08:19",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bUW_e2Wfy8Q",
         "Title":  "Band-Maid - Daydreaming | Reaction | A Beautiful Song and That Guitar Solo?!❤️",
         "Channel":  "Battoosh & Nonna",
