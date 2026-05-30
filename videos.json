@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "r6yWv5oURNs",
+        "Title":  "初見リアクション｜BAND-MAID「Ready to Rock」ライブ版が凄すぎる！🤘🎸🔥🎤🎶⚡ (Live 2026) | It Felt Like I Was There!",
+        "Channel":  "Coffee Guy reacts",
+        "ChannelId":  "UCb40WR2QgE9r2TTYWkZcgeg",
+        "Url":  "https://youtu.be/r6yWv5oURNs",
+        "Thumbnail":  "https://i.ytimg.com/vi/r6yWv5oURNs/hqdefault.jpg",
+        "PublishedAt":  "2026-05-30T08:12:36.0000000Z",
+        "DiscoveredAt":  "2026-05-30T08:22:15.0673586Z",
+        "Duration":  "00:04:47",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "FWu-E6DmSKY",
         "Title":  "Band Maid Toi et moi Live Reaction",
         "Channel":  "Kranky Old Dude",
