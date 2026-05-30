@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "QbFcuXxUHik",
+        "Title":  "GOKO Reacts to BAND-MAID / REAL EXISTENCE (Official Music Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/QbFcuXxUHik",
+        "Thumbnail":  "https://i.ytimg.com/vi/QbFcuXxUHik/hqdefault.jpg",
+        "PublishedAt":  "2026-05-30T00:00:23.0000000Z",
+        "DiscoveredAt":  "2026-05-30T00:42:24.8471692Z",
+        "Duration":  "00:07:29",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JtnCEeMYjYc",
         "Title":  "BAND-MAID Sounds Like 90s Hard Rock?! | “DICE” First Reaction",
         "Channel":  "Riffs and Reactions With Berry",
