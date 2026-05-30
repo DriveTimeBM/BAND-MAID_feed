@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "c5BfmoRdf1A",
+        "Title":  "BAND-MAID/Toi et moi (Official Live Video) Reaction",
+        "Channel":  "James M ",
+        "ChannelId":  "UCDw9j7ufQGH7mg4l3Z8In9A",
+        "Url":  "https://youtu.be/c5BfmoRdf1A",
+        "Thumbnail":  "https://i.ytimg.com/vi/c5BfmoRdf1A/hqdefault.jpg",
+        "PublishedAt":  "2026-05-30T16:56:19.0000000Z",
+        "DiscoveredAt":  "2026-05-30T17:05:21.0401161Z",
+        "Duration":  "00:06:16",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "tAu8VpmcOF8",
+        "Title":  "What The? BAND-MAID - Toi et moi (REACTION)",
+        "Channel":  "TurtlePizzaPower's Music & Thoughts",
+        "ChannelId":  "UCBOmzwdyLqDpo7TQ8q8BEyw",
+        "Url":  "https://youtu.be/tAu8VpmcOF8",
+        "Thumbnail":  "https://i.ytimg.com/vi/tAu8VpmcOF8/hqdefault.jpg",
+        "PublishedAt":  "2026-05-30T16:45:45.0000000Z",
+        "DiscoveredAt":  "2026-05-30T17:05:20.4279774Z",
+        "Duration":  "00:06:13",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "m4O_G0YASX4",
         "Title":  "Reacting to BAND-MAID \"Dilly Dally\" & \"Super Sunshine\" LIVE",
         "Channel":  "WWEdeadman Reacts",
