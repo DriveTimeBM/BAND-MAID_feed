@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 30 May 2026 05:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 06:49:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Kanami: I was pretty conscious of newness when I wrote it. It’s based on the ...</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn2f3re4ca2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn2f3re4ca2n</guid>
+      <pubDate>Sat, 30 May 2026 06:06:34 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Kanami: I was pretty conscious of newness when I wrote it. It’s based on the Band-Maid style, but I wrote it with an image that… it will give accent to future servings (laughs).<br/><br/>Saiki: It’s also a song that showcases our instrumentalists. Am I right?<br/><br/>Kanami: Yes, it is (laughs). I thought it would</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Song: influencer</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn2f3qzsbb25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn2f3qzsbb25</guid>
+      <pubDate>Sat, 30 May 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: influencer<br/>Album: Unleash<br/>Release: 9/20/2022<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:9/6/2022<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 7 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mn2b4mqceb2s</link>
@@ -890,24 +908,6 @@
       <dc:creator>Defyeler Blackheart (畢家俊) (defyeler.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I have yet to hear any Band Maid or Babymetal. Keeps feeding me this techno edm shit. I don&#39;t see radio stations, just the annoying announcer that keeps repeating what I just did.</p><p><em>BlueSky &middot; defyeler.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid, Babymetal, Spiritbox, Poppy… whoever was in charge of picking the ...</title>
-      <link>https://bsky.app/profile/did:plc:jwa6ti2hat7u3zqockexklvv/post/3mmammr5jq22k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jwa6ti2hat7u3zqockexklvv/post/3mmammr5jq22k</guid>
-      <pubDate>Wed, 20 May 2026 00:12:07 GMT</pubDate>
-      <dc:creator>Jourdan (galaktix.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid, Babymetal, Spiritbox, Poppy… whoever was in charge of picking the music in Forza Horizon 6 has wonderful taste.</p><p><em>BlueSky &middot; galaktix.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid</title>
-      <link>https://bsky.app/profile/did:plc:shsdmagrq3gtt4fdar3yrzjn/post/3mm7pcxzg3222</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:shsdmagrq3gtt4fdar3yrzjn/post/3mm7pcxzg3222</guid>
-      <pubDate>Tue, 19 May 2026 15:27:40 GMT</pubDate>
-      <dc:creator>Ken Cleanairsystem (jdog001.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid</p><p><em>BlueSky &middot; jdog001.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
