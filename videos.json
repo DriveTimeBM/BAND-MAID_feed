@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "b-RL2M0dA1o",
+        "Title":  "BAND-MAID / HATE? (Official Live Video) REACTION",
+        "Channel":  "Refined Reviews",
+        "ChannelId":  "UCJhWNP4vsj_A89WV2pYqF6w",
+        "Url":  "https://youtu.be/b-RL2M0dA1o",
+        "Thumbnail":  "https://i.ytimg.com/vi/b-RL2M0dA1o/hqdefault.jpg",
+        "PublishedAt":  "2026-05-31T15:08:02.0000000Z",
+        "DiscoveredAt":  "2026-05-31T15:33:59.9629573Z",
+        "Duration":  "00:07:19",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MnyKBQPsnSU",
         "Title":  "Flutist reacts to more gorgeousness...!🌹|BAND-MAID, At the Drop of a Hat",
         "Channel":  "NittPicc",
