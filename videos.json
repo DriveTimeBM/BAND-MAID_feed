@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "1jPxdzecObM",
+        "Title":  "BAND-MAID / Toi et moi (Official Live Video) REACTION",
+        "Channel":  "The AMP Theory",
+        "ChannelId":  "UCwHk6Z-w-ES4qutiPCDG1IA",
+        "Url":  "https://youtu.be/1jPxdzecObM",
+        "Thumbnail":  "https://i.ytimg.com/vi/1jPxdzecObM/hqdefault.jpg",
+        "PublishedAt":  "2026-05-31T00:45:21.0000000Z",
+        "DiscoveredAt":  "2026-05-31T00:45:40.4416594Z",
+        "Duration":  "00:08:00",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dRe7E4CaoCQ",
         "Title":  "Kanami is a LEGEND 😭 | BAND-MAID Puzzle Live + Acoustic REACTION | First Time Hearing",
         "Channel":  "Overthinking with Dennis",
