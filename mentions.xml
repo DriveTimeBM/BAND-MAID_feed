@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 30 May 2026 06:49:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 01:47:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] It only took hearing one song on YouTube to hook me, Domination (official liv...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mn4e4efzv223</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mn4e4efzv223</guid>
+      <pubDate>Sun, 31 May 2026 00:54:20 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>It only took hearing one song on YouTube to hook me, Domination (official live video) by Band-Maid. I promptly dove down the rabbit hole (or pigeon hole, IYKYK) to listen to all of their available catalog, and now they are just my favourite band on the planet.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Kanami: I was pretty conscious of newness when I wrote it. It’s based on the ...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn2f3re4ca2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>Wolfie (aftershockwolf.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>‪BEST OPENING THEME OF 2025‬<br/><br/>‪RUNNER-UP: “Ready to Rock” by BAND-MAID [Rock is a Lady’s Modesty]‬</p><p><em>BlueSky &middot; aftershockwolf.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I have yet to hear any Band Maid or Babymetal. Keeps feeding me this techno e...</title>
-      <link>https://bsky.app/profile/did:plc:whvyroqthu6mkocjiagur42c/post/3mmaozdo6qc2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:whvyroqthu6mkocjiagur42c/post/3mmaozdo6qc2y</guid>
-      <pubDate>Wed, 20 May 2026 00:54:57 GMT</pubDate>
-      <dc:creator>Defyeler Blackheart (畢家俊) (defyeler.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I have yet to hear any Band Maid or Babymetal. Keeps feeding me this techno edm shit. I don&#39;t see radio stations, just the annoying announcer that keeps repeating what I just did.</p><p><em>BlueSky &middot; defyeler.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
