@@ -7,8 +7,35 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 31 May 2026 05:52:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 06:53:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: the non-fiction days</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn4vkwfxkc2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn4vkwfxkc2r</guid>
+      <pubDate>Sun, 31 May 2026 06:06:39 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: the non-fiction days<br/>Album: Brand New MAID<br/>Release: 5/17/2016<br/>Music: 大西俊也 [Onishi, Toshinari]<br/>Lyrics: 中村彼方 [Nakamura, Kanata]<br/>Arrangement: 大西俊也 [Onishi, Toshinari]<br/>1st Live:3/18/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 12 years ago Band-Maid played at HEAVEN'S ROCK KUMAGAYA VJ-1 in Kumagaya JP o...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mn4v6kubr32x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mn4v6kubr32x</guid>
+      <pubDate>Sun, 31 May 2026 05:59:46 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>12 years ago Band-Maid played at HEAVEN&#39;S ROCK KUMAGAYA VJ-1 in Kumagaya JP on 2014/5/31. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 11 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2015/5...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mn4v6jfmns2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mn4v6jfmns2q</guid>
+      <pubDate>Sun, 31 May 2026 05:59:44 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>11 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2015/5/31. The opening song was Be OK.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 2 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mn4rlkeu672m</link>
@@ -881,33 +908,6 @@
       <dc:creator>ぺんたついすと (pentatwist.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>アンコールやりすぎるバンドの陰陽座とアンコール一切やらないバンドのBAND-MAIDで対バンしてみません？妖怪vsメイド</p><p><em>BlueSky &middot; pentatwist.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Turn me on</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmbagkwsxm2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmbagkwsxm2g</guid>
-      <pubDate>Wed, 20 May 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Turn me on<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played at Shibuya Milkyway in Tokyo JP on 2014/5/20. T...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmba2gewmd2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmba2gewmd2q</guid>
-      <pubDate>Wed, 20 May 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played at Shibuya Milkyway in Tokyo JP on 2014/5/20. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] リピート再生が止まらない🔁</title>
-      <link>https://bsky.app/profile/did:plc:qimtgi33gkhroitggfrb56nm/post/3mmazns4jt726</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qimtgi33gkhroitggfrb56nm/post/3mmazns4jt726</guid>
-      <pubDate>Wed, 20 May 2026 04:05:18 GMT</pubDate>
-      <dc:creator>Muva@おすすめCD紹介 (muva-rakuten.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>リピート再生が止まらない🔁<br/><br/>『ENERGETIC[初回生産限定盤(CD+Blu-ray)] - BAND-MAID(特典なし)』/ BAND-MAID<br/><br/>Amazon → 商品ページはこちら！<br/><br/>#BANDMAID #CD #PR #神曲</p><p><em>BlueSky &middot; muva-rakuten.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
