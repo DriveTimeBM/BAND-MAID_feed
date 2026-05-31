@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FbVrO4so5hY",
+        "Title":  "METALLICA FAN REACTS TO \"BAND-MAID / Toi et moi\" REACTION",
+        "Channel":  "Stev_yt - Reactions & Drumcovers ",
+        "ChannelId":  "UCqThJgJEu4oGxdGWv93Z3xA",
+        "Url":  "https://youtu.be/FbVrO4so5hY",
+        "Thumbnail":  "https://i.ytimg.com/vi/FbVrO4so5hY/hqdefault.jpg",
+        "PublishedAt":  "2026-05-31T16:00:06.0000000Z",
+        "DiscoveredAt":  "2026-05-31T16:07:59.1302148Z",
+        "Duration":  "00:04:45",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "b-RL2M0dA1o",
         "Title":  "BAND-MAID / HATE? (Official Live Video) REACTION",
         "Channel":  "Refined Reviews",
