@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 31 May 2026 06:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 20:43:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band Maid - Present Perfect factomania.es/band-maid-pr...</title>
+      <link>https://bsky.app/profile/did:plc:6m4pcxbij5juufqbxw2rtazu/post/3mn6dvkmkpc2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6m4pcxbij5juufqbxw2rtazu/post/3mn6dvkmkpc2o</guid>
+      <pubDate>Sun, 31 May 2026 19:55:51 GMT</pubDate>
+      <dc:creator>frankaro.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band Maid - Present Perfect factomania.es/band-maid-pr...</p><p><em>BlueSky &middot; frankaro.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: the non-fiction days</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn4vkwfxkc2r</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] アンコールやりすぎるバンドの陰陽座とアンコール一切やらないバンドのBAND-MAIDで対バンしてみません？妖怪vsメイド</title>
-      <link>https://bsky.app/profile/did:plc:sjmeckasqbgh75gqx4mfob6u/post/3mmbjatpfrq2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sjmeckasqbgh75gqx4mfob6u/post/3mmbjatpfrq2o</guid>
-      <pubDate>Wed, 20 May 2026 08:44:25 GMT</pubDate>
-      <dc:creator>ぺんたついすと (pentatwist.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>アンコールやりすぎるバンドの陰陽座とアンコール一切やらないバンドのBAND-MAIDで対バンしてみません？妖怪vsメイド</p><p><em>BlueSky &middot; pentatwist.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
