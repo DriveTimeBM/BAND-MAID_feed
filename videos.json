@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "p7HM7j05cIA",
+        "Title":  "BAND-MAID / Toi et moi (Official Live Video)",
+        "Channel":  "Angelo's World",
+        "ChannelId":  "UCbnHnqTT_GDmFxFMJ75adog",
+        "Url":  "https://youtu.be/p7HM7j05cIA",
+        "Thumbnail":  "https://i.ytimg.com/vi/p7HM7j05cIA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-01T19:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-01T19:12:38.6162052Z",
+        "Duration":  "00:09:42",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Yeyd5yl8mR0",
         "Title":  "Red Reacts | Reaction To BAND-MAID #バンドメイド | Toi Et Moi",
         "Channel":  "Reds AOB (Any Other Business)",
