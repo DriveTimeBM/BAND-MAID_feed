@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "o-qt4osjXGg",
+        "Title":  "BAND-MAID – Toi et moi Reaction  This Was a Masterpiece!",
+        "Channel":  "DBUG REACTS",
+        "ChannelId":  "UCrJFurFa9X8SwdL7Jg92aHg",
+        "Url":  "https://youtu.be/o-qt4osjXGg",
+        "Thumbnail":  "https://i.ytimg.com/vi/o-qt4osjXGg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-01T22:00:09.0000000Z",
+        "DiscoveredAt":  "2026-06-01T22:18:54.6053366Z",
+        "Duration":  "00:10:05",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_-mYufYLk4g",
         "Title":  "Band Maid - Toi Et Moi (Review)",
         "Channel":  "Beard Wizard Man",
