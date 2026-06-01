@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZXysWHx6eU4",
+        "Title":  "Reaction! DICE - BAND-MAID",
+        "Channel":  "Rockin' with Matt",
+        "ChannelId":  "UCruBX3uPne2xBlLZOo950bA",
+        "Url":  "https://youtu.be/ZXysWHx6eU4",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZXysWHx6eU4/hqdefault.jpg",
+        "PublishedAt":  "2026-06-01T13:00:26.0000000Z",
+        "DiscoveredAt":  "2026-06-01T13:04:21.2274402Z",
+        "Duration":  "00:17:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "I_P5uRGrFrY",
+        "Title":  "1st Time Reaction to BAND-MAID  Spirit!! (Live in Tokyo 2018)",
+        "Channel":  "P Reacts Music",
+        "ChannelId":  "UCUwevNkARRcrbq1ghGPGFaw",
+        "Url":  "https://youtu.be/I_P5uRGrFrY",
+        "Thumbnail":  "https://i.ytimg.com/vi/I_P5uRGrFrY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-01T13:00:15.0000000Z",
+        "DiscoveredAt":  "2026-06-01T13:04:20.4552515Z",
+        "Duration":  "00:08:44",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "93eYLcX-NBc",
         "Title":  "BAND-MAID / World Tour Livestream # NEW LAYOUT",
         "Channel":  "Ohrenje",
