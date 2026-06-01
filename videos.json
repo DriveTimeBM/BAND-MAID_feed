@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "OO9X7FJGCro",
+        "Title":  "BAND MAID - Toi et moi (Official Live Video) - Dave M 🤘🎀💯",
+        "Channel":  "Dave M",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/OO9X7FJGCro",
+        "Thumbnail":  "https://i.ytimg.com/vi/OO9X7FJGCro/hqdefault.jpg",
+        "PublishedAt":  "2026-06-01T04:00:33.0000000Z",
+        "DiscoveredAt":  "2026-06-01T04:22:46.7350681Z",
+        "Duration":  "00:12:08",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gk82CuCVZOA",
         "Title":  "BAND-MAID - 'Toi et moi' - obese guy reacts",
         "Channel":  "DrumRoast",
