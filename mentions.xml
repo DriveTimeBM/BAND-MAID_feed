@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 05:54:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 06:25:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Wow, 5 million views! Band-Maid rocks! 😊</title>
+      <link>https://bsky.app/profile/did:plc:22tcjt7oe5fipgnemulno3hj/post/3mn7dwu3ojv2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:22tcjt7oe5fipgnemulno3hj/post/3mn7dwu3ojv2u</guid>
+      <pubDate>Mon, 01 Jun 2026 05:29:13 GMT</pubDate>
+      <dc:creator>Mori (h-alitcan.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Wow, 5 million views! Band-Maid rocks! 😊</p><p><em>BlueSky &middot; h-alitcan.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 9 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mn7c2i5l6i2z</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I would like an era of Band Maid where we have Kanami solo's that last severa...</title>
-      <link>https://bsky.app/profile/did:plc:6csq4nt7yowkwyiylro3uu2t/post/3mma2c4bhx22i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6csq4nt7yowkwyiylro3uu2t/post/3mma2c4bhx22i</guid>
-      <pubDate>Tue, 19 May 2026 18:44:02 GMT</pubDate>
-      <dc:creator>Oftentimes Jack 🇮🇪🤝🇵🇸 (pepsffk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I would like an era of Band Maid where we have Kanami solo&#39;s that last several minutes, just those empty opening metal solos but actually good.<br/><br/>www.youtube.com/watch?v=GZ9R...</p><p><em>BlueSky &middot; pepsffk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
