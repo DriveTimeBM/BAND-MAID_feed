@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_-mYufYLk4g",
+        "Title":  "Band Maid - Toi Et Moi (Review)",
+        "Channel":  "Beard Wizard Man",
+        "ChannelId":  "UCM0OKZ9g0wvRdCDCkTj4GFA",
+        "Url":  "https://youtu.be/_-mYufYLk4g",
+        "Thumbnail":  "https://i.ytimg.com/vi/_-mYufYLk4g/hqdefault.jpg",
+        "PublishedAt":  "2026-06-01T21:14:08.0000000Z",
+        "DiscoveredAt":  "2026-06-01T21:16:16.0976077Z",
+        "Duration":  "00:07:08",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "8dS2BKuXQqI",
         "Title":  "Greatest Japanese Metal Band! BAND-MAID \"Toi et moi\" Live! | First Time REACTION",
         "Channel":  "IMMORTAL NOXIFER TV",
