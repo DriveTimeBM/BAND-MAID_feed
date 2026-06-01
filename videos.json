@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8dS2BKuXQqI",
+        "Title":  "Greatest Japanese Metal Band! BAND-MAID \"Toi et moi\" Live! | First Time REACTION",
+        "Channel":  "IMMORTAL NOXIFER TV",
+        "ChannelId":  "UCWn6Txaurg3C9ggJYB1_5-Q",
+        "Url":  "https://youtu.be/8dS2BKuXQqI",
+        "Thumbnail":  "https://i.ytimg.com/vi/8dS2BKuXQqI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-01T19:20:53.0000000Z",
+        "DiscoveredAt":  "2026-06-01T19:43:21.7135559Z",
+        "Duration":  "00:05:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "p7HM7j05cIA",
         "Title":  "BAND-MAID / Toi et moi (Official Live Video)",
         "Channel":  "Angelo's World",
