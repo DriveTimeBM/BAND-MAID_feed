@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_9vzLALH87A",
+        "Title":  "Musicians REACT to Band-Maiko: Gion-cho (2019 Official Music Video) April Fool's Band-Maid",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/_9vzLALH87A",
+        "Thumbnail":  "https://i.ytimg.com/vi/_9vzLALH87A/hqdefault.jpg",
+        "PublishedAt":  "2026-06-01T10:00:20.0000000Z",
+        "DiscoveredAt":  "2026-06-01T10:29:59.1603404Z",
+        "Duration":  "00:09:05",
+        "ViewsAtDiscovery":  40,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "GGg6g1oLrT8",
+        "Title":  "BAND-MAID - Hate? Reaction | Tell us how you really feel! (Official live)",
+        "Channel":  "Nick out of Focus",
+        "ChannelId":  "UCYf97wOAY_jz-VOVvpN1dyw",
+        "Url":  "https://youtu.be/GGg6g1oLrT8",
+        "Thumbnail":  "https://i.ytimg.com/vi/GGg6g1oLrT8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-01T10:00:08.0000000Z",
+        "DiscoveredAt":  "2026-06-01T10:29:58.3742160Z",
+        "Duration":  "00:07:24",
+        "ViewsAtDiscovery":  31,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "OO9X7FJGCro",
         "Title":  "BAND MAID - Toi et moi (Official Live Video) - Dave M 🤘🎀💯",
         "Channel":  "Dave M",
