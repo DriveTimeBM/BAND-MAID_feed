@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "u068YGiWLN4",
+        "Title":  "Choose me | Band Maid React",
+        "Channel":  "Raquel Cruz",
+        "ChannelId":  "UC5cBRV-Yd-_XUvdHuCvBTDA",
+        "Url":  "https://youtu.be/u068YGiWLN4",
+        "Thumbnail":  "https://i.ytimg.com/vi/u068YGiWLN4/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T12:15:52.0000000Z",
+        "DiscoveredAt":  "2026-06-02T12:43:17.7050519Z",
+        "Duration":  "00:12:09",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qgWIxQlf4CE",
         "Title":  "They Keep Blowing My Mind BAND MAID  influencer",
         "Channel":  "Purple unicorn reaction's",
