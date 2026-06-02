@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yMBP5sXyrnw",
+        "Title":  "Have You Heard... of this kick-ass all female band, BAND-MAID",
+        "Channel":  "Have You Heard... Reaction Channel",
+        "ChannelId":  "UCbIsoL-Udpeq_dRUAXagwhA",
+        "Url":  "https://youtu.be/yMBP5sXyrnw",
+        "Thumbnail":  "https://i.ytimg.com/vi/yMBP5sXyrnw/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T04:37:26.0000000Z",
+        "DiscoveredAt":  "2026-06-02T05:02:02.4816878Z",
+        "Duration":  "00:07:35",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3LPSzBuk-Ps",
         "Title":  "【衝撃コラボ】9mm×BAND-MAID×BRADIO×大槻ケンヂが同時降臨…ARABAKI ROCK FEST.25が“伝説級”すぎた件",
         "Channel":  "Jp Music News",
