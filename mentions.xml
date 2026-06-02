@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 06:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 06:03:26 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] It's been a day. Time to drop another grenade and go to sleep. Best rock band...</title>
+      <link>https://bsky.app/profile/did:plc:xrhtyqj7nsrqfp4vwtgeppm2/post/3mnbt6l47dk24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xrhtyqj7nsrqfp4vwtgeppm2/post/3mnbt6l47dk24</guid>
+      <pubDate>Tue, 02 Jun 2026 05:07:19 GMT</pubDate>
+      <dc:creator>persona non sequitur (nouseforajames.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>It&#39;s been a day. Time to drop another grenade and go to sleep. Best rock bands of my lifetime: <br/>1. Band-Maid<br/>2.<br/>3. Faith No More<br/>4. Gacharic Spin/Doll$Boxx<br/>5. Alice in Chains <br/><br/>Honorable mention to NEK! who would be on this list if they weren&#39;t literal children, but in a couple more albums, yeah.</p><p><em>BlueSky &middot; nouseforajames.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: matchless GUM</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn7fzn2bi526</link>
@@ -899,15 +908,6 @@
       <dc:creator>Harry Marουδας🧿⚓ (harrymaroudas.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Old men watch Band-Maid</p><p><em>BlueSky &middot; harrymaroudas.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] #Jrock #bandmaid #ENERGETIC</title>
-      <link>https://bsky.app/profile/did:plc:6sihfl3lwu5qkbjw4rfyt5m4/post/3mmcfww2roc2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6sihfl3lwu5qkbjw4rfyt5m4/post/3mmcfww2roc2c</guid>
-      <pubDate>Wed, 20 May 2026 17:17:51 GMT</pubDate>
-      <dc:creator>JaME France (jameworldfr.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>#Jrock #bandmaid #ENERGETIC <br/><br/>Le groupe de hard rock BAND-MAID sortira son tout premier single de 2026, intitul&#233; &quot;ENERGETIC&quot;, le 24 juin.<br/><br/>www.jame-world.com/fr/news/1712...</p><p><em>BlueSky &middot; jameworldfr.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
