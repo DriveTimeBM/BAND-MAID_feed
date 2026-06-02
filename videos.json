@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SNQq6iaTiTE",
+        "Title":  "NEMOPHILA COM 4° INTEGRANTE ?! NOVA GUITARRISTA, BAND MAID TOUR, LOVEBITES SOLD OUT e +!",
+        "Channel":  "Lovebites Brasil Fans",
+        "ChannelId":  "UCeK6HrzJam4R87DnGKEPWQw",
+        "Url":  "https://youtu.be/SNQq6iaTiTE",
+        "Thumbnail":  "https://i.ytimg.com/vi/SNQq6iaTiTE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T21:46:46.0000000Z",
+        "DiscoveredAt":  "2026-06-02T23:08:22.4984028Z",
+        "Duration":  "00:32:57",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "kr6VN3vJGUs",
         "Title":  "Spicy reacts to Band Maid Dilly Dally ",
         "Channel":  "Spicy x",
