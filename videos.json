@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "kr6VN3vJGUs",
+        "Title":  "Spicy reacts to Band Maid Dilly Dally ",
+        "Channel":  "Spicy x",
+        "ChannelId":  "UCQ9x_XFYXL1e3cYyCCe4k2w",
+        "Url":  "https://youtu.be/kr6VN3vJGUs",
+        "Thumbnail":  "https://i.ytimg.com/vi/kr6VN3vJGUs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T22:13:45.0000000Z",
+        "DiscoveredAt":  "2026-06-02T22:37:35.7720910Z",
+        "Duration":  "00:09:19",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "B4M05g_Umow",
         "Title":  "BAND-MAID RETURNS TO EUROPE! WORLD TOUR 2026",
         "Channel":  "JAPANESE FEMALE ROCK",
