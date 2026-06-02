@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YCnZb4jWkt0",
+        "Title":  "GANG-LION ☆DICE (BAND-MAID COVER)",
+        "Channel":  "8Beatチャンネル",
+        "ChannelId":  "UC1BFg_PqmLyEPrS0qNAOrEw",
+        "Url":  "https://youtu.be/YCnZb4jWkt0",
+        "Thumbnail":  "https://i.ytimg.com/vi/YCnZb4jWkt0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T03:13:00.0000000Z",
+        "DiscoveredAt":  "2026-06-02T03:29:32.6597458Z",
+        "Duration":  "00:04:35",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "EA4qR4EtJtY",
         "Title":  "BAND-MAID SKATEBOARD - Ryan Mear Reacts",
         "Channel":  "Ryan Mear",
