@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "B4M05g_Umow",
+        "Title":  "BAND-MAID RETURNS TO EUROPE! WORLD TOUR 2026",
+        "Channel":  "JAPANESE FEMALE ROCK",
+        "ChannelId":  "UCxR5uOW9FnJBfORKdazBfNw",
+        "Url":  "https://youtu.be/B4M05g_Umow",
+        "Thumbnail":  "https://i.ytimg.com/vi/B4M05g_Umow/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T21:53:56.0000000Z",
+        "DiscoveredAt":  "2026-06-02T22:06:35.2301118Z",
+        "Duration":  "00:03:37",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "tMT8vaveO70",
         "Title":  "I think I'm BLOOMING into a MAIDIAC! | BAND-MAID - Blooming (First Time Reaction)",
         "Channel":  "Jaskur",
