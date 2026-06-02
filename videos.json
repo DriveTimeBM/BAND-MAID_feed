@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "O6bf93KkOi4",
+        "Title":  "Band-Maid Train 7. SENSE-ible journey.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/O6bf93KkOi4",
+        "Thumbnail":  "https://i.ytimg.com/vi/O6bf93KkOi4/hqdefault.jpg",
+        "PublishedAt":  "2026-06-01T21:34:08.0000000Z",
+        "DiscoveredAt":  "2026-06-02T00:55:07.1443199Z",
+        "Duration":  "01:47:53",
+        "ViewsAtDiscovery":  35,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hm8MkvPehGU",
         "Title":  "ANOTHER BANGER! | Jason's Reaction | Choose Me | BAND-MAID",
         "Channel":  "Media Ugly",
