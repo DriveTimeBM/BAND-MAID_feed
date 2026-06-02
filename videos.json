@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ClKN3VRPVsM",
+        "Title":  "BAND-MAID - CLANG REACTION | This Japanese Rock Band Is UNSTOPPABLE!",
+        "Channel":  "Rock and Reactions",
+        "ChannelId":  "UCqAy-EERjiQYNBVIOj3MY7A",
+        "Url":  "https://youtu.be/ClKN3VRPVsM",
+        "Thumbnail":  "https://i.ytimg.com/vi/ClKN3VRPVsM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T07:00:09.0000000Z",
+        "DiscoveredAt":  "2026-06-02T07:04:30.3985628Z",
+        "Duration":  "00:12:02",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yMBP5sXyrnw",
         "Title":  "Have You Heard... of this kick-ass all female band, BAND-MAID",
         "Channel":  "Have You Heard... Reaction Channel",
