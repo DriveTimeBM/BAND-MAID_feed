@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5K9hykeboPU",
+        "Title":  "Cópia de NEMOPHILA COM 4° INTEGRANTE ?! NOVA GUITARRISTA, BAND MAID TOUR, LOVEBITES SOLD OUT e +!",
+        "Channel":  "Lovebites Brasil Fans",
+        "ChannelId":  "UCeK6HrzJam4R87DnGKEPWQw",
+        "Url":  "https://youtu.be/5K9hykeboPU",
+        "Thumbnail":  "https://i.ytimg.com/vi/5K9hykeboPU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T23:11:29.0000000Z",
+        "DiscoveredAt":  "2026-06-02T23:39:12.5757566Z",
+        "Duration":  "00:22:55",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "GnE3Rygx5hQ",
+        "Title":  "TOP 5 HEAVIEST BAND-MAID SONGS OF ALL TIME | THE ULTIMATE METAL SIDE OF BAND-MAID",
+        "Channel":  "Gion's Rock Café",
+        "ChannelId":  "UCsVFjppTPkQxXMGjBV-F33Q",
+        "Url":  "https://youtu.be/GnE3Rygx5hQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/GnE3Rygx5hQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T23:10:21.0000000Z",
+        "DiscoveredAt":  "2026-06-02T23:39:10.5333372Z",
+        "Duration":  "00:04:07",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SNQq6iaTiTE",
         "Title":  "NEMOPHILA COM 4° INTEGRANTE ?! NOVA GUITARRISTA, BAND MAID TOUR, LOVEBITES SOLD OUT e +!",
         "Channel":  "Lovebites Brasil Fans",
