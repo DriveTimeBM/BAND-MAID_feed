@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "qgWIxQlf4CE",
+        "Title":  "They Keep Blowing My Mind BAND MAID  influencer",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/qgWIxQlf4CE",
+        "Thumbnail":  "https://i.ytimg.com/vi/qgWIxQlf4CE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T10:04:47.0000000Z",
+        "DiscoveredAt":  "2026-06-02T10:08:14.1867720Z",
+        "Duration":  "00:06:48",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "uG_gV9Mdt_M",
+        "Title":  "Band Maid-The Non Fiction Days (Tokyo Garden Theater Okyuji) Reaction",
+        "Channel":  "James M ",
+        "ChannelId":  "UCDw9j7ufQGH7mg4l3Z8In9A",
+        "Url":  "https://youtu.be/uG_gV9Mdt_M",
+        "Thumbnail":  "https://i.ytimg.com/vi/uG_gV9Mdt_M/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T09:51:24.0000000Z",
+        "DiscoveredAt":  "2026-06-02T10:08:13.5702624Z",
+        "Duration":  "00:10:24",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ClKN3VRPVsM",
         "Title":  "BAND-MAID - CLANG REACTION | This Japanese Rock Band Is UNSTOPPABLE!",
         "Channel":  "Rock and Reactions",
