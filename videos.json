@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3LPSzBuk-Ps",
+        "Title":  "【衝撃コラボ】9mm×BAND-MAID×BRADIO×大槻ケンヂが同時降臨…ARABAKI ROCK FEST.25が“伝説級”すぎた件",
+        "Channel":  "Jp Music News",
+        "ChannelId":  "UCZc4hp17_1i6PmwzpR6OcCw",
+        "Url":  "https://youtu.be/3LPSzBuk-Ps",
+        "Thumbnail":  "https://i.ytimg.com/vi/3LPSzBuk-Ps/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T04:05:00.0000000Z",
+        "DiscoveredAt":  "2026-06-02T04:31:21.0913978Z",
+        "Duration":  "00:08:57",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "UaYvKa69vn8",
+        "Title":  "the side of BAND-MAID that I never knew about",
+        "Channel":  "DrumRoast",
+        "ChannelId":  "UC-WWqxF7LPOssDbasMJyOJg",
+        "Url":  "https://youtu.be/UaYvKa69vn8",
+        "Thumbnail":  "https://i.ytimg.com/vi/UaYvKa69vn8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T04:01:21.0000000Z",
+        "DiscoveredAt":  "2026-06-02T04:31:20.6889287Z",
+        "Duration":  "00:07:16",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yJ9_y-WovZ8",
         "Title":  "Gary Holloway Tribute - Ink Breed and Synergy (Tribute to BAND-MAID) - Dave M 🤘🤘🤘🤘💯🔥",
         "Channel":  "Dave M",
