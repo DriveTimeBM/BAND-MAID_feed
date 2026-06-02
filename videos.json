@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vTPCZyBT1Rg",
+        "Title":  "First Look | BAND-MAID With The Warning - SHOW THEM |  At AOS216 Reacts Drive-In",
+        "Channel":  "AOS216Reacts",
+        "ChannelId":  "UCCFnEPEW0wpRZlccuYiSmBg",
+        "Url":  "https://youtu.be/vTPCZyBT1Rg",
+        "Thumbnail":  "https://i.ytimg.com/vi/vTPCZyBT1Rg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T19:00:26.0000000Z",
+        "DiscoveredAt":  "2026-06-02T19:19:51.4256317Z",
+        "Duration":  "00:14:01",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VdhpoaOgIPE",
         "Title":  "#90 本懐/HONKAI - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
         "Channel":  "K-Ross Reacts",
