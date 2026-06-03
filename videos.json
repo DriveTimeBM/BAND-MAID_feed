@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "sEMOaobSEnI",
+        "Title":  "Here We Go Again BAND MAID  Protect You",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/sEMOaobSEnI",
+        "Thumbnail":  "https://i.ytimg.com/vi/sEMOaobSEnI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-03T11:54:30.0000000Z",
+        "DiscoveredAt":  "2026-06-03T11:57:17.4954433Z",
+        "Duration":  "00:05:37",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jC_Ko10TT8E",
         "Title":  "Tunesday Music Hour: Band-Maiko & Your favorite Band-Maid Covers!",
         "Channel":  "KitzMoMedia",
