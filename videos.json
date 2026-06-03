@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rEVcx9J2HsM",
+        "Title":  "BAND-MAID song (ENERGETIC) June 3rd, 2026.",
+        "Channel":  "Hawk- Metal",
+        "ChannelId":  "UC-mDtRf2e_vHVwIy1K-33Wg",
+        "Url":  "https://youtu.be/rEVcx9J2HsM",
+        "Thumbnail":  "https://i.ytimg.com/vi/rEVcx9J2HsM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-03T22:35:09.0000000Z",
+        "DiscoveredAt":  "2026-06-03T22:49:54.0670039Z",
+        "Duration":  "00:04:35",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "c-7rd0fskrU",
         "Title":  "BAND-MAID – Dilly-Dally LIVE REACTION | The Crowd Energy Is INSANE! 🤯🔥",
         "Channel":  "RJS_Reactions",
