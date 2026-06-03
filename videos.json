@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7kA7fzNjE3E",
+        "Title":  "Band-Maid Train 6. I'm leaving for Berlin to see Band-Maid.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/7kA7fzNjE3E",
+        "Thumbnail":  "https://i.ytimg.com/vi/7kA7fzNjE3E/hqdefault.jpg",
+        "PublishedAt":  "2026-06-02T17:19:42.0000000Z",
+        "DiscoveredAt":  "2026-06-03T01:11:46.7985327Z",
+        "Duration":  "01:54:11",
+        "ViewsAtDiscovery":  34,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2Nh2Iw7x9dU",
         "Title":  "GOKO Reacts to BAND-MAID / Thrill (スリル) (Official Live Video)",
         "Channel":  "GOKO Reacts",
