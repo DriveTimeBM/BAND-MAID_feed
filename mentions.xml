@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 06:49:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:29:33 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Ich freue mich auf ein spannendes Konzert heute Abend. 🙂</title>
+      <link>https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3mnf5kyd7wk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3mnf5kyd7wk2o</guid>
+      <pubDate>Wed, 03 Jun 2026 12:51:12 GMT</pubDate>
+      <dc:creator>Marc on Drums ← ZURÜCK in die ZUKUNFT ← den Backlash beenden! (marcondrums.eurosky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Ich freue mich auf ein spannendes Konzert heute Abend. 🙂<br/><br/>🔥🤘🎵<br/><br/>#BAND-MAID @bandmaidotdbot.bsky.social <br/>#Rock #Metal #Livemusik #Berlin</p><p><em>BlueSky &middot; marcondrums.eurosky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] THE most important song in Band Maid's history. A B-Side they made a video fo...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mnehkdvyqc26</link>
@@ -899,15 +908,6 @@
       <dc:creator>star ⭐ (gamingbricabrac.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid - Blooming</p><p><em>BlueSky &middot; gamingbricabrac.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Introduce yourself with ten bands you've seen live:</title>
-      <link>https://bsky.app/profile/did:plc:pjtalvrnokmkez7waip3uylv/post/3mmeh5xoje22a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pjtalvrnokmkez7waip3uylv/post/3mmeh5xoje22a</guid>
-      <pubDate>Thu, 21 May 2026 12:45:01 GMT</pubDate>
-      <dc:creator>star ⭐ (gamingbricabrac.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Introduce yourself with ten bands you&#39;ve seen live:<br/><br/>The Gaslight Anthem<br/>The Goo Goo Dolls<br/>Counting Crows<br/>Weird Al Yankovic<br/>Tanglefoot<br/>Aerosmith<br/>KISS<br/>Band-Maid<br/>The Last Rockstars<br/>Hanabie</p><p><em>BlueSky &middot; gamingbricabrac.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
