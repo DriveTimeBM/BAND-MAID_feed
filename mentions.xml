@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 19:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 02:13:31 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Yeah they needed some Nemophilia and HANABIE added though. I could do without...</title>
+      <link>https://bsky.app/profile/did:plc:raepjalxls4scbsnffemyijl/post/3mndxau4qtk2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:raepjalxls4scbsnffemyijl/post/3mndxau4qtk2w</guid>
+      <pubDate>Wed, 03 Jun 2026 01:25:30 GMT</pubDate>
+      <dc:creator>🔞Asia the Magical Gurl🏳️‍🌈 (themagicalgurl.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Yeah they needed some Nemophilia and HANABIE added though. I could do without Coheed and Cambria amongst my Babymetal and BAND-MAID...<br/><br/>Also, they have an entire Synthwave station and no Nightcall by Kavinsky... TF is that??</p><p><em>BlueSky &middot; themagicalgurl.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Oh right, can't let yall forget I'm a huge dork</title>
       <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mndbg2yrt222</link>
@@ -899,15 +908,6 @@
       <dc:creator>Gock Socket (puppy.bzky.team)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>FOXCULT <br/>MSI<br/>MCR<br/>Mastodon<br/>Devin Townsend<br/>BAND-MAID<br/>TWRP<br/>Melt Banana<br/>Men I Trust<br/>Machine Girl<br/><br/>Fuck there are so many more...<br/>And solo acts...</p><p><em>BlueSky &middot; puppy.bzky.team</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mmdmwlw5qc22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mmdmwlw5qc22</guid>
-      <pubDate>Thu, 21 May 2026 04:55:35 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago<br/>REAL EXISTENCE MV<br/>milestone<br/>surpassed 14 million views<br/>2022/5/21<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
