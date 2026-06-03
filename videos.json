@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2Nh2Iw7x9dU",
+        "Title":  "GOKO Reacts to BAND-MAID / Thrill (スリル) (Official Live Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/2Nh2Iw7x9dU",
+        "Thumbnail":  "https://i.ytimg.com/vi/2Nh2Iw7x9dU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-03T00:00:11.0000000Z",
+        "DiscoveredAt":  "2026-06-03T00:10:04.1786888Z",
+        "Duration":  "00:07:41",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "5K9hykeboPU",
         "Title":  "Cópia de NEMOPHILA COM 4° INTEGRANTE ?! NOVA GUITARRISTA, BAND MAID TOUR, LOVEBITES SOLD OUT e +!",
         "Channel":  "Lovebites Brasil Fans",
