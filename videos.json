@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "P68LCq9cYjQ",
+        "Title":  "NEED MORE OF THIS! | BAND-MAID x THE WARNING - \"SHOW THEM\" | MUSICIAN REACTS",
+        "Channel":  "Rivvymusic Reacts",
+        "ChannelId":  "UCKgtjN1Up0oVZ4DaWeuI5xg",
+        "Url":  "https://youtu.be/P68LCq9cYjQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/P68LCq9cYjQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-03T15:15:17.0000000Z",
+        "DiscoveredAt":  "2026-06-03T15:33:50.5593371Z",
+        "Duration":  "00:11:11",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "6n0RDsQXwfI",
+        "Title":  "Extraordinary! Band Maid, Why, Why, Why.",
+        "Channel":  "Twistedshredder",
+        "ChannelId":  "UCsBwg8OaxXyRb5UbpgsIiCg",
+        "Url":  "https://youtu.be/6n0RDsQXwfI",
+        "Thumbnail":  "https://i.ytimg.com/vi/6n0RDsQXwfI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-03T15:08:10.0000000Z",
+        "DiscoveredAt":  "2026-06-03T15:33:49.9492312Z",
+        "Duration":  "00:11:10",
+        "ViewsAtDiscovery":  23,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "W5hmjAvToBM",
         "Title":  "Band Maid Thrill (live) Reaction",
         "Channel":  "jmnassar",
