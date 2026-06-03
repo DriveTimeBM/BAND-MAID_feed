@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jC_Ko10TT8E",
+        "Title":  "Tunesday Music Hour: Band-Maiko & Your favorite Band-Maid Covers!",
+        "Channel":  "KitzMoMedia",
+        "ChannelId":  "UCbwRrjUM3xncEAglgY-EHAw",
+        "Url":  "https://youtu.be/jC_Ko10TT8E",
+        "Thumbnail":  "https://i.ytimg.com/vi/jC_Ko10TT8E/hqdefault.jpg",
+        "PublishedAt":  "2026-06-03T10:42:30.0000000Z",
+        "DiscoveredAt":  "2026-06-03T10:55:51.5984824Z",
+        "Duration":  "01:18:59",
+        "ViewsAtDiscovery":  167,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "nRRLSjl-xAk",
+        "Title":  "Band Maid Why Why Why (live) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/nRRLSjl-xAk",
+        "Thumbnail":  "https://i.ytimg.com/vi/nRRLSjl-xAk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-03T10:28:38.0000000Z",
+        "DiscoveredAt":  "2026-06-03T10:55:50.9766870Z",
+        "Duration":  "00:03:32",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NoVaMYO6AoM",
         "Title":  "Band Maid Youth (live) Reaction",
         "Channel":  "jmnassar",
