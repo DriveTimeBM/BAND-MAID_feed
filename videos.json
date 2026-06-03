@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dqHjPojNOVE",
+        "Title":  "Band-Maid - Energetic - Live in Berlin - June 3, 2026 (World Premiere)",
+        "Channel":  "Tigh",
+        "ChannelId":  "UCg2zpn3-XtqWM9hxhMNPpiQ",
+        "Url":  "https://youtu.be/dqHjPojNOVE",
+        "Thumbnail":  "https://i.ytimg.com/vi/dqHjPojNOVE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-03T20:55:16.0000000Z",
+        "DiscoveredAt":  "2026-06-03T21:47:46.5715845Z",
+        "Duration":  "00:03:58",
+        "ViewsAtDiscovery":  252,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YnUYKlR14oI",
         "Title":  "Band-Maid - Sayonakidori - Live in Berlin - June 3, 2026",
         "Channel":  "Tigh",
