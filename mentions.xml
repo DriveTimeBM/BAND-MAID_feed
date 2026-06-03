@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 13:29:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 21:17:07 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] War schön mit Band-Maid</title>
+      <link>https://troet.cafe/@edgesoft/116688135269085482</link>
+      <guid isPermaLink="true">https://troet.cafe/@edgesoft/116688135269085482</guid>
+      <pubDate>Wed, 03 Jun 2026 20:47:22 GMT</pubDate>
+      <dc:creator>Ekkart Kleinod (edgesoft@troet.cafe)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>War sch&#246;n mit Band-Maid<br/>https://troet.cafe/tags/BandMaid</p><p><em>Mastodon &middot; edgesoft@troet.cafe</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Ich freue mich auf ein spannendes Konzert heute Abend. 🙂</title>
       <link>https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3mnf5kyd7wk2o</link>
@@ -899,15 +908,6 @@
       <dc:creator>blair maisie (unendingcoil.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>introduce yourself with 10 bands you&#39;ve seen live<br/><br/>Japanese Breakfast (3x)<br/>IDLES (2x)<br/>Deftones <br/>Mannequin Pussy<br/>Soul Glo<br/>Men I Trust<br/>The Menzingers <br/>Silversun Pickups<br/>Cage the Elephant<br/>BAND-MAID</p><p><em>BlueSky &middot; unendingcoil.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid - Blooming</title>
-      <link>https://bsky.app/profile/did:plc:pjtalvrnokmkez7waip3uylv/post/3mmeie4ki5s27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pjtalvrnokmkez7waip3uylv/post/3mmeie4ki5s27</guid>
-      <pubDate>Thu, 21 May 2026 13:06:21 GMT</pubDate>
-      <dc:creator>star ⭐ (gamingbricabrac.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid - Blooming</p><p><em>BlueSky &middot; gamingbricabrac.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
