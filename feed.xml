@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 04:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 08:21:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band Maid Youth (live) Reaction</title>
+      <link>https://youtu.be/NoVaMYO6AoM</link>
+      <guid isPermaLink="false">yt:video:NoVaMYO6AoM</guid>
+      <pubDate>Wed, 03 Jun 2026 07:56:48 GMT</pubDate>
+      <dc:creator>jmnassar</dc:creator>
+      <category>jmnassar</category>
+      <description><![CDATA[<p><a href="https://youtu.be/NoVaMYO6AoM"><img src="https://i.ytimg.com/vi/NoVaMYO6AoM/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: jmnassar<br/>Duration: 00:03:39<br/>Views at discovery: 1</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/NoVaMYO6AoM/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band Maid Chemical Reaction (live) Reaction</title>
       <link>https://youtu.be/8DeZvb7BqBg</link>
