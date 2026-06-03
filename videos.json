@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8DeZvb7BqBg",
+        "Title":  "Band Maid Chemical Reaction (live) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/8DeZvb7BqBg",
+        "Thumbnail":  "https://i.ytimg.com/vi/8DeZvb7BqBg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-03T04:15:22.0000000Z",
+        "DiscoveredAt":  "2026-06-03T04:16:03.8553471Z",
+        "Duration":  "00:04:17",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "f21NwtauIeQ",
+        "Title":  "BAND-MAID - Ready to Rock - Megaport Festival 2026",
+        "Channel":  "tommy",
+        "ChannelId":  "UCvaUgIbyyFU8QDQ9WmoM3WA",
+        "Url":  "https://youtu.be/f21NwtauIeQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/f21NwtauIeQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-03T04:00:38.0000000Z",
+        "DiscoveredAt":  "2026-06-03T04:16:03.3543311Z",
+        "Duration":  "00:03:29",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7kA7fzNjE3E",
         "Title":  "Band-Maid Train 6. I'm leaving for Berlin to see Band-Maid.",
         "Channel":  "The Band of Maids Channel.",
