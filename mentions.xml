@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 06:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 07:10:27 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] Keine Festivals in 2026, dafür dann halt ein paar Konzerte. https://pixelfed....</title>
+      <link>https://pixelfed.de/p/rockdj/968044407662522728</link>
+      <guid isPermaLink="true">https://pixelfed.de/p/rockdj/968044407662522728</guid>
+      <pubDate>Thu, 04 Jun 2026 07:02:52 GMT</pubDate>
+      <dc:creator>RockDJ.de (rockdj@pixelfed.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>Keine Festivals in 2026, daf&#252;r dann halt ein paar Konzerte. https://pixelfed.de/discover/tags/Bandmaid?src=hash touren nach 7 Jahren endlich mal wieder durch Europa, wobei die &quot;Tour&quot; aus lediglich 5 Konzerten besteht. Egal, auf nach Berlin ins Columbia Theater. Die H&#252;tte war ballerhei&#223; und brechenvoll. Der Sound war &#252;berhaupt gar nicht geil, was gerade bei Bandmaid sehr, sehr traurig ist. Frustsaufen fiel aber aus - Berliner Pilsener f&#252;r 7€ zzgl. Becherpfand? Nein, danke. Merch war &#252;brigens auch schweineteuer und Tontr&#228;ger hatten sie gar nicht erst dabei :( <br/><br/>Die Band hat sich trotz allem echt M&#252;he gegeben und gute anderthalb Stunden beste Stimmung und prima Laune verbreitet. Alles in allem ein durchwachsener Abend, hoffentlich dauert es nicht wieder 7 Jahre und hoffentlich spielen sie dann in einer Location mit besserem Sound.<br/><br/>https://pixelfed.de/discover/tags/live?src=hash https://pixelfed.de/discover/tags/liveonstage?src=hash https://pixelfed.de/discover/tags/rock?src=hash https://pixelfed.de/discover/tags/jrock?src=hash https://pixelfed.de/discover/tags/musik?src=hash https://pixelfed.de/discover/tags/muziek?src=hash https://pixelfed.de/discover/tags/music?src=hash</p><p><em>Mastodon &middot; rockdj@pixelfed.de</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: without holding back</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mngxggy7h42r</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Dilemma<br/>Album: CONQUEROR<br/>Release: 12/10/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/12/2020<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played at SHIBUYA BURROW in Tokyo JP on 2014/5/22. The...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmgayadyrk2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmgayadyrk2p</guid>
-      <pubDate>Fri, 22 May 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played at SHIBUYA BURROW in Tokyo JP on 2014/5/22. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
