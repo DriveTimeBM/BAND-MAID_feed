@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Jf_egOWCvH8",
+        "Title":  "My UNBELIEVABLE Experience at BAND-MAID in Tokyo! 🇯🇵 | Concert VLOG - Day of Maid",
+        "Channel":  "Shade Reacts Live",
+        "ChannelId":  "UC0NFGDHBF_cViOnQtiOhrRg",
+        "Url":  "https://youtu.be/Jf_egOWCvH8",
+        "Thumbnail":  "https://i.ytimg.com/vi/Jf_egOWCvH8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-04T00:54:15.0000000Z",
+        "DiscoveredAt":  "2026-06-04T00:55:05.0426774Z",
+        "Duration":  "00:14:42",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "z046zeUASTI",
+        "Title":  "BAND-MAID │ FREEZER│ \"Miku Heavy with great vocal counterpoint!\"",
+        "Channel":  "Wakijax",
+        "ChannelId":  "UCElNNUiBC67ypav4q267isA",
+        "Url":  "https://youtu.be/z046zeUASTI",
+        "Thumbnail":  "https://i.ytimg.com/vi/z046zeUASTI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-04T00:39:17.0000000Z",
+        "DiscoveredAt":  "2026-06-04T00:55:04.3880326Z",
+        "Duration":  "00:07:50",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rEVcx9J2HsM",
         "Title":  "BAND-MAID song (ENERGETIC) June 3rd, 2026.",
         "Channel":  "Hawk- Metal",
