@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 07:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 07:41:07 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] So I went to see https://pixelfed.automat.click/discover/tags/Band?src=hash-M...</title>
+      <link>https://pixelfed.automat.click/p/carstenraddatz/968049069771101849</link>
+      <guid isPermaLink="true">https://pixelfed.automat.click/p/carstenraddatz/968049069771101849</guid>
+      <pubDate>Thu, 04 Jun 2026 07:21:23 GMT</pubDate>
+      <dc:creator>Carsten Raddatz (carstenraddatz@pixelfed.automat.click)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>So I went to see https://pixelfed.automat.click/discover/tags/Band?src=hash-Maid https://pixelfed.automat.click/discover/tags/bandmaid?src=hash at the Columbia Theater in https://pixelfed.automat.click/discover/tags/Berlin?src=hash. Great convert! If you haven&#39;t heard them, my take: they are loud! Cross over heavy metal, guitar solos and all, blues rock, punk-ish and grunge-ian themes, allude to pop and pack crazy rhythm changes all the time too. Perfect!</p><p><em>Mastodon &middot; carstenraddatz@pixelfed.automat.click</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] Keine Festivals in 2026, dafür dann halt ein paar Konzerte. https://pixelfed....</title>
       <link>https://pixelfed.de/p/rockdj/968044407662522728</link>
@@ -899,15 +908,6 @@
       <dc:creator>🇹🇭タイに住みたい小鉄ちゃん＠錦糸町駅南口の住人 (kotetsuchan.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9/20の台北公演に行きたいがチケットの購入方法がいまいちわからん(笑)<br/><br/>bandmaid.tokyo/contents/104...</p><p><em>BlueSky &middot; kotetsuchan.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Dilemma</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmgbefp4vo22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmgbefp4vo22</guid>
-      <pubDate>Fri, 22 May 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Dilemma<br/>Album: CONQUEROR<br/>Release: 12/10/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/12/2020<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
