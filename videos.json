@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KOvG2ob8MpE",
+        "Title":  "Musician reacts to BAND-MAID / 夜明け前 (Before Dawn)",
+        "Channel":  "Vault of Art",
+        "ChannelId":  "UCZJ9ZsJGHLHmkqIh30knRXw",
+        "Url":  "https://youtu.be/KOvG2ob8MpE",
+        "Thumbnail":  "https://i.ytimg.com/vi/KOvG2ob8MpE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-04T11:00:24.0000000Z",
+        "DiscoveredAt":  "2026-06-04T11:19:57.3717309Z",
+        "Duration":  "00:06:55",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1hZ_HkgW18U",
         "Title":  "BAND-MAID / Toi et moi (Official Live Video) //Reaction ",
         "Channel":  "Lil  kash",
