@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 09:13:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 12:52:22 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I think it has to be Band-Maid's "Just Bring It". It's the ideal gateway albu...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mnhko7idac23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mnhko7idac23</guid>
+      <pubDate>Thu, 04 Jun 2026 11:50:58 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I think it has to be Band-Maid&#39;s &quot;Just Bring It&quot;. It&#39;s the ideal gateway album for people that had no idea about the unique world of all female rock bands in Japan, rock musicians especially are knocked out by the high level of performance and composition.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Hier die versprochenen Fotos :3</title>
       <link>https://bsky.app/profile/did:plc:3a7z3pu4ffs3emwtvsiipw6k/post/3mnh7rdt4g22f</link>
@@ -899,15 +908,6 @@
       <dc:creator>I Used to Be Cool, on Message Boards... (polyphemous.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Introduce yourself with 10 bands you&#39;ve seen live:<br/><br/>AC/DC<br/>Iron Maiden<br/>Judas Priest<br/>Metallica<br/>Soundgarden<br/>Nirvana<br/>Fugazi<br/>NIN<br/>Failure<br/>Nile<br/><br/>Also<br/>Tool<br/>Anthrax<br/>NOFX<br/>Saxon<br/>Scorpions<br/>Kiss<br/>Danzig<br/>Obituary<br/>Morbid Angel<br/>Voivod<br/>Loudness<br/>Band Maid<br/>Slayer<br/>Riot<br/>ZZ Top<br/>Offspring<br/>Black Sabbath<br/>Melvins</p><p><em>BlueSky &middot; polyphemous.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Only 2 weeks left... BAND-MAID live in Frankfurt 🤘🏻</title>
-      <link>https://bsky.app/profile/did:plc:pjfsyvg7qg3l4ajh2w7vus3o/post/3mmhnbqu5c22t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pjfsyvg7qg3l4ajh2w7vus3o/post/3mmhnbqu5c22t</guid>
-      <pubDate>Fri, 22 May 2026 19:12:30 GMT</pubDate>
-      <dc:creator>Kolja (kdimmek.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Only 2 weeks left... BAND-MAID live in Frankfurt 🤘🏻<br/><br/>youtube.com/watch?v=itYD...</p><p><em>BlueSky &middot; kdimmek.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
