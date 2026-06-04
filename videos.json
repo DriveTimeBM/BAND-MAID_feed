@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5wzFIlrJxek",
+        "Title":  "BAND-MAID Fancam Omajinai Time. June 3rd 2026  Berlin.",
+        "Channel":  "Hawk- Metal",
+        "ChannelId":  "UC-mDtRf2e_vHVwIy1K-33Wg",
+        "Url":  "https://youtu.be/5wzFIlrJxek",
+        "Thumbnail":  "https://i.ytimg.com/vi/5wzFIlrJxek/hqdefault.jpg",
+        "PublishedAt":  "2026-06-04T13:16:43.0000000Z",
+        "DiscoveredAt":  "2026-06-04T13:22:59.0396520Z",
+        "Duration":  "00:12:04",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "vcVT44TqJYU",
+        "Title":  "1st Time Reaction to BAND MAID - Who is BAND MAID",
+        "Channel":  "P Reacts Music",
+        "ChannelId":  "UCUwevNkARRcrbq1ghGPGFaw",
+        "Url":  "https://youtu.be/vcVT44TqJYU",
+        "Thumbnail":  "https://i.ytimg.com/vi/vcVT44TqJYU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-04T13:15:35.0000000Z",
+        "DiscoveredAt":  "2026-06-04T13:22:58.5358804Z",
+        "Duration":  "00:13:05",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KiozqNetSMU",
         "Title":  "BAND-MAID - Choose me (Live in Berlin 2026) | Columbia Theater WORLD TOUR 2026",
         "Channel":  "Einfach_Seraco",
