@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XBKvyjoFox8",
+        "Title":  "First Time Reaction - BAND-MAID - Play | LIVE, OMV",
+        "Channel":  "Tristan Reacts",
+        "ChannelId":  "UCucnXR4qmpfnEsPUMSnE_Gw",
+        "Url":  "https://youtu.be/XBKvyjoFox8",
+        "Thumbnail":  "https://i.ytimg.com/vi/XBKvyjoFox8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-04T05:00:33.0000000Z",
+        "DiscoveredAt":  "2026-06-04T05:07:23.6596296Z",
+        "Duration":  "00:15:47",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zIQdguQR_VE",
         "Title":  "BAND-MAID - NEW SONGS!! ENERGETIC AND DAYS!",
         "Channel":  "Ryan Mear",
