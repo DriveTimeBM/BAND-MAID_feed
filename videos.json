@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zIQdguQR_VE",
+        "Title":  "BAND-MAID - NEW SONGS!! ENERGETIC AND DAYS!",
+        "Channel":  "Ryan Mear",
+        "ChannelId":  "UCvKUIZjMmlHJ9vjGJey0SBQ",
+        "Url":  "https://youtu.be/zIQdguQR_VE",
+        "Thumbnail":  "https://i.ytimg.com/vi/zIQdguQR_VE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-04T00:41:58.0000000Z",
+        "DiscoveredAt":  "2026-06-04T02:58:17.3816729Z",
+        "Duration":  "01:39:06",
+        "ViewsAtDiscovery":  309,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Jf_egOWCvH8",
         "Title":  "My UNBELIEVABLE Experience at BAND-MAID in Tokyo! 🇯🇵 | Concert VLOG - Day of Maid",
         "Channel":  "Shade Reacts Live",
