@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 12:52:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 23:08:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 1 week till I get to see my favourite Japanese ladies rocking out. I can not ...</title>
+      <link>https://bsky.app/profile/did:plc:bq26dpfaztvqdazo2ppkhxzz/post/3mnincldoak2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bq26dpfaztvqdazo2ppkhxzz/post/3mnincldoak2i</guid>
+      <pubDate>Thu, 04 Jun 2026 22:10:49 GMT</pubDate>
+      <dc:creator>Tom Southcott (solidpython.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>1 week till I get to see my favourite Japanese ladies rocking out. I can not wait! #BandMaid</p><p><em>BlueSky &middot; solidpython.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I think it has to be Band-Maid's "Just Bring It". It's the ideal gateway albu...</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mnhko7idac23</link>
@@ -899,15 +908,6 @@
       <dc:creator>Tyrannid (paranormalshitness.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Lrp i fucking LOVE bandmaid</p><p><em>BlueSky &middot; paranormalshitness.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Introduce yourself with 10 bands you've seen live:</title>
-      <link>https://bsky.app/profile/did:plc:sshd5rjj3665hkrc7tgt6t3t/post/3mmhrc6vc2c2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sshd5rjj3665hkrc7tgt6t3t/post/3mmhrc6vc2c2i</guid>
-      <pubDate>Fri, 22 May 2026 20:24:19 GMT</pubDate>
-      <dc:creator>I Used to Be Cool, on Message Boards... (polyphemous.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Introduce yourself with 10 bands you&#39;ve seen live:<br/><br/>AC/DC<br/>Iron Maiden<br/>Judas Priest<br/>Metallica<br/>Soundgarden<br/>Nirvana<br/>Fugazi<br/>NIN<br/>Failure<br/>Nile<br/><br/>Also<br/>Tool<br/>Anthrax<br/>NOFX<br/>Saxon<br/>Scorpions<br/>Kiss<br/>Danzig<br/>Obituary<br/>Morbid Angel<br/>Voivod<br/>Loudness<br/>Band Maid<br/>Slayer<br/>Riot<br/>ZZ Top<br/>Offspring<br/>Black Sabbath<br/>Melvins</p><p><em>BlueSky &middot; polyphemous.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
