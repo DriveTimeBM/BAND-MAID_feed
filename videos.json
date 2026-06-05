@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xANXeGfksR8",
+        "Title":  "Band-Maid - Lock and Load - Live in Frankfurt - June 5, 2026",
+        "Channel":  "Tigh",
+        "ChannelId":  "UCg2zpn3-XtqWM9hxhMNPpiQ",
+        "Url":  "https://youtu.be/xANXeGfksR8",
+        "Thumbnail":  "https://i.ytimg.com/vi/xANXeGfksR8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T21:28:16.0000000Z",
+        "DiscoveredAt":  "2026-06-05T21:40:36.7232521Z",
+        "Duration":  "00:03:36",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "bZtjioXuIJ8",
+        "Title":  "Band-Maid - Sayonakidori - Live in Frankfurt - June 5, 2026",
+        "Channel":  "Tigh",
+        "ChannelId":  "UCg2zpn3-XtqWM9hxhMNPpiQ",
+        "Url":  "https://youtu.be/bZtjioXuIJ8",
+        "Thumbnail":  "https://i.ytimg.com/vi/bZtjioXuIJ8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T21:28:03.0000000Z",
+        "DiscoveredAt":  "2026-06-05T21:40:36.2734608Z",
+        "Duration":  "00:04:41",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NwE2U9IBZ8o",
         "Title":  "BAND-MAID Are The QUEENS Of Riffs! | First Time Reaction to \"Manners\"",
         "Channel":  "Riffs and Reactions With Berry",
