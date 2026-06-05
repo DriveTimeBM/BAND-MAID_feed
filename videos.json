@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YfboHwrQ4gY",
+        "Title":  "Is BAND-MAID the Best Live Band? | Metal Guitarist Reacts to Dilly-Dally",
+        "Channel":  "APOKALYPSE34",
+        "ChannelId":  "UCBt3JX654OyVDFwYUtZFkDw",
+        "Url":  "https://youtu.be/YfboHwrQ4gY",
+        "Thumbnail":  "https://i.ytimg.com/vi/YfboHwrQ4gY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T17:10:06.0000000Z",
+        "DiscoveredAt":  "2026-06-05T17:34:54.6886645Z",
+        "Duration":  "00:11:31",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "HBtaEkMjaIU",
+        "Title":  "THAY REACT: BAND-MAID / YOLO  & Shambles (Official Live Video)",
+        "Channel":  "Thay do Rock",
+        "ChannelId":  "UCrdJMtly8u2ZPGNLTxthSHQ",
+        "Url":  "https://youtu.be/HBtaEkMjaIU",
+        "Thumbnail":  "https://i.ytimg.com/vi/HBtaEkMjaIU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T17:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-05T17:34:54.1485390Z",
+        "Duration":  "00:12:15",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "K6RF_so6jco",
         "Title":  "BAND MAID  HATE",
         "Channel":  "BrownBeard",
