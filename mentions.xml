@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 08:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 12:58:41 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I think tonight's show might be the end of the line for my decade old Band Ma...</title>
+      <link>https://bsky.app/profile/did:plc:qrowbzton7nv25gmyiomr5zo/post/3mnk3mewdpk2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qrowbzton7nv25gmyiomr5zo/post/3mnk3mewdpk2j</guid>
+      <pubDate>Fri, 05 Jun 2026 11:59:30 GMT</pubDate>
+      <dc:creator>Taylor (yoshikosisland.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I think tonight&#39;s show might be the end of the line for my decade old Band Maid shirt. The battle damage is becoming too much</p><p><em>BlueSky &middot; yoshikosisland.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Schon sehr Bock auf Band-Maid heute Abend, aber ich bin auch jetzt schon so m...</title>
       <link>https://bsky.app/profile/did:plc:vlvrfm45mknzutdyse4s3udh/post/3mnjn72k32c2e</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I&#39;ve got a set of the new acrylics coming too. Too bad they&#39;ve never had the 3D figures done that Miku talked about during the audio commentary of the 2021 Christmas concert. There are some figure manufacturers that could do a respectable job of the Band-Maid anime style characters.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Me encontro novamente viciado em BANDMAID</title>
-      <link>https://bsky.app/profile/did:plc:opwedrmibtgj5mkgy5jk7v6k/post/3mmkwoevync2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:opwedrmibtgj5mkgy5jk7v6k/post/3mmkwoevync2e</guid>
-      <pubDate>Sun, 24 May 2026 02:38:36 GMT</pubDate>
-      <dc:creator>Tequila Sunset (newhro.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Me encontro novamente viciado em BANDMAID</p><p><em>BlueSky &middot; newhro.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
