@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "z_BbILM73VM",
+        "Title":  "BAND-MAID INVADES EUROPE! SALLY JOINS LONESOME BLUE! And MORE!",
+        "Channel":  "MAID NEWS NETWORK",
+        "ChannelId":  "UCoGH2sqzaxLjcWpkzn83cZg",
+        "Url":  "https://youtu.be/z_BbILM73VM",
+        "Thumbnail":  "https://i.ytimg.com/vi/z_BbILM73VM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T03:13:52.0000000Z",
+        "DiscoveredAt":  "2026-06-05T03:14:36.9370008Z",
+        "Duration":  "00:54:26",
+        "ViewsAtDiscovery":  619,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "J6IEg9Bu2Fc",
         "Title":  "Band-Maid Berlin 26. Kanami Opens The Show MINCHO MODE.",
         "Channel":  "The Band of Maids Channel.",
