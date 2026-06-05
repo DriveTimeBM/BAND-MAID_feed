@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 18:36:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 19:38:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Bisschen leise, aber nicht schlecht. #BandMaid #Batschkapp</title>
+      <link>https://bsky.app/profile/did:plc:ytjkz26v5eeypkpnej75zcaj/post/3mnks3psmms2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ytjkz26v5eeypkpnej75zcaj/post/3mnks3psmms2p</guid>
+      <pubDate>Fri, 05 Jun 2026 18:41:47 GMT</pubDate>
+      <dc:creator>Michael Fischer (derfisch.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Bisschen leise, aber nicht schlecht. #BandMaid #Batschkapp</p><p><em>BlueSky &middot; derfisch.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Oi!</title>
       <link>https://bsky.app/profile/did:plc:vlvrfm45mknzutdyse4s3udh/post/3mnkoyohjik26</link>
@@ -899,15 +908,6 @@
       <dc:creator>夏ちゃん( •8• ) (natttr10969.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>下半年兩場<br/>不知道下週的BAND-MAID搶不搶得到<br/>有就9月會再多一場</p><p><em>BlueSky &middot; natttr10969.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: the non-fiction days</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmlcc7viml2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmlcc7viml2y</guid>
-      <pubDate>Sun, 24 May 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: the non-fiction days<br/>Album: Brand New MAID<br/>Release: 5/17/2016<br/>Music: 大西俊也 [Onishi, Toshinari]<br/>Lyrics: 中村彼方 [Nakamura, Kanata]<br/>Arrangement: 大西俊也 [Onishi, Toshinari]<br/>1st Live:3/18/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
