@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "J6IEg9Bu2Fc",
+        "Title":  "Band-Maid Berlin 26. Kanami Opens The Show MINCHO MODE.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/J6IEg9Bu2Fc",
+        "Thumbnail":  "https://i.ytimg.com/vi/J6IEg9Bu2Fc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T01:55:30.0000000Z",
+        "DiscoveredAt":  "2026-06-05T02:12:35.4078681Z",
+        "Duration":  "00:02:32",
+        "ViewsAtDiscovery":  17,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jXSN1HJ5178",
         "Title":  "Band-Maid Lock & Load Berlin 2026 Columbia Theater 2026 #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
