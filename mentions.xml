@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 06:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 08:21:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Schon sehr Bock auf Band-Maid heute Abend, aber ich bin auch jetzt schon so m...</title>
+      <link>https://bsky.app/profile/did:plc:vlvrfm45mknzutdyse4s3udh/post/3mnjn72k32c2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vlvrfm45mknzutdyse4s3udh/post/3mnjn72k32c2e</guid>
+      <pubDate>Fri, 05 Jun 2026 07:41:30 GMT</pubDate>
+      <dc:creator>Johnny Lazerpunch (lazerpunch.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Schon sehr Bock auf Band-Maid heute Abend, aber ich bin auch jetzt schon so m&#252;de und verstrahlt 😅</p><p><em>BlueSky &middot; lazerpunch.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] so, po</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnjhvgnsqs2x</link>
@@ -899,15 +908,6 @@
       <dc:creator>Tequila Sunset (newhro.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Me encontro novamente viciado em BANDMAID</p><p><em>BlueSky &middot; newhro.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] My copy of Band-Maid's new Energetic CD with live show DVD should ship by Jun...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mmkw6usuqc2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mmkw6usuqc2b</guid>
-      <pubDate>Sun, 24 May 2026 02:29:56 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>My copy of Band-Maid&#39;s new Energetic CD with live show DVD should ship by June 24 from Amped Japan. I just got shipping notice for my new Band-Maid T-shirts, those should arrive next week.😁</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
