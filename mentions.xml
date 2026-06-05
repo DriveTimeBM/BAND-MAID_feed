@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 15:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 17:35:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://fulda.social/tags/BandMaid in der https://fulda.social/tags/batschkap...</title>
+      <link>https://fulda.social/@abimelechbeutelbilch/116698595900016382</link>
+      <guid isPermaLink="true">https://fulda.social/@abimelechbeutelbilch/116698595900016382</guid>
+      <pubDate>Fri, 05 Jun 2026 17:07:38 GMT</pubDate>
+      <dc:creator>Thomas. 🐧🇩🇪| wörk ™️ (abimelechbeutelbilch@fulda.social)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://fulda.social/tags/BandMaid in der https://fulda.social/tags/batschkapp in https://fulda.social/tags/frankfurt 🤘🇯🇵🎎🎸🥁🎤🎶🧑‍🎤</p><p><em>Mastodon &middot; abimelechbeutelbilch@fulda.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band-Maid vor 2 Tagen war genial. 🥰🥰</title>
       <link>https://bsky.app/profile/did:plc:evwg27bgpmcz5nhtacyk2j2n/post/3mnkcskm5ps2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>3 years ago Band-Maid played 22 songs at Saint Andrew&#39;s Hall in Detroit US on 2023/5/24. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mml6d4bnmt2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mml6d4bnmt2z</guid>
-      <pubDate>Sun, 24 May 2026 04:55:28 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago<br/>Start over MV<br/>milestone<br/>surpassed 2 million views<br/>2022/5/24<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
