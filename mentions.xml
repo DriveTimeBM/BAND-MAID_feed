@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 12:58:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 15:01:48 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid vor 2 Tagen war genial. 🥰🥰</title>
+      <link>https://bsky.app/profile/did:plc:evwg27bgpmcz5nhtacyk2j2n/post/3mnkcskm5ps2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:evwg27bgpmcz5nhtacyk2j2n/post/3mnkcskm5ps2p</guid>
+      <pubDate>Fri, 05 Jun 2026 14:08:13 GMT</pubDate>
+      <dc:creator>Shiori (ookami-lilium.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid vor 2 Tagen war genial. 🥰🥰<br/>#hardrock #Konzert #Berlin</p><p><em>BlueSky &middot; ookami-lilium.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I think tonight's show might be the end of the line for my decade old Band Ma...</title>
       <link>https://bsky.app/profile/did:plc:qrowbzton7nv25gmyiomr5zo/post/3mnk3mewdpk2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago<br/>Start over MV<br/>milestone<br/>surpassed 2 million views<br/>2022/5/24<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I've got a set of the new acrylics coming too. Too bad they've never had the ...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mmkwukm5622b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mmkwukm5622b</guid>
-      <pubDate>Sun, 24 May 2026 02:42:04 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I&#39;ve got a set of the new acrylics coming too. Too bad they&#39;ve never had the 3D figures done that Miku talked about during the audio commentary of the 2021 Christmas concert. There are some figure manufacturers that could do a respectable job of the Band-Maid anime style characters.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
