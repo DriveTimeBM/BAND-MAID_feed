@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 19:38:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 23:12:25 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://fulda.social/tags/bandmaid nach 7 Jahren wieder in https://fulda.soci...</title>
+      <link>https://fulda.social/@abimelechbeutelbilch/116699947545871541</link>
+      <guid isPermaLink="true">https://fulda.social/@abimelechbeutelbilch/116699947545871541</guid>
+      <pubDate>Fri, 05 Jun 2026 22:51:23 GMT</pubDate>
+      <dc:creator>Thomas. 🐧🇩🇪| wörk ™️ (abimelechbeutelbilch@fulda.social)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://fulda.social/tags/bandmaid nach 7 Jahren wieder in https://fulda.social/tags/Deutschland !!<br/>https://fulda.social/tags/frauenpowermetal made in https://fulda.social/tags/japan 🧑‍🎤🤘🇯🇵🎎❤️<br/>Die Fans sind sogar extra aus https://fulda.social/tags/wien und https://fulda.social/tags/aachen angereist…<br/>https://fulda.social/tags/batschkapp https://fulda.social/tags/frankfurt</p><p><em>Mastodon &middot; abimelechbeutelbilch@fulda.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Bisschen leise, aber nicht schlecht. #BandMaid #Batschkapp</title>
       <link>https://bsky.app/profile/did:plc:ytjkz26v5eeypkpnej75zcaj/post/3mnks3psmms2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 下半年兩場</title>
-      <link>https://bsky.app/profile/did:plc:vijgopklpr3m3er5stcloh23/post/3mmltey46es2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vijgopklpr3m3er5stcloh23/post/3mmltey46es2b</guid>
-      <pubDate>Sun, 24 May 2026 11:12:19 GMT</pubDate>
-      <dc:creator>夏ちゃん( •8• ) (natttr10969.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>下半年兩場<br/>不知道下週的BAND-MAID搶不搶得到<br/>有就9月會再多一場</p><p><em>BlueSky &middot; natttr10969.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
