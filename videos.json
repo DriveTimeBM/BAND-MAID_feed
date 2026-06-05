@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "1WERBirC_PY",
+        "Title":  "Band-Maid - Energetic Live-Premiere  #kawaiimetal #jpop #rock #japan #berlin #dothingsyoudontwant",
+        "Channel":  "RADULF DRAMA",
+        "ChannelId":  "UCTE-z364_DpS3aFE0ae5ZMQ",
+        "Url":  "https://youtu.be/1WERBirC_PY",
+        "Thumbnail":  "https://i.ytimg.com/vi/1WERBirC_PY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T16:27:14.0000000Z",
+        "DiscoveredAt":  "2026-06-05T16:33:36.4289362Z",
+        "Duration":  "00:03:43",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "K0Z6REYa6-M",
         "Title":  "Jrock fans. Band Maid: Choose Me #music",
         "Channel":  "British Dad Reacts",
