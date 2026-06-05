@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 17:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 18:36:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Oi!</title>
+      <link>https://bsky.app/profile/did:plc:vlvrfm45mknzutdyse4s3udh/post/3mnkoyohjik26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vlvrfm45mknzutdyse4s3udh/post/3mnkoyohjik26</guid>
+      <pubDate>Fri, 05 Jun 2026 17:46:24 GMT</pubDate>
+      <dc:creator>Johnny Lazerpunch (lazerpunch.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Oi!</p><p><em>BlueSky &middot; lazerpunch.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] This band is touring Europe and is about to tour the North America. Please co...</title>
+      <link>https://bsky.app/profile/did:plc:lgju2jr2fykax5ldtl5gy3y3/post/3mnknv2naqc2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:lgju2jr2fykax5ldtl5gy3y3/post/3mnknv2naqc2r</guid>
+      <pubDate>Fri, 05 Jun 2026 17:26:28 GMT</pubDate>
+      <dc:creator>John Lakes (angkor2025.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>This band is touring Europe and is about to tour the North America. Please come back to Minneapolis!<br/><br/>That Bass+Drum intro they played in Berlin is so damn sexy<br/>youtu.be/DOCHSlnZrUI?...<br/><br/>#BandMaid</p><p><em>BlueSky &middot; angkor2025.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] https://fulda.social/tags/BandMaid in der https://fulda.social/tags/batschkap...</title>
       <link>https://fulda.social/@abimelechbeutelbilch/116698595900016382</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: the non-fiction days<br/>Album: Brand New MAID<br/>Release: 5/17/2016<br/>Music: 大西俊也 [Onishi, Toshinari]<br/>Lyrics: 中村彼方 [Nakamura, Kanata]<br/>Arrangement: 大西俊也 [Onishi, Toshinari]<br/>1st Live:3/18/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 11 years ago Band-Maid played 3 songs at F.A.D YOKOHAMA in Yokohama JP on 201...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmlbw4yyhv2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmlbw4yyhv2p</guid>
-      <pubDate>Sun, 24 May 2026 05:59:47 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>11 years ago Band-Maid played 3 songs at F.A.D YOKOHAMA in Yokohama JP on 2015/5/24. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 22 songs at Saint Andrew's Hall in Detroit US on...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmlbw3vvp22n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmlbw3vvp22n</guid>
-      <pubDate>Sun, 24 May 2026 05:59:46 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 22 songs at Saint Andrew&#39;s Hall in Detroit US on 2023/5/24. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
