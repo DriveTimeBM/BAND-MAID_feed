@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "TEvSnxbdd9w",
+        "Title":  "Band-Maid - Energetic Live-Premiere  #metal #jpop #kawaii #japan #rock #berlin #japan #kultur #dance",
+        "Channel":  "RADULF DRAMA",
+        "ChannelId":  "UCTE-z364_DpS3aFE0ae5ZMQ",
+        "Url":  "https://youtu.be/TEvSnxbdd9w",
+        "Thumbnail":  "https://i.ytimg.com/vi/TEvSnxbdd9w/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T10:04:21.0000000Z",
+        "DiscoveredAt":  "2026-06-05T10:24:47.4929465Z",
+        "Duration":  "00:02:57",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "d_t6nPShgy8",
+        "Title":  "BAND-MAID – 'Daydreaming' | Their Most Beautiful Song?",
+        "Channel":  "Jeanette Music",
+        "ChannelId":  "UCNFfh0zk_jvV4_IPNExuLeA",
+        "Url":  "https://youtu.be/d_t6nPShgy8",
+        "Thumbnail":  "https://i.ytimg.com/vi/d_t6nPShgy8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T10:00:14.0000000Z",
+        "DiscoveredAt":  "2026-06-05T10:24:46.4431870Z",
+        "Duration":  "00:13:54",
+        "ViewsAtDiscovery":  73,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "nQF92uAC2pc",
         "Title":  "BAND-MAID - DOMINATION (Live in Berlin 2026) | Columbia Theater WORLD TOUR 2026",
         "Channel":  "Einfach_Seraco",
