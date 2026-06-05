@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vlUWHSJqHIQ",
+        "Title":  "\"Ready to Rock\" by BAND-MAID | Rock is a Lady's Modesty (Guitar Cover)",
+        "Channel":  "BocchiTheE",
+        "ChannelId":  "UC_h9abqsXHw40qCrP8PDofw",
+        "Url":  "https://youtu.be/vlUWHSJqHIQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/vlUWHSJqHIQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T04:19:27.0000000Z",
+        "DiscoveredAt":  "2026-06-05T04:46:17.0340615Z",
+        "Duration":  "00:03:24",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "z_BbILM73VM",
         "Title":  "BAND-MAID INVADES EUROPE! SALLY JOINS LONESOME BLUE! And MORE!",
         "Channel":  "MAID NEWS NETWORK",
