@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NwE2U9IBZ8o",
+        "Title":  "BAND-MAID Are The QUEENS Of Riffs! | First Time Reaction to \"Manners\"",
+        "Channel":  "Riffs and Reactions With Berry",
+        "ChannelId":  "UCwHEceu0iJDIvhDy6hd0FfQ",
+        "Url":  "https://youtu.be/NwE2U9IBZ8o",
+        "Thumbnail":  "https://i.ytimg.com/vi/NwE2U9IBZ8o/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T20:00:36.0000000Z",
+        "DiscoveredAt":  "2026-06-05T20:08:52.1786555Z",
+        "Duration":  "00:08:43",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "7gLlXfXWOxI",
+        "Title":  "SPECIAL ANNOUNCEMENT: BAND-MAID RELATED!!!",
+        "Channel":  "PhoebeFromTV",
+        "ChannelId":  "UCWBQXzPdSa_m-sJhxQtxsRA",
+        "Url":  "https://youtu.be/7gLlXfXWOxI",
+        "Thumbnail":  "https://i.ytimg.com/vi/7gLlXfXWOxI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T20:00:21.0000000Z",
+        "DiscoveredAt":  "2026-06-05T20:08:51.7010594Z",
+        "Duration":  "00:04:19",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qfdRo7iEPd0",
         "Title":  "Band-Maid Berlin 26. Kanami's Side, Akane's Drum Solo.",
         "Channel":  "The Band of Maids Channel.",
