@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 20:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 21:26:12 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'am soooo gonna have no voice tomorrow #BandMaid knows how to rail up a crowd🤟</title>
+      <link>https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnnixtefc22r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnnixtefc22r</guid>
+      <pubDate>Sat, 06 Jun 2026 20:36:32 GMT</pubDate>
+      <dc:creator>ChibiZerberus (chibizerberus.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;am soooo gonna have no voice tomorrow #BandMaid knows how to rail up a crowd🤟</p><p><em>BlueSky &middot; chibizerberus.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Akane at Full Power tonight😼 #BandMaid</title>
+      <link>https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnnipvmje22r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnnipvmje22r</guid>
+      <pubDate>Sat, 06 Jun 2026 20:32:06 GMT</pubDate>
+      <dc:creator>ChibiZerberus (chibizerberus.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Akane at Full Power tonight😼 #BandMaid</p><p><em>BlueSky &middot; chibizerberus.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Hot room for a hotter band.🫠</title>
       <link>https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnni7bnzms2r</link>
@@ -890,24 +908,6 @@
       <dc:creator>John Lakes (angkor2025.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Ah, this Band Maid song is so badass: Toi et moi<br/>youtu.be/_NTozqcillo?...</p><p><em>BlueSky &middot; angkor2025.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Brand new Live Band Maid. Toi et Moi, one of my favourites from Epic Narratives</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mmqk5ryq3c2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mmqk5ryq3c2d</guid>
-      <pubDate>Tue, 26 May 2026 08:10:33 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Brand new Live Band Maid. Toi et Moi, one of my favourites from Epic Narratives</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID / Toi et moi (Official Live Video)</title>
-      <link>https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mmqdvtzuhc2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mmqdvtzuhc2a</guid>
-      <pubDate>Tue, 26 May 2026 06:18:44 GMT</pubDate>
-      <dc:creator>佐藤英男 (sato-hideo.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID / Toi et moi (Official Live Video)<br/>www.youtube.com/watch?v=_NTo...<br/>from BAND-MAID ZEPP TOUR 2024 TOKYO (2024.11.26)<br/>Lyricist: MIKU KOBATO<br/>Composer: BAND-MAID<br/>Arranger: BAND-MAID<br/>#BANDMAID #Toietmoi #EpicNarratives</p><p><em>BlueSky &middot; sato-hideo.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
