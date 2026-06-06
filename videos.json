@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dpXwyD2h-qk",
+        "Title":  "THAY REACT: BAND-MAID / HATE? (Official Live Video)",
+        "Channel":  "Thay do Rock",
+        "ChannelId":  "UCrdJMtly8u2ZPGNLTxthSHQ",
+        "Url":  "https://youtu.be/dpXwyD2h-qk",
+        "Thumbnail":  "https://i.ytimg.com/vi/dpXwyD2h-qk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T17:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-06T17:11:58.6418951Z",
+        "Duration":  "00:09:22",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ftdIkz6M7kw",
         "Title":  "Band Maid Live Frankfurt Germany 2026 (more Low in the Mix)",
         "Channel":  "Concert Snippets",
