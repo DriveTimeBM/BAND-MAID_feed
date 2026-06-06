@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "K22cGzoVhVg",
+        "Title":  "BAND-MAID - Unleash!!!!! #heavymetal #popmetal #hardrock #jrock #animemusic",
+        "Channel":  "Dean Merten",
+        "ChannelId":  "UCWIqMyiyU1ytSU8XZCYR-9g",
+        "Url":  "https://youtu.be/K22cGzoVhVg",
+        "Thumbnail":  "https://i.ytimg.com/vi/K22cGzoVhVg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T14:15:30.0000000Z",
+        "DiscoveredAt":  "2026-06-06T14:35:59.4135213Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "_7WjdCIbWDg",
+        "Title":  "Band Maid ft. Miku - crowd interaction & Sayonakidori - live@Batschkapp, Frankfurt - 2026-06-05",
+        "Channel":  "Ralf Klonowski",
+        "ChannelId":  "UCLok58X_aJI7sXBJ_JvF2sQ",
+        "Url":  "https://youtu.be/_7WjdCIbWDg",
+        "Thumbnail":  "https://i.ytimg.com/vi/_7WjdCIbWDg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T14:02:13.0000000Z",
+        "DiscoveredAt":  "2026-06-06T14:35:59.0268274Z",
+        "Duration":  "00:08:31",
+        "ViewsAtDiscovery":  21,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gd4M8aMqMYY",
         "Title":  "BAND MAID THRILLER MV REACTION",
         "Channel":  "Demon_Gaming 101",
