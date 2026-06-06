@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 11:31:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:03:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Took a day off from going to the cinema and went to the Band-Maid concert ins...</title>
+      <link>https://bsky.app/profile/did:plc:gjseu4hy5tixqlkwezyrd5wt/post/3mnmmmjkec22v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gjseu4hy5tixqlkwezyrd5wt/post/3mnmmmjkec22v</guid>
+      <pubDate>Sat, 06 Jun 2026 12:09:08 GMT</pubDate>
+      <dc:creator>q87 (q87.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Took a day off from going to the cinema and went to the Band-Maid concert instead.<br/>It was a lot of fun. Let&#39;s meet again. 🎸🤘</p><p><em>BlueSky &middot; q87.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID live in Frankfurt 🤘🏻🕊️🤘🏻</title>
       <link>https://bsky.app/profile/did:plc:pjfsyvg7qg3l4ajh2w7vus3o/post/3mnmh66w6pk2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago<br/>Daydreaming<br/>MV<br/>released<br/>2017/5/26<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mmq7aykdyn27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mmq7aykdyn27</guid>
-      <pubDate>Tue, 26 May 2026 04:55:29 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago<br/>CROSS<br/>live debut<br/>BEAT STATION, Fukuoka, Japan<br/>2017/5/26<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
