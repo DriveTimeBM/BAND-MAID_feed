@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 16:40:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 18:14:27 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] its still so annoying how her character is terrible and makes me constantly g...</title>
+      <link>https://bsky.app/profile/did:plc:r473wdxrmuitkmz2jprod5wp/post/3mnn6ptzsk225</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:r473wdxrmuitkmz2jprod5wp/post/3mnn6ptzsk225</guid>
+      <pubDate>Sat, 06 Jun 2026 17:33:07 GMT</pubDate>
+      <dc:creator>KINDAFREE | IRI (denofsin.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>its still so annoying how her character is terrible and makes me constantly groan but her gameplay and overall troll-ass animations/voice lines are fun as fuck<br/><br/>At least outfit 3 color 10 can let me pretend i&#39;m just playing some random member of Babymetal or BAND-MAID</p><p><em>BlueSky &middot; denofsin.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] Um 20.00 geht es los. Freue mich auf das erste mal mit Band-Maid.</title>
       <link>https://social.tchncs.de/@dodger/116704051314435192</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: influencer<br/>Album: Unleash<br/>Release: 9/20/2022<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:9/6/2022<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 20 songs at BEAT STATION in Fukuoka JP on 2017/5...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmqctwdma62d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmqctwdma62d</guid>
-      <pubDate>Tue, 26 May 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at BEAT STATION in Fukuoka JP on 2017/5/26. The opening song was Don&#39;t you tell ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
