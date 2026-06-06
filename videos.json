@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gC-EM62XsPs",
+        "Title":  "This is CRAZY!!!! | BAND-MAID - What is justice? | REACTION!!!",
+        "Channel":  "CooLeoYT",
+        "ChannelId":  "UCeI0lkdRCWmsW3Nwi1P4Ckw",
+        "Url":  "https://youtu.be/gC-EM62XsPs",
+        "Thumbnail":  "https://i.ytimg.com/vi/gC-EM62XsPs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T18:11:48.0000000Z",
+        "DiscoveredAt":  "2026-06-06T18:14:15.0273460Z",
+        "Duration":  "00:08:37",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "BWXc9eMcAg0",
+        "Title":  "BAND-MAID - What is justice? (Forza Horizon 6: Horizon XS)",
+        "Channel":  "SoundRoad",
+        "ChannelId":  "UCVdvXxQHKpWiaRCQhy7j5iw",
+        "Url":  "https://youtu.be/BWXc9eMcAg0",
+        "Thumbnail":  "https://i.ytimg.com/vi/BWXc9eMcAg0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T18:00:00.0000000Z",
+        "DiscoveredAt":  "2026-06-06T18:14:14.0450463Z",
+        "Duration":  "00:03:22",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "F_1UzjsJ-7w",
         "Title":  "Band-Maid Kanami's Saiki Acrylic in Germany  #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
