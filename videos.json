@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gd4M8aMqMYY",
+        "Title":  "BAND MAID THRILLER MV REACTION",
+        "Channel":  "Demon_Gaming 101",
+        "ChannelId":  "UCR03DDvKTh7wGn-NlWYxCxw",
+        "Url":  "https://youtu.be/gd4M8aMqMYY",
+        "Thumbnail":  "https://i.ytimg.com/vi/gd4M8aMqMYY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T14:00:24.0000000Z",
+        "DiscoveredAt":  "2026-06-06T14:05:14.5172364Z",
+        "Duration":  "00:05:14",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "I2b244yeMA0",
         "Title":  "BAND-MAID ZEN cover ft @jenainofficial (including GuitarPro TAB)",
         "Channel":  "ARUSPEX",
