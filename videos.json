@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ftdIkz6M7kw",
+        "Title":  "Band Maid Live Frankfurt Germany 2026 (more Low in the Mix)",
+        "Channel":  "Concert Snippets",
+        "ChannelId":  "UCVlDg_niGkvwbpDLAtdWRMg",
+        "Url":  "https://youtu.be/ftdIkz6M7kw",
+        "Thumbnail":  "https://i.ytimg.com/vi/ftdIkz6M7kw/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T16:37:29.0000000Z",
+        "DiscoveredAt":  "2026-06-06T16:39:53.5445017Z",
+        "Duration":  "00:51:36",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "txMSHR6lfMI",
+        "Title":  "[REACTION] BAND-MAID / Toi et moi (Official Live Video)",
+        "Channel":  "BassinatorLP",
+        "ChannelId":  "UCRn7ROePUapwmL24LzcEY3A",
+        "Url":  "https://youtu.be/txMSHR6lfMI",
+        "Thumbnail":  "https://i.ytimg.com/vi/txMSHR6lfMI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T12:00:22.0000000Z",
+        "DiscoveredAt":  "2026-06-06T16:39:50.9070821Z",
+        "Duration":  "00:05:27",
+        "ViewsAtDiscovery":  36,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "k5no5NLb3Ug",
         "Title":  "Reacting to BAND-MAID \"Toi et moi\" LIVE",
         "Channel":  "WWEdeadman Reacts",
