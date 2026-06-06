@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 13:03:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:34:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] &lt;3 this band.  So many American metal fans knows about Lovebites and Band-Mai...</title>
+      <link>https://bsky.app/profile/did:plc:642733r2akg4ubw63zcxhssd/post/3mnmo5osupc26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:642733r2akg4ubw63zcxhssd/post/3mnmo5osupc26</guid>
+      <pubDate>Sat, 06 Jun 2026 12:36:37 GMT</pubDate>
+      <dc:creator>Erica Anderson (eanderson75.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>&lt;3 this band.  So many American metal fans knows about Lovebites and Band-Maid (whom both are amazing) but they really don&#39;t do a deep dive into the metal scene in Japan.  When I mention Onmyo-Za, Ghost Cries, Serenity in Murder, Valkyrie Zero, it is like &quot;who?!&quot;. <br/><br/>youtu.be/z39EzGg3sLw?...</p><p><em>BlueSky &middot; eanderson75.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Took a day off from going to the cinema and went to the Band-Maid concert ins...</title>
       <link>https://bsky.app/profile/did:plc:gjseu4hy5tixqlkwezyrd5wt/post/3mnmmmjkec22v</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2 years ago<br/>Don&#39;t Let Me Down MV<br/>milestone<br/>surpassed 5 million views<br/>2024/5/26<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mmq7azrm2d2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mmq7azrm2d2x</guid>
-      <pubDate>Tue, 26 May 2026 04:55:30 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago<br/>Daydreaming<br/>MV<br/>released<br/>2017/5/26<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
