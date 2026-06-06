@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "B9Ia4hs-WqA",
+        "Title":  "Miku Kobato from Band Maid visit Zemaitis Factory Part 1 Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/B9Ia4hs-WqA",
+        "Thumbnail":  "https://i.ytimg.com/vi/B9Ia4hs-WqA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T00:11:50.0000000Z",
+        "DiscoveredAt":  "2026-06-06T00:13:26.3575663Z",
+        "Duration":  "00:14:01",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "i3QJFm0CbX8",
+        "Title":  "band-Maid VIP package unpacking.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/i3QJFm0CbX8",
+        "Thumbnail":  "https://i.ytimg.com/vi/i3QJFm0CbX8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-05T21:33:14.0000000Z",
+        "DiscoveredAt":  "2026-06-06T00:13:25.8246948Z",
+        "Duration":  "00:49:56",
+        "ViewsAtDiscovery":  128,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "OlZLqqgTcnE",
         "Title":  "Misa's beautiful bass solo. Band-Maid. Frankfurt. Jun, 5th 2026. #shorts #misa #bandmaid #bass",
         "Channel":  "Pavel Tyan",
