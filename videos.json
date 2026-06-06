@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hgNVkrpfRmo",
+        "Title":  "Band-Maid - Play, Live at Technikum, Munchen, Munich, 6st June, 2026",
+        "Channel":  "Loke Musik",
+        "ChannelId":  "UCO0Sr4t93fG1JMJ1v_HWGBA",
+        "Url":  "https://youtu.be/hgNVkrpfRmo",
+        "Thumbnail":  "https://i.ytimg.com/vi/hgNVkrpfRmo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T22:39:41.0000000Z",
+        "DiscoveredAt":  "2026-06-06T22:58:53.5151262Z",
+        "Duration":  "00:03:42",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "wu81PFTmf-4",
+        "Title":  "Band-Maid - NO GOD, Live at Technikum, Munchen, Munich, 6 st June, 2026",
+        "Channel":  "Loke Musik",
+        "ChannelId":  "UCO0Sr4t93fG1JMJ1v_HWGBA",
+        "Url":  "https://youtu.be/wu81PFTmf-4",
+        "Thumbnail":  "https://i.ytimg.com/vi/wu81PFTmf-4/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T22:20:51.0000000Z",
+        "DiscoveredAt":  "2026-06-06T22:58:52.9719589Z",
+        "Duration":  "00:06:03",
+        "ViewsAtDiscovery":  25,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Dp39DgndgH8",
         "Title":  "BAND-MAID - Toi et Moi in Munich (Extended intro)",
         "Channel":  "BenJPR",
