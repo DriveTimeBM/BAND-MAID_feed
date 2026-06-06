@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 07:55:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 09:27:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] On my way to Munich for the Band-Maid concert this evening.</title>
+      <link>https://chaos.social/@sepp/116702383806589995</link>
+      <guid isPermaLink="true">https://chaos.social/@sepp/116702383806589995</guid>
+      <pubDate>Sat, 06 Jun 2026 09:10:57 GMT</pubDate>
+      <dc:creator>Sebastian Hempel (Sepp) (sepp@chaos.social)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>On my way to Munich for the Band-Maid concert this evening.<br/><br/>https://chaos.social/tags/BandMaid https://chaos.social/tags/JRock</p><p><em>Mastodon &middot; sepp@chaos.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Girls Night Out!</title>
       <link>https://bsky.app/profile/did:plc:fmexjqrg6mugb37mgi373of7/post/3mnm43v6ouk2t</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I love it when the new Band-Maid swag arrives. 😁</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mmprq6qnj22y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mmprq6qnj22y</guid>
-      <pubDate>Tue, 26 May 2026 00:53:26 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
