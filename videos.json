@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LGI9WtGu6wI",
+        "Title":  "Band-Maid, Choose me, Live at Technikum, Munchen/Munich, 6 st June, 2026",
+        "Channel":  "Loke Musik",
+        "ChannelId":  "UCO0Sr4t93fG1JMJ1v_HWGBA",
+        "Url":  "https://youtu.be/LGI9WtGu6wI",
+        "Thumbnail":  "https://i.ytimg.com/vi/LGI9WtGu6wI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T21:13:41.0000000Z",
+        "DiscoveredAt":  "2026-06-06T21:25:55.8628371Z",
+        "Duration":  "00:03:45",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "O7DpDma4nxc",
+        "Title":  "Band-Maid - Onset - Live in Munich - June 6, 2026",
+        "Channel":  "Tigh",
+        "ChannelId":  "UCg2zpn3-XtqWM9hxhMNPpiQ",
+        "Url":  "https://youtu.be/O7DpDma4nxc",
+        "Thumbnail":  "https://i.ytimg.com/vi/O7DpDma4nxc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-06T21:03:05.0000000Z",
+        "DiscoveredAt":  "2026-06-06T21:25:54.8970365Z",
+        "Duration":  "00:04:12",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "flauqzmb780",
         "Title":  "Band-Maid - Warning - Live in Munich - June 6, 2026",
         "Channel":  "Tigh",
