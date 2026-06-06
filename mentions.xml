@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 15:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 16:40:13 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] Um 20.00 geht es los. Freue mich auf das erste mal mit Band-Maid.</title>
+      <link>https://social.tchncs.de/@dodger/116704051314435192</link>
+      <guid isPermaLink="true">https://social.tchncs.de/@dodger/116704051314435192</guid>
+      <pubDate>Sat, 06 Jun 2026 16:15:01 GMT</pubDate>
+      <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>Um 20.00 geht es los. Freue mich auf das erste mal mit Band-Maid. <br/><br/>:surprised_pikachu: <br/><br/>https://social.tchncs.de/tags/bandmaid https://social.tchncs.de/tags/livemusic</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mnmtsuqa6z2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at BEAT STATION in Fukuoka JP on 2017/5/26. The opening song was Don&#39;t you tell ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 8 songs at Historic Crew Stadium in Columbus US ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmqctuvk4a2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mmqctuvk4a2x</guid>
-      <pubDate>Tue, 26 May 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 8 songs at Historic Crew Stadium in Columbus US on 2023/5/26. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
