@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZYY6t0DUlL8",
+        "Title":  "EARS TO THE EAST | KOIAI begin Starting Over | Scandal release Echo | Band-Maid to Europe ...& more",
+        "Channel":  "Ears To The East",
+        "ChannelId":  "UCv9f-JJy6z3E_zs6x1CshXw",
+        "Url":  "https://youtu.be/ZYY6t0DUlL8",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZYY6t0DUlL8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T19:30:06.0000000Z",
+        "DiscoveredAt":  "2026-06-07T21:21:28.4306544Z",
+        "Duration":  "01:25:28",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cHPS9Yoa4m0",
         "Title":  "Band Maid - live in Berlin 20260603 - Sayonakidori",
         "Channel":  "Carsten Raddatz",
