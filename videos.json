@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "oi-2kOQ06-g",
+        "Title":  "BAND-MAID - Choose Me (World Tour Live in Munich Technikum 2026.06.05)",
+        "Channel":  "horizon video",
+        "ChannelId":  "UCas_0rf2utXhN3UXHNuCHRg",
+        "Url":  "https://youtu.be/oi-2kOQ06-g",
+        "Thumbnail":  "https://i.ytimg.com/vi/oi-2kOQ06-g/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T07:41:33.0000000Z",
+        "DiscoveredAt":  "2026-06-07T07:44:01.9712132Z",
+        "Duration":  "00:03:47",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Hbn4IA-qKbU",
+        "Title":  "BAND-MAID - SUPER SUNSHINE (World Tour Live in Frankfurt Batschkapp 2026.06.05)",
+        "Channel":  "horizon video",
+        "ChannelId":  "UCas_0rf2utXhN3UXHNuCHRg",
+        "Url":  "https://youtu.be/Hbn4IA-qKbU",
+        "Thumbnail":  "https://i.ytimg.com/vi/Hbn4IA-qKbU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T03:32:19.0000000Z",
+        "DiscoveredAt":  "2026-06-07T07:44:01.4921704Z",
+        "Duration":  "00:04:02",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "CO4lIwiN8lo",
         "Title":  "Munich MINCHO TIME DOMINATION SUPER SUNSHINE Choose Me JUNE 6, 2026 BAND-MAID",
         "Channel":  "jim morrison",
