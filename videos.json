@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lcn_kz6gmjg",
+        "Title":  "Band-Maid Turn Me On Live In Tokyo 2018 Reaction",
+        "Channel":  "James M ",
+        "ChannelId":  "UCDw9j7ufQGH7mg4l3Z8In9A",
+        "Url":  "https://youtu.be/lcn_kz6gmjg",
+        "Thumbnail":  "https://i.ytimg.com/vi/lcn_kz6gmjg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T10:58:54.0000000Z",
+        "DiscoveredAt":  "2026-06-07T11:18:37.4543907Z",
+        "Duration":  "00:09:13",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ycYf2Bpvf6c",
         "Title":  "Musicians REACT to Band-Maid: Matchless Gum (Live Video)",
         "Channel":  "Glenn and Adrian's Rock Talk",
