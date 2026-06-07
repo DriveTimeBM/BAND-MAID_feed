@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ycYf2Bpvf6c",
+        "Title":  "Musicians REACT to Band-Maid: Matchless Gum (Live Video)",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/ycYf2Bpvf6c",
+        "Thumbnail":  "https://i.ytimg.com/vi/ycYf2Bpvf6c/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T10:00:18.0000000Z",
+        "DiscoveredAt":  "2026-06-07T10:17:14.2016838Z",
+        "Duration":  "00:07:55",
+        "ViewsAtDiscovery":  39,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "HDlKJG-Q96s",
         "Title":  "Band Maid Crowd Interaction Frankfurt 2026",
         "Channel":  "Ralf Klonowski",
