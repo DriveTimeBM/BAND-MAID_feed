@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BbNmkkEXrQQ",
+        "Title":  "First Time Hearing BAND-MAID - DICE | Drummer Reacts",
+        "Channel":  "Sawyer",
+        "ChannelId":  "UCsHWdTeXelqsJHzTBqz5Meg",
+        "Url":  "https://youtu.be/BbNmkkEXrQQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/BbNmkkEXrQQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T02:00:12.0000000Z",
+        "DiscoveredAt":  "2026-06-07T02:05:17.3970713Z",
+        "Duration":  "00:17:50",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "WH0Zr7JwNqQ",
         "Title":  "Band-Maid Train 8, Germany.",
         "Channel":  "The Band of Maids Channel.",
