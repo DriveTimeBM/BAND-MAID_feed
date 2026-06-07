@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "e8xQ0UxWhF4",
+        "Title":  "BAND-MAID in Munich - June 6, 2026 - Technikum",
+        "Channel":  "Vladimir Chupin",
+        "ChannelId":  "UCb6JH8zMUAHI1w8MFXNUYwQ",
+        "Url":  "https://youtu.be/e8xQ0UxWhF4",
+        "Thumbnail":  "https://i.ytimg.com/vi/e8xQ0UxWhF4/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T05:29:50.0000000Z",
+        "DiscoveredAt":  "2026-06-07T05:40:38.7135363Z",
+        "Duration":  "01:47:23",
+        "ViewsAtDiscovery":  27,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BbNmkkEXrQQ",
         "Title":  "First Time Hearing BAND-MAID - DICE | Drummer Reacts",
         "Channel":  "Sawyer",
