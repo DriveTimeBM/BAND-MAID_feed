@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HDlKJG-Q96s",
+        "Title":  "Band Maid Crowd Interaction Frankfurt 2026",
+        "Channel":  "Ralf Klonowski",
+        "ChannelId":  "UCLok58X_aJI7sXBJ_JvF2sQ",
+        "Url":  "https://youtu.be/HDlKJG-Q96s",
+        "Thumbnail":  "https://i.ytimg.com/vi/HDlKJG-Q96s/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T09:28:51.0000000Z",
+        "DiscoveredAt":  "2026-06-07T09:46:35.2178431Z",
+        "Duration":  "00:03:01",
+        "ViewsAtDiscovery":  46,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "OArgvHjuOww",
+        "Title":  "BAND-MAID - Hate? (Live in Berlin 2026) | Columbia Theater WORLD TOUR 2026 | Part 4 from 4",
+        "Channel":  "Einfach_Seraco",
+        "ChannelId":  "UCjOV03Wp55rWkRud1Z7NNyQ",
+        "Url":  "https://youtu.be/OArgvHjuOww",
+        "Thumbnail":  "https://i.ytimg.com/vi/OArgvHjuOww/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T09:20:54.0000000Z",
+        "DiscoveredAt":  "2026-06-07T09:46:34.2424167Z",
+        "Duration":  "00:04:42",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6n3fR8ZAiTM",
         "Title":  "BAND-MAID in Frankfurt - June 5, 2026 - Batschkapp",
         "Channel":  "Kr1s68k",
