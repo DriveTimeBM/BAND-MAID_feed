@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rL2Pz4V1mUU",
+        "Title":  "BAND-MAID - Energetic (World Tour Live in Munich Technikum 2026.06.05)",
+        "Channel":  "horizon video",
+        "ChannelId":  "UCas_0rf2utXhN3UXHNuCHRg",
+        "Url":  "https://youtu.be/rL2Pz4V1mUU",
+        "Thumbnail":  "https://i.ytimg.com/vi/rL2Pz4V1mUU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T08:09:20.0000000Z",
+        "DiscoveredAt":  "2026-06-07T08:14:45.4061422Z",
+        "Duration":  "00:04:41",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oi-2kOQ06-g",
         "Title":  "BAND-MAID - Choose Me (World Tour Live in Munich Technikum 2026.06.05)",
         "Channel":  "horizon video",
