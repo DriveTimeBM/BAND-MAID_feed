@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 21:26:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 05:40:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 8 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mnoeu2wk3j2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mnoeu2wk3j2p</guid>
+      <pubDate>Sun, 07 Jun 2026 04:55:29 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>8 years ago<br/>REAL EXISTENCE MV<br/>milestone<br/>surpassed 8 million views<br/>2018/6/7<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I'am soooo gonna have no voice tomorrow #BandMaid knows how to rail up a crowd🤟</title>
       <link>https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnnixtefc22r</link>
@@ -899,15 +908,6 @@
       <dc:creator>Media Japan (media@wakoka.com)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>https://www.wacoca.com/media/665265/ JOURNEY、NIGHT RANGER、LOUDNESS、BAND-MAID等出演の音楽イベント”THE GREATEST ROCK FUKUOKA”、全ラインナップ決定！追加出演者にRED WARRIORS発表！ https://wakoka.com/tags/BANDMAID https://wakoka.com/tags/LOUDNESS https://wakoka.com/tags/music https://wakoka.com/tags/%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%89 https://wakoka.com/tags/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A1%E3%82%A4%E3%83%89 https://wakoka.com/tags/%E3%83%A9%E3%82%A6%E3%83%89%E3%83%8D%E3%82%B9 https://wakoka.com/tags/%E9%9F%B3%E6%A5%BD</p><p><em>Mastodon &middot; media@wakoka.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Ah, this Band Maid song is so badass: Toi et moi</title>
-      <link>https://bsky.app/profile/did:plc:lgju2jr2fykax5ldtl5gy3y3/post/3mmr3jsuqes2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:lgju2jr2fykax5ldtl5gy3y3/post/3mmr3jsuqes2s</guid>
-      <pubDate>Tue, 26 May 2026 13:21:30 GMT</pubDate>
-      <dc:creator>John Lakes (angkor2025.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Ah, this Band Maid song is so badass: Toi et moi<br/>youtu.be/_NTozqcillo?...</p><p><em>BlueSky &middot; angkor2025.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
