@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cHPS9Yoa4m0",
+        "Title":  "Band Maid - live in Berlin 20260603 - Sayonakidori",
+        "Channel":  "Carsten Raddatz",
+        "ChannelId":  "UCd4XFEb6w5U_a1quOVgH0Tg",
+        "Url":  "https://youtu.be/cHPS9Yoa4m0",
+        "Thumbnail":  "https://i.ytimg.com/vi/cHPS9Yoa4m0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T20:41:00.0000000Z",
+        "DiscoveredAt":  "2026-06-07T20:50:35.4962062Z",
+        "Duration":  "00:05:03",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "n_4UfkqqiQs",
         "Title":  "BAND-MAID HATE? Live Reaction | Dieses Guitar VS Bass Solo ist absolut krank",
         "Channel":  "SebifiziertTV",
