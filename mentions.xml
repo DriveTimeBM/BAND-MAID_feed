@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 05:40:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 06:41:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Alive-or-Dead</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnoit44jmx2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnoit44jmx2t</guid>
+      <pubDate>Sun, 07 Jun 2026 06:06:32 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Alive-or-Dead<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 8 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mnoeu2wk3j2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>Johnny Lazerpunch (lazerpunch.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Zum Band-Maid Konzert in einer Maid Uniform gehen ist wie ein T-Shirt der Hauptband tragen.</p><p><em>BlueSky &middot; lazerpunch.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] https://www.wacoca.com/media/665265/ JOURNEY、NIGHT RANGER、LOUDNESS、BAND-MAID等...</title>
-      <link>https://wakoka.com/@media/116633146978643404</link>
-      <guid isPermaLink="true">https://wakoka.com/@media/116633146978643404</guid>
-      <pubDate>Mon, 25 May 2026 03:43:07 GMT</pubDate>
-      <dc:creator>Media Japan (media@wakoka.com)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>https://www.wacoca.com/media/665265/ JOURNEY、NIGHT RANGER、LOUDNESS、BAND-MAID等出演の音楽イベント”THE GREATEST ROCK FUKUOKA”、全ラインナップ決定！追加出演者にRED WARRIORS発表！ https://wakoka.com/tags/BANDMAID https://wakoka.com/tags/LOUDNESS https://wakoka.com/tags/music https://wakoka.com/tags/%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%89 https://wakoka.com/tags/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A1%E3%82%A4%E3%83%89 https://wakoka.com/tags/%E3%83%A9%E3%82%A6%E3%83%89%E3%83%8D%E3%82%B9 https://wakoka.com/tags/%E9%9F%B3%E6%A5%BD</p><p><em>Mastodon &middot; media@wakoka.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
