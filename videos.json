@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6n3fR8ZAiTM",
+        "Title":  "BAND-MAID in Frankfurt - June 5, 2026 - Batschkapp",
+        "Channel":  "Kr1s68k",
+        "ChannelId":  "UCoQhY07Kf9a8jXz0Lu-MQNQ",
+        "Url":  "https://youtu.be/6n3fR8ZAiTM",
+        "Thumbnail":  "https://i.ytimg.com/vi/6n3fR8ZAiTM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T08:41:06.0000000Z",
+        "DiscoveredAt":  "2026-06-07T08:45:21.5549123Z",
+        "Duration":  "00:03:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rL2Pz4V1mUU",
         "Title":  "BAND-MAID - Energetic (World Tour Live in Munich Technikum 2026.06.05)",
         "Channel":  "horizon video",
