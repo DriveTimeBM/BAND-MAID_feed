@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 06:41:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 07:12:49 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] Das Band-Maid Konzert gestern hat mir letzten Endes sehr gut gefallen.</title>
+      <link>https://social.tchncs.de/@dodger/116707527656847095</link>
+      <guid isPermaLink="true">https://social.tchncs.de/@dodger/116707527656847095</guid>
+      <pubDate>Sun, 07 Jun 2026 06:59:06 GMT</pubDate>
+      <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>Das Band-Maid Konzert gestern hat mir letzten Endes sehr gut gefallen. <br/>Negativ war das die Damen mit 30 Minuten Versp&#228;tung anfingen.<br/><br/>https://social.tchncs.de/tags/bandmaid https://social.tchncs.de/tags/music https://social.tchncs.de/tags/livemusic https://social.tchncs.de/tags/japan</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Alive-or-Dead</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnoit44jmx2t</link>
@@ -899,15 +908,6 @@
       <dc:creator>Walk News (walknews@jforo.com)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>https://www.walknews.com/1310357/ 80年代ロック好きにはたまらないフェス『THE GREATEST ROCK FUKUOKA』 – カー・アンド・ドライバーonline [CAR and DRIVER] https://jforo.com/tags/BANDMAID https://jforo.com/tags/fukuoka https://jforo.com/tags/FUKUROCK https://jforo.com/tags/HOUNDDOG https://jforo.com/tags/JOURNEY https://jforo.com/tags/LOUDNESS https://jforo.com/tags/NIGHTRANGER https://jforo.com/tags/THEGREATESTROCKFUKUOKA https://jforo.com/tags/%E3%83%95%E3%82%AF%E3%83%AD%E3%83%83%E3%82%AF https://jforo.com/tags/%E7%A6%8F%E5%B2%A1 https://jforo.com/tags/%E7%A6%8F%E5%B2%A1%E7%9C%8C</p><p><em>Mastodon &middot; walknews@jforo.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Zum Band-Maid Konzert in einer Maid Uniform gehen ist wie ein T-Shirt der Hau...</title>
-      <link>https://bsky.app/profile/did:plc:vlvrfm45mknzutdyse4s3udh/post/3mmrc4kcqnk2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vlvrfm45mknzutdyse4s3udh/post/3mmrc4kcqnk2o</guid>
-      <pubDate>Tue, 26 May 2026 15:19:21 GMT</pubDate>
-      <dc:creator>Johnny Lazerpunch (lazerpunch.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Zum Band-Maid Konzert in einer Maid Uniform gehen ist wie ein T-Shirt der Hauptband tragen.</p><p><em>BlueSky &middot; lazerpunch.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
