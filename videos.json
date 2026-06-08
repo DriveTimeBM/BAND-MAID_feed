@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7CpLdKiCmSA",
+        "Title":  "One and only - BAND-MAID at WELCOME TO ROCKVILLE 2023 Reaction",
+        "Channel":  "James M ",
+        "ChannelId":  "UCDw9j7ufQGH7mg4l3Z8In9A",
+        "Url":  "https://youtu.be/7CpLdKiCmSA",
+        "Thumbnail":  "https://i.ytimg.com/vi/7CpLdKiCmSA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T20:39:17.0000000Z",
+        "DiscoveredAt":  "2026-06-08T20:47:18.3187184Z",
+        "Duration":  "00:06:44",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "TZ8hTfuqjrs",
         "Title":  "First Look | BAND-MAID - HATE? | LIVE Performance| At AOS216 Reacts Drive-In",
         "Channel":  "AOS216Reacts",
