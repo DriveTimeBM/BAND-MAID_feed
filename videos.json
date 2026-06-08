@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YorKOpBL2wo",
+        "Title":  "BAND-MAID: WORLD TOUR - EUROPE - FRANKFURT (BMCD BAND-MAID COMMUNITY DISCORD)",
+        "Channel":  "GREYFOX",
+        "ChannelId":  "UCFo2UUkTxHQRwAA4Zu-qu0A",
+        "Url":  "https://youtu.be/YorKOpBL2wo",
+        "Thumbnail":  "https://i.ytimg.com/vi/YorKOpBL2wo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T17:58:29.0000000Z",
+        "DiscoveredAt":  "2026-06-08T18:13:16.2161515Z",
+        "Duration":  "00:01:37",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jEZ6Ooadark",
         "Title":  "Band-Maid  ::  Omajinai Time  ::  Frankfurt Germany  :: 5 June 2026",
         "Channel":  "Arick McNiel-Cho",
