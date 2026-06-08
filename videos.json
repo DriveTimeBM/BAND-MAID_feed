@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-wG3drWODu0",
+        "Title":  "Band-Maid  ::  Misa Base Solo with Akane on Drums  ::  Frankfurt  Germany  ::  5 June 2026",
+        "Channel":  "Arick McNiel-Cho",
+        "ChannelId":  "UCJrQLjz__iBiWVJCSU_5t0Q",
+        "Url":  "https://youtu.be/-wG3drWODu0",
+        "Thumbnail":  "https://i.ytimg.com/vi/-wG3drWODu0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T13:13:20.0000000Z",
+        "DiscoveredAt":  "2026-06-08T13:35:55.7635148Z",
+        "Duration":  "00:03:16",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "eTkJSW1R4mw",
+        "Title":  "BAND-MAID – BUBBLE | FIRST TIME REACTION (THESE MUSICIANS ARE INSANE...)",
+        "Channel":  "The Possibilities Podcast",
+        "ChannelId":  "UCRjC-b3S-AhFRNZrQjAXVGw",
+        "Url":  "https://youtu.be/eTkJSW1R4mw",
+        "Thumbnail":  "https://i.ytimg.com/vi/eTkJSW1R4mw/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T13:09:04.0000000Z",
+        "DiscoveredAt":  "2026-06-08T13:35:55.0241687Z",
+        "Duration":  "00:08:52",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "68GJkf4Fln8",
         "Title":  "*** BAND-MAID - Delimma // Ryan Mear DEEP DIVES",
         "Channel":  "Ryan Mear",
