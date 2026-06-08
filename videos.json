@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3DnR30xRbZY",
+        "Title":  "RESUMO DO FIM DE SEMANA! ANKIMO NOVO MV! BAND MAID & BABYMETAL DOMINAM ! E +...",
+        "Channel":  "Lovebites Brasil Fans",
+        "ChannelId":  "UCeK6HrzJam4R87DnGKEPWQw",
+        "Url":  "https://youtu.be/3DnR30xRbZY",
+        "Thumbnail":  "https://i.ytimg.com/vi/3DnR30xRbZY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T20:05:52.0000000Z",
+        "DiscoveredAt":  "2026-06-08T22:51:30.0706889Z",
+        "Duration":  "01:08:52",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mEQUtFJ0PJU",
         "Title":  "BAND-MAID - Shambles reaction | ARE THEY HUMAN?!",
         "Channel":  "PunqeweReacts",
