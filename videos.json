@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bLdVGsHhrRo",
+        "Title":  "This Have To Be My Favourite Of All Time BAND MAID  Thrill スリル",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/bLdVGsHhrRo",
+        "Thumbnail":  "https://i.ytimg.com/vi/bLdVGsHhrRo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T10:12:08.0000000Z",
+        "DiscoveredAt":  "2026-06-08T10:28:43.7271698Z",
+        "Duration":  "00:11:53",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "JumRxttvMhE",
+        "Title":  "Akane's (Band-Maid) first job - FREEC – Venus Cover Reaction 🔥 Japanese Rock Cover BLEW OUR MINDS",
+        "Channel":  "Rock and Reactions",
+        "ChannelId":  "UCqAy-EERjiQYNBVIOj3MY7A",
+        "Url":  "https://youtu.be/JumRxttvMhE",
+        "Thumbnail":  "https://i.ytimg.com/vi/JumRxttvMhE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T09:00:32.0000000Z",
+        "DiscoveredAt":  "2026-06-08T10:28:43.2327974Z",
+        "Duration":  "00:13:49",
+        "ViewsAtDiscovery":  162,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qQr119xqaT8",
         "Title":  "BAND-MAID: WORLD TOUR - EUROPE - BERLIN (BMCD BAND-MAID COMMUNITY DISCORD)",
         "Channel":  "GREYFOX",
