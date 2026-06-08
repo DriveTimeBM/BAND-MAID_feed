@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "k5hpV8uS2DU",
+        "Title":  "First Time Listening to BAND-MAID - YOLO | Drummer Reacts",
+        "Channel":  "Sawyer",
+        "ChannelId":  "UCsHWdTeXelqsJHzTBqz5Meg",
+        "Url":  "https://youtu.be/k5hpV8uS2DU",
+        "Thumbnail":  "https://i.ytimg.com/vi/k5hpV8uS2DU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T14:00:22.0000000Z",
+        "DiscoveredAt":  "2026-06-08T14:06:35.2455253Z",
+        "Duration":  "00:11:41",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "9C2tSsLttjk",
+        "Title":  "BAND MAID MONDAY! We Revisit INFLUENCER (Our First Ever Reaction) #bandmaid",
+        "Channel":  "WavesAcrossTheWater",
+        "ChannelId":  "UC8VWDy9uGVbgrBXwJlRwESQ",
+        "Url":  "https://youtu.be/9C2tSsLttjk",
+        "Thumbnail":  "https://i.ytimg.com/vi/9C2tSsLttjk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T14:00:03.0000000Z",
+        "DiscoveredAt":  "2026-06-08T14:06:34.8388376Z",
+        "Duration":  "00:20:52",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-wG3drWODu0",
         "Title":  "Band-Maid  ::  Misa Base Solo with Akane on Drums  ::  Frankfurt  Germany  ::  5 June 2026",
         "Channel":  "Arick McNiel-Cho",
