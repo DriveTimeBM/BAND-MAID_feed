@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 08 Jun 2026 06:53:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 14:37:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://social.64i.de/tags/bandmaid https://social.64i.de/tags/jrock</title>
+      <link>https://social.64i.de/@calvin_thefreak/116705554526205623</link>
+      <guid isPermaLink="true">https://social.64i.de/@calvin_thefreak/116705554526205623</guid>
+      <pubDate>Sat, 06 Jun 2026 22:37:18 GMT</pubDate>
+      <dc:creator>Calvin (calvin_thefreak@social.64i.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://social.64i.de/tags/bandmaid https://social.64i.de/tags/jrock</p><p><em>Mastodon &middot; calvin_thefreak@social.64i.de</em></p>]]></description>
+    </item>
+    <item>
+      <title>[Mastodon] https://social.64i.de/tags/bandmaid https://social.64i.de/tags/jrock BAND-MAI...</title>
+      <link>https://social.64i.de/@calvin_thefreak/116700881980282479</link>
+      <guid isPermaLink="true">https://social.64i.de/@calvin_thefreak/116700881980282479</guid>
+      <pubDate>Sat, 06 Jun 2026 02:49:01 GMT</pubDate>
+      <dc:creator>Calvin (calvin_thefreak@social.64i.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://social.64i.de/tags/bandmaid https://social.64i.de/tags/jrock BAND-MAID live in Frankfurt am Main.</p><p><em>Mastodon &middot; calvin_thefreak@social.64i.de</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Knock'in on your heart</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnqzbzyj2d25</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>13 years ago<br/>** Kanami meets with B-M 1st time **<br/>milestone<br/>(date may not be exact)<br/>2013/5/28<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Ending de Grendizer U</title>
-      <link>https://bsky.app/profile/did:plc:p7ngswfhtm23lvhxbhijb4jt/post/3mmtxl76wfk2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:p7ngswfhtm23lvhxbhijb4jt/post/3mmtxl76wfk2t</guid>
-      <pubDate>Wed, 27 May 2026 16:48:41 GMT</pubDate>
-      <dc:creator>Vespa que remove esmalte 🐝 (nailunpolish.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Ending de Grendizer U<br/>&#201; BAND-MAID, s&#243; isso</p><p><em>BlueSky &middot; nailunpolish.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] https://social.tchncs.de/tags/MusicWomenWednesday</title>
-      <link>https://social.tchncs.de/@sariash/116647259386881566</link>
-      <guid isPermaLink="true">https://social.tchncs.de/@sariash/116647259386881566</guid>
-      <pubDate>Wed, 27 May 2026 15:32:05 GMT</pubDate>
-      <dc:creator>sariash (sariash@social.tchncs.de)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>https://social.tchncs.de/tags/MusicWomenWednesday <br/><br/>BAND-MAID / Toi et moi (Official Live Video)<br/><br/>youtube link:<br/>https://youtu.be/_NTozqcillo<br/><br/>https://social.tchncs.de/tags/Music https://social.tchncs.de/tags/HardRock https://social.tchncs.de/tags/JRock https://social.tchncs.de/tags/BandMaid https://social.tchncs.de/tags/%E3%83%90%E3%83%B3%E3%83%89%E3%83%A1%E3%82%A4%E3%83%89</p><p><em>Mastodon &middot; sariash@social.tchncs.de</em></p>]]></description>
     </item>
   </channel>
 </rss>
