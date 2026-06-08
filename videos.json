@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rQduhiiY_qM",
+        "Title":  "【衝撃】BAND-MAID「HATE?」ギターベースバトルが限界突破…フランクフルト“伝説セッション”の正体がヤバすぎた…【鳥肌必至】",
+        "Channel":  "Jp Music News",
+        "ChannelId":  "UCZc4hp17_1i6PmwzpR6OcCw",
+        "Url":  "https://youtu.be/rQduhiiY_qM",
+        "Thumbnail":  "https://i.ytimg.com/vi/rQduhiiY_qM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T04:14:56.0000000Z",
+        "DiscoveredAt":  "2026-06-08T04:19:51.2713531Z",
+        "Duration":  "00:09:40",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "StkVJZ6DEe8",
         "Title":  "Band-Maid Train 8, Bye, bye Germany po.",
         "Channel":  "The Band of Maids Channel.",
