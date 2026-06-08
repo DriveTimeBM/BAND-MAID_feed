@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "TZ8hTfuqjrs",
+        "Title":  "First Look | BAND-MAID - HATE? | LIVE Performance| At AOS216 Reacts Drive-In",
+        "Channel":  "AOS216Reacts",
+        "ChannelId":  "UCCFnEPEW0wpRZlccuYiSmBg",
+        "Url":  "https://youtu.be/TZ8hTfuqjrs",
+        "Thumbnail":  "https://i.ytimg.com/vi/TZ8hTfuqjrs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T19:30:29.0000000Z",
+        "DiscoveredAt":  "2026-06-08T19:45:16.3421045Z",
+        "Duration":  "00:12:23",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YorKOpBL2wo",
         "Title":  "BAND-MAID: WORLD TOUR - EUROPE - FRANKFURT (BMCD BAND-MAID COMMUNITY DISCORD)",
         "Channel":  "GREYFOX",
