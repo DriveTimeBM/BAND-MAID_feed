@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "StkVJZ6DEe8",
+        "Title":  "Band-Maid Train 8, Bye, bye Germany po.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/StkVJZ6DEe8",
+        "Thumbnail":  "https://i.ytimg.com/vi/StkVJZ6DEe8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-07T22:00:58.0000000Z",
+        "DiscoveredAt":  "2026-06-08T01:11:11.6453634Z",
+        "Duration":  "01:43:53",
+        "ViewsAtDiscovery":  90,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vNiSlBOArBw",
         "Title":  "Band-Maid :: Lock and Load :: Frankfurt Germany June 5 2026 ",
         "Channel":  "Arick McNiel-Cho",
