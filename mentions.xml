@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 21:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 00:39:55 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid!</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mnqe2pp2522m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mnqe2pp2522m</guid>
+      <pubDate>Sun, 07 Jun 2026 23:46:39 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid!</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I was happy to see Band Maid again, but when they only played 3 older songs, ...</title>
       <link>https://bsky.app/profile/did:plc:qrowbzton7nv25gmyiomr5zo/post/3mnpy4iwne22s</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>6 years ago<br/>Blooming MV<br/>milestone<br/>surpassed 1 million views<br/>2020/5/27<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Nobody challenged #1 other than the first 4 seconds of the Girls² MV, the oth...</title>
-      <link>https://bsky.app/profile/did:plc:enzamxzmiqnuym36jzfzhyfn/post/3mmsgwyrxyk2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:enzamxzmiqnuym36jzfzhyfn/post/3mmsgwyrxyk2a</guid>
-      <pubDate>Wed, 27 May 2026 02:18:24 GMT</pubDate>
-      <dc:creator>Kyle is 1derful (kyleis1derful.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Nobody challenged #1 other than the first 4 seconds of the Girls&#178; MV, the other 190 seconds had the worst AI slop possible.. I watched 3 videos many times but I still couldn&#39;t pick the order. While BAND-MAID was great the live audio wasn&#39;t. Meanwhile yoyo couldn&#39;t sound better!<br/><br/>youtu.be/LPJkPjt3elc</p><p><em>BlueSky &middot; kyleis1derful.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
