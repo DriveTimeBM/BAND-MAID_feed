@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ViNY-h49xDc",
+        "Title":  "Band Maid Sense (live) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/ViNY-h49xDc",
+        "Thumbnail":  "https://i.ytimg.com/vi/ViNY-h49xDc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-08T06:52:58.0000000Z",
+        "DiscoveredAt":  "2026-06-08T06:53:26.0185762Z",
+        "Duration":  "00:03:34",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rQduhiiY_qM",
         "Title":  "【衝撃】BAND-MAID「HATE?」ギターベースバトルが限界突破…フランクフルト“伝説セッション”の正体がヤバすぎた…【鳥肌必至】",
         "Channel":  "Jp Music News",
