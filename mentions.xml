@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 00:24:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 00:55:04 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mnsuyveyev2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mnsuyveyev2h</guid>
+      <pubDate>Mon, 08 Jun 2026 23:55:11 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Women leading the way in rock from Japan.</title>
       <link>https://bsky.app/profile/did:plc:ch4zi6wg4ew5cbfedg33x3fq/post/3mnsmmte26c2t</link>
@@ -899,15 +908,6 @@
       <dc:creator>worldmetalindex.bsky.social (worldmetalindex.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>&quot;This Week&#39;s Shows&quot; — New on European Metal Index<br/><br/>This week&#39;s shows on European Metal Index:<br/><br/>Aberdeen: The Wildhearts @ The Lemon Tree<br/>Amsterdam: Bilmuri @ Melkweg<br/>BOLOGNA: Metallica @ Stadio Dall&#39;Ara<br/>Berlin: Metallica, BAND-MAID @ Columbia Theater<br/>...<br/><br/>https://eum…<br/><br/>https://eumetalindex.com/shows</p><p><em>BlueSky &middot; worldmetalindex.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] "This Week's Shows" — New on European Metal Index</title>
-      <link>https://bsky.app/profile/did:plc:crjkerwyizapmyklef2ltz6a/post/3mmvakyo6fr2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:crjkerwyizapmyklef2ltz6a/post/3mmvakyo6fr2s</guid>
-      <pubDate>Thu, 28 May 2026 05:02:17 GMT</pubDate>
-      <dc:creator>eumetalindex.bsky.social (eumetalindex.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>&quot;This Week&#39;s Shows&quot; — New on European Metal Index<br/><br/>This week&#39;s shows on European Metal Index:<br/><br/>Aberdeen: The Wildhearts @ The Lemon Tree<br/>Amsterdam: Bilmuri @ Melkweg<br/>BOLOGNA: Metallica @ Stadio Dall&#39;Ara<br/>Berlin: Metallica, BAND-MAID @ Columbia Theater<br/>...<br/><br/>https://eum…<br/><br/>https://eumetalindex.com/shows</p><p><em>BlueSky &middot; eumetalindex.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
