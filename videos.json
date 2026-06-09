@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yuEEdzrVsUM",
+        "Title":  "🔥 Diese Live Performance ist UNGLAUBLICH!  BAND MAID – FREEDOM Reaction",
+        "Channel":  "SebifiziertTV",
+        "ChannelId":  "UCPFn071weLVP9h40m3yF69A",
+        "Url":  "https://youtu.be/yuEEdzrVsUM",
+        "Thumbnail":  "https://i.ytimg.com/vi/yuEEdzrVsUM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T20:00:33.0000000Z",
+        "DiscoveredAt":  "2026-06-09T20:45:05.2225406Z",
+        "Duration":  "00:11:54",
+        "ViewsAtDiscovery":  15,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "f41VZUU4CKk",
         "Title":  "I Want a PRS Guitar Now... Thanks Kanami! (BAND-MAID News)",
         "Channel":  "APOKALYPSE34",
