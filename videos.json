@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ui4m-qE7x7o",
+        "Title":  "Metal Guitarist Reacts to Band Maid - DICE - Live (with Misa Intro) - Yokohama Arena",
+        "Channel":  "APOKALYPSE34",
+        "ChannelId":  "UCBt3JX654OyVDFwYUtZFkDw",
+        "Url":  "https://youtu.be/ui4m-qE7x7o",
+        "Thumbnail":  "https://i.ytimg.com/vi/ui4m-qE7x7o/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T23:00:08.0000000Z",
+        "DiscoveredAt":  "2026-06-09T23:11:33.6274535Z",
+        "Duration":  "00:10:43",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0lKmLp-HXeE",
         "Title":  "BAND-MAID - DICE - 09/06/2026 - Le Bataclan, Paris",
         "Channel":  "Mathias J.S. Poupinais / Dark Messiah ",
