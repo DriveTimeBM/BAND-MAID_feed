@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 20:45:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 20:45:20 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://sueden.social/@anti42 tbh, the collab between https://social.64i.de/t...</title>
+      <link>https://social.64i.de/@calvin_thefreak/116721907833535421</link>
+      <guid isPermaLink="true">https://social.64i.de/@calvin_thefreak/116721907833535421</guid>
+      <pubDate>Tue, 09 Jun 2026 19:56:10 GMT</pubDate>
+      <dc:creator>Calvin (calvin_thefreak@social.64i.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://sueden.social/@anti42 tbh, the collab between https://social.64i.de/tags/BandMaid and The Warning! was one of them. Genious collab. But https://social.64i.de/tags/GacharicSpin is also rly good.</p><p><em>Mastodon &middot; calvin_thefreak@social.64i.de</em></p>]]></description>
+    </item>
+    <item>
+      <title>[Mastodon] BAND-MAID in Frankfurt am Main was a really nice Performance. Those girls jus...</title>
+      <link>https://social.64i.de/@calvin_thefreak/116700868460823373</link>
+      <guid isPermaLink="true">https://social.64i.de/@calvin_thefreak/116700868460823373</guid>
+      <pubDate>Sat, 06 Jun 2026 02:45:35 GMT</pubDate>
+      <dc:creator>Calvin (calvin_thefreak@social.64i.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>BAND-MAID in Frankfurt am Main was a really nice Performance. Those girls just Rock! https://social.64i.de/tags/JRock https://social.64i.de/tags/BANDMAID https://social.64i.de/tags/LIVE</p><p><em>Mastodon &middot; calvin_thefreak@social.64i.de</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID Concert was an absolute blast, so glad I went!!!</title>
       <link>https://bsky.app/profile/did:plc:ng4vx5yo4w4w7fsw4247l6th/post/3mnuzo52gvs2n</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: influencer<br/>Album: Unleash<br/>Release: 9/20/2022<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:9/6/2022<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 7 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mn2b4mqceb2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mn2b4mqceb2s</guid>
-      <pubDate>Sat, 30 May 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>7 years ago<br/>REAL EXISTENCE MV<br/>milestone<br/>surpassed 10 million views<br/>2019/5/30<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] It's no wonder Band-Maid are cooperative with reaction channels, it is the in...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mmzqwmgeyk2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mmzqwmgeyk2l</guid>
-      <pubDate>Sat, 30 May 2026 00:05:46 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>It&#39;s no wonder Band-Maid are cooperative with reaction channels, it is the internet version of word of mouth recommendations for music. People from countries all over the planet react to Band-Maid. For a small band who took over management of themselves in 2024, what a great gateway for new fans.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
