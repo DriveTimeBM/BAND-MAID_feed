@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "77qO74_TYgs",
+        "Title":  "(First time watching) BAND-MAID / HATE? (Official Live Video) That dueling solo is PEAK!!",
+        "Channel":  "Smitty Reacts",
+        "ChannelId":  "UCA_uGBFm63V8D-rmzmVH8AQ",
+        "Url":  "https://youtu.be/77qO74_TYgs",
+        "Thumbnail":  "https://i.ytimg.com/vi/77qO74_TYgs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T05:46:57.0000000Z",
+        "DiscoveredAt":  "2026-06-09T06:02:22.4818503Z",
+        "Duration":  "00:12:57",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "m8zKpdPQq2w",
         "Title":  "BAND-MAID Blew Me Away With This LIVE Performance 😳🔥 | Toi et moi Reaction!",
         "Channel":  "DarkLite Reactions",
