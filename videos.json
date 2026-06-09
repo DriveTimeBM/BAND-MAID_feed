@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8w3r7wsta_w",
+        "Title":  "BAND-MAID: WORLD TOUR - EUROPE - MUNICH (BMCD BAND-MAID COMMUNITY DISCORD)",
+        "Channel":  "GREYFOX",
+        "ChannelId":  "UCFo2UUkTxHQRwAA4Zu-qu0A",
+        "Url":  "https://youtu.be/8w3r7wsta_w",
+        "Thumbnail":  "https://i.ytimg.com/vi/8w3r7wsta_w/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T00:47:05.0000000Z",
+        "DiscoveredAt":  "2026-06-09T00:54:54.8582231Z",
+        "Duration":  "00:01:32",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VRRC2ml95sY",
         "Title":  "Band-Maid Lock & Load Frankfurt Part 1  #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
