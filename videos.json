@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0lKmLp-HXeE",
+        "Title":  "BAND-MAID - DICE - 09/06/2026 - Le Bataclan, Paris",
+        "Channel":  "Mathias J.S. Poupinais / Dark Messiah ",
+        "ChannelId":  "UCz5IdT8UeLssyiNHIFTg6hQ",
+        "Url":  "https://youtu.be/0lKmLp-HXeE",
+        "Thumbnail":  "https://i.ytimg.com/vi/0lKmLp-HXeE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T22:35:09.0000000Z",
+        "DiscoveredAt":  "2026-06-09T22:40:54.6090529Z",
+        "Duration":  "00:04:10",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "qajgoqPZglk",
+        "Title":  "BAND-MAID /  Shambles (LIVE in PARIS BATACLAN 09.06.2026)",
+        "Channel":  "MonkeyMetal",
+        "ChannelId":  "UCuE4l9LYAMzQ2NsSCv21FZg",
+        "Url":  "https://youtu.be/qajgoqPZglk",
+        "Thumbnail":  "https://i.ytimg.com/vi/qajgoqPZglk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T22:34:34.0000000Z",
+        "DiscoveredAt":  "2026-06-09T22:40:53.9439666Z",
+        "Duration":  "00:04:17",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "915JwhNaCu8",
         "Title":  "Band-Maid - Unleash - Live in Paris - June 9, 2026",
         "Channel":  "Tigh",
