@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "f41VZUU4CKk",
+        "Title":  "I Want a PRS Guitar Now... Thanks Kanami! (BAND-MAID News)",
+        "Channel":  "APOKALYPSE34",
+        "ChannelId":  "UCBt3JX654OyVDFwYUtZFkDw",
+        "Url":  "https://youtu.be/f41VZUU4CKk",
+        "Thumbnail":  "https://i.ytimg.com/vi/f41VZUU4CKk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T18:06:14.0000000Z",
+        "DiscoveredAt":  "2026-06-09T18:18:52.7034814Z",
+        "Duration":  "00:14:38",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rpxWiNwb9XM",
         "Title":  "BAND-MAID Munich 2026-06-06 Technikum",
         "Channel":  "Aidonas Krikštaponis",
