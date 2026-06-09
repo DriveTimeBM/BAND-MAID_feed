@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SqODKaO_8is",
+        "Title":  "Platinum End Opening – Sense | BAND-MAID",
+        "Channel":  "Bing021",
+        "ChannelId":  "UC2K2Yd4EIZOgPGGvSXqXzHA",
+        "Url":  "https://youtu.be/SqODKaO_8is",
+        "Thumbnail":  "https://i.ytimg.com/vi/SqODKaO_8is/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T11:00:13.0000000Z",
+        "DiscoveredAt":  "2026-06-09T11:09:28.1465051Z",
+        "Duration":  "00:04:54",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "h3gvauvz3lM",
         "Title":  "New LIVE BAND-MAID!! Reacting to Toi et Moi by Band-Maid!",
         "Channel":  "Adventura",
