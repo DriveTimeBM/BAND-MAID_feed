@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "9QvgbUPl3aA",
+        "Title":  "BAND-MAID - Brightest star (guitar backing track)",
+        "Channel":  "Guitar Alchemy Minus Tracks",
+        "ChannelId":  "UCprENv-xGJf3cnDlL1ehZ7w",
+        "Url":  "https://youtu.be/9QvgbUPl3aA",
+        "Thumbnail":  "https://i.ytimg.com/vi/9QvgbUPl3aA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T13:30:39.0000000Z",
+        "DiscoveredAt":  "2026-06-09T13:42:37.8849720Z",
+        "Duration":  "00:03:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "BPVkprlWRZg",
+        "Title":  "BAND-MAID - Brightest star (guitar solo)",
+        "Channel":  "Guitar Solo Tracks",
+        "ChannelId":  "UC2HQH01Et8x48Mb4MWap2Hg",
+        "Url":  "https://youtu.be/BPVkprlWRZg",
+        "Thumbnail":  "https://i.ytimg.com/vi/BPVkprlWRZg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T13:29:36.0000000Z",
+        "DiscoveredAt":  "2026-06-09T13:42:37.2377312Z",
+        "Duration":  "00:03:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "kRJI_v5cTpE",
         "Title":  "BAND-MAID / Don't you tell ME (Official Music Video) REACTION",
         "Channel":  "Chadeo",
