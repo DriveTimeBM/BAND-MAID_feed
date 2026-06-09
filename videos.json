@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "h3gvauvz3lM",
+        "Title":  "New LIVE BAND-MAID!! Reacting to Toi et Moi by Band-Maid!",
+        "Channel":  "Adventura",
+        "ChannelId":  "UCkJkuW8Cqs0Ceifr24KrTmA",
+        "Url":  "https://youtu.be/h3gvauvz3lM",
+        "Thumbnail":  "https://i.ytimg.com/vi/h3gvauvz3lM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T07:00:08.0000000Z",
+        "DiscoveredAt":  "2026-06-09T07:03:45.7856710Z",
+        "Duration":  "00:09:50",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "77qO74_TYgs",
         "Title":  "(First time watching) BAND-MAID / HATE? (Official Live Video) That dueling solo is PEAK!!",
         "Channel":  "Smitty Reacts",
