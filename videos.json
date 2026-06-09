@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "kRJI_v5cTpE",
+        "Title":  "BAND-MAID / Don't you tell ME (Official Music Video) REACTION",
+        "Channel":  "Chadeo",
+        "ChannelId":  "UCjLSPiLvfo-1EDEQamZ87KQ",
+        "Url":  "https://youtu.be/kRJI_v5cTpE",
+        "Thumbnail":  "https://i.ytimg.com/vi/kRJI_v5cTpE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T13:00:01.0000000Z",
+        "DiscoveredAt":  "2026-06-09T13:11:44.0038399Z",
+        "Duration":  "00:05:45",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YbKZ8YWObq0",
         "Title":  "BAND-MAID WORLD TOUR 2026 - Munich Recap - 2026.06.06 (Edited)",
         "Channel":  "Nin puzzle",
