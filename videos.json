@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "915JwhNaCu8",
+        "Title":  "Band-Maid - Unleash - Live in Paris - June 9, 2026",
+        "Channel":  "Tigh",
+        "ChannelId":  "UCg2zpn3-XtqWM9hxhMNPpiQ",
+        "Url":  "https://youtu.be/915JwhNaCu8",
+        "Thumbnail":  "https://i.ytimg.com/vi/915JwhNaCu8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T22:07:26.0000000Z",
+        "DiscoveredAt":  "2026-06-09T22:08:17.1192672Z",
+        "Duration":  "00:03:22",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "nHSebN7Pp-I",
+        "Title":  "Why Isn’t BAND-MAID Bigger in the US? “Alone” Reaction",
+        "Channel":  "MusicVideoVirgin",
+        "ChannelId":  "UC_8oQAzDCKNkbmRY9JZFfJg",
+        "Url":  "https://youtu.be/nHSebN7Pp-I",
+        "Thumbnail":  "https://i.ytimg.com/vi/nHSebN7Pp-I/hqdefault.jpg",
+        "PublishedAt":  "2026-06-09T22:00:02.0000000Z",
+        "DiscoveredAt":  "2026-06-09T22:08:15.9945154Z",
+        "Duration":  "00:06:55",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yuEEdzrVsUM",
         "Title":  "🔥 Diese Live Performance ist UNGLAUBLICH!  BAND MAID – FREEDOM Reaction",
         "Channel":  "SebifiziertTV",
