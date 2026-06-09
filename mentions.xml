@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 00:55:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 05:31:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 2 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mntfrud2xj2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mntfrud2xj2w</guid>
+      <pubDate>Tue, 09 Jun 2026 04:55:28 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2 years ago<br/>Play OLV<br/>milestone<br/>surpassed 2 million views<br/>2024/6/9<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mnsuyveyev2h</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played 4 songs at ExCel in London GB on 2016/5/28. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] "This Week's Shows" — New on European Metal Index</title>
-      <link>https://bsky.app/profile/did:plc:3u2znbsgv7drvbpmqfkyq6i3/post/3mmvakzb6ub2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3u2znbsgv7drvbpmqfkyq6i3/post/3mmvakzb6ub2h</guid>
-      <pubDate>Thu, 28 May 2026 05:02:18 GMT</pubDate>
-      <dc:creator>worldmetalindex.bsky.social (worldmetalindex.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>&quot;This Week&#39;s Shows&quot; — New on European Metal Index<br/><br/>This week&#39;s shows on European Metal Index:<br/><br/>Aberdeen: The Wildhearts @ The Lemon Tree<br/>Amsterdam: Bilmuri @ Melkweg<br/>BOLOGNA: Metallica @ Stadio Dall&#39;Ara<br/>Berlin: Metallica, BAND-MAID @ Columbia Theater<br/>...<br/><br/>https://eum…<br/><br/>https://eumetalindex.com/shows</p><p><em>BlueSky &middot; worldmetalindex.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
