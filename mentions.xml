@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 14:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 16:46:51 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Just personal taste</title>
+      <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mnujxyts6k2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mnujxyts6k2h</guid>
+      <pubDate>Tue, 09 Jun 2026 15:43:10 GMT</pubDate>
+      <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Just personal taste<br/><br/>It&#39;s why I prefer band maid to hanabie even though hanabie&#39;s instrumentals are amazing</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I'm #now_listening_to "After Life" by BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mnubnnvnyk2z</link>
@@ -899,15 +908,6 @@
       <dc:creator>Muva@おすすめCD紹介 (muva-rakuten.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>気分上がる一枚🎶<br/><br/>『【Amazon.co.jp限定】ENERGETIC[初回生産限定盤(CD+Blu-ray)] - BAND-MAID(メガジャケ(オリジナル絵柄)付)』/ BAND-MAID<br/><br/>🛒 商品ページはこちら！<br/>🎧 商品ページはこちら！<br/><br/>#BANDMAID #CD #PR #フォロバ100</p><p><em>BlueSky &middot; muva-rakuten.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Brand-New Road</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmxumv4ce22o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mmxumv4ce22o</guid>
-      <pubDate>Fri, 29 May 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Brand-New Road<br/>Album: Brand New MAID<br/>Release: 5/17/2016<br/>Music: 後藤康二 [Goto, Koji]<br/>Lyrics: 山下慎一狼 [Yamashita, Shinichiro]<br/>Arrangement: 後藤康二 [Goto, Koji]<br/>1st Live:4/9/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
