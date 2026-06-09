@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 16:46:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 18:49:34 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] J'arrive pas à faire de belles photos, mais je suis en place pour le concert ...</title>
+      <link>https://bsky.app/profile/did:plc:swlk4d6ptbq72mp5bddzq5r3/post/3mnurgogso22g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:swlk4d6ptbq72mp5bddzq5r3/post/3mnurgogso22g</guid>
+      <pubDate>Tue, 09 Jun 2026 17:56:38 GMT</pubDate>
+      <dc:creator>Thomas (zhykos.fr)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>J&#39;arrive pas &#224; faire de belles photos, mais je suis en place pour le concert de Band-Maid, que je voulais voir depuis plusieurs ann&#233;es 🖤</p><p><em>BlueSky &middot; zhykos.fr</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Just personal taste</title>
       <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mnujxyts6k2h</link>
@@ -899,15 +908,6 @@
       <dc:creator>成為鹹魚是我的夢想 (taiwansaltfish.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>當我還在搶BAND-MAID專場門票的時候，我的朋友宣佈要結婚了</p><p><em>BlueSky &middot; taiwansaltfish.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 気分上がる一枚🎶</title>
-      <link>https://bsky.app/profile/did:plc:qimtgi33gkhroitggfrb56nm/post/3mmyfcz56r32q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qimtgi33gkhroitggfrb56nm/post/3mmyfcz56r32q</guid>
-      <pubDate>Fri, 29 May 2026 11:05:16 GMT</pubDate>
-      <dc:creator>Muva@おすすめCD紹介 (muva-rakuten.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>気分上がる一枚🎶<br/><br/>『【Amazon.co.jp限定】ENERGETIC[初回生産限定盤(CD+Blu-ray)] - BAND-MAID(メガジャケ(オリジナル絵柄)付)』/ BAND-MAID<br/><br/>🛒 商品ページはこちら！<br/>🎧 商品ページはこちら！<br/><br/>#BANDMAID #CD #PR #フォロバ100</p><p><em>BlueSky &middot; muva-rakuten.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
