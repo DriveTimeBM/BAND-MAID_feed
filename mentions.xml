@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 02:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 05:53:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 11 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mnvwaqklrk2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mnvwaqklrk2p</guid>
+      <pubDate>Wed, 10 Jun 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>11 years ago<br/>Don&#39;t let me down<br/>live debut<br/>shibuya eggman, Tokyo, Japan<br/>2015/6/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 【※日本語字幕対応】 SE "Rock Lady" Limited Edition | PRS Guitars Japan</title>
       <link>https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mnvksu2wkc2i</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: the non-fiction days<br/>Album: Brand New MAID<br/>Release: 5/17/2016<br/>Music: 大西俊也 [Onishi, Toshinari]<br/>Lyrics: 中村彼方 [Nakamura, Kanata]<br/>Arrangement: 大西俊也 [Onishi, Toshinari]<br/>1st Live:3/18/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played at HEAVEN'S ROCK KUMAGAYA VJ-1 in Kumagaya JP o...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mn4v6kubr32x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mn4v6kubr32x</guid>
-      <pubDate>Sun, 31 May 2026 05:59:46 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played at HEAVEN&#39;S ROCK KUMAGAYA VJ-1 in Kumagaya JP on 2014/5/31. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
