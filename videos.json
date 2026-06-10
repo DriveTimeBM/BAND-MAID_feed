@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SSCVkX00Hoo",
+        "Title":  "Band-Maid - Blooming (guitar solo)",
+        "Channel":  "Guitar Solo Tracks",
+        "ChannelId":  "UC2HQH01Et8x48Mb4MWap2Hg",
+        "Url":  "https://youtu.be/SSCVkX00Hoo",
+        "Thumbnail":  "https://i.ytimg.com/vi/SSCVkX00Hoo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T01:47:56.0000000Z",
+        "DiscoveredAt":  "2026-06-10T02:16:13.3449469Z",
+        "Duration":  "00:04:00",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "s_vZ8ZjST0g",
+        "Title":  "BAND-MAID in Paris - June 9, 2026 - Bataclan",
+        "Channel":  "Vladimir Chupin",
+        "ChannelId":  "UCb6JH8zMUAHI1w8MFXNUYwQ",
+        "Url":  "https://youtu.be/s_vZ8ZjST0g",
+        "Thumbnail":  "https://i.ytimg.com/vi/s_vZ8ZjST0g/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T01:45:15.0000000Z",
+        "DiscoveredAt":  "2026-06-10T02:16:12.6585975Z",
+        "Duration":  "01:49:42",
+        "ViewsAtDiscovery":  84,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "feOwmoVMOj8",
         "Title":  "BAND-MAID - WORLD TOUR 2026 - BATACLAN - PARIS - 7 JUIN 2026 |Extraits du concert]",
         "Channel":  "Freakin' Geek",
