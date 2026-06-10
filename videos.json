@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0Wat8xcoFo8",
+        "Title":  "【衝撃発表】KANAMI監修の“ロックレディギター”がついに発売！BAND-MAID×人気アニメ奇跡のコラボにファン熱狂…その全貌とは！",
+        "Channel":  "Jp Music News",
+        "ChannelId":  "UCZc4hp17_1i6PmwzpR6OcCw",
+        "Url":  "https://youtu.be/0Wat8xcoFo8",
+        "Thumbnail":  "https://i.ytimg.com/vi/0Wat8xcoFo8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T02:46:57.0000000Z",
+        "DiscoveredAt":  "2026-06-10T02:48:06.3395566Z",
+        "Duration":  "00:08:42",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SSCVkX00Hoo",
         "Title":  "Band-Maid - Blooming (guitar solo)",
         "Channel":  "Guitar Solo Tracks",
