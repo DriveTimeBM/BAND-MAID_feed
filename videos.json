@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "24yvVS04bXI",
+        "Title":  "My BAND-MAID 5 Year Anniversary and Rosie and My 13 Year in the SAME WEEK! Let's Stream! (6.10.26)",
+        "Channel":  "Wave Potter",
+        "ChannelId":  "UCTs_aBYP6jAF93Cqulq5JIg",
+        "Url":  "https://youtu.be/24yvVS04bXI",
+        "Thumbnail":  "https://i.ytimg.com/vi/24yvVS04bXI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T20:07:20.0000000Z",
+        "DiscoveredAt":  "2026-06-10T20:17:15.8565196Z",
+        "Duration":  "02:08:55",
+        "ViewsAtDiscovery":  384,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xWIwBWtveck",
         "Title":  "I saw BAND-MAID Live in Munich, here are a few clips",
         "Channel":  "WWEdeadman Reacts",
