@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 22:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 00:43:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] En place pour le concert de #BANDMAID au #Bataclan</title>
+      <link>https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3mnuniwojks22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3mnuniwojks22</guid>
+      <pubDate>Tue, 09 Jun 2026 16:46:19 GMT</pubDate>
+      <dc:creator>Xavier F. (fxmaccobra.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>En place pour le concert de #BANDMAID au #Bataclan<br/>🤟❤️</p><p><em>BlueSky &middot; fxmaccobra.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] mais la c'est chaud quand même j'suis déjà 150€ en dessous de mon budget on e...</title>
       <link>https://bsky.app/profile/did:plc:ng4vx5yo4w4w7fsw4247l6th/post/3mnv5hdd7h22n</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2015/5/31. The opening song was Be OK.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mn4rlkeu672m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mn4rlkeu672m</guid>
-      <pubDate>Sun, 31 May 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago<br/>Influencer MV<br/>milestone<br/>surpassed 2 million views<br/>2024/5/31<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
