@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lgV21JmJ7dQ",
+        "Title":  "BAND-MAID Fancam, 1st wwelcome MC Paris Le Bataclan, June 9th 2026.",
+        "Channel":  "Hawk- Metal",
+        "ChannelId":  "UC-mDtRf2e_vHVwIy1K-33Wg",
+        "Url":  "https://youtu.be/lgV21JmJ7dQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/lgV21JmJ7dQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T06:00:57.0000000Z",
+        "DiscoveredAt":  "2026-06-10T06:24:13.6536348Z",
+        "Duration":  "00:03:54",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "QxTQ_a79Gao",
         "Title":  "BAND-MAID Fancam, Brightest Star, June 9th 2026, Paris Le Bataclan",
         "Channel":  "Hawk- Metal",
