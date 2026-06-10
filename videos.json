@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "oJ5Uo82LQtY",
+        "Title":  "Musician reacts to BAND-MAID / FORWARD (Live at Yokohama Arena)",
+        "Channel":  "Vault of Art",
+        "ChannelId":  "UCZJ9ZsJGHLHmkqIh30knRXw",
+        "Url":  "https://youtu.be/oJ5Uo82LQtY",
+        "Thumbnail":  "https://i.ytimg.com/vi/oJ5Uo82LQtY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T11:00:04.0000000Z",
+        "DiscoveredAt":  "2026-06-10T11:03:23.2774916Z",
+        "Duration":  "00:07:45",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oCrQ-IdXLvg",
         "Title":  "BAND-MAID - Manners/Black hole Reaction | What an absolute VIBE (Official live)",
         "Channel":  "Nick out of Focus",
