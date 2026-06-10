@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "k2qC1NUO9V4",
+        "Title":  "Band-Maid @ Bataclan 2026",
+        "Channel":  "Matthew Charlton",
+        "ChannelId":  "UCXlpnJqHrzo20LJ1qfC8w6w",
+        "Url":  "https://youtu.be/k2qC1NUO9V4",
+        "Thumbnail":  "https://i.ytimg.com/vi/k2qC1NUO9V4/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T07:49:41.0000000Z",
+        "DiscoveredAt":  "2026-06-10T07:57:20.6782046Z",
+        "Duration":  "00:09:11",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lgV21JmJ7dQ",
         "Title":  "BAND-MAID Fancam, 1st wwelcome MC Paris Le Bataclan, June 9th 2026.",
         "Channel":  "Hawk- Metal",
