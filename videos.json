@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dau0Rymxwnk",
+        "Title":  "GETTING TO KNOW BAND MAID! | Band-Maid Documentary / Misa reaction",
+        "Channel":  "PhoebeFromTV",
+        "ChannelId":  "UCWBQXzPdSa_m-sJhxQtxsRA",
+        "Url":  "https://youtu.be/dau0Rymxwnk",
+        "Thumbnail":  "https://i.ytimg.com/vi/dau0Rymxwnk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T13:08:14.0000000Z",
+        "DiscoveredAt":  "2026-06-10T13:43:47.6073809Z",
+        "Duration":  "00:42:46",
+        "ViewsAtDiscovery":  63,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1YsMl6DGmtI",
         "Title":  "Reaction to BAND MAID - 'Dilly-Dally' & 'Toi et moi'",
         "Channel":  "CoachCastTV",
