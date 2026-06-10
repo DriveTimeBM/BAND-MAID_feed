@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 00:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 02:16:29 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 【※日本語字幕対応】 SE "Rock Lady" Limited Edition | PRS Guitars Japan</title>
+      <link>https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mnvksu2wkc2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mnvksu2wkc2i</guid>
+      <pubDate>Wed, 10 Jun 2026 01:30:50 GMT</pubDate>
+      <dc:creator>佐藤英男 (sato-hideo.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>【※日本語字幕対応】 SE &quot;Rock Lady&quot; Limited Edition | PRS Guitars Japan<br/>www.youtube.com/watch?v=_3O5...<br/>この動画はKanami (BADN-MAID) とJack Higginbotham (PRS Chief Operating Officer) による製品解説動画になります。<br/>#PRSGuitars #Kanami #BandMaid #RockLady #PRSSE</p><p><em>BlueSky &middot; sato-hideo.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] En place pour le concert de #BANDMAID au #Bataclan</title>
       <link>https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3mnuniwojks22</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>12 years ago Band-Maid played at HEAVEN&#39;S ROCK KUMAGAYA VJ-1 in Kumagaya JP on 2014/5/31. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 11 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2015/5...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mn4v6jfmns2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mn4v6jfmns2q</guid>
-      <pubDate>Sun, 31 May 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>11 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2015/5/31. The opening song was Be OK.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
