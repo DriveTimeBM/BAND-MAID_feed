@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 06:55:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 21:49:35 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Rock is a Lady's Modesty introduced me to this five year old song and my brai...</title>
+      <link>https://bsky.app/profile/did:plc:4tepv2ffnncc6ahvpjogsv7y/post/3mnxktxmnzs2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4tepv2ffnncc6ahvpjogsv7y/post/3mnxktxmnzs2k</guid>
+      <pubDate>Wed, 10 Jun 2026 20:36:47 GMT</pubDate>
+      <dc:creator>🏳️‍⚧️ Bog Witch Girl 🏳️‍⚧️ (bogwitch-girl.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Rock is a Lady&#39;s Modesty introduced me to this five year old song and my brain is fixated on it now<br/><br/>I&#39;m so proud of Tina for playing this to, as the girls rather explicitly say, whip out her cock too<br/><br/>www.youtube.com/watch?v=oTFH...<br/><br/>here&#39;s to a season 2 with BAND-MAID performing again in... 2029?</p><p><em>BlueSky &middot; bogwitch-girl.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] to: We had talked about wanting a song like that at the meeting, and since it...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnw27xp4hs2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: matchless GUM<br/>Album: YOLO<br/>Release: 11/15/2016<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:10/22/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 7 years ago Band-Maid played 7 songs at Ishikawa-ken Sangyou Tenjikan in Kana...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mn7fnhoyau2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mn7fnhoyau2o</guid>
-      <pubDate>Mon, 01 Jun 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>7 years ago Band-Maid played 7 songs at Ishikawa-ken Sangyou Tenjikan in Kanazawa JP on 2019/6/1. The opening song was Don&#39;t you tell ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
