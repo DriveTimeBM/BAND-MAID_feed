@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "pBQOjqUyR0o",
+        "Title":  "GETTING TO KNOW BAND MAID! | Band-Maid Documentary / Akane reaction",
+        "Channel":  "PhoebeFromTV",
+        "ChannelId":  "UCWBQXzPdSa_m-sJhxQtxsRA",
+        "Url":  "https://youtu.be/pBQOjqUyR0o",
+        "Thumbnail":  "https://i.ytimg.com/vi/pBQOjqUyR0o/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T12:07:57.0000000Z",
+        "DiscoveredAt":  "2026-06-10T12:36:30.9223463Z",
+        "Duration":  "00:37:21",
+        "ViewsAtDiscovery":  68,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "6NQKDcr7jzw",
+        "Title":  "Exploring the Heavy Riffs of MISA: BAND-MAID’s Queen of Bass Guitar Documentary - Reaction",
+        "Channel":  "DevelopeReaction",
+        "ChannelId":  "UCHKivAu2YBYV-jb51udLH-A",
+        "Url":  "https://youtu.be/6NQKDcr7jzw",
+        "Thumbnail":  "https://i.ytimg.com/vi/6NQKDcr7jzw/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T12:00:05.0000000Z",
+        "DiscoveredAt":  "2026-06-10T12:36:30.4029667Z",
+        "Duration":  "00:34:51",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oJ5Uo82LQtY",
         "Title":  "Musician reacts to BAND-MAID / FORWARD (Live at Yokohama Arena)",
         "Channel":  "Vault of Art",
