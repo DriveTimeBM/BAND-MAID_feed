@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "feOwmoVMOj8",
+        "Title":  "BAND-MAID - WORLD TOUR 2026 - BATACLAN - PARIS - 7 JUIN 2026 |Extraits du concert]",
+        "Channel":  "Freakin' Geek",
+        "ChannelId":  "UCdEL92__itV0iXUtE1Bbs6g",
+        "Url":  "https://youtu.be/feOwmoVMOj8",
+        "Thumbnail":  "https://i.ytimg.com/vi/feOwmoVMOj8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T00:53:12.0000000Z",
+        "DiscoveredAt":  "2026-06-10T01:14:41.8356876Z",
+        "Duration":  "00:56:04",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "X5lMLMYOeOc",
+        "Title":  "BAND-MAID - Ready to Rock (Paris, Bataclan - 2026.06.09)",
+        "Channel":  "Majin Jey",
+        "ChannelId":  "UCpRCIgESIlSWcvFYdutf8ew",
+        "Url":  "https://youtu.be/X5lMLMYOeOc",
+        "Thumbnail":  "https://i.ytimg.com/vi/X5lMLMYOeOc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T00:43:55.0000000Z",
+        "DiscoveredAt":  "2026-06-10T01:14:41.3365080Z",
+        "Duration":  "00:03:37",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3_Wkic982Eg",
         "Title":  "BAND-MAID - ENERGETIC (Paris, Bataclan - 2026.06.09)",
         "Channel":  "Majin Jey",
