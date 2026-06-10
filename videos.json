@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FbVY2UcHbG0",
+        "Title":  "Band-Maid - Influencer (Bass and Guitar Duel) - Live at Paris Bataclan - June 9, 2026",
+        "Channel":  "Tigh",
+        "ChannelId":  "UCg2zpn3-XtqWM9hxhMNPpiQ",
+        "Url":  "https://youtu.be/FbVY2UcHbG0",
+        "Thumbnail":  "https://i.ytimg.com/vi/FbVY2UcHbG0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T04:23:11.0000000Z",
+        "DiscoveredAt":  "2026-06-10T04:52:04.3868102Z",
+        "Duration":  "00:03:02",
+        "ViewsAtDiscovery":  18,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "F06hqD4gRYQ",
+        "Title":  "Speed Progressive  Japanese rock machine  -diving in - band maid - alone , music reaction ",
+        "Channel":  "diving in- with avishai ",
+        "ChannelId":  "UCINfIIQ89os6QbBI4XRXo-A",
+        "Url":  "https://youtu.be/F06hqD4gRYQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/F06hqD4gRYQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T04:20:56.0000000Z",
+        "DiscoveredAt":  "2026-06-10T04:52:03.6762044Z",
+        "Duration":  "00:06:59",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "n67I6h6PhGk",
         "Title":  "BAND-MAID - Days (Paris, Bataclan - 2026.06.09) #bandmaid #jrock #jmusic #concert #live",
         "Channel":  "Majin Jey",
