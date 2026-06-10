@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "QxTQ_a79Gao",
+        "Title":  "BAND-MAID Fancam, Brightest Star, June 9th 2026, Paris Le Bataclan",
+        "Channel":  "Hawk- Metal",
+        "ChannelId":  "UC-mDtRf2e_vHVwIy1K-33Wg",
+        "Url":  "https://youtu.be/QxTQ_a79Gao",
+        "Thumbnail":  "https://i.ytimg.com/vi/QxTQ_a79Gao/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T05:53:00.0000000Z",
+        "DiscoveredAt":  "2026-06-10T05:53:29.2040282Z",
+        "Duration":  "00:03:31",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "9iy7sMIC8aE",
+        "Title":  "BAND-MAID Fancam, Omajinai Time, Paris June 9th 2026.",
+        "Channel":  "Hawk- Metal",
+        "ChannelId":  "UC-mDtRf2e_vHVwIy1K-33Wg",
+        "Url":  "https://youtu.be/9iy7sMIC8aE",
+        "Thumbnail":  "https://i.ytimg.com/vi/9iy7sMIC8aE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-10T05:35:53.0000000Z",
+        "DiscoveredAt":  "2026-06-10T05:53:28.5827751Z",
+        "Duration":  "00:17:34",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "FbVY2UcHbG0",
         "Title":  "Band-Maid - Influencer (Bass and Guitar Duel) - Live at Paris Bataclan - June 9, 2026",
         "Channel":  "Tigh",
