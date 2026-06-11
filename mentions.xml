@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 07:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 07:32:15 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] 11.2km/h on 3km https://mastodon.art/tags/thursdayrun https://mastodon.art/ta...</title>
+      <link>https://mastodon.art/@art_of_goulwenr/116730223160899766</link>
+      <guid isPermaLink="true">https://mastodon.art/@art_of_goulwenr/116730223160899766</guid>
+      <pubDate>Thu, 11 Jun 2026 07:10:52 GMT</pubDate>
+      <dc:creator>Art of Goulwen R (art_of_goulwenr@mastodon.art)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>11.2km/h on 3km https://mastodon.art/tags/thursdayrun https://mastodon.art/tags/bandmaid https://mastodon.art/tags/domination https://mastodon.art/tags/run3k</p><p><em>Mastodon &middot; art_of_goulwenr@mastodon.art</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] Band Maid live Bataclan https://mastodon.art/tags/bandmaid https://mastodon.a...</title>
       <link>https://mastodon.art/@art_of_goulwenr/116730079259713785</link>
@@ -899,15 +908,6 @@
       <dc:creator>🔞Asia the Magical Gurl🏳️‍🌈 (themagicalgurl.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Yeah they needed some Nemophilia and HANABIE added though. I could do without Coheed and Cambria amongst my Babymetal and BAND-MAID...<br/><br/>Also, they have an entire Synthwave station and no Nightcall by Kavinsky... TF is that??</p><p><em>BlueSky &middot; themagicalgurl.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Oh right, can't let yall forget I'm a huge dork</title>
-      <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mndbg2yrt222</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mndbg2yrt222</guid>
-      <pubDate>Tue, 02 Jun 2026 18:54:42 GMT</pubDate>
-      <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Oh right, can&#39;t let yall forget I&#39;m a huge dork</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
