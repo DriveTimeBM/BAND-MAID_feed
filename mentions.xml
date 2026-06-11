@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 14:42:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 18:00:24 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] It's nearly time. https://mastodon.social/tags/bandmaid</title>
+      <link>https://mastodon.social/@OBiW4NSHiNOBi/116732703899401914</link>
+      <guid isPermaLink="true">https://mastodon.social/@OBiW4NSHiNOBi/116732703899401914</guid>
+      <pubDate>Thu, 11 Jun 2026 17:41:45 GMT</pubDate>
+      <dc:creator>OBiW4NSHiNOBi (OBiW4NSHiNOBi)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>It&#39;s nearly time. https://mastodon.social/tags/bandmaid</p><p><em>Mastodon &middot; OBiW4NSHiNOBi</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mnzdrpr5gq2m</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago Band-Maid played 5 songs at THE GAME in Tokyo JP on 2015/6/3. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played 8 songs at Shinjuku ReNY in Tokyo JP on 2016/6/...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mneglekks42o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mneglekks42o</guid>
-      <pubDate>Wed, 03 Jun 2026 05:59:47 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played 8 songs at Shinjuku ReNY in Tokyo JP on 2016/6/3. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
