@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 07:32:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:09:21 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Got a spare ticket for Band-Maid at Electric Brixton tonight, hmu if you want...</title>
+      <link>https://bsky.app/profile/did:plc:csqjwwphha3ozlfasfc6y7t7/post/3mnz4gheos22w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:csqjwwphha3ozlfasfc6y7t7/post/3mnz4gheos22w</guid>
+      <pubDate>Thu, 11 Jun 2026 11:24:01 GMT</pubDate>
+      <dc:creator>The Puro Pourri Podcast (puropodcast.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Got a spare ticket for Band-Maid at Electric Brixton tonight, hmu if you want to take it off my hands</p><p><em>BlueSky &middot; puropodcast.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] 11.2km/h on 3km https://mastodon.art/tags/thursdayrun https://mastodon.art/ta...</title>
       <link>https://mastodon.art/@art_of_goulwenr/116730223160899766</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 7 songs at Ishikawa-ken Sangyou Tenjikan in Kanazawa JP on 2017/6/3. The opening song was Don&#39;t you tell ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Yeah they needed some Nemophilia and HANABIE added though. I could do without...</title>
-      <link>https://bsky.app/profile/did:plc:raepjalxls4scbsnffemyijl/post/3mndxau4qtk2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:raepjalxls4scbsnffemyijl/post/3mndxau4qtk2w</guid>
-      <pubDate>Wed, 03 Jun 2026 01:25:30 GMT</pubDate>
-      <dc:creator>🔞Asia the Magical Gurl🏳️‍🌈 (themagicalgurl.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Yeah they needed some Nemophilia and HANABIE added though. I could do without Coheed and Cambria amongst my Babymetal and BAND-MAID...<br/><br/>Also, they have an entire Synthwave station and no Nightcall by Kavinsky... TF is that??</p><p><em>BlueSky &middot; themagicalgurl.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
