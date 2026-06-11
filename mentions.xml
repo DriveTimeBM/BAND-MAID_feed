@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 06:30:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 07:01:31 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Shake That!!</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnykou3npm2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnykou3npm2j</guid>
+      <pubDate>Thu, 11 Jun 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Shake That!!<br/>Album: New Beginning<br/>Release: 11/17/2015<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:7/17/2015<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at duo MUSIC EXCHANGE in Tokyo JP on 20...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mnykclz3me26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mnykclz3me26</guid>
+      <pubDate>Thu, 11 Jun 2026 05:59:43 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at duo MUSIC EXCHANGE in Tokyo JP on 2014/6/11. The opening song was Ai to Jonetsu no Matador.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Off to London today to see BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:mv6cadbnw6j2dltfkjk2xloj/post/3mnykbc6fik2r</link>
@@ -890,24 +908,6 @@
       <dc:creator>🏳️‍⚧️ Bog Witch Girl 🏳️‍⚧️ (bogwitch-girl.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>who wants to talk about how amazing a piece of instrumental rock this is to be used in Rock is a Lady&#39;s Modesty for Tina to work past her insecurities with her stage presence and people-pleasing<br/><br/>I hope we got a second season with BAND-MAID doing an absolutely mad cover of this (eventually)</p><p><em>BlueSky &middot; bogwitch-girl.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] — I can’t live without you. must be an exciting song at servings. Will you be...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnbwijg6zl2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnbwijg6zl2r</guid>
-      <pubDate>Tue, 02 Jun 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>— I can’t live without you. must be an exciting song at servings. Will you be able to sing it?<br/><br/>Saiki: I’ll be able to sing it easily before the next serving, probably?<br/><br/>Miku Kobato: We Band-Maid are basically like that. First, we train ourselves at recording and record our best, then we practice by</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: I can't live without you.</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnbwij2yus2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnbwij2yus2l</guid>
-      <pubDate>Tue, 02 Jun 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: I can&#39;t live without you.<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:3/17/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
