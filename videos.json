@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XuK0T9JnuWo",
+        "Title":  "Band-Maid - Hate? - Live in London at Electric Brixton on June 11, 2026",
+        "Channel":  "Tigh",
+        "ChannelId":  "UCg2zpn3-XtqWM9hxhMNPpiQ",
+        "Url":  "https://youtu.be/XuK0T9JnuWo",
+        "Thumbnail":  "https://i.ytimg.com/vi/XuK0T9JnuWo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-11T23:25:50.0000000Z",
+        "DiscoveredAt":  "2026-06-11T23:27:07.0314190Z",
+        "Duration":  "00:04:50",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "kGAtpW_dZ3U",
+        "Title":  "Band Maid- Choose me @ Electric Brixton, London 11/06/2026",
+        "Channel":  "Cap Howdy",
+        "ChannelId":  "UCS4RDKmRCXn8UUVfHlhOiDA",
+        "Url":  "https://youtu.be/kGAtpW_dZ3U",
+        "Thumbnail":  "https://i.ytimg.com/vi/kGAtpW_dZ3U/hqdefault.jpg",
+        "PublishedAt":  "2026-06-11T22:57:50.0000000Z",
+        "DiscoveredAt":  "2026-06-11T23:27:06.0721053Z",
+        "Duration":  "00:03:31",
+        "ViewsAtDiscovery":  40,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "olCYHJS0tms",
         "Title":  "Band-Maid Documentary - Saiki | Reaction | This was very interesting!",
         "Channel":  "Battoosh & Nonna",
