@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vq3BkHhD4Tg",
+        "Title":  "Love This Song BAND MAID  Unleash!!!!!",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/vq3BkHhD4Tg",
+        "Thumbnail":  "https://i.ytimg.com/vi/vq3BkHhD4Tg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-11T09:34:43.0000000Z",
+        "DiscoveredAt":  "2026-06-11T09:35:39.9122300Z",
+        "Duration":  "00:06:52",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "nKOpJdBRDOs",
+        "Title":  "BAND-MAID Full Concert in Paris, Bataclan — World Tour 2026",
+        "Channel":  "Marie Dioa",
+        "ChannelId":  "UCn7mKpOBtpkE1r-Yj2Vncig",
+        "Url":  "https://youtu.be/nKOpJdBRDOs",
+        "Thumbnail":  "https://i.ytimg.com/vi/nKOpJdBRDOs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-11T09:30:36.0000000Z",
+        "DiscoveredAt":  "2026-06-11T09:35:37.9826451Z",
+        "Duration":  "01:48:58",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "n7vnbUsQJXg",
         "Title":  "BAND-MAID - DILLY-DALLY (Official Live, 2025) Reaction by Indie Filmmakers #banger #jrock 🔥🔥🔥🤘😁🤘🔥🔥🔥",
         "Channel":  "MyIndie Productions",
