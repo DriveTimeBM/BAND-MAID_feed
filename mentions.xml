@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 21:49:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:53:32 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid, "Just Bring It". I betcha can't listen to it just once.</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mnxw5xvqoc2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mnxw5xvqoc2s</guid>
+      <pubDate>Wed, 10 Jun 2026 23:59:14 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid, &quot;Just Bring It&quot;. I betcha can&#39;t listen to it just once.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Rock is a Lady's Modesty introduced me to this five year old song and my brai...</title>
       <link>https://bsky.app/profile/did:plc:4tepv2ffnncc6ahvpjogsv7y/post/3mnxktxmnzs2k</link>
@@ -899,15 +908,6 @@
       <dc:creator>persona non sequitur (nouseforajames.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>It&#39;s been a day. Time to drop another grenade and go to sleep. Best rock bands of my lifetime: <br/>1. Band-Maid<br/>2.<br/>3. Faith No More<br/>4. Gacharic Spin/Doll$Boxx<br/>5. Alice in Chains <br/><br/>Honorable mention to NEK! who would be on this list if they weren&#39;t literal children, but in a couple more albums, yeah.</p><p><em>BlueSky &middot; nouseforajames.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: matchless GUM</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn7fzn2bi526</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mn7fzn2bi526</guid>
-      <pubDate>Mon, 01 Jun 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: matchless GUM<br/>Album: YOLO<br/>Release: 11/15/2016<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:10/22/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
