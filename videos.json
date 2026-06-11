@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "B_7_1s0UyRQ",
+        "Title":  "BAND-MAID 260611 LONDON ELECTRIC BRIXTON FULL CONCERT",
+        "Channel":  "MezRahman",
+        "ChannelId":  "UCSOy6BLf3O4vN9F5PmI99dA",
+        "Url":  "https://youtu.be/B_7_1s0UyRQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/B_7_1s0UyRQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-11T23:46:17.0000000Z",
+        "DiscoveredAt":  "2026-06-11T23:58:39.3031721Z",
+        "Duration":  "01:49:30",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XuK0T9JnuWo",
         "Title":  "Band-Maid - Hate? - Live in London at Electric Brixton on June 11, 2026",
         "Channel":  "Tigh",
