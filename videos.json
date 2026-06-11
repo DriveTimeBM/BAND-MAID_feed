@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KbyDkmSf_gM",
+        "Title":  "BAND-MAID | Honkai (本懐) | REACCIÓN",
+        "Channel":  "Val Stefancic",
+        "ChannelId":  "UC2IYmUtXpkq55SBskl2zp3Q",
+        "Url":  "https://youtu.be/KbyDkmSf_gM",
+        "Thumbnail":  "https://i.ytimg.com/vi/KbyDkmSf_gM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-11T17:00:34.0000000Z",
+        "DiscoveredAt":  "2026-06-11T17:29:38.8646127Z",
+        "Duration":  "00:06:46",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_WkDm5IN1uc",
         "Title":  "I GOTTA See Them Again!! | BAND-MAID / Toi et moi (Official Live Video) | REACTION",
         "Channel":  "Mr. Rock N Roll",
