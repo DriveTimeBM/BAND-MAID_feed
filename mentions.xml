@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 00:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 06:30:51 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Off to London today to see BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:mv6cadbnw6j2dltfkjk2xloj/post/3mnykbc6fik2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mv6cadbnw6j2dltfkjk2xloj/post/3mnykbc6fik2r</guid>
+      <pubDate>Thu, 11 Jun 2026 05:59:00 GMT</pubDate>
+      <dc:creator>Matthew Jennifer Tinn (onosume.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Off to London today to see BAND-MAID</p><p><em>BlueSky &middot; onosume.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band-Maid, "Just Bring It". I betcha can't listen to it just once.</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mnxw5xvqoc2s</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: I can&#39;t live without you.<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:3/17/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] It's been a day. Time to drop another grenade and go to sleep. Best rock band...</title>
-      <link>https://bsky.app/profile/did:plc:xrhtyqj7nsrqfp4vwtgeppm2/post/3mnbt6l47dk24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xrhtyqj7nsrqfp4vwtgeppm2/post/3mnbt6l47dk24</guid>
-      <pubDate>Tue, 02 Jun 2026 05:07:19 GMT</pubDate>
-      <dc:creator>persona non sequitur (nouseforajames.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>It&#39;s been a day. Time to drop another grenade and go to sleep. Best rock bands of my lifetime: <br/>1. Band-Maid<br/>2.<br/>3. Faith No More<br/>4. Gacharic Spin/Doll$Boxx<br/>5. Alice in Chains <br/><br/>Honorable mention to NEK! who would be on this list if they weren&#39;t literal children, but in a couple more albums, yeah.</p><p><em>BlueSky &middot; nouseforajames.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
