@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "l1qS1zm0VDw",
+        "Title":  "Band-Maid London 2026.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/l1qS1zm0VDw",
+        "Thumbnail":  "https://i.ytimg.com/vi/l1qS1zm0VDw/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T18:16:11.0000000Z",
+        "DiscoveredAt":  "2026-06-12T18:33:33.4046765Z",
+        "Duration":  "01:19:44",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "fGADfoqieK4",
         "Title":  "Reaction! Shambles - BAND-MAID",
         "Channel":  "Rockin' with Matt",
