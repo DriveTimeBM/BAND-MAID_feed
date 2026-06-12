@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SjxP6XW9NfQ",
+        "Title":  "Band-Maid London 26. Stop Show To help A Fan.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/SjxP6XW9NfQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/SjxP6XW9NfQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T14:05:09.0000000Z",
+        "DiscoveredAt":  "2026-06-12T14:27:33.0622553Z",
+        "Duration":  "00:03:23",
+        "ViewsAtDiscovery":  18,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "AyE0st2IEVM",
+        "Title":  "BAND MAID FRIDAY!!! We Listen To SENSE For The First Time! (Kinda..) #bandmaid #downloadfestival",
+        "Channel":  "WavesAcrossTheWater",
+        "ChannelId":  "UC8VWDy9uGVbgrBXwJlRwESQ",
+        "Url":  "https://youtu.be/AyE0st2IEVM",
+        "Thumbnail":  "https://i.ytimg.com/vi/AyE0st2IEVM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T14:00:05.0000000Z",
+        "DiscoveredAt":  "2026-06-12T14:27:32.4641048Z",
+        "Duration":  "00:20:46",
+        "ViewsAtDiscovery":  36,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VVvePeYxz2A",
         "Title":  "BAND-MAID - Unleash Live - Electric Brixton",
         "Channel":  "KairainGame",
