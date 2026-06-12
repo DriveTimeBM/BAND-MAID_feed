@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 18:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 20:07:13 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Went to see BAND-MAID live. Some of their songs include the OP themes to Rock...</title>
+      <link>https://bsky.app/profile/did:plc:qkkbk3fvbqtm3rln3ducestl/post/3mo4hlut3vs2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qkkbk3fvbqtm3rln3ducestl/post/3mo4hlut3vs2r</guid>
+      <pubDate>Fri, 12 Jun 2026 19:21:53 GMT</pubDate>
+      <dc:creator>Kikoman589 ☀️ (kikoman589.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Went to see BAND-MAID live. Some of their songs include the OP themes to Rock Is a Lady&#39;s Modesty and Platinum End but they made a lot of other good tracks. It was fun. Here&#39;s a bit of &quot;Ready to Rock&quot; and then &quot;Unleash!!!!!&quot;.<br/><br/>[Flashing lights; audio only on the right for some reason]</p><p><em>BlueSky &middot; kikoman589.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 🎥 Our REACTION is live! 🔹 The fierce chemistry between the band members.</title>
       <link>https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mo465lhqd622</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played 6 songs at clubasia in Tokyo JP on 2016/6/4. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 18 songs at Sound Lab mole in Sapporo JP on 2017...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mngx2c4pqw2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mngx2c4pqw2e</guid>
-      <pubDate>Thu, 04 Jun 2026 05:59:47 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 18 songs at Sound Lab mole in Sapporo JP on 2017/6/4. The opening song was Don&#39;t you tell ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
