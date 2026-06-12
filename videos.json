@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-B9IOF65ebk",
+        "Title":  "BAND-MAID / DOMINATION (Official Live Video) Reaction",
+        "Channel":  "King Pandazilla",
+        "ChannelId":  "UC5TodWUM005gjMTHSYQslEQ",
+        "Url":  "https://youtu.be/-B9IOF65ebk",
+        "Thumbnail":  "https://i.ytimg.com/vi/-B9IOF65ebk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T18:53:05.0000000Z",
+        "DiscoveredAt":  "2026-06-12T19:04:11.6704230Z",
+        "Duration":  "00:07:31",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "l1qS1zm0VDw",
         "Title":  "Band-Maid London 2026.",
         "Channel":  "The Band of Maids Channel.",
