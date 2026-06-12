@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bi95kW9RfJQ",
+        "Title":  "Band Maid Shake That (Audio only) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/bi95kW9RfJQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/bi95kW9RfJQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T15:34:03.0000000Z",
+        "DiscoveredAt":  "2026-06-12T15:45:51.7605367Z",
+        "Duration":  "00:04:06",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SjxP6XW9NfQ",
         "Title":  "Band-Maid London 26. Stop Show To help A Fan.",
         "Channel":  "The Band of Maids Channel.",
