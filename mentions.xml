@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 13:25:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 18:02:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 🎥 Our REACTION is live! 🔹 The fierce chemistry between the band members.</title>
+      <link>https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mo465lhqd622</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mo465lhqd622</guid>
+      <pubDate>Fri, 12 Jun 2026 16:32:48 GMT</pubDate>
+      <dc:creator>AngelTalion (angeltalion.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>🎥 Our REACTION is live! 🔹 The fierce chemistry between the band members.<br/><br/>Band-maid reaction, reaction video, reaction videos, reaction channel, music reaction, band-maid reaction, band-maid live reaction, band-mai…<br/><br/>https://www.youtube.com/watch?v=q5YhtzX2SHc&amp;list=PL7MzXPGtHwvCpOtbZmSz5FAt_oLkjooMn</p><p><em>BlueSky &middot; angeltalion.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] jooyeon from xdinary heroes has shown up in two of my fics now - he's got a c...</title>
       <link>https://bsky.app/profile/did:plc:hs3rs3g4h72pqjifhazknv7q/post/3mo3pycjnos2o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 18 songs at Sound Lab mole in Sapporo JP on 2017/6/4. The opening song was Don&#39;t you tell ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mngthcl4kt2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mngthcl4kt2i</guid>
-      <pubDate>Thu, 04 Jun 2026 04:55:30 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago<br/>TIME<br/>live debut<br/>Sound Lab mole, Sapporo, Japan<br/>2017/6/4<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
