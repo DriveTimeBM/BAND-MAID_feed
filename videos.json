@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "voHmJNgFvv8",
+        "Title":  "Band-Maid,  live au Bataclan, Paris, le 9/06/2026",
+        "Channel":  "outaga1",
+        "ChannelId":  "UCE349GBcWk2m5R7Ze-GLCkQ",
+        "Url":  "https://youtu.be/voHmJNgFvv8",
+        "Thumbnail":  "https://i.ytimg.com/vi/voHmJNgFvv8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T19:26:43.0000000Z",
+        "DiscoveredAt":  "2026-06-12T19:34:59.6097129Z",
+        "Duration":  "00:03:34",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-B9IOF65ebk",
         "Title":  "BAND-MAID / DOMINATION (Official Live Video) Reaction",
         "Channel":  "King Pandazilla",

@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 19:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 19:35:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band-Maid,  live au Bataclan, Paris, le 9/06/2026</title>
+      <link>https://youtu.be/voHmJNgFvv8</link>
+      <guid isPermaLink="false">yt:video:voHmJNgFvv8</guid>
+      <pubDate>Fri, 12 Jun 2026 19:26:43 GMT</pubDate>
+      <dc:creator>outaga1</dc:creator>
+      <category>outaga1</category>
+      <description><![CDATA[<p><a href="https://youtu.be/voHmJNgFvv8"><img src="https://i.ytimg.com/vi/voHmJNgFvv8/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: outaga1<br/>Duration: 00:03:34<br/>Views at discovery: 0</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/voHmJNgFvv8/hqdefault.jpg" />
+    </item>
     <item>
       <title>BAND-MAID / DOMINATION (Official Live Video) Reaction</title>
       <link>https://youtu.be/-B9IOF65ebk</link>
