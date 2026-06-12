@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 09:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 10:48:19 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID were absolutely incredible live. I started listening to them after ...</title>
+      <link>https://bsky.app/profile/did:plc:ia7qtmh33vram75i5xovblrw/post/3mo3g4m6jy224</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ia7qtmh33vram75i5xovblrw/post/3mo3g4m6jy224</guid>
+      <pubDate>Fri, 12 Jun 2026 09:22:47 GMT</pubDate>
+      <dc:creator>Lavender Courage (lavendercourage.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID were absolutely incredible live. I started listening to them after Rock Lady came out and they sang the OP. Getting to experience their talent in person was out of this world.</p><p><em>BlueSky &middot; lavendercourage.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID last night was a very fun time. Because their music is good you for...</title>
       <link>https://bsky.app/profile/did:plc:mv6cadbnw6j2dltfkjk2xloj/post/3mo3cpejjak2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2 years ago<br/>Different MV<br/>milestone<br/>surpassed 4 million views<br/>2024/6/4<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 7 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mngthabn7622</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mngthabn7622</guid>
-      <pubDate>Thu, 04 Jun 2026 04:55:28 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>7 years ago<br/>DICE MV<br/>milestone<br/>surpassed 3 million views<br/>2019/6/4<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
