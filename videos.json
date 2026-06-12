@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "IJ234uKM5VM",
+        "Title":  "I FREAKIN LOVE BAND MAID. My REACTION to SUPER SUNSHINE",
+        "Channel":  "Shaggz Reacts",
+        "ChannelId":  "UCusv-YlrTBPbEgvIh0oWHNQ",
+        "Url":  "https://youtu.be/IJ234uKM5VM",
+        "Thumbnail":  "https://i.ytimg.com/vi/IJ234uKM5VM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T20:00:26.0000000Z",
+        "DiscoveredAt":  "2026-06-12T20:06:23.1570856Z",
+        "Duration":  "00:10:10",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "8OyBTVuiNto",
+        "Title":  "Band Maid - Manners,Electric,Brixton 11/06/2026",
+        "Channel":  "Moonbod",
+        "ChannelId":  "UCrfWn2M5n4JPmhHKvpKuVlA",
+        "Url":  "https://youtu.be/8OyBTVuiNto",
+        "Thumbnail":  "https://i.ytimg.com/vi/8OyBTVuiNto/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T19:59:26.0000000Z",
+        "DiscoveredAt":  "2026-06-12T20:06:22.3971775Z",
+        "Duration":  "00:03:54",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "voHmJNgFvv8",
         "Title":  "Band-Maid,  live au Bataclan, Paris, le 9/06/2026",
         "Channel":  "outaga1",
