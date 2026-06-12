@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "VVvePeYxz2A",
+        "Title":  "BAND-MAID - Unleash Live - Electric Brixton",
+        "Channel":  "KairainGame",
+        "ChannelId":  "UCLiLAIrNifxCKgnGWUhqOhQ",
+        "Url":  "https://youtu.be/VVvePeYxz2A",
+        "Thumbnail":  "https://i.ytimg.com/vi/VVvePeYxz2A/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T13:47:16.0000000Z",
+        "DiscoveredAt":  "2026-06-12T13:56:34.5445215Z",
+        "Duration":  "00:03:47",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "c40xeYyLcis",
+        "Title":  "Band Maid - full concert (live) @ Electric Brixton - 11.06.26",
+        "Channel":  "Embetebe",
+        "ChannelId":  "UC5f2ebjbatDtI4EEXwUNx_A",
+        "Url":  "https://youtu.be/c40xeYyLcis",
+        "Thumbnail":  "https://i.ytimg.com/vi/c40xeYyLcis/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T13:32:48.0000000Z",
+        "DiscoveredAt":  "2026-06-12T13:56:34.1519235Z",
+        "Duration":  "01:54:52",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0evAuaNKMS8",
         "Title":  "Band Maid Matchless Gum (live) Reaction",
         "Channel":  "jmnassar",
