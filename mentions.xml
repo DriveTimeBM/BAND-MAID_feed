@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 07:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 09:45:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID last night was a very fun time. Because their music is good you for...</title>
+      <link>https://bsky.app/profile/did:plc:mv6cadbnw6j2dltfkjk2xloj/post/3mo3cpejjak2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mv6cadbnw6j2dltfkjk2xloj/post/3mo3cpejjak2p</guid>
+      <pubDate>Fri, 12 Jun 2026 08:21:42 GMT</pubDate>
+      <dc:creator>Matthew Jennifer Tinn (onosume.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID last night was a very fun time. Because their music is good you forget they are a band that wears maid costumes but they definitely have a quirky vibe live.</p><p><em>BlueSky &middot; onosume.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] So, is it the first Band-Maid song about loneliness and weakness of a girl in...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mo335vjwfo2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>7 years ago<br/>DICE MV<br/>milestone<br/>surpassed 3 million views<br/>2019/6/4<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Forza Horizon 6 - particularly Horizon XS radio - continuing to get me into b...</title>
-      <link>https://bsky.app/profile/did:plc:54rkvxi55w2w4gvoijwrhrdl/post/3mng26bo7222i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:54rkvxi55w2w4gvoijwrhrdl/post/3mng26bo7222i</guid>
-      <pubDate>Wed, 03 Jun 2026 21:23:04 GMT</pubDate>
-      <dc:creator>Brian A. Bradshaw (brianabradshaw.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Forza Horizon 6 - particularly Horizon XS radio - continuing to get me into bands I hadn&#39;t cared or even tried to listen to before. <br/><br/>Spiritbox, BAND-MAID, South Arcade (all female-led or all-female bands 👊🏻) and Sleep Theory have been getting regular listens on my walks.</p><p><em>BlueSky &middot; brianabradshaw.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
