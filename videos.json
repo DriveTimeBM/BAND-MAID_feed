@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dh04-w_m3sM",
+        "Title":  "BAND-MAID in London - June 11, 2026 - Electric Brixton",
+        "Channel":  "Vladimir Chupin",
+        "ChannelId":  "UCb6JH8zMUAHI1w8MFXNUYwQ",
+        "Url":  "https://youtu.be/dh04-w_m3sM",
+        "Thumbnail":  "https://i.ytimg.com/vi/dh04-w_m3sM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T04:30:26.0000000Z",
+        "DiscoveredAt":  "2026-06-12T04:36:46.8950820Z",
+        "Duration":  "01:54:41",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JXbBmtXuPYg",
         "Title":  "Band Maid Onset Live at Electric Brixton, London 11/06/2026",
         "Channel":  "bootha195",
