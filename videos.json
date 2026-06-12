@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "oa4RsYy0L2E",
+        "Title":  "Band Maid Awkward (live) Reactiuon",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/oa4RsYy0L2E",
+        "Thumbnail":  "https://i.ytimg.com/vi/oa4RsYy0L2E/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T07:03:37.0000000Z",
+        "DiscoveredAt":  "2026-06-12T07:10:32.9309574Z",
+        "Duration":  "00:04:12",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "KzA-TbCGsKY",
+        "Title":  "Band-Maid (Dice) Paris 2026",
+        "Channel":  "62lemmy",
+        "ChannelId":  "UC8oNfsBG2u-36UQRxFuKuMg",
+        "Url":  "https://youtu.be/KzA-TbCGsKY",
+        "Thumbnail":  "https://i.ytimg.com/vi/KzA-TbCGsKY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T07:00:11.0000000Z",
+        "DiscoveredAt":  "2026-06-12T07:10:32.3677532Z",
+        "Duration":  "00:04:10",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dh04-w_m3sM",
         "Title":  "BAND-MAID in London - June 11, 2026 - Electric Brixton",
         "Channel":  "Vladimir Chupin",
