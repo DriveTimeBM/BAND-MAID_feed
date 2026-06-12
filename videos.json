@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Gdwj_It9uig",
+        "Title":  "The Queens Of Rock BAND MAID  Manners",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/Gdwj_It9uig",
+        "Thumbnail":  "https://i.ytimg.com/vi/Gdwj_It9uig/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T12:16:06.0000000Z",
+        "DiscoveredAt":  "2026-06-12T12:21:06.9448002Z",
+        "Duration":  "00:06:50",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "mYnR24CTpbc",
+        "Title":  "Spicy reacts to BAND-MAID / Toi et moi (Official Live Video)",
+        "Channel":  "Spicy x",
+        "ChannelId":  "UCQ9x_XFYXL1e3cYyCCe4k2w",
+        "Url":  "https://youtu.be/mYnR24CTpbc",
+        "Thumbnail":  "https://i.ytimg.com/vi/mYnR24CTpbc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T12:09:07.0000000Z",
+        "DiscoveredAt":  "2026-06-12T12:21:06.4534409Z",
+        "Duration":  "00:09:43",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-b09PnNtQf8",
         "Title":  "TEACHER REACTS | BAND-MAID | Choose me MV",
         "Channel":  "Ddog Plays Games",
