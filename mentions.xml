@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 23:27:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:07:41 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] This particular live video of Band-Maid Domination where it took a few re-wat...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mo2ubzqaks22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mo2ubzqaks22</guid>
+      <pubDate>Fri, 12 Jun 2026 04:03:42 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>This particular live video of Band-Maid Domination where it took a few re-watches to absorb what I had just seen and heard, and realize that this was something unique. www.youtube.com/watch?v=QbyQ...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I took my Lilisa nui to the BAND-MAID gig, waived it around for "Ready to Roc...</title>
       <link>https://bsky.app/profile/did:plc:ia7qtmh33vram75i5xovblrw/post/3mo2ba3mnos2x</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>— By the way, which BAND-MAID songs can you play relatively easily?<br/><br/>KANAMI: Maybe “Thrill” is the easiest to play?<br/><br/>Saiki: Isn’t “FREEDOM”?<br/><br/>Miku: No.<br/><br/>MISA: Eh?<br/><br/>AKANE: The degree of difficulty depends on which part you play (laughs)<br/>--------------------<br/><br/>— The first trigger that made you greatly </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Thrill</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnegxjf5ns2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnegxjf5ns2t</guid>
-      <pubDate>Wed, 03 Jun 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Thrill<br/>Album: Love, Passion, Matador<br/>Release: 8/12/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:7/20/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
