@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 10:48:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 13:25:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] jooyeon from xdinary heroes has shown up in two of my fics now - he's got a c...</title>
+      <link>https://bsky.app/profile/did:plc:hs3rs3g4h72pqjifhazknv7q/post/3mo3pycjnos2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hs3rs3g4h72pqjifhazknv7q/post/3mo3pycjnos2o</guid>
+      <pubDate>Fri, 12 Jun 2026 12:19:20 GMT</pubDate>
+      <dc:creator>skrr! 🎸 (holdmyhandnow.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>jooyeon from xdinary heroes has shown up in two of my fics now - he&#39;s got a cameo in you already know and he&#39;s jisung&#39;s band&#39;s bassist in some sorta chemistry (the drummer is akane from band-maid) haha</p><p><em>BlueSky &middot; holdmyhandnow.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID were absolutely incredible live. I started listening to them after ...</title>
       <link>https://bsky.app/profile/did:plc:ia7qtmh33vram75i5xovblrw/post/3mo3g4m6jy224</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago<br/>TIME<br/>live debut<br/>Sound Lab mole, Sapporo, Japan<br/>2017/6/4<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mngthbcy532w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mngthbcy532w</guid>
-      <pubDate>Thu, 04 Jun 2026 04:55:29 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago<br/>Different MV<br/>milestone<br/>surpassed 4 million views<br/>2024/6/4<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
