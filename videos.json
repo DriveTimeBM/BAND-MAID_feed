@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-b09PnNtQf8",
+        "Title":  "TEACHER REACTS | BAND-MAID | Choose me MV",
+        "Channel":  "Ddog Plays Games",
+        "ChannelId":  "UCaLCSjdpsz5hUQq5R3tK2zg",
+        "Url":  "https://youtu.be/-b09PnNtQf8",
+        "Thumbnail":  "https://i.ytimg.com/vi/-b09PnNtQf8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T11:00:36.0000000Z",
+        "DiscoveredAt":  "2026-06-12T11:19:06.0520470Z",
+        "Duration":  "00:12:06",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "dnKJBpbYq5A",
+        "Title":  "BAND-MAID WORLD TOUR 2026: Paris Recap Movie - June 9, 2026 (Edited)",
+        "Channel":  "Nin puzzle",
+        "ChannelId":  "UCCZ3DnDT0dT1-5AuoEGN7GQ",
+        "Url":  "https://youtu.be/dnKJBpbYq5A",
+        "Thumbnail":  "https://i.ytimg.com/vi/dnKJBpbYq5A/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T10:52:51.0000000Z",
+        "DiscoveredAt":  "2026-06-12T11:19:05.5456602Z",
+        "Duration":  "00:01:09",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qgOjTOqEqmo",
         "Title":  "Such An Amazing Song BAND MAID  One and Only Live in Tokyo 2018",
         "Channel":  "Purple unicorn reaction's",
