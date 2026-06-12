@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DrGVbJynP6k",
+        "Title":  "Band-Maid 'What Is Justice' Jun 03 -26 Berlin",
+        "Channel":  "Jonas S",
+        "ChannelId":  "UCWOr8hNIgDKJxJ7ULVzmQkA",
+        "Url":  "https://youtu.be/DrGVbJynP6k",
+        "Thumbnail":  "https://i.ytimg.com/vi/DrGVbJynP6k/hqdefault.jpg",
+        "PublishedAt":  "2026-06-12T22:00:05.0000000Z",
+        "DiscoveredAt":  "2026-06-12T22:17:51.4510139Z",
+        "Duration":  "00:03:38",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "n38XBCC6pmw",
         "Title":  "Band Maid - Member introductions - Omajinai time - Hate? - Electric Brixton 11/06/2026",
         "Channel":  "Moonbod",
