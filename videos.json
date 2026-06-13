@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "9rk6B-B5qR4",
+        "Title":  "BAND-MAID Live in Paris Was INCREDIBLE! | Concert Vlog",
+        "Channel":  "NeonReaperReacts",
+        "ChannelId":  "UCqs4gRwzhv26w3s1OFTEnYg",
+        "Url":  "https://youtu.be/9rk6B-B5qR4",
+        "Thumbnail":  "https://i.ytimg.com/vi/9rk6B-B5qR4/hqdefault.jpg",
+        "PublishedAt":  "2026-06-13T15:43:38.0000000Z",
+        "DiscoveredAt":  "2026-06-13T15:45:35.3143142Z",
+        "Duration":  "00:53:53",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VEQDHyHjLT4",
         "Title":  "BAND-MAID WORLD TOUR 2026: London Recap - June 11, 2026 (Edited)",
         "Channel":  "Nin puzzle",
