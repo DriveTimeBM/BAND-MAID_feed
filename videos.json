@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KmlC7mU1btQ",
+        "Title":  "Band Maid - Choose Me - Le Bataclan Paris 09/06/2026",
+        "Channel":  "Ced Rick",
+        "ChannelId":  "UCU_9xlwriORbdl7ZLOcv2CA",
+        "Url":  "https://youtu.be/KmlC7mU1btQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/KmlC7mU1btQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-14T21:13:59.0000000Z",
+        "DiscoveredAt":  "2026-06-14T21:43:38.8656822Z",
+        "Duration":  "00:03:19",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "E5NYH1jUp14",
         "Title":  "Band Maid le bataclan Paris 09/06/2026",
         "Channel":  "Ced Rick",
