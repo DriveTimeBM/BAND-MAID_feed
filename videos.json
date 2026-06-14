@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "E5NYH1jUp14",
+        "Title":  "Band Maid le bataclan Paris 09/06/2026",
+        "Channel":  "Ced Rick",
+        "ChannelId":  "UCU_9xlwriORbdl7ZLOcv2CA",
+        "Url":  "https://youtu.be/E5NYH1jUp14",
+        "Thumbnail":  "https://i.ytimg.com/vi/E5NYH1jUp14/hqdefault.jpg",
+        "PublishedAt":  "2026-06-14T21:06:14.0000000Z",
+        "DiscoveredAt":  "2026-06-14T21:08:01.4688526Z",
+        "Duration":  "00:02:49",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "eppWr0nttFA",
         "Title":  "All BAND-MAID Europe 2026 recaps",
         "Channel":  "Drive Time",
