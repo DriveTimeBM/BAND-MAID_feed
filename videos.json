@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xaTFKdtVL3U",
+        "Title":  "Band-Maid Train 12. SAY IT AIN'T OVER.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/xaTFKdtVL3U",
+        "Thumbnail":  "https://i.ytimg.com/vi/xaTFKdtVL3U/hqdefault.jpg",
+        "PublishedAt":  "2026-06-13T21:55:05.0000000Z",
+        "DiscoveredAt":  "2026-06-14T00:59:18.6081905Z",
+        "Duration":  "01:54:05",
+        "ViewsAtDiscovery":  142,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vYRchvlKjHg",
         "Title":  "MISA MISA MISA! | Jason's Reaction | One and Only live Tokyo 2018 | BAND-MAID",
         "Channel":  "Media Ugly",
