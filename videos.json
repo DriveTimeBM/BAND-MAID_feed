@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "EeOFbcphzLE",
+        "Title":  "Band Maid Beauty and The Beast (Audio only) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/EeOFbcphzLE",
+        "Thumbnail":  "https://i.ytimg.com/vi/EeOFbcphzLE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-14T03:21:12.0000000Z",
+        "DiscoveredAt":  "2026-06-14T03:33:48.9407526Z",
+        "Duration":  "00:04:01",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "LCOzPGt0jZA",
         "Title":  "Band Maid - Present Perfect (LIVE) Static Reaction",
         "Channel":  "StaticAge Channel",
