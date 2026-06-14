@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LCOzPGt0jZA",
+        "Title":  "Band Maid - Present Perfect (LIVE) Static Reaction",
+        "Channel":  "StaticAge Channel",
+        "ChannelId":  "UCJynqECZRtSCjrv8Lsm5PcA",
+        "Url":  "https://youtu.be/LCOzPGt0jZA",
+        "Thumbnail":  "https://i.ytimg.com/vi/LCOzPGt0jZA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-14T01:26:06.0000000Z",
+        "DiscoveredAt":  "2026-06-14T02:01:27.9885996Z",
+        "Duration":  "00:07:39",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xaTFKdtVL3U",
         "Title":  "Band-Maid Train 12. SAY IT AIN'T OVER.",
         "Channel":  "The Band of Maids Channel.",
