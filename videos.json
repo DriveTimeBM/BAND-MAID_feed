@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-I-ysVzfVjw",
+        "Title":  "Band Maid World Tour 2026 Paris Bataclan Compilation",
+        "Channel":  "Sebguill Factory",
+        "ChannelId":  "UCKP0gCgU5t3a9sw5y3qJMFQ",
+        "Url":  "https://youtu.be/-I-ysVzfVjw",
+        "Thumbnail":  "https://i.ytimg.com/vi/-I-ysVzfVjw/hqdefault.jpg",
+        "PublishedAt":  "2026-06-15T09:27:49.0000000Z",
+        "DiscoveredAt":  "2026-06-15T09:34:36.1220214Z",
+        "Duration":  "00:08:13",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "tWdpUH2-Mfs",
+        "Title":  "Band-Maid - No God(clip) - London 2026",
+        "Channel":  "-Roboto-Chan-",
+        "ChannelId":  "UCEsvRubiz2qmLjGr1vQWyhA",
+        "Url":  "https://youtu.be/tWdpUH2-Mfs",
+        "Thumbnail":  "https://i.ytimg.com/vi/tWdpUH2-Mfs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-15T09:04:01.0000000Z",
+        "DiscoveredAt":  "2026-06-15T09:34:35.4112447Z",
+        "Duration":  "00:01:08",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "S62WrQA6-SI",
         "Title":  "I'm back! THE WARNING CONCERT, BAND-MAID LIVE, DRAGDOWN RELEASE!",
         "Channel":  "Ryan Mear",
