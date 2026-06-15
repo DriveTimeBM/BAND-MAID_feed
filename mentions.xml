@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 18:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 09:34:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] Hugely grateful that I got to see BAND-MAID live in London, I just wish that ...</title>
+      <link>https://mastodon.social/@OBiW4NSHiNOBi/116753326536956863</link>
+      <guid isPermaLink="true">https://mastodon.social/@OBiW4NSHiNOBi/116753326536956863</guid>
+      <pubDate>Mon, 15 Jun 2026 09:06:21 GMT</pubDate>
+      <dc:creator>OBiW4NSHiNOBi (OBiW4NSHiNOBi)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>Hugely grateful that I got to see BAND-MAID live in London, I just wish that H could have been there with me. They were every bit as good as I had hoped, genuinely funny &amp; charismatic.<br/><br/>There was some drama with a couple of people collapsing (it was overcrowded &amp; awfully hot) but glad they were ok; the band&#39;s concern was palpable.<br/><br/>H did ask me to take as many pictures as I could, but I couldn&#39;t take my camera in &amp; I didn&#39;t want to be one of those guys watching the gig through a phone. https://mastodon.social/tags/bandmaid</p><p><em>Mastodon &middot; OBiW4NSHiNOBi</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Hibana</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3moa43kmp4p27</link>
@@ -899,15 +908,6 @@
       <dc:creator>Shiori (ookami-lilium.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid vor 2 Tagen war genial. 🥰🥰<br/>#hardrock #Konzert #Berlin</p><p><em>BlueSky &middot; ookami-lilium.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I think tonight's show might be the end of the line for my decade old Band Ma...</title>
-      <link>https://bsky.app/profile/did:plc:qrowbzton7nv25gmyiomr5zo/post/3mnk3mewdpk2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qrowbzton7nv25gmyiomr5zo/post/3mnk3mewdpk2j</guid>
-      <pubDate>Fri, 05 Jun 2026 11:59:30 GMT</pubDate>
-      <dc:creator>Taylor (yoshikosisland.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I think tonight&#39;s show might be the end of the line for my decade old Band Maid shirt. The battle damage is becoming too much</p><p><em>BlueSky &middot; yoshikosisland.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
