@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "eHNGGZBSd_A",
+        "Title":  "Hsachiko HGD - Shambles (BAND-MAID Cover) @NoizuCon ReImagined 2025",
+        "Channel":  "DittoFresno",
+        "ChannelId":  "UCHi8Qztk11PcQpudWpnU2RA",
+        "Url":  "https://youtu.be/eHNGGZBSd_A",
+        "Thumbnail":  "https://i.ytimg.com/vi/eHNGGZBSd_A/hqdefault.jpg",
+        "PublishedAt":  "2026-06-15T11:30:24.0000000Z",
+        "DiscoveredAt":  "2026-06-15T11:39:40.6630696Z",
+        "Duration":  "00:03:14",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "JOPa4WE_eng",
+        "Title":  "【緊急注目】BAND-MAID・AKANEが「人生を変えた神ドラム曲」2選を公開！ファン騒然の理由とは？",
+        "Channel":  "J-Music Nexus",
+        "ChannelId":  "UCyHaAB6O1lcVtgYIonk3LyA",
+        "Url":  "https://youtu.be/JOPa4WE_eng",
+        "Thumbnail":  "https://i.ytimg.com/vi/JOPa4WE_eng/hqdefault.jpg",
+        "PublishedAt":  "2026-06-15T11:16:23.0000000Z",
+        "DiscoveredAt":  "2026-06-15T11:39:39.7211784Z",
+        "Duration":  "00:07:26",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SA61GEOXNOc",
         "Title":  "【衝撃】BAND-MAID AKANEが明かした“人生を変えた神ドラム曲”とは？世界的ドラマーの原点にファン騒然！🔥🥁",
         "Channel":  "OtoPulse (音パルス)",
