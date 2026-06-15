@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "aybWlcZ6yu8",
+        "Title":  "(First time watching) BAND-MAID / Shambles (Official Live Video) (Reaction) I MESSED UP!!",
+        "Channel":  "Smitty Reacts",
+        "ChannelId":  "UCA_uGBFm63V8D-rmzmVH8AQ",
+        "Url":  "https://youtu.be/aybWlcZ6yu8",
+        "Thumbnail":  "https://i.ytimg.com/vi/aybWlcZ6yu8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-15T00:22:22.0000000Z",
+        "DiscoveredAt":  "2026-06-15T00:51:19.7071570Z",
+        "Duration":  "00:13:34",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KmlC7mU1btQ",
         "Title":  "Band Maid - Choose Me - Le Bataclan Paris 09/06/2026",
         "Channel":  "Ced Rick",
