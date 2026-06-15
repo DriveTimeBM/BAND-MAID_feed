@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SA61GEOXNOc",
+        "Title":  "【衝撃】BAND-MAID AKANEが明かした“人生を変えた神ドラム曲”とは？世界的ドラマーの原点にファン騒然！🔥🥁",
+        "Channel":  "OtoPulse (音パルス)",
+        "ChannelId":  "UCzcbPViA32ts81PkWzBRilg",
+        "Url":  "https://youtu.be/SA61GEOXNOc",
+        "Thumbnail":  "https://i.ytimg.com/vi/SA61GEOXNOc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-15T10:59:11.0000000Z",
+        "DiscoveredAt":  "2026-06-15T11:08:37.9969202Z",
+        "Duration":  "00:08:21",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-I-ysVzfVjw",
         "Title":  "Band Maid World Tour 2026 Paris Bataclan Compilation",
         "Channel":  "Sebguill Factory",
