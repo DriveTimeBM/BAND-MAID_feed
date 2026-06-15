@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 15:44:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 16:46:11 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band-Maid Onset No Drums</title>
+      <link>https://youtu.be/4OYw1ZePkhs</link>
+      <guid isPermaLink="false">yt:video:4OYw1ZePkhs</guid>
+      <pubDate>Mon, 15 Jun 2026 16:15:29 GMT</pubDate>
+      <dc:creator>Razak Ishak</dc:creator>
+      <category>Razak Ishak</category>
+      <description><![CDATA[<p><a href="https://youtu.be/4OYw1ZePkhs"><img src="https://i.ytimg.com/vi/4OYw1ZePkhs/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Razak Ishak<br/>Duration: 00:04:03<br/>Views at discovery: 1</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/4OYw1ZePkhs/hqdefault.jpg" />
+    </item>
     <item>
       <title>Reaction: BAND-MAID「Sense」Official Music Video</title>
       <link>https://youtu.be/IhLSxltyAjQ</link>
