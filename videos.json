@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "c9zHvT2KAFI",
+        "Title":  "Unboxing ALL My BAND-MAID Merch & Gifts! | My Ultimate Collection Reveal 🌸Unboxing🌸",
+        "Channel":  "Faro & Sofi",
+        "ChannelId":  "UCLQzdUgHF9l_eybT3_Wo22A",
+        "Url":  "https://youtu.be/c9zHvT2KAFI",
+        "Thumbnail":  "https://i.ytimg.com/vi/c9zHvT2KAFI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-15T15:00:02.0000000Z",
+        "DiscoveredAt":  "2026-06-15T15:14:11.8762570Z",
+        "Duration":  "00:32:06",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MZUDe2aDOQw",
         "Title":  "BAND-MAID - alone! | First Reaction",
         "Channel":  "Aciissej",
