@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "UDgnbfPjJ6U",
+        "Title":  "From First Note to Hooked… | BAND-MAID “Thrill” Reaction 🔥",
+        "Channel":  "Shep Talk",
+        "ChannelId":  "UCmbsJeIg5WD0RSMuHV5v4Vw",
+        "Url":  "https://youtu.be/UDgnbfPjJ6U",
+        "Thumbnail":  "https://i.ytimg.com/vi/UDgnbfPjJ6U/hqdefault.jpg",
+        "PublishedAt":  "2026-06-15T13:00:36.0000000Z",
+        "DiscoveredAt":  "2026-06-15T13:42:05.3721730Z",
+        "Duration":  "00:06:56",
+        "ViewsAtDiscovery":  35,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "eHNGGZBSd_A",
         "Title":  "Hsachiko HGD - Shambles (BAND-MAID Cover) @NoizuCon ReImagined 2025",
         "Channel":  "DittoFresno",
