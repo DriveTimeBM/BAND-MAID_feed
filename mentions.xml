@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 01:34:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 08:15:23 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: endless Story</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mof4zfubku2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mof4zfubku2j</guid>
+      <pubDate>Tue, 16 Jun 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: endless Story<br/>Album: CONQUEROR<br/>Release: 12/10/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] BAND-MAID、ワールドツアーのヨーロッパ編を完走。英＜Download Festival＞でも熱狂アクト | BARKS</title>
+      <link>https://bsky.app/profile/did:plc:4ipefc6m335fpbumpvgzx2w3/post/3moepbal4ws24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4ipefc6m335fpbumpvgzx2w3/post/3moepbal4ws24</guid>
+      <pubDate>Tue, 16 Jun 2026 02:00:21 GMT</pubDate>
+      <dc:creator>Coca News (cocanews.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID、ワールドツアーのヨーロッパ編を完走。英＜Download Festival＞でも熱狂アクト | BARKS<br/><br/>https://www.wacoca.com/news/2861881/<br/><br/>BAND-MAID、ワールドツアーのヨーロッパ編を完走。英＜Download Festival＞でも熱狂アクト BAND-MAIDが、現在開催中の＜BAND-MAID WORLD TOUR 2026＞の一貫としてヨーロッ [...]</p><p><em>BlueSky &middot; cocanews.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID、ワールドツアーのヨーロッパ編を完走。英＜Download Festival＞でも熱狂アクト | BARKS</title>
       <link>https://bsky.app/profile/did:plc:jr7i36any7dw5seaoo6337qd/post/3moelvloui62x</link>
@@ -890,24 +908,6 @@
       <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>Um 20.00 geht es los. Freue mich auf das erste mal mit Band-Maid. <br/><br/>:surprised_pikachu: <br/><br/>https://social.tchncs.de/tags/bandmaid https://social.tchncs.de/tags/livemusic</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mnmtsuqa6z2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mnmtsuqa6z2g</guid>
-      <pubDate>Sat, 06 Jun 2026 14:17:57 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] &lt;3 this band.  So many American metal fans knows about Lovebites and Band-Mai...</title>
-      <link>https://bsky.app/profile/did:plc:642733r2akg4ubw63zcxhssd/post/3mnmo5osupc26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:642733r2akg4ubw63zcxhssd/post/3mnmo5osupc26</guid>
-      <pubDate>Sat, 06 Jun 2026 12:36:37 GMT</pubDate>
-      <dc:creator>Erica Anderson (eanderson75.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>&lt;3 this band.  So many American metal fans knows about Lovebites and Band-Maid (whom both are amazing) but they really don&#39;t do a deep dive into the metal scene in Japan.  When I mention Onmyo-Za, Ghost Cries, Serenity in Murder, Valkyrie Zero, it is like &quot;who?!&quot;. <br/><br/>youtu.be/z39EzGg3sLw?...</p><p><em>BlueSky &middot; eanderson75.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
