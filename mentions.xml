@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 20:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:03:49 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3moei4xdjfj2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3moei4xdjfj2b</guid>
+      <pubDate>Mon, 15 Jun 2026 23:52:44 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Download Festival</title>
       <link>https://bsky.app/profile/did:plc:6sodrhl7wotuxpodsua53sp5/post/3modrfuqtgc2u</link>
@@ -899,15 +908,6 @@
       <dc:creator>q87 (q87.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Took a day off from going to the cinema and went to the Band-Maid concert instead.<br/>It was a lot of fun. Let&#39;s meet again. 🎸🤘</p><p><em>BlueSky &middot; q87.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID live in Frankfurt 🤘🏻🕊️🤘🏻</title>
-      <link>https://bsky.app/profile/did:plc:pjfsyvg7qg3l4ajh2w7vus3o/post/3mnmh66w6pk2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pjfsyvg7qg3l4ajh2w7vus3o/post/3mnmh66w6pk2g</guid>
-      <pubDate>Sat, 06 Jun 2026 10:31:24 GMT</pubDate>
-      <dc:creator>Kolja (kdimmek.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID live in Frankfurt 🤘🏻🕊️🤘🏻</p><p><em>BlueSky &middot; kdimmek.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
