@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "kWCyAoSHb8A",
+        "Title":  "Band-Maid, Berlin & London 2026. My Journeys.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/kWCyAoSHb8A",
+        "Thumbnail":  "https://i.ytimg.com/vi/kWCyAoSHb8A/hqdefault.jpg",
+        "PublishedAt":  "2026-06-16T13:49:49.0000000Z",
+        "DiscoveredAt":  "2026-06-16T13:54:13.9465454Z",
+        "Duration":  "00:51:38",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZVJa0m-x-mo",
         "Title":  "BAND-MAID -『BATACLAN, Paris, 2026』- My photo collage",
         "Channel":  "NAR_by_Marek",
