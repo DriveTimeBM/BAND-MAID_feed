@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZVJa0m-x-mo",
+        "Title":  "BAND-MAID -『BATACLAN, Paris, 2026』- My photo collage",
+        "Channel":  "NAR_by_Marek",
+        "ChannelId":  "UC53wjwxrZyoG1w2S3R2PrZw",
+        "Url":  "https://youtu.be/ZVJa0m-x-mo",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZVJa0m-x-mo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-16T13:10:51.0000000Z",
+        "DiscoveredAt":  "2026-06-16T13:23:10.9585607Z",
+        "Duration":  "00:01:28",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "jzs9smdYSzI",
+        "Title":  "BAND-MAID SPEAKING FRENCH - Paris Concert Vlog + FULL OMAJINAI TIME",
+        "Channel":  "French Metal Princess",
+        "ChannelId":  "UCcPMlnwO11S8yk5lok8pyTQ",
+        "Url":  "https://youtu.be/jzs9smdYSzI",
+        "Thumbnail":  "https://i.ytimg.com/vi/jzs9smdYSzI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-16T13:00:36.0000000Z",
+        "DiscoveredAt":  "2026-06-16T13:23:09.9597780Z",
+        "Duration":  "00:32:07",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "43pEJX2leVk",
         "Title":  "BAND-MAID live at Bataclan, Paris, 9. June 2026",
         "Channel":  "Joki",
