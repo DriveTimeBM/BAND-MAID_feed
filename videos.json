@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FC2Xq7A6BqI",
+        "Title":  "Band-Maid Fan from Hokkaido Enjoying EU Tour via Fan Cam #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/FC2Xq7A6BqI",
+        "Thumbnail":  "https://i.ytimg.com/vi/FC2Xq7A6BqI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-16T03:39:45.0000000Z",
+        "DiscoveredAt":  "2026-06-16T03:45:35.1946270Z",
+        "Duration":  "00:01:05",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "sLc9FhtxepE",
         "Title":  "BAND-MAID (Stage Entrance) Domination, Thursday 11th June 2026, Electric Brixton London, my view ",
         "Channel":  "GODSvillan",
