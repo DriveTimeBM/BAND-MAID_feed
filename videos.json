@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NvedR7PbD5s",
+        "Title":  "BAND-MAID World Tour 2026 @ Bataclan, Paris (2026/06/09) 【HD】 Full Concert",
+        "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
+        "ChannelId":  "UCIexUz_m-AJhaRGPtRKY3hw",
+        "Url":  "https://youtu.be/NvedR7PbD5s",
+        "Thumbnail":  "https://i.ytimg.com/vi/NvedR7PbD5s/hqdefault.jpg",
+        "PublishedAt":  "2026-06-16T00:44:51.0000000Z",
+        "DiscoveredAt":  "2026-06-16T01:03:25.1514462Z",
+        "Duration":  "01:49:22",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Lc5Zkl45DWM",
+        "Title":  "Band-Maid Train 13. Was it all a dream?",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/Lc5Zkl45DWM",
+        "Thumbnail":  "https://i.ytimg.com/vi/Lc5Zkl45DWM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-15T20:57:05.0000000Z",
+        "DiscoveredAt":  "2026-06-16T01:03:23.6435478Z",
+        "Duration":  "01:34:53",
+        "ViewsAtDiscovery":  92,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Yd8m_LRPI1c",
         "Title":  "From Now On | Band-Maid | Live and Studio Mixed Videos",
         "Channel":  "NormanatorTV",
