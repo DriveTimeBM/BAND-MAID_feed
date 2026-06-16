@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 14:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:27:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mog6ut3hl32k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mog6ut3hl32k</guid>
+      <pubDate>Tue, 16 Jun 2026 16:12:26 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] We all did the desert island/Mount Rushmore album thing a few months ago, but...</title>
+      <link>https://bsky.app/profile/did:plc:xrhtyqj7nsrqfp4vwtgeppm2/post/3mog2dw5cxs2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xrhtyqj7nsrqfp4vwtgeppm2/post/3mog2dw5cxs2q</guid>
+      <pubDate>Tue, 16 Jun 2026 14:51:25 GMT</pubDate>
+      <dc:creator>persona non sequitur (nouseforajames.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>We all did the desert island/Mount Rushmore album thing a few months ago, but mine got shaken up by two of the best albums I&#39;ve ever heard getting released in the span of like 6 weeks this winter.</p><p><em>BlueSky &middot; nouseforajames.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mofx6ibup623</link>
@@ -890,24 +908,6 @@
       <dc:creator>ChibiZerberus (chibizerberus.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Hot room for a hotter band.🫠<br/>#BandMaid</p><p><em>BlueSky &middot; chibizerberus.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on #NekoDesu: ‘Ready to Rock’ (Rock Is a Lady's Modesty OP) - BAN...</title>
-      <link>https://bsky.app/profile/did:plc:dmxssdc7mhnzbbw5rgduuytj/post/3mnnhjs4pn22v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dmxssdc7mhnzbbw5rgduuytj/post/3mnnhjs4pn22v</guid>
-      <pubDate>Sat, 06 Jun 2026 20:10:47 GMT</pubDate>
-      <dc:creator>Neko Desu (It's a radio show) (nekodesu.radio)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on #NekoDesu: ‘Ready to Rock’ (Rock Is a Lady&#39;s Modesty OP) - BAND-MAID</p><p><em>BlueSky &middot; nekodesu.radio</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] its still so annoying how her character is terrible and makes me constantly g...</title>
-      <link>https://bsky.app/profile/did:plc:r473wdxrmuitkmz2jprod5wp/post/3mnn6ptzsk225</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:r473wdxrmuitkmz2jprod5wp/post/3mnn6ptzsk225</guid>
-      <pubDate>Sat, 06 Jun 2026 17:33:07 GMT</pubDate>
-      <dc:creator>KINDAFREE | IRI (denofsin.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>its still so annoying how her character is terrible and makes me constantly groan but her gameplay and overall troll-ass animations/voice lines are fun as fuck<br/><br/>At least outfit 3 color 10 can let me pretend i&#39;m just playing some random member of Babymetal or BAND-MAID</p><p><em>BlueSky &middot; denofsin.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
