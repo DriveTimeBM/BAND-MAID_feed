@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "EeMsM5erg7Q",
+        "Title":  "BAND-MAID *Live* in London 2026: Why You NEED to See This Band LIVE! - First Time BAND-MAID Vlog",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/EeMsM5erg7Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/EeMsM5erg7Q/hqdefault.jpg",
+        "PublishedAt":  "2026-06-16T20:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-16T21:39:21.1435459Z",
+        "Duration":  "01:34:17",
+        "ViewsAtDiscovery":  146,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Rq88sPS5HOw",
         "Title":  "【衝撃】BAND-MAID・AKANEが明かした「テンション爆上がり曲」5選…世界的ドラマーが本気で震えた伝説のドラムとは！？",
         "Channel":  "JP Music Box ",
