@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "sLc9FhtxepE",
+        "Title":  "BAND-MAID (Stage Entrance) Domination, Thursday 11th June 2026, Electric Brixton London, my view ",
+        "Channel":  "GODSvillan",
+        "ChannelId":  "UCuDVofx1M0mVhPuW0XGgYBw",
+        "Url":  "https://youtu.be/sLc9FhtxepE",
+        "Thumbnail":  "https://i.ytimg.com/vi/sLc9FhtxepE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-16T02:00:23.0000000Z",
+        "DiscoveredAt":  "2026-06-16T02:05:36.6312452Z",
+        "Duration":  "00:04:44",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NvedR7PbD5s",
         "Title":  "BAND-MAID World Tour 2026 @ Bataclan, Paris (2026/06/09) 【HD】 Full Concert",
         "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
