@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "43pEJX2leVk",
+        "Title":  "BAND-MAID live at Bataclan, Paris, 9. June 2026",
+        "Channel":  "Joki",
+        "ChannelId":  "UCiTtZchFMwABBGMl7-nQoag",
+        "Url":  "https://youtu.be/43pEJX2leVk",
+        "Thumbnail":  "https://i.ytimg.com/vi/43pEJX2leVk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-16T06:56:35.0000000Z",
+        "DiscoveredAt":  "2026-06-16T07:13:50.5966078Z",
+        "Duration":  "02:00:15",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XocWT1TWMmc",
         "Title":  "BAND-MAID \"Dilly-Dally\" \"Ready to rock\" \"NO GOD\" @BANDMAID in Paris 9th June 2026",
         "Channel":  "Sophie S.",
