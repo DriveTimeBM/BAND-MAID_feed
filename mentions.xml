@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 17:27:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 23:42:45 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] FFXIV sound director, Masayoshi Soken: I would have loved to see Band-Maid</title>
+      <link>https://bsky.app/profile/did:plc:5j4ewltuyyslnnaleyjvx3b3/post/3mogv5uiqoshj</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5j4ewltuyyslnnaleyjvx3b3/post/3mogv5uiqoshj</guid>
+      <pubDate>Tue, 16 Jun 2026 22:51:13 GMT</pubDate>
+      <dc:creator>Fillet Knife 7.5 Spoilers (filletknife.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>FFXIV sound director, Masayoshi Soken: I would have loved to see Band-Maid<br/><br/>Soken come watch Rock Lady <br/><br/>https://www.thegamer.com/the-primals-download-festival-2026-interview-masayoshi-soken/</p><p><em>BlueSky &middot; filletknife.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mog6ut3hl32k</link>
@@ -899,15 +908,6 @@
       <dc:creator>ChibiZerberus (chibizerberus.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Akane at Full Power tonight😼 #BandMaid</p><p><em>BlueSky &middot; chibizerberus.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Hot room for a hotter band.🫠</title>
-      <link>https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnni7bnzms2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnni7bnzms2r</guid>
-      <pubDate>Sat, 06 Jun 2026 20:22:48 GMT</pubDate>
-      <dc:creator>ChibiZerberus (chibizerberus.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Hot room for a hotter band.🫠<br/>#BandMaid</p><p><em>BlueSky &middot; chibizerberus.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
