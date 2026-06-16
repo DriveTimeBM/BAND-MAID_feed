@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 08:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 14:55:45 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mofx6ibup623</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mofx6ibup623</guid>
+      <pubDate>Tue, 16 Jun 2026 13:54:41 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: endless Story</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mof4zfubku2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>KINDAFREE | IRI (denofsin.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>its still so annoying how her character is terrible and makes me constantly groan but her gameplay and overall troll-ass animations/voice lines are fun as fuck<br/><br/>At least outfit 3 color 10 can let me pretend i&#39;m just playing some random member of Babymetal or BAND-MAID</p><p><em>BlueSky &middot; denofsin.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] Um 20.00 geht es los. Freue mich auf das erste mal mit Band-Maid.</title>
-      <link>https://social.tchncs.de/@dodger/116704051314435192</link>
-      <guid isPermaLink="true">https://social.tchncs.de/@dodger/116704051314435192</guid>
-      <pubDate>Sat, 06 Jun 2026 16:15:01 GMT</pubDate>
-      <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>Um 20.00 geht es los. Freue mich auf das erste mal mit Band-Maid. <br/><br/>:surprised_pikachu: <br/><br/>https://social.tchncs.de/tags/bandmaid https://social.tchncs.de/tags/livemusic</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
     </item>
   </channel>
 </rss>
