@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Yd8m_LRPI1c",
+        "Title":  "From Now On | Band-Maid | Live and Studio Mixed Videos",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/Yd8m_LRPI1c",
+        "Thumbnail":  "https://i.ytimg.com/vi/Yd8m_LRPI1c/hqdefault.jpg",
+        "PublishedAt":  "2026-06-15T23:46:13.0000000Z",
+        "DiscoveredAt":  "2026-06-16T00:01:18.9537565Z",
+        "Duration":  "00:04:10",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oJy-8OQE9qQ",
         "Title":  "🔥 BAND-MAID / 輪廻 \"RINNE\" (Official Music Video) Reaction 🔥",
         "Channel":  "Mike Mosrie",
