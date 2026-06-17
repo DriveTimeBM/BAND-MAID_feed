@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CxSDA_daxiE",
+        "Title":  "Musicians REACT to Band-Maid: Sense (2023 Official Live Video) Tokyo Garden Theater",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/CxSDA_daxiE",
+        "Thumbnail":  "https://i.ytimg.com/vi/CxSDA_daxiE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-17T15:00:15.0000000Z",
+        "DiscoveredAt":  "2026-06-17T15:00:45.4753916Z",
+        "Duration":  "00:08:16",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "BmeCDrBkL8k",
+        "Title":  "Band Maid - Ready to Rock - LIVE at Batschkapp Frankfurt EU TOUR 2026 Friday 5",
+        "Channel":  "Celluz",
+        "ChannelId":  "UC-lUvqhv8qbKtKhxtaWsR-g",
+        "Url":  "https://youtu.be/BmeCDrBkL8k",
+        "Thumbnail":  "https://i.ytimg.com/vi/BmeCDrBkL8k/hqdefault.jpg",
+        "PublishedAt":  "2026-06-17T14:25:20.0000000Z",
+        "DiscoveredAt":  "2026-06-17T15:00:44.3399812Z",
+        "Duration":  "00:03:29",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2EctAf4ZVI8",
         "Title":  "Band Maid - Omajinai Time and members showcase - LIVE at Batschkapp Frankfurt EU TOUR 2026 Friday 5",
         "Channel":  "Celluz",
