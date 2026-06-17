@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "awP3w6LPryQ",
+        "Title":  "BAND-MAID - Don't you tell me live with THAT solo battle",
+        "Channel":  "Carlos",
+        "ChannelId":  "UCnVY3IRiy7iSzynEH-_jvvA",
+        "Url":  "https://youtu.be/awP3w6LPryQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/awP3w6LPryQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-17T21:04:16.0000000Z",
+        "DiscoveredAt":  "2026-06-17T21:31:33.2516004Z",
+        "Duration":  "00:04:15",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "w0Y016Rb0M4",
         "Title":  "DOMINATION - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
         "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
