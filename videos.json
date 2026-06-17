@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RDzE7DkVWPw",
+        "Title":  "BAND-MAID - Shambles Reaction | That section was INCREDIBLE",
+        "Channel":  "Nick out of Focus",
+        "ChannelId":  "UCYf97wOAY_jz-VOVvpN1dyw",
+        "Url":  "https://youtu.be/RDzE7DkVWPw",
+        "Thumbnail":  "https://i.ytimg.com/vi/RDzE7DkVWPw/hqdefault.jpg",
+        "PublishedAt":  "2026-06-17T10:00:09.0000000Z",
+        "DiscoveredAt":  "2026-06-17T10:27:03.3237117Z",
+        "Duration":  "00:08:42",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "k1nk0e4u6Lw",
         "Title":  "【世界騒然】BAND-MAID・MISAの“絶叫事件”が大反響！普段はクールな素顔とのギャップにファン大興奮…メンバーお気に入り動画の真相とは！？🔥🎸😱✨",
         "Channel":  "JP Music Box ",
