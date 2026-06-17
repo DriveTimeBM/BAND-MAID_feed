@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 06:21:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 07:22:48 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: azure</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mohnidw5jj2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mohnidw5jj2g</guid>
+      <pubDate>Wed, 17 Jun 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: azure<br/>Album: CONQUEROR<br/>Release: 12/10/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 12 years ago Band-Maid played at shibuya eggman in Tokyo JP on 2014/6/17. The...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mohn44gpq52m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mohn44gpq52m</guid>
+      <pubDate>Wed, 17 Jun 2026 05:59:43 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>12 years ago Band-Maid played at shibuya eggman in Tokyo JP on 2014/6/17. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 11 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mohjj6wn2c2u</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Alive-or-Dead<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mnoeu2wk3j2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mnoeu2wk3j2p</guid>
-      <pubDate>Sun, 07 Jun 2026 04:55:29 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago<br/>REAL EXISTENCE MV<br/>milestone<br/>surpassed 8 million views<br/>2018/6/7<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I'am soooo gonna have no voice tomorrow #BandMaid knows how to rail up a crowd🤟</title>
-      <link>https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnnixtefc22r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnnixtefc22r</guid>
-      <pubDate>Sat, 06 Jun 2026 20:36:32 GMT</pubDate>
-      <dc:creator>ChibiZerberus (chibizerberus.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I&#39;am soooo gonna have no voice tomorrow #BandMaid knows how to rail up a crowd🤟</p><p><em>BlueSky &middot; chibizerberus.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
