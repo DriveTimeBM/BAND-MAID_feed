@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2EctAf4ZVI8",
+        "Title":  "Band Maid - Omajinai Time and members showcase - LIVE at Batschkapp Frankfurt EU TOUR 2026 Friday 5",
+        "Channel":  "Celluz",
+        "ChannelId":  "UC-lUvqhv8qbKtKhxtaWsR-g",
+        "Url":  "https://youtu.be/2EctAf4ZVI8",
+        "Thumbnail":  "https://i.ytimg.com/vi/2EctAf4ZVI8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-17T13:56:44.0000000Z",
+        "DiscoveredAt":  "2026-06-17T14:01:53.4272635Z",
+        "Duration":  "00:14:11",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NNYIasDVF1Y",
         "Title":  "Reaction! HATE? - BAND-MAID",
         "Channel":  "Rockin' with Matt",
