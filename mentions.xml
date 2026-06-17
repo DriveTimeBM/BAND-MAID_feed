@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 23:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 06:21:41 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 11 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mohjj6wn2c2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mohjj6wn2c2u</guid>
+      <pubDate>Wed, 17 Jun 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>11 years ago<br/>REAL EXISTENCE<br/>MV<br/>released<br/>2015/6/17<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] FFXIV sound director, Masayoshi Soken: I would have loved to see Band-Maid</title>
       <link>https://bsky.app/profile/did:plc:5j4ewltuyyslnnaleyjvx3b3/post/3mogv5uiqoshj</link>
@@ -899,15 +908,6 @@
       <dc:creator>ChibiZerberus (chibizerberus.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I&#39;am soooo gonna have no voice tomorrow #BandMaid knows how to rail up a crowd🤟</p><p><em>BlueSky &middot; chibizerberus.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Akane at Full Power tonight😼 #BandMaid</title>
-      <link>https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnnipvmje22r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rusmeu5y2ivbooj424fovlof/post/3mnnipvmje22r</guid>
-      <pubDate>Sat, 06 Jun 2026 20:32:06 GMT</pubDate>
-      <dc:creator>ChibiZerberus (chibizerberus.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Akane at Full Power tonight😼 #BandMaid</p><p><em>BlueSky &middot; chibizerberus.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
