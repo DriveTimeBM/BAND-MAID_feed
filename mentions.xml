@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 07:22:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 08:54:50 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Who wants to give me a couple million to put together a big concert that goes...</title>
+      <link>https://bsky.app/profile/did:plc:k6v7n5ui2hhqclsdzk5ouotr/post/3mohstepzvs2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:k6v7n5ui2hhqclsdzk5ouotr/post/3mohstepzvs2p</guid>
+      <pubDate>Wed, 17 Jun 2026 07:42:13 GMT</pubDate>
+      <dc:creator>Kenny McMillan (kwmcmillan.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Who wants to give me a couple million to put together a big concert that goes Drug Church &gt; Band Maid &gt; Queens of the Stone Age?<br/><br/>I swear I can make it happen.</p><p><em>BlueSky &middot; kwmcmillan.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: azure</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mohnidw5jj2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>Das Band-Maid Konzert gestern hat mir letzten Endes sehr gut gefallen. <br/>Negativ war das die Damen mit 30 Minuten Versp&#228;tung anfingen.<br/><br/>https://social.tchncs.de/tags/bandmaid https://social.tchncs.de/tags/music https://social.tchncs.de/tags/livemusic https://social.tchncs.de/tags/japan</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Alive-or-Dead</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnoit44jmx2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnoit44jmx2t</guid>
-      <pubDate>Sun, 07 Jun 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Alive-or-Dead<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
