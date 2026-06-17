@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-fPAhbWLzzA",
+        "Title":  "Los Galangas - Band Maid - Choose me (Cumbia)",
+        "Channel":  "BR1ANELSNOW",
+        "ChannelId":  "UCgYlYEL_foafGqg9vAAdKoQ",
+        "Url":  "https://youtu.be/-fPAhbWLzzA",
+        "Thumbnail":  "https://i.ytimg.com/vi/-fPAhbWLzzA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-17T01:48:20.0000000Z",
+        "DiscoveredAt":  "2026-06-17T02:16:19.8255842Z",
+        "Duration":  "00:04:20",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BGsakbU5Ckc",
         "Title":  "What a performance - band maid,  domination live music reaction ",
         "Channel":  "diving in- with avishai ",
