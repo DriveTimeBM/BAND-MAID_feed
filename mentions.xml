@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 02:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 06:19:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 7 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mojzyagcdw2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mojzyagcdw2k</guid>
+      <pubDate>Thu, 18 Jun 2026 04:55:31 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>7 years ago<br/>Thrill MV<br/>milestone<br/>surpassed 10 million views<br/>2019/6/18<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 4 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mojzy6hq4t2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mojzy6hq4t2w</guid>
+      <pubDate>Thu, 18 Jun 2026 04:55:29 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>4 years ago<br/>onset (live) MV<br/>milestone<br/>surpassed 2 million views<br/>2022/6/18<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] #nowplaying BAND-MAID - I can't live without you. (WORLD DOMINATION)</title>
       <link>https://bsky.app/profile/did:plc:ynod6iqfc2vntaqakkvzf4fv/post/3mojmhsg65e2v</link>
@@ -890,24 +908,6 @@
       <dc:creator>Calvin (calvin_thefreak@social.64i.de)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>https://social.64i.de/tags/bandmaid https://social.64i.de/tags/jrock BAND-MAID live in Frankfurt am Main.</p><p><em>Mastodon &middot; calvin_thefreak@social.64i.de</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Knock'in on your heart</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnqzbzyj2d25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnqzbzyj2d25</guid>
-      <pubDate>Mon, 08 Jun 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Knock&#39;in on your heart<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>福井昌彦 [Fukui, Masahiko]<br/>1st Live:12/26/2013<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played at shibuya eggman in Tokyo JP on 2014/6/8. The ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mnqyvw5aqi2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mnqyvw5aqi2k</guid>
-      <pubDate>Mon, 08 Jun 2026 05:59:46 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played at shibuya eggman in Tokyo JP on 2014/6/8. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
