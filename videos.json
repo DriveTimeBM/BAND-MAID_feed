@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "awK5s_kx65w",
+        "Title":  "BAND-MAID／DICE弾いてみた‼️❤️",
+        "Channel":  "周東正行",
+        "ChannelId":  "UCbN_iPvqOgvGEHqXyqAS_VQ",
+        "Url":  "https://youtu.be/awK5s_kx65w",
+        "Thumbnail":  "https://i.ytimg.com/vi/awK5s_kx65w/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T12:06:44.0000000Z",
+        "DiscoveredAt":  "2026-06-18T12:37:02.8706426Z",
+        "Duration":  "00:04:35",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7m5x0bL3IQc",
         "Title":  "BAND-MAID WORLD TOUR 2026 ミュンヘンTechnikumお給仕レポート: European Tour Day3   (Live Report)",
         "Channel":  "いちお盟主のつぶやき",
