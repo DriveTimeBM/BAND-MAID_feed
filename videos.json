@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "K37qQ9j4GmU",
+        "Title":  "Akane's (BAND-MAID) Drums Blindfolded (Friday Stream News)",
+        "Channel":  "Wave Potter",
+        "ChannelId":  "UCTs_aBYP6jAF93Cqulq5JIg",
+        "Url":  "https://youtu.be/K37qQ9j4GmU",
+        "Thumbnail":  "https://i.ytimg.com/vi/K37qQ9j4GmU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T16:41:54.0000000Z",
+        "DiscoveredAt":  "2026-06-18T16:42:03.9951469Z",
+        "Duration":  "00:05:29",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "koPzwKUstjA",
+        "Title":  "Band Maid Liberal (Audio only) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/koPzwKUstjA",
+        "Thumbnail":  "https://i.ytimg.com/vi/koPzwKUstjA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T16:27:53.0000000Z",
+        "DiscoveredAt":  "2026-06-18T16:42:03.5119712Z",
+        "Duration":  "00:03:15",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "82kURW4-3u4",
         "Title":  "BAND-MAID / Manners , BLACK HOLE (Official Music / Liver) | Reaction",
         "Channel":  "WaywardCulture",
