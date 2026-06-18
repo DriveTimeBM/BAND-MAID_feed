@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 09:57:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:07:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid have put a teaser for their new song Energetic on YouTube. I heard ...</title>
+      <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3moksvmiqwc2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3moksvmiqwc2d</guid>
+      <pubDate>Thu, 18 Jun 2026 12:21:27 GMT</pubDate>
+      <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid have put a teaser for their new song Energetic on YouTube. I heard this tune on their world tour 2026 and it&#39;s a banger.<br/><br/>www.youtube.com/shorts/cKmZP...</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I put more clips of the Band-Maid show in London up on YouTube.</title>
       <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3moki25ggb22d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played at IMAGE in Okayama JP on 2016/6/9. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mntfrud2xj2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mntfrud2xj2w</guid>
-      <pubDate>Tue, 09 Jun 2026 04:55:28 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago<br/>Play OLV<br/>milestone<br/>surpassed 2 million views<br/>2024/6/9<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
