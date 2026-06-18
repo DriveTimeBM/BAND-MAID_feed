@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RhsH07enMQE",
+        "Title":  "Band-Maid Train 15. BRIXTON WINDMILL PO!",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/RhsH07enMQE",
+        "Thumbnail":  "https://i.ytimg.com/vi/RhsH07enMQE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-17T20:25:06.0000000Z",
+        "DiscoveredAt":  "2026-06-18T01:40:11.4398769Z",
+        "Duration":  "02:14:22",
+        "ViewsAtDiscovery":  80,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MvAxDUvlv1I",
         "Title":  "BAND-MAID - Ready To Rock [LIVE] REACTION!!! | Sounds Like I Need To Watch This Anime!",
         "Channel":  "Culture Klub",
