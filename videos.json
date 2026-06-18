@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7m5x0bL3IQc",
+        "Title":  "BAND-MAID WORLD TOUR 2026 ミュンヘンTechnikumお給仕レポート: European Tour Day3   (Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/7m5x0bL3IQc",
+        "Thumbnail":  "https://i.ytimg.com/vi/7m5x0bL3IQc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T12:00:13.0000000Z",
+        "DiscoveredAt":  "2026-06-18T12:05:53.5086082Z",
+        "Duration":  "01:53:47",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "wjXe9i5N_ms",
+        "Title":  "BAND-MAID / Choose me Gt COVER",
+        "Channel":  "Yusuke Lee",
+        "ChannelId":  "UCfjZkdx9HvCf41SwiNjooBg",
+        "Url":  "https://youtu.be/wjXe9i5N_ms",
+        "Thumbnail":  "https://i.ytimg.com/vi/wjXe9i5N_ms/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T12:00:10.0000000Z",
+        "DiscoveredAt":  "2026-06-18T12:05:51.0826297Z",
+        "Duration":  "00:03:40",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ja72cnvX-1g",
         "Title":  "Bestie | Band-Maid | Karaoke Version",
         "Channel":  "NormanatorTV",
