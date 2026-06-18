@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rvVrt2vGFeI",
+        "Title":  "Parallyx opening for BAND-MAID at Bataclan - Paris, June 9, 2026",
+        "Channel":  "Vladimir Chupin",
+        "ChannelId":  "UCb6JH8zMUAHI1w8MFXNUYwQ",
+        "Url":  "https://youtu.be/rvVrt2vGFeI",
+        "Thumbnail":  "https://i.ytimg.com/vi/rvVrt2vGFeI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T09:56:33.0000000Z",
+        "DiscoveredAt":  "2026-06-18T09:57:42.8556968Z",
+        "Duration":  "00:29:25",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "rt_b8GM7IBQ",
+        "Title":  "BAND-MAID - Soundcheck at Download Festival - June 12, 2026 - Derby, UK",
+        "Channel":  "Vladimir Chupin",
+        "ChannelId":  "UCb6JH8zMUAHI1w8MFXNUYwQ",
+        "Url":  "https://youtu.be/rt_b8GM7IBQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/rt_b8GM7IBQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T09:27:07.0000000Z",
+        "DiscoveredAt":  "2026-06-18T09:57:42.2987519Z",
+        "Duration":  "00:06:06",
+        "ViewsAtDiscovery":  143,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "LiSt0PU3ZjU",
         "Title":  "BAND-MAID SUPER SUNSHINE - LIVE - Reaction | First Time Listening & Review",
         "Channel":  "Mike's Musical Rehab",
