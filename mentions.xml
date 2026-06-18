@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 13:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 14:09:04 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 多来点BAND-MAID 和 The Warning这种合作好吗……人活着就是要看这种乐队活儿</title>
+      <link>https://bsky.app/profile/did:plc:fnoy24dwvaafqh55fznz76lk/post/3mokx637fpk2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fnoy24dwvaafqh55fznz76lk/post/3mokx637fpk2f</guid>
+      <pubDate>Thu, 18 Jun 2026 13:37:46 GMT</pubDate>
+      <dc:creator> WineHusk/酒壳 (sld07.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>多来点BAND-MAID 和 The Warning这种合作好吗……人活着就是要看这种乐队活儿<br/>打死我也想不到在别的圈接触的墨西哥姐妹乐队和动画OP认识的乐队居然会合作，梦幻</p><p><em>BlueSky &middot; sld07.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] New Band Maid single incoming (June 24th)</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mokx3sdqgk2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mokx3sdqgk2m</guid>
+      <pubDate>Thu, 18 Jun 2026 13:36:30 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>New Band Maid single incoming (June 24th)</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band-Maid have put a teaser for their new song Energetic on YouTube. I heard ...</title>
       <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3moksvmiqwc2d</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>MISA: As my tension rises while playing myself I think all the songs are tension rising. I especially like the ballad [anemone]. I love the melody and listen to it more than 5 times a day even now.<br/><br/>KANAMI: When I made the demo of [anemone], there was talk on this may not be a typical BAND-MAID tune</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: anemone</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mntjqygndn2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mntjqygndn2x</guid>
-      <pubDate>Tue, 09 Jun 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: anemone<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played at IMAGE in Okayama JP on 2016/6/9. The setlist...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mntjg3gqns2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mntjg3gqns2g</guid>
-      <pubDate>Tue, 09 Jun 2026 06:00:28 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played at IMAGE in Okayama JP on 2016/6/9. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
