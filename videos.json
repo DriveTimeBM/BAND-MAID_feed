@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AiuY25vMYGM",
+        "Title":  "Bestie | Band-Maid | Karaoke Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/AiuY25vMYGM",
+        "Thumbnail":  "https://i.ytimg.com/vi/AiuY25vMYGM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T13:07:37.0000000Z",
+        "DiscoveredAt":  "2026-06-18T13:38:09.3926294Z",
+        "Duration":  "00:03:44",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "awK5s_kx65w",
         "Title":  "BAND-MAID／DICE弾いてみた‼️❤️",
         "Channel":  "周東正行",
