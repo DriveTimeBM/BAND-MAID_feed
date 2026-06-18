@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ja72cnvX-1g",
+        "Title":  "Bestie | Band-Maid | Karaoke Version",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/ja72cnvX-1g",
+        "Thumbnail":  "https://i.ytimg.com/vi/ja72cnvX-1g/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T10:50:56.0000000Z",
+        "DiscoveredAt":  "2026-06-18T11:02:53.9952922Z",
+        "Duration":  "00:03:44",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_ej4kDrvmBI",
         "Title":  "Pinoy #SarsiclesTV Reacts to BAND-MAID - TAMAYA! Lyrics | [Kanji/Romaji/English] | REAL TALK",
         "Channel":  "Sarsicles TV",
