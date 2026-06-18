@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6sjKpcLHW5o",
+        "Title":  "Band-Maid - MC London 2026.06.11",
+        "Channel":  "Sugaan Essena",
+        "ChannelId":  "UCVTpqicgj9hyzKDWPhrfkRw",
+        "Url":  "https://youtu.be/6sjKpcLHW5o",
+        "Thumbnail":  "https://i.ytimg.com/vi/6sjKpcLHW5o/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T20:16:05.0000000Z",
+        "DiscoveredAt":  "2026-06-18T20:17:03.5866649Z",
+        "Duration":  "00:03:17",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0dt_pFrgKfc",
         "Title":  "SUPER SUNSHINE - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
         "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
