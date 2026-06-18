@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_ej4kDrvmBI",
+        "Title":  "Pinoy #SarsiclesTV Reacts to BAND-MAID - TAMAYA! Lyrics | [Kanji/Romaji/English] | REAL TALK",
+        "Channel":  "Sarsicles TV",
+        "ChannelId":  "UCKVxFHlOOt87iUYtp2o18gg",
+        "Url":  "https://youtu.be/_ej4kDrvmBI",
+        "Thumbnail":  "https://i.ytimg.com/vi/_ej4kDrvmBI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T10:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-18T10:28:44.0418572Z",
+        "Duration":  "00:15:16",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rvVrt2vGFeI",
         "Title":  "Parallyx opening for BAND-MAID at Bataclan - Paris, June 9, 2026",
         "Channel":  "Vladimir Chupin",
