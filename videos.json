@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6PRwS-AgFpI",
+        "Title":  "Band Maid Forward (live) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/6PRwS-AgFpI",
+        "Thumbnail":  "https://i.ytimg.com/vi/6PRwS-AgFpI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T15:36:33.0000000Z",
+        "DiscoveredAt":  "2026-06-18T15:40:41.9595457Z",
+        "Duration":  "00:04:58",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "AiuY25vMYGM",
         "Title":  "Bestie | Band-Maid | Karaoke Video",
         "Channel":  "NormanatorTV",
