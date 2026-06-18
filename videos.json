@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2XPqljeOTHc",
+        "Title":  "Band Maid | About Us | Drum Cover",
+        "Channel":  "Cameron Baines",
+        "ChannelId":  "UCM9hTU1wsLZmGFc3k7iehpg",
+        "Url":  "https://youtu.be/2XPqljeOTHc",
+        "Thumbnail":  "https://i.ytimg.com/vi/2XPqljeOTHc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-18T22:31:47.0000000Z",
+        "DiscoveredAt":  "2026-06-18T22:50:36.9645789Z",
+        "Duration":  "00:04:37",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "d3M2BPozG6E",
         "Title":  "Band Maid To et moi Download Festival 2026",
         "Channel":  "FIFTY SOMETHING",
@@ -62,7 +77,7 @@
     {
         "schema_version":  1,
         "VideoId":  "K37qQ9j4GmU",
-        "Title":  "Akane's (BAND-MAID) Drums Blindfolded (Friday Stream News)",
+        "Title":  "Akane's (BAND-MAID) Drums Blindfolded cover",
         "Channel":  "Wave Potter",
         "ChannelId":  "UCTs_aBYP6jAF93Cqulq5JIg",
         "Url":  "https://youtu.be/K37qQ9j4GmU",

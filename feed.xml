@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 20:47:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 22:50:37 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band Maid | About Us | Drum Cover</title>
+      <link>https://youtu.be/2XPqljeOTHc</link>
+      <guid isPermaLink="false">yt:video:2XPqljeOTHc</guid>
+      <pubDate>Thu, 18 Jun 2026 22:31:47 GMT</pubDate>
+      <dc:creator>Cameron Baines</dc:creator>
+      <category>Cameron Baines</category>
+      <description><![CDATA[<p><a href="https://youtu.be/2XPqljeOTHc"><img src="https://i.ytimg.com/vi/2XPqljeOTHc/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Cameron Baines<br/>Duration: 00:04:37<br/>Views at discovery: 6</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/2XPqljeOTHc/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band Maid To et moi Download Festival 2026</title>
       <link>https://youtu.be/d3M2BPozG6E</link>
@@ -50,7 +60,7 @@
       <media:thumbnail url="https://i.ytimg.com/vi/uhKZ2A6WDk0/hqdefault.jpg" />
     </item>
     <item>
-      <title>Akane's (BAND-MAID) Drums Blindfolded (Friday Stream News)</title>
+      <title>Akane's (BAND-MAID) Drums Blindfolded cover</title>
       <link>https://youtu.be/K37qQ9j4GmU</link>
       <guid isPermaLink="false">yt:video:K37qQ9j4GmU</guid>
       <pubDate>Thu, 18 Jun 2026 16:41:54 GMT</pubDate>
