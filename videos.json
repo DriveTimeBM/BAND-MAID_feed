@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "f7NlYYrnY-g",
+        "Title":  "Bestie | Band-Maid | Karaoke Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/f7NlYYrnY-g",
+        "Thumbnail":  "https://i.ytimg.com/vi/f7NlYYrnY-g/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T05:46:59.0000000Z",
+        "DiscoveredAt":  "2026-06-19T06:00:13.1530679Z",
+        "Duration":  "00:03:44",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jlcy8oBYdbY",
         "Title":  "Ready to Rock / BAND-MAID  covered by Teto Kasane  重音テト",
         "Channel":  "Megurugle-band",
