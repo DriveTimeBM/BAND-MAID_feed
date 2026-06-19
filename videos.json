@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_uyTXRtK_i8",
+        "Title":  "She Was NOT Ready for BAND-MAID",
+        "Channel":  "Ace Reacts",
+        "ChannelId":  "UCxVhgUTGnW2vpCoLnJc1lYQ",
+        "Url":  "https://youtu.be/_uyTXRtK_i8",
+        "Thumbnail":  "https://i.ytimg.com/vi/_uyTXRtK_i8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T13:00:36.0000000Z",
+        "DiscoveredAt":  "2026-06-19T13:09:03.3287364Z",
+        "Duration":  "00:11:26",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "kxzOhh3Dcvw",
+        "Title":  "No Warning… Just POWER | BAND-MAID “REAL EXISTENCE” Reaction 🎸",
+        "Channel":  "Shep Talk",
+        "ChannelId":  "UCmbsJeIg5WD0RSMuHV5v4Vw",
+        "Url":  "https://youtu.be/kxzOhh3Dcvw",
+        "Thumbnail":  "https://i.ytimg.com/vi/kxzOhh3Dcvw/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T13:00:22.0000000Z",
+        "DiscoveredAt":  "2026-06-19T13:09:01.5009408Z",
+        "Duration":  "00:06:55",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "36hybQGlj4Q",
         "Title":  "Band Maid Hate? Download Festival 2026 4k",
         "Channel":  "FIFTY SOMETHING",
