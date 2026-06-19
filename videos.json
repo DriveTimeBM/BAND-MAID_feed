@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RL3A5IfVtBA",
+        "Title":  "Metal Guitaritst Reacts to BAND-MAID / endless Story",
+        "Channel":  "APOKALYPSE34",
+        "ChannelId":  "UCBt3JX654OyVDFwYUtZFkDw",
+        "Url":  "https://youtu.be/RL3A5IfVtBA",
+        "Thumbnail":  "https://i.ytimg.com/vi/RL3A5IfVtBA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T17:59:35.0000000Z",
+        "DiscoveredAt":  "2026-06-19T18:05:22.8885682Z",
+        "Duration":  "00:10:01",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "0zZ0lEWy_Ko",
+        "Title":  "Metal Guitarist Reacts to BAND-MAID / 輪廻 \"RINNE\"",
+        "Channel":  "APOKALYPSE34",
+        "ChannelId":  "UCBt3JX654OyVDFwYUtZFkDw",
+        "Url":  "https://youtu.be/0zZ0lEWy_Ko",
+        "Thumbnail":  "https://i.ytimg.com/vi/0zZ0lEWy_Ko/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T17:47:44.0000000Z",
+        "DiscoveredAt":  "2026-06-19T18:05:22.3788212Z",
+        "Duration":  "00:09:32",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0rXOvOmzzTk",
         "Title":  "BAND-MAID - Blooming | REACTION",
         "Channel":  "Reaction Holic ",
