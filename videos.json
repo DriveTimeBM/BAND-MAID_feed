@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "adkDBKcsPsI",
+        "Title":  "Top 50 Most Viewed Asian & JRock/Metal May 2026: BAND-MAID, LOVEBITES, METALVERSE, STMLT, SiM & more",
+        "Channel":  "Japanese & Asian Rock-Metal",
+        "ChannelId":  "UCbgopo660qr0EiSafiMHgAA",
+        "Url":  "https://youtu.be/adkDBKcsPsI",
+        "Thumbnail":  "https://i.ytimg.com/vi/adkDBKcsPsI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T08:00:33.0000000Z",
+        "DiscoveredAt":  "2026-06-19T08:02:31.6276756Z",
+        "Duration":  "00:09:44",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KNNDACrK9dw",
         "Title":  "Parallyx rencontre BAND-MAID",
         "Channel":  "LJB",
