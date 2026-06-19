@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3_SkYsG7F4Q",
+        "Title":  "Choose me - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
+        "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
+        "ChannelId":  "UCIexUz_m-AJhaRGPtRKY3hw",
+        "Url":  "https://youtu.be/3_SkYsG7F4Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/3_SkYsG7F4Q/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T18:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-19T18:35:51.0165564Z",
+        "Duration":  "00:03:52",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "RL3A5IfVtBA",
         "Title":  "Metal Guitaritst Reacts to BAND-MAID / endless Story",
         "Channel":  "APOKALYPSE34",
