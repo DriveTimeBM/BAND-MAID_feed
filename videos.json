@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Hus6vSoZuLg",
+        "Title":  "BAND-MAID First Live 2013 + MISA Documentary Reaction 🔥 The Beginning of a Legend",
+        "Channel":  "Rock and Reactions",
+        "ChannelId":  "UCqAy-EERjiQYNBVIOj3MY7A",
+        "Url":  "https://youtu.be/Hus6vSoZuLg",
+        "Thumbnail":  "https://i.ytimg.com/vi/Hus6vSoZuLg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T12:00:20.0000000Z",
+        "DiscoveredAt":  "2026-06-19T12:07:36.8985847Z",
+        "Duration":  "00:58:06",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "s81z09DoTCM",
         "Title":  "BAND-MAID – 'Knockin' on Your Heart' | I Didn't Expect This Side of Them",
         "Channel":  "Jeanette Music",
