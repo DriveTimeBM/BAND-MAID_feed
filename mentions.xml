@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 00:22:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 02:26:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Pretty much anything by Band Maid, but uh... Their songs start super hardcore...</title>
+      <link>https://bsky.app/profile/did:plc:hqaj6wh7b3an6vr6aiwaqwpg/post/3mom7g576d22n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hqaj6wh7b3an6vr6aiwaqwpg/post/3mom7g576d22n</guid>
+      <pubDate>Fri, 19 Jun 2026 01:38:06 GMT</pubDate>
+      <dc:creator>David Kuszmar (davidkuszmar.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Pretty much anything by Band Maid, but uh... Their songs start super hardcore so it goes from Inhuman to Godlike pretty quick.</p><p><em>BlueSky &middot; davidkuszmar.com</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] I discovered The Warning through their friendship with Band-Maid, and I think...</title>
       <link>https://mastodon.social/@ChrisJagged/116773842094480564</link>
@@ -899,15 +908,6 @@
       <dc:creator>métal vert foncé (darkgreenmetal.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I&#39;m #now_listening_to &quot;After Life&quot; by BAND-MAID</p><p><em>BlueSky &middot; darkgreenmetal.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I'm #now_listening_to "Don't Let Me Down" by BAND-MAID®</title>
-      <link>https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mnubanfh2s2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mnubanfh2s2z</guid>
-      <pubDate>Tue, 09 Jun 2026 13:06:56 GMT</pubDate>
-      <dc:creator>métal vert foncé (darkgreenmetal.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I&#39;m #now_listening_to &quot;Don&#39;t Let Me Down&quot; by BAND-MAID&#174;</p><p><em>BlueSky &middot; darkgreenmetal.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
