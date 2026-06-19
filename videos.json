@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jlcy8oBYdbY",
+        "Title":  "Ready to Rock / BAND-MAID  covered by Teto Kasane  重音テト",
+        "Channel":  "Megurugle-band",
+        "ChannelId":  "UCd9MR016J3EhOG2Cr3vD_zw",
+        "Url":  "https://youtu.be/jlcy8oBYdbY",
+        "Thumbnail":  "https://i.ytimg.com/vi/jlcy8oBYdbY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T01:40:13.0000000Z",
+        "DiscoveredAt":  "2026-06-19T01:55:09.0736870Z",
+        "Duration":  "00:03:24",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wtvVdyZ3Agw",
         "Title":  "BAND-MAID / Parallyx (support band in France) Instagram June 17, 2026",
         "Channel":  "Nin puzzle",
