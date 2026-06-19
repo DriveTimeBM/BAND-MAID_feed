@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 14:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 00:22:32 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] I discovered The Warning through their friendship with Band-Maid, and I think...</title>
+      <link>https://mastodon.social/@ChrisJagged/116773842094480564</link>
+      <guid isPermaLink="true">https://mastodon.social/@ChrisJagged/116773842094480564</guid>
+      <pubDate>Fri, 19 Jun 2026 00:03:44 GMT</pubDate>
+      <dc:creator>Chris Jags (ChrisJagged)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>I discovered The Warning through their friendship with Band-Maid, and I think they&#39;re a very solid band. Cool video, too.<br/><br/>https://www.youtube.com/watch?v=juwlhYHWHTM<br/><br/>https://mastodon.social/tags/TheWarning https://mastodon.social/tags/Metal https://mastodon.social/tags/music https://mastodon.social/tags/BandMaid</p><p><em>Mastodon &middot; ChrisJagged</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 多来点BAND-MAID 和 The Warning这种合作好吗……人活着就是要看这种乐队活儿</title>
       <link>https://bsky.app/profile/did:plc:fnoy24dwvaafqh55fznz76lk/post/3mokx637fpk2f</link>
@@ -899,15 +908,6 @@
       <dc:creator>métal vert foncé (darkgreenmetal.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I&#39;m #now_listening_to &quot;Don&#39;t Let Me Down&quot; by BAND-MAID&#174;</p><p><em>BlueSky &middot; darkgreenmetal.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] MISA: As my tension rises while playing myself I think all the songs are tens...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mntjqytlrz2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mntjqytlrz2g</guid>
-      <pubDate>Tue, 09 Jun 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>MISA: As my tension rises while playing myself I think all the songs are tension rising. I especially like the ballad [anemone]. I love the melody and listen to it more than 5 times a day even now.<br/><br/>KANAMI: When I made the demo of [anemone], there was talk on this may not be a typical BAND-MAID tune</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
