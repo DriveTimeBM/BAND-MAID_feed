@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0rXOvOmzzTk",
+        "Title":  "BAND-MAID - Blooming | REACTION",
+        "Channel":  "Reaction Holic ",
+        "ChannelId":  "UCUNAvz-3RYfMeFOvw-e345Q",
+        "Url":  "https://youtu.be/0rXOvOmzzTk",
+        "Thumbnail":  "https://i.ytimg.com/vi/0rXOvOmzzTk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T14:56:08.0000000Z",
+        "DiscoveredAt":  "2026-06-19T15:32:37.5536308Z",
+        "Duration":  "00:06:22",
+        "ViewsAtDiscovery":  17,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "hXsrzBpu3fI",
+        "Title":  "BAND-MAID / Toi et moi (Official Live Video) REACTION",
+        "Channel":  "frank_reacts",
+        "ChannelId":  "UCfNKOaP3QKj9qUxB1g5HBDw",
+        "Url":  "https://youtu.be/hXsrzBpu3fI",
+        "Thumbnail":  "https://i.ytimg.com/vi/hXsrzBpu3fI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-19T14:44:59.0000000Z",
+        "DiscoveredAt":  "2026-06-19T15:32:36.3259449Z",
+        "Duration":  "00:08:00",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ijoGOqiUpSY",
         "Title":  "BAND-MAID: Choose Me (OMV) (First time reaction)",
         "Channel":  "vintage sol",
