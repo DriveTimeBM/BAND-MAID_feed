@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-HR7CPoEb_I",
+        "Title":  "BAND-MAID - Brightest star (bass backing track)",
+        "Channel":  "Bass Minus Tracks",
+        "ChannelId":  "UCMlp4LJeO1IZ7WW4Xuwcbkw",
+        "Url":  "https://youtu.be/-HR7CPoEb_I",
+        "Thumbnail":  "https://i.ytimg.com/vi/-HR7CPoEb_I/hqdefault.jpg",
+        "PublishedAt":  "2026-06-20T13:31:24.0000000Z",
+        "DiscoveredAt":  "2026-06-20T13:59:53.7405401Z",
+        "Duration":  "00:03:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "PxarM322Gak",
         "Title":  "BAND-MAID. Le Bataclan, Paris 9th June 2026",
         "Channel":  "Astartes",
