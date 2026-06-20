@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "PxarM322Gak",
+        "Title":  "BAND-MAID. Le Bataclan, Paris 9th June 2026",
+        "Channel":  "Astartes",
+        "ChannelId":  "UCV1cZLNheoOIfiOeFkOuXlg",
+        "Url":  "https://youtu.be/PxarM322Gak",
+        "Thumbnail":  "https://i.ytimg.com/vi/PxarM322Gak/hqdefault.jpg",
+        "PublishedAt":  "2026-06-20T13:21:16.0000000Z",
+        "DiscoveredAt":  "2026-06-20T13:29:17.5855674Z",
+        "Duration":  "01:49:57",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "CVYdZrSdwbs",
+        "Title":  "BAND-MAID / Dilly-Dally (Official Live Video) REACTION",
+        "Channel":  "Alexa Takes A Look",
+        "ChannelId":  "UCnZtYNtVW9aFc66sxoOQ0RA",
+        "Url":  "https://youtu.be/CVYdZrSdwbs",
+        "Thumbnail":  "https://i.ytimg.com/vi/CVYdZrSdwbs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-20T13:00:32.0000000Z",
+        "DiscoveredAt":  "2026-06-20T13:29:16.8925799Z",
+        "Duration":  "00:08:51",
+        "ViewsAtDiscovery":  26,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ceQE7UEeXqg",
         "Title":  "BAND-MAID - FIRST TIME HEARING - CROSS - OFFICIAL LIVE VIDEO | UK SINGER KEV REACTS",
         "Channel":  "KEVINTY7",
