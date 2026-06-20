@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KJJtUkz8xi0",
+        "Title":  "🇯🇵 BAND-MAID –「Onset」| アメリカ人ドラマー初見リアクション",
+        "Channel":  "Rea Reacts JP",
+        "ChannelId":  "UCJw7aqL3uWdG3lO7cmr8jcw",
+        "Url":  "https://youtu.be/KJJtUkz8xi0",
+        "Thumbnail":  "https://i.ytimg.com/vi/KJJtUkz8xi0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-20T09:00:38.0000000Z",
+        "DiscoveredAt":  "2026-06-20T09:23:54.9954947Z",
+        "Duration":  "00:10:51",
+        "ViewsAtDiscovery":  29,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Tv5tdZzJlHE",
+        "Title":  "【MASHUP】BAND MAID  Turn me on vs BAND MAID  Take me higher ! !",
+        "Channel":  "@ おみそ",
+        "ChannelId":  "UC16D1ImkJsiwW7bhQiey6Yw",
+        "Url":  "https://youtu.be/Tv5tdZzJlHE",
+        "Thumbnail":  "https://i.ytimg.com/vi/Tv5tdZzJlHE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-20T09:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-20T09:23:54.3908419Z",
+        "Duration":  "00:03:52",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DLNtb1h8tWg",
         "Title":  "Reacting to Band Maid | UNLEASHED | OLV |",
         "Channel":  "Kyros Reactions",
