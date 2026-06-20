@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 05:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 06:51:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] those who don’t know well about Band-Maid.</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mop6v6vt432q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mop6v6vt432q</guid>
+      <pubDate>Sat, 20 Jun 2026 06:06:37 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>those who don’t know well about Band-Maid.<br/><br/>Saiki: That’s right. We got fired up even more when the video was completed, and we were really like “Yes, yes, this is what we wanted!” (laughs)<br/><br/>Miku Kobato: You know, there are scenes in the beginning where we appear one by one, po. Each of them is link</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Song: Unleash!!!!!</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mop6v3xw4i2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mop6v3xw4i2z</guid>
+      <pubDate>Sat, 20 Jun 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Unleash!!!!!<br/>Album: Unleash<br/>Release: 9/20/2022<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku], 彩姫 [Saiki]<br/>Arrangement: BAND-MAID<br/>1st Live:8/16/2022<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID / ENERGETIC (Official Teaser Video)</title>
       <link>https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3mop266yirc2o</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago Band-Maid played 6 songs at shibuya eggman in Tokyo JP on 2015/6/10. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played 6 songs at Music Club JANUS in Osaka JP on 2016...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mnvzto6j4i2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mnvzto6j4i2z</guid>
-      <pubDate>Wed, 10 Jun 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played 6 songs at Music Club JANUS in Osaka JP on 2016/6/10. The opening song was the non-fiction days.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 11 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mnvwaqklrk2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mnvwaqklrk2p</guid>
-      <pubDate>Wed, 10 Jun 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>11 years ago<br/>Don&#39;t let me down<br/>live debut<br/>shibuya eggman, Tokyo, Japan<br/>2015/6/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
