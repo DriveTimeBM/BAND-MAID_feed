@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 16:33:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 05:20:04 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID / ENERGETIC (Official Teaser Video)</title>
+      <link>https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3mop266yirc2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3mop266yirc2o</guid>
+      <pubDate>Sat, 20 Jun 2026 04:42:10 GMT</pubDate>
+      <dc:creator>さかざき(`^´69) (red-herring-11250.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID / ENERGETIC (Official Teaser Video)<br/>youtube.com/shorts/cKmZP...<br/>イントロだけで気持ちええ</p><p><em>BlueSky &middot; red-herring-11250.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I'm #now_listening_to "Why Why Why" by BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3monkcccpz22a</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago<br/>Don&#39;t let me down<br/>live debut<br/>shibuya eggman, Tokyo, Japan<br/>2015/6/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 【※日本語字幕対応】 SE "Rock Lady" Limited Edition | PRS Guitars Japan</title>
-      <link>https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mnvksu2wkc2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mnvksu2wkc2i</guid>
-      <pubDate>Wed, 10 Jun 2026 01:30:50 GMT</pubDate>
-      <dc:creator>佐藤英男 (sato-hideo.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>【※日本語字幕対応】 SE &quot;Rock Lady&quot; Limited Edition | PRS Guitars Japan<br/>www.youtube.com/watch?v=_3O5...<br/>この動画はKanami (BADN-MAID) とJack Higginbotham (PRS Chief Operating Officer) による製品解説動画になります。<br/>#PRSGuitars #Kanami #BandMaid #RockLady #PRSSE</p><p><em>BlueSky &middot; sato-hideo.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
