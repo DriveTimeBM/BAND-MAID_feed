@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Cpv6CtdGoI8",
+        "Title":  "BAND-MAID / ENERGETIC & Days (EU Tour 2026)",
+        "Channel":  "Ohrenje",
+        "ChannelId":  "UCuuctf2ICSjbkuLHv87Uc8A",
+        "Url":  "https://youtu.be/Cpv6CtdGoI8",
+        "Thumbnail":  "https://i.ytimg.com/vi/Cpv6CtdGoI8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-21T21:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-21T21:21:56.0742483Z",
+        "Duration":  "00:08:06",
+        "ViewsAtDiscovery":  84,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zM02pwSKas8",
         "Title":  "First Look | BAND-MAID - Shambles | At AOS216 Reacts Drive-In",
         "Channel":  "AOS216Reacts",
