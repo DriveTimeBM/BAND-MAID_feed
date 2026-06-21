@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 06:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 06:31:19 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 11 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2015/6...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3moroxv66wa22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3moroxv66wa22</guid>
+      <pubDate>Sun, 21 Jun 2026 05:59:46 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>11 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2015/6/21. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 10 years ago Band-Maid played 8 songs at KYOTO MOJO in Kyoto JP on 2016/6/21....</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3moroxth74p2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3moroxth74p2a</guid>
+      <pubDate>Sun, 21 Jun 2026 05:59:44 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>10 years ago Band-Maid played 8 songs at KYOTO MOJO in Kyoto JP on 2016/6/21. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 11 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3morleuceze23</link>
@@ -890,24 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid, &quot;Just Bring It&quot;. I betcha can&#39;t listen to it just once.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Rock is a Lady's Modesty introduced me to this five year old song and my brai...</title>
-      <link>https://bsky.app/profile/did:plc:4tepv2ffnncc6ahvpjogsv7y/post/3mnxktxmnzs2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4tepv2ffnncc6ahvpjogsv7y/post/3mnxktxmnzs2k</guid>
-      <pubDate>Wed, 10 Jun 2026 20:36:47 GMT</pubDate>
-      <dc:creator>🏳️‍⚧️ Bog Witch Girl 🏳️‍⚧️ (bogwitch-girl.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Rock is a Lady&#39;s Modesty introduced me to this five year old song and my brain is fixated on it now<br/><br/>I&#39;m so proud of Tina for playing this to, as the girls rather explicitly say, whip out her cock too<br/><br/>www.youtube.com/watch?v=oTFH...<br/><br/>here&#39;s to a season 2 with BAND-MAID performing again in... 2029?</p><p><em>BlueSky &middot; bogwitch-girl.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] to: We had talked about wanting a song like that at the meeting, and since it...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnw27xp4hs2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnw27xp4hs2p</guid>
-      <pubDate>Wed, 10 Jun 2026 06:06:36 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>to: We had talked about wanting a song like that at the meeting, and since it has been said for some time that there are almost no songs that can be called ballads in BAND-MAID, we had hoped to take this opportunity to make one such song. The timing of the tour coincided with the U.S. tour, and KANA</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
