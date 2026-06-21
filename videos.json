@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "GqcxQE7l7lU",
+        "Title":  "Band Maid Brand New Road (Audio) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/GqcxQE7l7lU",
+        "Thumbnail":  "https://i.ytimg.com/vi/GqcxQE7l7lU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-21T15:35:13.0000000Z",
+        "DiscoveredAt":  "2026-06-21T15:44:18.8580560Z",
+        "Duration":  "00:03:50",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "lob7OROlQPo",
+        "Title":  "Flutist reacts: Dilemma?! Where?|BAND-MAID, Dilemma",
+        "Channel":  "NittPicc",
+        "ChannelId":  "UCXj2vn4DScTLfa2Dtw3f5HA",
+        "Url":  "https://youtu.be/lob7OROlQPo",
+        "Thumbnail":  "https://i.ytimg.com/vi/lob7OROlQPo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-21T15:00:15.0000000Z",
+        "DiscoveredAt":  "2026-06-21T15:44:18.3237751Z",
+        "Duration":  "00:24:41",
+        "ViewsAtDiscovery":  99,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Ehw2kNVsC4s",
         "Title":  "BAND-MAID WORLD TOUR 2026 Paris BATACLANお給仕レポート: European Tour Day4 (Live Report)",
         "Channel":  "いちお盟主のつぶやき",
