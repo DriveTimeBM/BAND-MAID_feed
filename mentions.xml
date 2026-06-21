@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 06:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 07:01:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] — It is also nice to have a song like "Take me higher!!" that more closely fo...</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3morpdz45qg2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3morpdz45qg2u</guid>
+      <pubDate>Sun, 21 Jun 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>— It is also nice to have a song like &quot;Take me higher!!&quot; that more closely follows the themes of BAND-MAID up to now. You also firmly put your determination as a band into the lyrics.<br/><br/>Kanami: There is a feeling of our usual straightforward seeming approach, isn’t there?<br/><br/>Miku: Yup. After all I thou</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Song: Take me higher!!</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3morpdyr7mx2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3morpdyr7mx2q</guid>
+      <pubDate>Sun, 21 Jun 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Take me higher!!<br/>Album: Just Bring It<br/>Release: 1/10/2017<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku] 彩姫 [Saiki]<br/>Arrangement: BAND-MAID TIENOWA<br/>1st Live:1/8/2017<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 11 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2015/6...</title>
       <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3moroxv66wa22</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at duo MUSIC EXCHANGE in Tokyo JP on 2014/6/11. The opening song was Ai to Jonetsu no Matador.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Off to London today to see BAND-MAID</title>
-      <link>https://bsky.app/profile/did:plc:mv6cadbnw6j2dltfkjk2xloj/post/3mnykbc6fik2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mv6cadbnw6j2dltfkjk2xloj/post/3mnykbc6fik2r</guid>
-      <pubDate>Thu, 11 Jun 2026 05:59:00 GMT</pubDate>
-      <dc:creator>Matthew Jennifer Tinn (onosume.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Off to London today to see BAND-MAID</p><p><em>BlueSky &middot; onosume.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid, "Just Bring It". I betcha can't listen to it just once.</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mnxw5xvqoc2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mnxw5xvqoc2s</guid>
-      <pubDate>Wed, 10 Jun 2026 23:59:14 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid, &quot;Just Bring It&quot;. I betcha can&#39;t listen to it just once.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
