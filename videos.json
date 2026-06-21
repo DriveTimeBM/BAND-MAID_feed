@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "87irwX39gD0",
+        "Title":  "We visited 3 of BAND-MAID's European shows... (GIG CHAT)",
+        "Channel":  "Ears To The East",
+        "ChannelId":  "UCv9f-JJy6z3E_zs6x1CshXw",
+        "Url":  "https://youtu.be/87irwX39gD0",
+        "Thumbnail":  "https://i.ytimg.com/vi/87irwX39gD0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-21T05:42:59.0000000Z",
+        "DiscoveredAt":  "2026-06-21T06:00:35.8333757Z",
+        "Duration":  "00:34:46",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ybskBesQi3E",
         "Title":  "First Time to Band-Maid Reacting to Alone",
         "Channel":  "The Smith House Reactions",
