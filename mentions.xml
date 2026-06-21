@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 08:34:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 17:47:26 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 🎥 Our REACTION is live! This BAND-MAID “HATE” live performance hit hard!</title>
+      <link>https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mossggaalq2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mossggaalq2c</guid>
+      <pubDate>Sun, 21 Jun 2026 16:34:14 GMT</pubDate>
+      <dc:creator>AngelTalion (angeltalion.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>🎥 Our REACTION is live! This BAND-MAID “HATE” live performance hit hard!<br/><br/>What part caught you off guard in the best way?<br/><br/>https://www.youtube.com/watch?v=xrD7DyfQ8a4&amp;list=PL7MzXPGtHwvCpOtbZmSz5FAt_oLkjooMn</p><p><em>BlueSky &middot; angeltalion.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
       <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3morvjzzmjq2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>Art of Goulwen R (art_of_goulwenr@mastodon.art)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>11.2km/h on 3km https://mastodon.art/tags/thursdayrun https://mastodon.art/tags/bandmaid https://mastodon.art/tags/domination https://mastodon.art/tags/run3k</p><p><em>Mastodon &middot; art_of_goulwenr@mastodon.art</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] Band Maid live Bataclan https://mastodon.art/tags/bandmaid https://mastodon.a...</title>
-      <link>https://mastodon.art/@art_of_goulwenr/116730079259713785</link>
-      <guid isPermaLink="true">https://mastodon.art/@art_of_goulwenr/116730079259713785</guid>
-      <pubDate>Thu, 11 Jun 2026 06:34:16 GMT</pubDate>
-      <dc:creator>Art of Goulwen R (art_of_goulwenr@mastodon.art)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>Band Maid live Bataclan https://mastodon.art/tags/bandmaid https://mastodon.art/tags/live https://mastodon.art/tags/bataclan https://mastodon.art/tags/moemoekyun https://mastodon.art/tags/omajinaitime<br/><br/>https://youtube.com/watch?v=eaghxuSC6Yc</p><p><em>Mastodon &middot; art_of_goulwenr@mastodon.art</em></p>]]></description>
     </item>
   </channel>
 </rss>
