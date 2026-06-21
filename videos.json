@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RPfLpy-hSPI",
+        "Title":  "Thrill | Band-Maid | Karaoke Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/RPfLpy-hSPI",
+        "Thumbnail":  "https://i.ytimg.com/vi/RPfLpy-hSPI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-21T08:09:02.0000000Z",
+        "DiscoveredAt":  "2026-06-21T08:34:03.5189010Z",
+        "Duration":  "00:04:11",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "TNkfingxPpQ",
         "Title":  "BAND-MAID with The Warning / SHOW THEM(Official Music Video) Reaction",
         "Channel":  "The Overreacters",
