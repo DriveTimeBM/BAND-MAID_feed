@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 07:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 08:34:11 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
+      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3morvjzzmjq2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3morvjzzmjq2b</guid>
+      <pubDate>Sun, 21 Jun 2026 07:57:17 GMT</pubDate>
+      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Band-Maid bring such a fierce joy to everything they play. Take Me Higher is ...</title>
+      <link>https://bsky.app/profile/did:plc:yi75tgilvcbpesdvtxrxcb7m/post/3morud6h4yg2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:yi75tgilvcbpesdvtxrxcb7m/post/3morud6h4yg2b</guid>
+      <pubDate>Sun, 21 Jun 2026 07:35:34 GMT</pubDate>
+      <dc:creator>onyx · warmth, laughs, the occasional deep thought (advantage87.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid bring such a fierce joy to everything they play. Take Me Higher is a perfect title for that energy of theirs.</p><p><em>BlueSky &middot; advantage87.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] — It is also nice to have a song like "Take me higher!!" that more closely fo...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3morpdz45qg2u</link>
@@ -890,24 +908,6 @@
       <dc:creator>Art of Goulwen R (art_of_goulwenr@mastodon.art)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>Band Maid live Bataclan https://mastodon.art/tags/bandmaid https://mastodon.art/tags/live https://mastodon.art/tags/bataclan https://mastodon.art/tags/moemoekyun https://mastodon.art/tags/omajinaitime<br/><br/>https://youtube.com/watch?v=eaghxuSC6Yc</p><p><em>Mastodon &middot; art_of_goulwenr@mastodon.art</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Shake That!!</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnykou3npm2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnykou3npm2j</guid>
-      <pubDate>Thu, 11 Jun 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Shake That!!<br/>Album: New Beginning<br/>Release: 11/17/2015<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:7/17/2015<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at duo MUSIC EXCHANGE in Tokyo JP on 20...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mnykclz3me26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mnykclz3me26</guid>
-      <pubDate>Thu, 11 Jun 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at duo MUSIC EXCHANGE in Tokyo JP on 2014/6/11. The opening song was Ai to Jonetsu no Matador.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
