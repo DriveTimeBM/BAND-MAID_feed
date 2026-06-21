@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "TNkfingxPpQ",
+        "Title":  "BAND-MAID with The Warning / SHOW THEM(Official Music Video) Reaction",
+        "Channel":  "The Overreacters",
+        "ChannelId":  "UCHTkIZsGGZ2wOjZH9yiocVA",
+        "Url":  "https://youtu.be/TNkfingxPpQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/TNkfingxPpQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-21T07:00:16.0000000Z",
+        "DiscoveredAt":  "2026-06-21T07:01:50.9331449Z",
+        "Duration":  "00:04:12",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "d2QklIfmRmo",
+        "Title":  "Thrill | Band-Maid | Karaoke Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/d2QklIfmRmo",
+        "Thumbnail":  "https://i.ytimg.com/vi/d2QklIfmRmo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-21T06:41:22.0000000Z",
+        "DiscoveredAt":  "2026-06-21T07:01:50.4128622Z",
+        "Duration":  "00:04:11",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZpJuieG1txQ",
         "Title":  "Shambles - Band Maid World Tour 2026 #01",
         "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
