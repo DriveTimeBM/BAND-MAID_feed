@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 12:58:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 06:00:41 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 11 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3morleuceze23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3morleuceze23</guid>
+      <pubDate>Sun, 21 Jun 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>11 years ago<br/>Don&#39;t apply the brake<br/>live debut<br/>Shibuya Eggman, Tokyo, Japan<br/>2015/6/21<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Friday at Download Festival 2026: Scene Queen, Lake Malice, Halestorm and Ban...</title>
       <link>https://bsky.app/profile/did:plc:7gjx7bkaw6gvn23l3pc4zkvy/post/3mopsn3irjg2y</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>to: We had talked about wanting a song like that at the meeting, and since it has been said for some time that there are almost no songs that can be called ballads in BAND-MAID, we had hoped to take this opportunity to make one such song. The timing of the tour coincided with the U.S. tour, and KANA</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Memorable</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnw27um2mz2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mnw27um2mz2n</guid>
-      <pubDate>Wed, 10 Jun 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Memorable<br/>Album: Epic Narratives<br/>Release: 2/21/2023<br/>Music: BAND-MAID<br/>Lyrics: Kobato &amp; Saiki<br/>Arrangement: BAND-MAID<br/>1st Live:1/8/2023<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
