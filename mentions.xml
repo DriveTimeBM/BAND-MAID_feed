@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 17:47:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 20:20:41 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Incidentally, my Top 5 J Rock bands</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mot2scffz22e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mot2scffz22e</guid>
+      <pubDate>Sun, 21 Jun 2026 19:04:04 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Incidentally, my Top 5 J Rock bands<br/><br/>1: Band-Maid<br/>2=Atozome<br/>Glim Spanky<br/>NEK!<br/>Scandal</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 🎥 Our REACTION is live! This BAND-MAID “HATE” live performance hit hard!</title>
       <link>https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mossggaalq2c</link>
@@ -899,15 +908,6 @@
       <dc:creator>The Puro Pourri Podcast (puropodcast.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Got a spare ticket for Band-Maid at Electric Brixton tonight, hmu if you want to take it off my hands</p><p><em>BlueSky &middot; puropodcast.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] 11.2km/h on 3km https://mastodon.art/tags/thursdayrun https://mastodon.art/ta...</title>
-      <link>https://mastodon.art/@art_of_goulwenr/116730223160899766</link>
-      <guid isPermaLink="true">https://mastodon.art/@art_of_goulwenr/116730223160899766</guid>
-      <pubDate>Thu, 11 Jun 2026 07:10:52 GMT</pubDate>
-      <dc:creator>Art of Goulwen R (art_of_goulwenr@mastodon.art)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>11.2km/h on 3km https://mastodon.art/tags/thursdayrun https://mastodon.art/tags/bandmaid https://mastodon.art/tags/domination https://mastodon.art/tags/run3k</p><p><em>Mastodon &middot; art_of_goulwenr@mastodon.art</em></p>]]></description>
     </item>
   </channel>
 </rss>
