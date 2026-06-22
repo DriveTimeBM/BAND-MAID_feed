@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3L7D4BBc-Wc",
+        "Title":  "This One Is Stuck in My Head Already… | BAND-MAID Reaction",
+        "Channel":  "Shep Talk",
+        "ChannelId":  "UCmbsJeIg5WD0RSMuHV5v4Vw",
+        "Url":  "https://youtu.be/3L7D4BBc-Wc",
+        "Thumbnail":  "https://i.ytimg.com/vi/3L7D4BBc-Wc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-22T13:00:24.0000000Z",
+        "DiscoveredAt":  "2026-06-22T13:09:05.0478558Z",
+        "Duration":  "00:06:25",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "moc1CWgR1aM",
+        "Title":  "Reaction! Don't you tell ME - BAND-MAID",
+        "Channel":  "Rockin' with Matt",
+        "ChannelId":  "UCruBX3uPne2xBlLZOo950bA",
+        "Url":  "https://youtu.be/moc1CWgR1aM",
+        "Thumbnail":  "https://i.ytimg.com/vi/moc1CWgR1aM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-22T13:00:13.0000000Z",
+        "DiscoveredAt":  "2026-06-22T13:09:04.5650287Z",
+        "Duration":  "00:16:30",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "leFqiYbTGH0",
         "Title":  "BAND-MAID / without holding back (Official Live Video) - BAND-MAID REACTION #bandmaid",
         "Channel":  "K-Ross Reacts",
