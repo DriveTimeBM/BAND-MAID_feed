@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dGF8LU7yB-g",
+        "Title":  "🔥 BAND-MAIKO / 祇園町 \"Gion-cho\" (Official Music Video) Reaction 🔥",
+        "Channel":  "Mike Mosrie",
+        "ChannelId":  "UCbYIHB8IhjoOiUTILynsZFA",
+        "Url":  "https://youtu.be/dGF8LU7yB-g",
+        "Thumbnail":  "https://i.ytimg.com/vi/dGF8LU7yB-g/hqdefault.jpg",
+        "PublishedAt":  "2026-06-22T14:45:18.0000000Z",
+        "DiscoveredAt":  "2026-06-22T15:11:04.5400700Z",
+        "Duration":  "00:05:42",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XKu-bBs7l-Q",
         "Title":  "BAND MAID MONDAY! We Get DIFFERENT",
         "Channel":  "WavesAcrossTheWater",
