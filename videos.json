@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "E1AsnZQdYGU",
+        "Title":  "Band-Maid Reactions Week | 1- Blooming | THAT SOLO IS FIRE!!",
+        "Channel":  "Battoosh & Nonna",
+        "ChannelId":  "UCqpXbKhNpin0c7hl1NvmoKw",
+        "Url":  "https://youtu.be/E1AsnZQdYGU",
+        "Thumbnail":  "https://i.ytimg.com/vi/E1AsnZQdYGU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-22T16:49:56.0000000Z",
+        "DiscoveredAt":  "2026-06-22T17:14:07.7586261Z",
+        "Duration":  "00:13:03",
+        "ViewsAtDiscovery":  56,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dGF8LU7yB-g",
         "Title":  "🔥 BAND-MAIKO / 祇園町 \"Gion-cho\" (Official Music Video) Reaction 🔥",
         "Channel":  "Mike Mosrie",
