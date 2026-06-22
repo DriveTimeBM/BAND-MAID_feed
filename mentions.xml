@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 20:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 03:30:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
+      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3motuvpqgkm2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3motuvpqgkm2m</guid>
+      <pubDate>Mon, 22 Jun 2026 02:51:15 GMT</pubDate>
+      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Incidentally, my Top 5 J Rock bands</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mot2scffz22e</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Got a spare ticket for Band-Maid at Electric Brixton tonight, hmu if you want...</title>
-      <link>https://bsky.app/profile/did:plc:csqjwwphha3ozlfasfc6y7t7/post/3mnz4gheos22w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:csqjwwphha3ozlfasfc6y7t7/post/3mnz4gheos22w</guid>
-      <pubDate>Thu, 11 Jun 2026 11:24:01 GMT</pubDate>
-      <dc:creator>The Puro Pourri Podcast (puropodcast.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Got a spare ticket for Band-Maid at Electric Brixton tonight, hmu if you want to take it off my hands</p><p><em>BlueSky &middot; puropodcast.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
