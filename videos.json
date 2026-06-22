@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "tEFcFfgvVCM",
+        "Title":  "BAND-MAID / Toi et moi (Official Live Video) - Reaction",
+        "Channel":  "Xsezz",
+        "ChannelId":  "UCAgT8Z5ThEyvpl58586myWA",
+        "Url":  "https://youtu.be/tEFcFfgvVCM",
+        "Thumbnail":  "https://i.ytimg.com/vi/tEFcFfgvVCM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-22T23:19:10.0000000Z",
+        "DiscoveredAt":  "2026-06-22T23:21:44.5383584Z",
+        "Duration":  "00:03:45",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "v5pkdsKQCHU",
         "Title":  "Forza Horizon 6: Band-Maid - What Is Justice? (XS Soundtrack)",
         "Channel":  "Soundtracks King ZR1",
