@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "b7z6bkz_S-c",
+        "Title":  "BAND-MAID - Blooming - This Band Is On Another Level! 🤯 Reaction",
+        "Channel":  "Kasey Reacts",
+        "ChannelId":  "UCz-TAdUNEv1cZXt0_kw8bgg",
+        "Url":  "https://youtu.be/b7z6bkz_S-c",
+        "Thumbnail":  "https://i.ytimg.com/vi/b7z6bkz_S-c/hqdefault.jpg",
+        "PublishedAt":  "2026-06-22T18:35:02.0000000Z",
+        "DiscoveredAt":  "2026-06-22T18:46:29.6548430Z",
+        "Duration":  "00:08:27",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qEIjVwMdjdo",
         "Title":  "Present Perfect - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
         "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
