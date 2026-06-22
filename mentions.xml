@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 07:51:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:09:11 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
+      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mouu26w7ap2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mouu26w7ap2m</guid>
+      <pubDate>Mon, 22 Jun 2026 12:08:31 GMT</pubDate>
+      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] in a closet-ppo (laughs).</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mou7sz3w6p22</link>
@@ -899,15 +908,6 @@
       <dc:creator>Keith Sowerby (jamesksowerby.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid returned to the UK last night after a seven year absence , playing to a modest 1500 people at the Electric Brixton. Featured here is a conversation piece between bassist MISA and drummer Akane. It constitutes your Friday Brekkie tune</p><p><em>BlueSky &middot; jamesksowerby.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] This particular live video of Band-Maid Domination where it took a few re-wat...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mo2ubzqaks22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mo2ubzqaks22</guid>
-      <pubDate>Fri, 12 Jun 2026 04:03:42 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>This particular live video of Band-Maid Domination where it took a few re-watches to absorb what I had just seen and heard, and realize that this was something unique. www.youtube.com/watch?v=QbyQ...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
