@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XKu-bBs7l-Q",
+        "Title":  "BAND MAID MONDAY! We Get DIFFERENT",
+        "Channel":  "WavesAcrossTheWater",
+        "ChannelId":  "UC8VWDy9uGVbgrBXwJlRwESQ",
+        "Url":  "https://youtu.be/XKu-bBs7l-Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/XKu-bBs7l-Q/hqdefault.jpg",
+        "PublishedAt":  "2026-06-22T14:00:21.0000000Z",
+        "DiscoveredAt":  "2026-06-22T14:10:02.4801783Z",
+        "Duration":  "00:12:48",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3L7D4BBc-Wc",
         "Title":  "This One Is Stuck in My Head Already… | BAND-MAID Reaction",
         "Channel":  "Shep Talk",
