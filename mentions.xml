@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 18:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 19:06:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Ooooo new BAND-MAID.</title>
+      <link>https://bsky.app/profile/did:plc:6dv5vw74awpxqverxhzv3tty/post/3moxz62sxtc2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6dv5vw74awpxqverxhzv3tty/post/3moxz62sxtc2u</guid>
+      <pubDate>Tue, 23 Jun 2026 18:18:10 GMT</pubDate>
+      <dc:creator>Goji the sleepy (gojibbles.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Ooooo new BAND-MAID.</p><p><em>BlueSky &middot; gojibbles.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] BAND-MAID / ENERGETIC (Official Music Video) youtu.be/NpZjslVGhbE?...</title>
+      <link>https://bsky.app/profile/did:plc:zmxswzrac2u2d6pydmzcbbrs/post/3moxyoximy223</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zmxswzrac2u2d6pydmzcbbrs/post/3moxyoximy223</guid>
+      <pubDate>Tue, 23 Jun 2026 18:09:43 GMT</pubDate>
+      <dc:creator>TF (24c-f.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID / ENERGETIC (Official Music Video) youtu.be/NpZjslVGhbE?... <br/><br/>#BAND-MAID</p><p><em>BlueSky &middot; 24c-f.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - Days</title>
       <link>https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3moxrsvbatk23</link>
@@ -890,24 +908,6 @@
       <dc:creator>Julie 🏳️‍⚧️ (kurenaiju.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Je ne sais pas si &#231;a peut t’int&#233;resser pour le revoir, mais le concert complet a &#233;t&#233; post&#233; sur youtube.<br/><br/>En tout cas, ta setlist matche avec ce qui a &#233;t&#233; post&#233;<br/></p><p><em>BlueSky &middot; kurenaiju.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Je m'excuse sincèrement pour n'avoir pas posté plus tôt ce compte-rendu.</title>
-      <link>https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3mo5zxssxrl2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3mo5zxssxrl2d</guid>
-      <pubDate>Sat, 13 Jun 2026 10:22:38 GMT</pubDate>
-      <dc:creator>Xavier F. (fxmaccobra.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Je m&#39;excuse sinc&#232;rement pour n&#39;avoir pas post&#233; plus t&#244;t ce compte-rendu.<br/>Le temps de tri des photos + des retouches a &#233;t&#233; plus long que pr&#233;vu.<br/>L&#39;&#233;clairage pendant le concert de BAND-MAID &#233;tait souvent faible et avec des lumi&#232;res rouges, cela a pas mal compliqu&#233; le travail. ⤵️</p><p><em>BlueSky &middot; fxmaccobra.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Après l’entracte au cours duquel on installe les instruments, c'est enfin l'e...</title>
-      <link>https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3mo5zwuk7rk2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3mo5zwuk7rk2d</guid>
-      <pubDate>Sat, 13 Jun 2026 10:22:38 GMT</pubDate>
-      <dc:creator>Xavier F. (fxmaccobra.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Apr&#232;s l’entracte au cours duquel on installe les instruments, c&#39;est enfin l&#39;entr&#233;e des temps attendues BAND-MAID sous les acclamations du public.<br/>A peine les artistes sont en place que le show commence. Et on d&#233;marre tr&#232;s fort avec le tr&#232;s &#233;nergique titre &quot;DOMINATION&quot;.<br/>Les soubrettes vont enchainer⤵️</p><p><em>BlueSky &middot; fxmaccobra.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
