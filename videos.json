@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FQeRXnNtJzY",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) REACTION",
+        "Channel":  "Chadeo",
+        "ChannelId":  "UCjLSPiLvfo-1EDEQamZ87KQ",
+        "Url":  "https://youtu.be/FQeRXnNtJzY",
+        "Thumbnail":  "https://i.ytimg.com/vi/FQeRXnNtJzY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T19:45:01.0000000Z",
+        "DiscoveredAt":  "2026-06-23T19:46:43.0886384Z",
+        "Duration":  "00:05:33",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1QZSs-QGufc",
         "Title":  "Reaction to Band Maid / Energetic (Official Music Video)",
         "Channel":  "AcnoGoji2001",
