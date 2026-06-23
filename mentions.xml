@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 19:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 19:38:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] new BAND-MAID so good, i was gonna add it to the oomfie playlist but its not ...</title>
+      <link>https://bsky.app/profile/did:plc:ilxig6vszyjfey6qmanldwfg/post/3moy2uro7yg2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ilxig6vszyjfey6qmanldwfg/post/3moy2uro7yg2l</guid>
+      <pubDate>Tue, 23 Jun 2026 18:48:46 GMT</pubDate>
+      <dc:creator>Thion 🌙 (eldritchmoon.love)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>new BAND-MAID so good, i was gonna add it to the oomfie playlist but its not on streaming yet..</p><p><em>BlueSky &middot; eldritchmoon.love</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Ooooo new BAND-MAID.</title>
       <link>https://bsky.app/profile/did:plc:6dv5vw74awpxqverxhzv3tty/post/3moxz62sxtc2u</link>
@@ -899,15 +908,6 @@
       <dc:creator>Mayonaka Midnighter (mayonakamidnighter.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Always, been listening to Primo the Alien again lately, along with Hanabie, and Band-Maid</p><p><em>BlueSky &middot; mayonakamidnighter.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Je ne sais pas si ça peut t’intéresser pour le revoir, mais le concert comple...</title>
-      <link>https://bsky.app/profile/did:plc:wp7lyaaf76iikgg57ontgtp2/post/3mo62p3omyc3g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wp7lyaaf76iikgg57ontgtp2/post/3mo62p3omyc3g</guid>
-      <pubDate>Sat, 13 Jun 2026 10:36:22 GMT</pubDate>
-      <dc:creator>Julie 🏳️‍⚧️ (kurenaiju.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Je ne sais pas si &#231;a peut t’int&#233;resser pour le revoir, mais le concert complet a &#233;t&#233; post&#233; sur youtube.<br/><br/>En tout cas, ta setlist matche avec ce qui a &#233;t&#233; post&#233;<br/></p><p><em>BlueSky &middot; kurenaiju.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
