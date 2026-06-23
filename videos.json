@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "THRcpJ-6tFQ",
+        "Title":  "Reaction - BAND-MAID - ENERGETIC - MV",
+        "Channel":  "NAR_by_Marek",
+        "ChannelId":  "UC53wjwxrZyoG1w2S3R2PrZw",
+        "Url":  "https://youtu.be/THRcpJ-6tFQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/THRcpJ-6tFQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T21:49:44.0000000Z",
+        "DiscoveredAt":  "2026-06-23T22:14:49.9317476Z",
+        "Duration":  "00:21:23",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "tg-JMvP1kVs",
+        "Title":  "BAND-MAID - ENERGETIC MUSIC REACTION",
+        "Channel":  "Hood Digital Da Rock Reactor",
+        "ChannelId":  "UCKHaikgsu3Nfrhx-Va6rGGw",
+        "Url":  "https://youtu.be/tg-JMvP1kVs",
+        "Thumbnail":  "https://i.ytimg.com/vi/tg-JMvP1kVs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T17:51:26.0000000Z",
+        "DiscoveredAt":  "2026-06-23T22:14:48.3933385Z",
+        "Duration":  "00:08:32",
+        "ViewsAtDiscovery":  54,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "fvZ6WIBTQv8",
         "Title":  "Now that's what I call ENERGETIC!!! | BAND-MAID - ENERGETIC (First Time Reaction)",
         "Channel":  "Jaskur",
