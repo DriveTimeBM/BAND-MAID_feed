@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 21:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 23:47:11 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band Maid  -  Energetic  -  23/06/2026.</title>
+      <link>https://bsky.app/profile/did:plc:33vumx4d6hlf5fcggkqehhe3/post/3moyhqmjmdk2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:33vumx4d6hlf5fcggkqehhe3/post/3moyhqmjmdk2w</guid>
+      <pubDate>Tue, 23 Jun 2026 22:39:05 GMT</pubDate>
+      <dc:creator>J-pop Brasil (mundojpopbrasil.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band Maid  -  Energetic  -  23/06/2026.<br/>youtu.be/NpZjslVGhbE?...</p><p><em>BlueSky &middot; mundojpopbrasil.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 新曲ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!</title>
+      <link>https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3moyhis7j3s2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3moyhis7j3s2e</guid>
+      <pubDate>Tue, 23 Jun 2026 22:34:42 GMT</pubDate>
+      <dc:creator>さかざき(`^´69) (red-herring-11250.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>新曲ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!<br/>新衣装もかわいい！かっこいい！！<br/><br/>BAND-MAID / ENERGETIC (Official Music Video)<br/>youtu.be/NpZjslVGhbE?...</p><p><em>BlueSky &middot; red-herring-11250.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] New Band-Maid!</title>
       <link>https://bsky.app/profile/did:plc:gu3sevqx4h76mbupxuehjmw2/post/3moyb4htk6c2x</link>
@@ -890,24 +908,6 @@
       <dc:creator>OBiW4NSHiNOBi (OBiW4NSHiNOBi)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>Hugely grateful that I got to see BAND-MAID live in London, I just wish that H could have been there with me. They were every bit as good as I had hoped, genuinely funny &amp; charismatic.<br/><br/>There was some drama with a couple of people collapsing (it was overcrowded &amp; awfully hot) but glad they were ok; the band&#39;s concern was palpable.<br/><br/>H did ask me to take as many pictures as I could, but I couldn&#39;t take my camera in &amp; I didn&#39;t want to be one of those guys watching the gig through a phone. https://mastodon.social/tags/bandmaid</p><p><em>Mastodon &middot; OBiW4NSHiNOBi</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Hibana</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3moa43kmp4p27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3moa43kmp4p27</guid>
-      <pubDate>Sun, 14 Jun 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Hibana<br/>Album: Sense<br/>Release: 10/26/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:8/16/2022<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 18 songs at LIQUIDROOM in Tokyo JP on 2017/6/14....</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3moa3pdjrwv2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3moa3pdjrwv2j</guid>
-      <pubDate>Sun, 14 Jun 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 18 songs at LIQUIDROOM in Tokyo JP on 2017/6/14. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
