@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "pG7hCiEuPNs",
+        "Title":  "UNPACKING BAND-MAID’S ENERGETIC!",
+        "Channel":  "MAID NEWS NETWORK",
+        "ChannelId":  "UCoGH2sqzaxLjcWpkzn83cZg",
+        "Url":  "https://youtu.be/pG7hCiEuPNs",
+        "Thumbnail":  "https://i.ytimg.com/vi/pG7hCiEuPNs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T14:46:56.0000000Z",
+        "DiscoveredAt":  "2026-06-23T14:51:33.6692960Z",
+        "Duration":  "00:06:25",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2w303fk-kms",
         "Title":  "Band-Maid Reactions Week | 2- I'll Live (Live)",
         "Channel":  "Battoosh & Nonna",
