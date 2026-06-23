@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "fvZ6WIBTQv8",
+        "Title":  "Now that's what I call ENERGETIC!!! | BAND-MAID - ENERGETIC (First Time Reaction)",
+        "Channel":  "Jaskur",
+        "ChannelId":  "UC4rMML0xN5quOP-Ddrfs0PQ",
+        "Url":  "https://youtu.be/fvZ6WIBTQv8",
+        "Thumbnail":  "https://i.ytimg.com/vi/fvZ6WIBTQv8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T21:00:05.0000000Z",
+        "DiscoveredAt":  "2026-06-23T21:13:11.8921899Z",
+        "Duration":  "00:07:09",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "8mfA9UibYak",
+        "Title":  "Band-Maid - Energetic [1st X Reaction]",
+        "Channel":  "REn-ACTIONS: The No Pause Channel",
+        "ChannelId":  "UCj6IsA8ATQf9EykVX4h4W7Q",
+        "Url":  "https://youtu.be/8mfA9UibYak",
+        "Thumbnail":  "https://i.ytimg.com/vi/8mfA9UibYak/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T20:42:17.0000000Z",
+        "DiscoveredAt":  "2026-06-23T21:13:11.1593067Z",
+        "Duration":  "00:07:13",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "FQeRXnNtJzY",
         "Title":  "BAND-MAID / ENERGETIC (Official Music Video) REACTION",
         "Channel":  "Chadeo",
