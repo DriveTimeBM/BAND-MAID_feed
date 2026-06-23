@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 15:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 15:53:22 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] A new song by BAND-MAID. 🤘 🇯🇵 👍</title>
+      <link>https://social.tchncs.de/@dodger/116800198972787484</link>
+      <guid isPermaLink="true">https://social.tchncs.de/@dodger/116800198972787484</guid>
+      <pubDate>Tue, 23 Jun 2026 15:46:38 GMT</pubDate>
+      <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>A new song by BAND-MAID. 🤘 🇯🇵 👍 <br/><br/>https://www.youtube.com/watch?v=NpZjslVGhbE<br/><br/>https://social.tchncs.de/tags/music https://social.tchncs.de/tags/jrock https://social.tchncs.de/tags/bandmaid</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Brand new Band Maid</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3moxoj5eaps2t</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago Band-Maid played 4 songs at MOSAiC in Tokyo JP on 2015/6/13. The opening song was Arcadia Girl.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Went to see BAND-MAID live. Some of their songs include the OP themes to Rock...</title>
-      <link>https://bsky.app/profile/did:plc:qkkbk3fvbqtm3rln3ducestl/post/3mo4hlut3vs2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qkkbk3fvbqtm3rln3ducestl/post/3mo4hlut3vs2r</guid>
-      <pubDate>Fri, 12 Jun 2026 19:21:53 GMT</pubDate>
-      <dc:creator>Kikoman589 ☀️ (kikoman589.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Went to see BAND-MAID live. Some of their songs include the OP themes to Rock Is a Lady&#39;s Modesty and Platinum End but they made a lot of other good tracks. It was fun. Here&#39;s a bit of &quot;Ready to Rock&quot; and then &quot;Unleash!!!!!&quot;.<br/><br/>[Flashing lights; audio only on the right for some reason]</p><p><em>BlueSky &middot; kikoman589.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
