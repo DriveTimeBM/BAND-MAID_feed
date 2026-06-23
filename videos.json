@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "egI3SiLVCEM",
+        "Title":  "BAND-MAID ONSET LIVE REACTION",
+        "Channel":  "Fablinker Music ",
+        "ChannelId":  "UCjOpL5AikVc_2fcRg08dIgg",
+        "Url":  "https://youtu.be/egI3SiLVCEM",
+        "Thumbnail":  "https://i.ytimg.com/vi/egI3SiLVCEM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T10:00:36.0000000Z",
+        "DiscoveredAt":  "2026-06-23T10:30:32.4904865Z",
+        "Duration":  "00:06:54",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VAJdzEc84zw",
         "Title":  "Babymetal Amazing live performance, band maid,  turn me on,  music reaction,  diving in ",
         "Channel":  "diving in- with avishai ",
