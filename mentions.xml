@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 19:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:11:33 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] New Music Alert! 🇯🇵  BAND-MAID New Single “ENERGETIC”</title>
+      <link>https://bsky.app/profile/did:plc:ypsbjyo6omefnyp3jgx4xbyv/post/3moy3z37b3c2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ypsbjyo6omefnyp3jgx4xbyv/post/3moy3z37b3c2u</guid>
+      <pubDate>Tue, 23 Jun 2026 19:09:04 GMT</pubDate>
+      <dc:creator>Tokyo Noizu - Japanese Rock &amp; Metal Music (tokyonoizu.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>New Music Alert! 🇯🇵  BAND-MAID New Single “ENERGETIC” <br/><br/>The internationally acclaimed rock outfit have announced the release of their new single, ENERGETIC, arriving on 24 June alongside an official music video.<br/><br/>Read more: tokyonoizu.com<br/><br/>#japan #metalheads #bandmaid</p><p><em>BlueSky &middot; tokyonoizu.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] new BAND-MAID so good, i was gonna add it to the oomfie playlist but its not ...</title>
       <link>https://bsky.app/profile/did:plc:ilxig6vszyjfey6qmanldwfg/post/3moy2uro7yg2l</link>
@@ -899,15 +908,6 @@
       <dc:creator>老熊 (anoldbearjpn.threads.net.ap.brid.gy)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>MUSIC AWARDS JAPANへの不満を投稿しているところに、DOWNLOAD FESTIVAL終わりのBANDMAIDの投稿が流れてきた。それでいい。</p><p><em>BlueSky &middot; anoldbearjpn.threads.net.ap.brid.gy</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Always, been listening to Primo the Alien again lately, along with Hanabie, a...</title>
-      <link>https://bsky.app/profile/did:plc:gaawhk7l67omgagcv4xc3tp4/post/3mo6mktj4ps2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gaawhk7l67omgagcv4xc3tp4/post/3mo6mktj4ps2q</guid>
-      <pubDate>Sat, 13 Jun 2026 15:56:06 GMT</pubDate>
-      <dc:creator>Mayonaka Midnighter (mayonakamidnighter.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Always, been listening to Primo the Alien again lately, along with Hanabie, and Band-Maid</p><p><em>BlueSky &middot; mayonakamidnighter.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
