@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DzPdPIKWYY0",
+        "Title":  "BAND-MAID - Energetic (Official Music Video)",
+        "Channel":  "Pappy's Channel",
+        "ChannelId":  "UCYok5F7c2kHJP36zH9GgEng",
+        "Url":  "https://youtu.be/DzPdPIKWYY0",
+        "Thumbnail":  "https://i.ytimg.com/vi/DzPdPIKWYY0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T16:14:56.0000000Z",
+        "DiscoveredAt":  "2026-06-23T16:23:51.0619729Z",
+        "Duration":  "00:03:27",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "APgB_gP7lo8",
+        "Title":  "Metal Guitarist Reacts to  NEW BAND-MAID / ENERGETIC",
+        "Channel":  "APOKALYPSE34",
+        "ChannelId":  "UCBt3JX654OyVDFwYUtZFkDw",
+        "Url":  "https://youtu.be/APgB_gP7lo8",
+        "Thumbnail":  "https://i.ytimg.com/vi/APgB_gP7lo8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T16:01:58.0000000Z",
+        "DiscoveredAt":  "2026-06-23T16:23:49.6437259Z",
+        "Duration":  "00:14:28",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Wn7Fef2NuIc",
         "Title":  "🎀🎀🎀🎀🎀 BAND MAID - ENERGETIC Official Music Video - Dave M 🎀🎀🎀🎀🎀",
         "Channel":  "Dave M",
