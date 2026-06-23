@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KJ3fhiKRKIg",
+        "Title":  "Dilly-Dally/ Band-maid au Bataclan 2026",
+        "Channel":  "Olivier Lacombe",
+        "ChannelId":  "UC97pYT5c1WQu_iEQgMO4g2Q",
+        "Url":  "https://youtu.be/KJ3fhiKRKIg",
+        "Thumbnail":  "https://i.ytimg.com/vi/KJ3fhiKRKIg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T18:54:25.0000000Z",
+        "DiscoveredAt":  "2026-06-23T19:06:46.1748345Z",
+        "Duration":  "00:03:51",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "f8yFw5pF3OU",
+        "Title":  "BAND-MAID / ENERGETIC [Official Music Video] | Reaction",
+        "Channel":  "Victor  vic48up  Contreras",
+        "ChannelId":  "UC3eTmzX04lKhfCBQQdBTSHg",
+        "Url":  "https://youtu.be/f8yFw5pF3OU",
+        "Thumbnail":  "https://i.ytimg.com/vi/f8yFw5pF3OU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T18:39:24.0000000Z",
+        "DiscoveredAt":  "2026-06-23T19:06:44.4889814Z",
+        "Duration":  "00:03:24",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Yif-Rv4F1HA",
         "Title":  "endless Story - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
         "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
