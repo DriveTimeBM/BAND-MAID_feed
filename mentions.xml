@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 07:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 11:31:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
+      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3movgovajlc2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3movgovajlc2l</guid>
+      <pubDate>Mon, 22 Jun 2026 17:42:13 GMT</pubDate>
+      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Carry on living</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mowqbtepjx2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Lavender Courage (lavendercourage.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID were absolutely incredible live. I started listening to them after Rock Lady came out and they sang the OP. Getting to experience their talent in person was out of this world.</p><p><em>BlueSky &middot; lavendercourage.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID last night was a very fun time. Because their music is good you for...</title>
-      <link>https://bsky.app/profile/did:plc:mv6cadbnw6j2dltfkjk2xloj/post/3mo3cpejjak2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mv6cadbnw6j2dltfkjk2xloj/post/3mo3cpejjak2p</guid>
-      <pubDate>Fri, 12 Jun 2026 08:21:42 GMT</pubDate>
-      <dc:creator>Matthew Jennifer Tinn (onosume.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID last night was a very fun time. Because their music is good you forget they are a band that wears maid costumes but they definitely have a quirky vibe live.</p><p><em>BlueSky &middot; onosume.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
