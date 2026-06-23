@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 21:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:43:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] New Band-Maid!</title>
+      <link>https://bsky.app/profile/did:plc:gu3sevqx4h76mbupxuehjmw2/post/3moyb4htk6c2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gu3sevqx4h76mbupxuehjmw2/post/3moyb4htk6c2x</guid>
+      <pubDate>Tue, 23 Jun 2026 20:40:26 GMT</pubDate>
+      <dc:creator>StrayCatalyst (straycatalyst.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>New Band-Maid!<br/>www.youtube.com/watch?v=NpZj...</p><p><em>BlueSky &middot; straycatalyst.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] New music from Band-Maid today. ENERGETIC.</title>
+      <link>https://bsky.app/profile/did:plc:fditzqbr2tyxww7j2rpa4gjs/post/3moyb2z3oyc24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fditzqbr2tyxww7j2rpa4gjs/post/3moyb2z3oyc24</guid>
+      <pubDate>Tue, 23 Jun 2026 20:39:37 GMT</pubDate>
+      <dc:creator>Mark (mysoulstears.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p> New music from Band-Maid today. ENERGETIC.<br/>www.youtube.com/watch?v=NpZj...</p><p><em>BlueSky &middot; mysoulstears.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] As músicas do Band Maid já estão disponíveis no Spotify pro Brasil? Antes era...</title>
       <link>https://bsky.app/profile/did:plc:2agy2fppx756epioqoikwyzp/post/3moy7ds47f227</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 18 songs at LIQUIDROOM in Tokyo JP on 2017/6/14. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mo7y4gr3g322</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mo7y4gr3g322</guid>
-      <pubDate>Sun, 14 Jun 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago<br/>secret MAIKO lips MV<br/>milestone<br/>surpassed 1 million views<br/>2018/6/14<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BABYMETALとかBANDMAIDとか花冷え。とか、日本国内のアワード受賞なんかにまったくかすらない面々が海外フェスで活躍しまくってるのは、本当に頼も...</title>
-      <link>https://bsky.app/profile/did:plc:6hmzg3iuhk2qcawwrfc55gpo/post/3mo6v5taqj252</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6hmzg3iuhk2qcawwrfc55gpo/post/3mo6v5taqj252</guid>
-      <pubDate>Sat, 13 Jun 2026 18:14:39 GMT</pubDate>
-      <dc:creator>老熊 (anoldbearjpn.threads.net.ap.brid.gy)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BABYMETALとかBANDMAIDとか花冷え。とか、日本国内のアワード受賞なんかにまったくかすらない面々が海外フェスで活躍しまくってるのは、本当に頼もしいと思う。世界中のにーちゃんねーちゃんおっちゃんおばちゃんに直に届いてるのは、こういうバンドなんよ。</p><p><em>BlueSky &middot; anoldbearjpn.threads.net.ap.brid.gy</em></p>]]></description>
     </item>
   </channel>
 </rss>
