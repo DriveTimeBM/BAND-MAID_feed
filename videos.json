@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "1QZSs-QGufc",
+        "Title":  "Reaction to Band Maid / Energetic (Official Music Video)",
+        "Channel":  "AcnoGoji2001",
+        "ChannelId":  "UCnlIU-9JkJthTWrquapNL9Q",
+        "Url":  "https://youtu.be/1QZSs-QGufc",
+        "Thumbnail":  "https://i.ytimg.com/vi/1QZSs-QGufc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-23T19:09:44.0000000Z",
+        "DiscoveredAt":  "2026-06-23T19:38:26.8533949Z",
+        "Duration":  "00:07:20",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KJ3fhiKRKIg",
         "Title":  "Dilly-Dally/ Band-maid au Bataclan 2026",
         "Channel":  "Olivier Lacombe",
