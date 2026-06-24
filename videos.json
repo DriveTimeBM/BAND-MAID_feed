@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2Tm1lRTmKZ0",
+        "Title":  "Osu! DICE by BAND-MAID",
+        "Channel":  "Michigan [GD]",
+        "ChannelId":  "UCJqyiH_XqM6CSAjQBT09fqQ",
+        "Url":  "https://youtu.be/2Tm1lRTmKZ0",
+        "Thumbnail":  "https://i.ytimg.com/vi/2Tm1lRTmKZ0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T20:49:29.0000000Z",
+        "DiscoveredAt":  "2026-06-24T21:19:31.2541957Z",
+        "Duration":  "00:04:56",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "j0Zxj0FVD4M",
+        "Title":  "ZILKY LIVE ! BAND MAID - ENERGETIC nas lojas JP! LiSa & EAST OF EDEN CELEBRAM! KOKESHI -FATE GEAR E+",
+        "Channel":  "WolfPack Brasil ",
+        "ChannelId":  "UCeK6HrzJam4R87DnGKEPWQw",
+        "Url":  "https://youtu.be/j0Zxj0FVD4M",
+        "Thumbnail":  "https://i.ytimg.com/vi/j0Zxj0FVD4M/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T18:13:31.0000000Z",
+        "DiscoveredAt":  "2026-06-24T21:19:29.9096154Z",
+        "Duration":  "00:38:12",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lXNF8skSKS8",
         "Title":  "Introducing My Non Metal Friend To: Band Maid - Energetic",
         "Channel":  "Headbangers Guild",
