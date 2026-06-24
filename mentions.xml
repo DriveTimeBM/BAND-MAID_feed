@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 11:57:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:37:52 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID / ENERGETIC (Official Music Video) youtu.be/NpZjslVGhbE?... @YouTubeより</title>
+      <link>https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mozyvxnmfc24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mozyvxnmfc24</guid>
+      <pubDate>Wed, 24 Jun 2026 13:18:58 GMT</pubDate>
+      <dc:creator>MUSIC PRしていくぜ🦦 (nonashi88.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID / ENERGETIC (Official Music Video) youtu.be/NpZjslVGhbE?... @YouTubeより</p><p><em>BlueSky &middot; nonashi88.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - "ENERGETIC"</title>
       <link>https://bsky.app/profile/did:plc:lxlsluhv2lnmqbcgsl632tmc/post/3mozs26kcwk2c</link>
@@ -899,15 +908,6 @@
       <dc:creator>WALK NEWS - News Japan &amp; Japanese News (walknews.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID、ワールドツアーのヨーロッパ編を完走。英＜Download Festival＞でも熱狂アクト | BARKS<br/><br/>https://www.walknews.com/1323999/<br/><br/>BAND-MAID、ワールドツアーのヨーロッパ編を完走。英＜Download Festival＞でも熱狂アクト BAND-MAIDが、現在開催中の＜BAND-MAID WORLD TOUR 2026＞の一貫としてヨーロッ [...]</p><p><em>BlueSky &middot; walknews.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3moei4xdjfj2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3moei4xdjfj2b</guid>
-      <pubDate>Mon, 15 Jun 2026 23:52:44 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
