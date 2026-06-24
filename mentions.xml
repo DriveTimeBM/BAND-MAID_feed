@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 21:19:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 22:51:44 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Wishing you the happiest of birthdays! I hope this year sees many more good t...</title>
+      <link>https://bsky.app/profile/did:plc:7vh3fd4r6r4uhjmlqcgbffpx/post/3mp2vmokrqk2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7vh3fd4r6r4uhjmlqcgbffpx/post/3mp2vmokrqk2n</guid>
+      <pubDate>Wed, 24 Jun 2026 21:52:45 GMT</pubDate>
+      <dc:creator>El is in the Details (elsbells.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Wishing you the happiest of birthdays! I hope this year sees many more good things come to you. 😊<br/><br/>And I was not previously familiar with Band-Maid, but they go so hard! That was a really fun video, and I appreciate you introducing me to them.</p><p><em>BlueSky &middot; elsbells.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Happy womb emancipation day, Doc!</title>
       <link>https://bsky.app/profile/did:plc:7vdodzcvvzc2berdzebdp4hy/post/3mp2pke5sbs2f</link>
@@ -899,15 +908,6 @@
       <dc:creator>persona non sequitur (nouseforajames.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>We all did the desert island/Mount Rushmore album thing a few months ago, but mine got shaken up by two of the best albums I&#39;ve ever heard getting released in the span of like 6 weeks this winter.</p><p><em>BlueSky &middot; nouseforajames.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mofx6ibup623</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mofx6ibup623</guid>
-      <pubDate>Tue, 16 Jun 2026 13:54:41 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
