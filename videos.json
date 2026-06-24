@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ahFiylDokyM",
+        "Title":  "Music Teacher Reacts to BAND-MAID / CAGE",
+        "Channel":  "Wave Potter",
+        "ChannelId":  "UCTs_aBYP6jAF93Cqulq5JIg",
+        "Url":  "https://youtu.be/ahFiylDokyM",
+        "Thumbnail":  "https://i.ytimg.com/vi/ahFiylDokyM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T18:15:27.0000000Z",
+        "DiscoveredAt":  "2026-06-24T18:43:56.6207196Z",
+        "Duration":  "00:15:33",
+        "ViewsAtDiscovery":  102,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qoeVPaLuO0c",
         "Title":  "Reaction: 【BAND-MAID】『from now on』Official Music Video",
         "Channel":  "Ramieh Reacts & Live",
