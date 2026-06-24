@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 00:48:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 01:51:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] CAGE · BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:2e4bpotb3wcniy643vo6xg57/post/3moyp6fex5227</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2e4bpotb3wcniy643vo6xg57/post/3moyp6fex5227</guid>
+      <pubDate>Wed, 24 Jun 2026 00:52:03 GMT</pubDate>
+      <dc:creator>mazdigitaldiario.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>CAGE &#183; BAND-MAID<br/>Estreno hace 9 horas 23 Jun 2026<br/>www.youtube.com/watch?v=7MLd...</p><p><em>BlueSky &middot; mazdigitaldiario.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] #Nowplaying ENERGETIC - BAND-MAID (ENERGETIC - Single)</title>
+      <link>https://bsky.app/profile/did:plc:umlrz26kcmzx3c45beb56n7w/post/3moyn4zwqhk2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:umlrz26kcmzx3c45beb56n7w/post/3moyn4zwqhk2q</guid>
+      <pubDate>Wed, 24 Jun 2026 00:15:30 GMT</pubDate>
+      <dc:creator>NaTaNa_the_3rd (natana.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#Nowplaying ENERGETIC - BAND-MAID (ENERGETIC - Single)</p><p><em>BlueSky &middot; natana.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] NEW BAND MAID AHHHHHH</title>
       <link>https://bsky.app/profile/did:plc:32lwbzn2edvgge4wsycgqd7i/post/3moyl7pipe22f</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at LIQUIDROOM in Tokyo JP on 2017/6/15. The opening song was Don&#39;t you tell ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mocilhfdzx2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mocilhfdzx2y</guid>
-      <pubDate>Mon, 15 Jun 2026 04:55:30 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago<br/>Moratorium<br/>live debut<br/>LIQUIDROOM, Tokyo, Japan<br/>2017/6/15<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mocilg5crx2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mocilg5crx2y</guid>
-      <pubDate>Mon, 15 Jun 2026 04:55:29 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago<br/>Daydreaming<br/>live debut<br/>LIQUIDROOM, Tokyo, Japan<br/>2017/6/15<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
