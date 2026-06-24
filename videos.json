@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lCxfD5SptDo",
+        "Title":  "Hagane - Rolling Quartz - Band-Maid - Saiseiga   #livepix #react",
+        "Channel":  "Ramieh Reacts & Live",
+        "ChannelId":  "UCR588hWYawFA6vfBSJeyIrA",
+        "Url":  "https://youtu.be/lCxfD5SptDo",
+        "Thumbnail":  "https://i.ytimg.com/vi/lCxfD5SptDo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T01:29:48.0000000Z",
+        "DiscoveredAt":  "2026-06-24T01:51:18.5469836Z",
+        "Duration":  "03:21:49",
+        "ViewsAtDiscovery":  109,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "EEv5TL-qo0E",
         "Title":  "GOKO Reacts to BAND-MAID / ENERGETIC (Official Music Video)",
         "Channel":  "GOKO Reacts",
