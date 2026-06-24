@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "EEv5TL-qo0E",
+        "Title":  "GOKO Reacts to BAND-MAID / ENERGETIC (Official Music Video)",
+        "Channel":  "GOKO Reacts",
+        "ChannelId":  "UC9ycUBclQy_38D5TNdkLPoQ",
+        "Url":  "https://youtu.be/EEv5TL-qo0E",
+        "Thumbnail":  "https://i.ytimg.com/vi/EEv5TL-qo0E/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T00:59:43.0000000Z",
+        "DiscoveredAt":  "2026-06-24T01:19:31.3054462Z",
+        "Duration":  "00:12:04",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "uiSUDAIw13s",
         "Title":  "The Fam Jay Crew Reactions // BAND-MAID / ENERGETIC (Official Music Video)",
         "Channel":  "The Fam Jay Crew",
