@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7xJCpB4cqPU",
+        "Title":  "BAND-MAID │ ENERGETIC [MV]│ \"Full of fun energy and Misa, Misa, Misa!\"",
+        "Channel":  "Wakijax",
+        "ChannelId":  "UCElNNUiBC67ypav4q267isA",
+        "Url":  "https://youtu.be/7xJCpB4cqPU",
+        "Thumbnail":  "https://i.ytimg.com/vi/7xJCpB4cqPU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T02:22:52.0000000Z",
+        "DiscoveredAt":  "2026-06-24T02:54:04.3272471Z",
+        "Duration":  "00:07:35",
+        "ViewsAtDiscovery":  14,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "u1T2gHbC86Q",
+        "Title":  "MISA MISA MISA!!! Reaction to BAND-MAID / ENERGETIC (Official Music Video)",
+        "Channel":  "VelcroReacts",
+        "ChannelId":  "UCTXT5orVqM_ozxatQ-4UO4w",
+        "Url":  "https://youtu.be/u1T2gHbC86Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/u1T2gHbC86Q/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T01:53:19.0000000Z",
+        "DiscoveredAt":  "2026-06-24T02:54:03.5274104Z",
+        "Duration":  "00:11:58",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BM-2TJhmWcE",
         "Title":  "Band-Maid Reactions Week | 3- Turn Me On",
         "Channel":  "Battoosh & Nonna",
