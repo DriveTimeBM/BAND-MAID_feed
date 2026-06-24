@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vrWtsmKWeNo",
+        "Title":  "Band-Maid. Days & CAGED Reaction. (Energetic CD)",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/vrWtsmKWeNo",
+        "Thumbnail":  "https://i.ytimg.com/vi/vrWtsmKWeNo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T13:17:02.0000000Z",
+        "DiscoveredAt":  "2026-06-24T13:30:33.2707384Z",
+        "Duration":  "00:13:16",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "nXBStX24N20",
+        "Title":  "They Just Keep LEVELING UP… | BAND-MAID “DICE” Reaction 🔥",
+        "Channel":  "Shep Talk",
+        "ChannelId":  "UCmbsJeIg5WD0RSMuHV5v4Vw",
+        "Url":  "https://youtu.be/nXBStX24N20",
+        "Thumbnail":  "https://i.ytimg.com/vi/nXBStX24N20/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T13:00:12.0000000Z",
+        "DiscoveredAt":  "2026-06-24T13:30:31.9524011Z",
+        "Duration":  "00:06:27",
+        "ViewsAtDiscovery":  36,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "S4gR887vQTU",
         "Title":  "BAND-MAID - MISA’s Bass + AKANE’s Drums 🔥Instrumental Duet, Live Electric Brixton London 11/06/2026",
         "Channel":  "liz zil",
