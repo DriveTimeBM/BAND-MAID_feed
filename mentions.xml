@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 17:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:48:50 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Happy Birthday to me! New Band-Maid!</title>
+      <link>https://bsky.app/profile/did:plc:3sr3c6bxu4puhggubeij2cmi/post/3mp2oajjjk223</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3sr3c6bxu4puhggubeij2cmi/post/3mp2oajjjk223</guid>
+      <pubDate>Wed, 24 Jun 2026 19:40:41 GMT</pubDate>
+      <dc:creator>Joshua Earle, Ph.D. (cyborgapologist.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Happy Birthday to me! New Band-Maid!<br/><br/>www.youtube.com/watch?v=NpZj...</p><p><em>BlueSky &middot; cyborgapologist.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Re-listening to this album and goddamn, does anyone know where I can get a re...</title>
       <link>https://bsky.app/profile/did:plc:zoz6t27crop73apwwcuyeiih/post/3mp2c662n2s26</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: endless Story<br/>Album: CONQUEROR<br/>Release: 12/10/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID、ワールドツアーのヨーロッパ編を完走。英＜Download Festival＞でも熱狂アクト | BARKS</title>
-      <link>https://bsky.app/profile/did:plc:4ipefc6m335fpbumpvgzx2w3/post/3moepbal4ws24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4ipefc6m335fpbumpvgzx2w3/post/3moepbal4ws24</guid>
-      <pubDate>Tue, 16 Jun 2026 02:00:21 GMT</pubDate>
-      <dc:creator>Coca News (cocanews.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID、ワールドツアーのヨーロッパ編を完走。英＜Download Festival＞でも熱狂アクト | BARKS<br/><br/>https://www.wacoca.com/news/2861881/<br/><br/>BAND-MAID、ワールドツアーのヨーロッパ編を完走。英＜Download Festival＞でも熱狂アクト BAND-MAIDが、現在開催中の＜BAND-MAID WORLD TOUR 2026＞の一貫としてヨーロッ [...]</p><p><em>BlueSky &middot; cocanews.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
