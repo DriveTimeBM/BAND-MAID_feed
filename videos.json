@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HzOvzxJHDAU",
+        "Title":  "BAND-MAID - ENERGETIC Lyrics | [Kanji/Romaji/English]",
+        "Channel":  "Kanamincho",
+        "ChannelId":  "UCHNJpI8sUnbvNC2FWgQ7OFA",
+        "Url":  "https://youtu.be/HzOvzxJHDAU",
+        "Thumbnail":  "https://i.ytimg.com/vi/HzOvzxJHDAU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T22:48:13.0000000Z",
+        "DiscoveredAt":  "2026-06-24T22:51:35.0031372Z",
+        "Duration":  "00:03:23",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "WhE_-uUb9f8",
+        "Title":  "🔥🤘 BAND-MAID / Bubble (Official Music Video) Reaction 🤘🔥",
+        "Channel":  "Mike Mosrie",
+        "ChannelId":  "UCbYIHB8IhjoOiUTILynsZFA",
+        "Url":  "https://youtu.be/WhE_-uUb9f8",
+        "Thumbnail":  "https://i.ytimg.com/vi/WhE_-uUb9f8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T22:46:10.0000000Z",
+        "DiscoveredAt":  "2026-06-24T22:51:34.0346812Z",
+        "Duration":  "00:05:07",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2Tm1lRTmKZ0",
         "Title":  "Osu! DICE by BAND-MAID",
         "Channel":  "Michigan [GD]",
