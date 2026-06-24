@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "uiSUDAIw13s",
+        "Title":  "The Fam Jay Crew Reactions // BAND-MAID / ENERGETIC (Official Music Video)",
+        "Channel":  "The Fam Jay Crew",
+        "ChannelId":  "UCr_wpkXp9lDwG0t35vs1Jvg",
+        "Url":  "https://youtu.be/uiSUDAIw13s",
+        "Thumbnail":  "https://i.ytimg.com/vi/uiSUDAIw13s/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T00:47:27.0000000Z",
+        "DiscoveredAt":  "2026-06-24T00:48:42.6980581Z",
+        "Duration":  "00:09:57",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "w4X-JbRivpk",
+        "Title":  "BAND-MAID no falla: “ENERGETIC” es puro poder",
+        "Channel":  "Don Tavi",
+        "ChannelId":  "UCLkuJYxVitvwmZDhpMKbNlQ",
+        "Url":  "https://youtu.be/w4X-JbRivpk",
+        "Thumbnail":  "https://i.ytimg.com/vi/w4X-JbRivpk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T00:28:14.0000000Z",
+        "DiscoveredAt":  "2026-06-24T00:48:42.0549504Z",
+        "Duration":  "00:02:22",
+        "ViewsAtDiscovery":  184,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lebPTEYVv_0",
         "Title":  "BAND-MAID / ENERGETIC (Official Music Video) | REACTION ",
         "Channel":  "GOLDEN BRO REACTS",
