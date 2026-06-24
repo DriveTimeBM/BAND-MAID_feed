@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dXZ-hCIzXQg",
+        "Title":  "BAND-MAID - CAGE - Dave M 💯🎀🎀🎀🎀🎀",
+        "Channel":  "Dave M",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/dXZ-hCIzXQg",
+        "Thumbnail":  "https://i.ytimg.com/vi/dXZ-hCIzXQg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T10:50:15.0000000Z",
+        "DiscoveredAt":  "2026-06-24T10:55:28.6182377Z",
+        "Duration":  "00:13:15",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "gtbirz-rQKc",
+        "Title":  "Reaction: 【BAND-MAID】『ENERGETIC』Official Music Video",
+        "Channel":  "Ramieh Reacts & Live",
+        "ChannelId":  "UCR588hWYawFA6vfBSJeyIrA",
+        "Url":  "https://youtu.be/gtbirz-rQKc",
+        "Thumbnail":  "https://i.ytimg.com/vi/gtbirz-rQKc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T10:45:24.0000000Z",
+        "DiscoveredAt":  "2026-06-24T10:55:27.0447433Z",
+        "Duration":  "00:08:15",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JbAjZC9jK9w",
         "Title":  "BAND-MAID、新曲「ENERGETIC」で新章へ　世界を駆ける進化系ロックの現在地",
         "Channel":  "Tokyo Buzz ",
