@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yGPLLuQqW2c",
+        "Title":  "🔥🤘 BAND-MAID / Bubble (Official Music Video) Reaction 🤘🔥",
+        "Channel":  "Mike Mosrie",
+        "ChannelId":  "UCbYIHB8IhjoOiUTILynsZFA",
+        "Url":  "https://youtu.be/yGPLLuQqW2c",
+        "Thumbnail":  "https://i.ytimg.com/vi/yGPLLuQqW2c/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T23:27:20.0000000Z",
+        "DiscoveredAt":  "2026-06-24T23:46:40.3069183Z",
+        "Duration":  "00:05:07",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "HzOvzxJHDAU",
         "Title":  "BAND-MAID - ENERGETIC Lyrics | [Kanji/Romaji/English]",
         "Channel":  "Kanamincho",
