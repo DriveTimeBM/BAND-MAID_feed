@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lXNF8skSKS8",
+        "Title":  "Introducing My Non Metal Friend To: Band Maid - Energetic",
+        "Channel":  "Headbangers Guild",
+        "ChannelId":  "UC8u8bDJDo2X0L_RcBZ1ju6A",
+        "Url":  "https://youtu.be/lXNF8skSKS8",
+        "Thumbnail":  "https://i.ytimg.com/vi/lXNF8skSKS8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T20:45:00.0000000Z",
+        "DiscoveredAt":  "2026-06-24T20:48:42.7461285Z",
+        "Duration":  "00:10:42",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "o5s6kroRLWM",
+        "Title":  "Live Request Stream 6/23/26 // New BAND-MAID! New Atozome! and more!",
+        "Channel":  "Ryan Mear",
+        "ChannelId":  "UCvKUIZjMmlHJ9vjGJey0SBQ",
+        "Url":  "https://youtu.be/o5s6kroRLWM",
+        "Thumbnail":  "https://i.ytimg.com/vi/o5s6kroRLWM/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T16:05:05.0000000Z",
+        "DiscoveredAt":  "2026-06-24T20:48:41.8386027Z",
+        "Duration":  "03:47:52",
+        "ViewsAtDiscovery":  828,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1qisacOp_-U",
         "Title":  "🔥🤘 BAND-MAID / Bubble (Official Music Video) Reaction 🤘🔥",
         "Channel":  "Mike Mosrie",
