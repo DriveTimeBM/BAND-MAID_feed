@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 01:51:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:25:06 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] It's been a good while since I talked about them, especially here, but it's a...</title>
+      <link>https://bsky.app/profile/did:plc:35b33lthdi45ky4sibpxxwjn/post/3moyuqxpnnk2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:35b33lthdi45ky4sibpxxwjn/post/3moyuqxpnnk2c</guid>
+      <pubDate>Wed, 24 Jun 2026 02:31:55 GMT</pubDate>
+      <dc:creator>Shelbie 🐺⚔️ (theshiz147.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>It&#39;s been a good while since I talked about them, especially here, but it&#39;s always good when we get new BAND-MAID music. And I always love how so many of their songs have such powerful and positive lyrics. Definitely need that kind of music right now.<br/>www.youtube.com/watch?v=NpZj...</p><p><em>BlueSky &middot; theshiz147.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] CAGE · BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:2e4bpotb3wcniy643vo6xg57/post/3moyp6fex5227</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played at Nagano CLUB JUNK BOX in Nagano JP on 2016/6/15. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 20 songs at LIQUIDROOM in Tokyo JP on 2017/6/15....</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mocm6co6xy2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mocm6co6xy2q</guid>
-      <pubDate>Mon, 15 Jun 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at LIQUIDROOM in Tokyo JP on 2017/6/15. The opening song was Don&#39;t you tell ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
