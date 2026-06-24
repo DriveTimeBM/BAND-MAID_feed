@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 23:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 00:48:52 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] NEW BAND MAID AHHHHHH</title>
+      <link>https://bsky.app/profile/did:plc:32lwbzn2edvgge4wsycgqd7i/post/3moyl7pipe22f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:32lwbzn2edvgge4wsycgqd7i/post/3moyl7pipe22f</guid>
+      <pubDate>Tue, 23 Jun 2026 23:41:13 GMT</pubDate>
+      <dc:creator>Nuclear Boarhead🐗🏳️‍⚧️ (yuriswine.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>NEW BAND MAID AHHHHHH<br/>youtu.be/NpZjslVGhbE?...</p><p><em>BlueSky &middot; yuriswine.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band Maid  -  Energetic  -  23/06/2026.</title>
       <link>https://bsky.app/profile/did:plc:33vumx4d6hlf5fcggkqehhe3/post/3moyhqmjmdk2w</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago<br/>Daydreaming<br/>live debut<br/>LIQUIDROOM, Tokyo, Japan<br/>2017/6/15<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] Hugely grateful that I got to see BAND-MAID live in London, I just wish that ...</title>
-      <link>https://mastodon.social/@OBiW4NSHiNOBi/116753326536956863</link>
-      <guid isPermaLink="true">https://mastodon.social/@OBiW4NSHiNOBi/116753326536956863</guid>
-      <pubDate>Mon, 15 Jun 2026 09:06:21 GMT</pubDate>
-      <dc:creator>OBiW4NSHiNOBi (OBiW4NSHiNOBi)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>Hugely grateful that I got to see BAND-MAID live in London, I just wish that H could have been there with me. They were every bit as good as I had hoped, genuinely funny &amp; charismatic.<br/><br/>There was some drama with a couple of people collapsing (it was overcrowded &amp; awfully hot) but glad they were ok; the band&#39;s concern was palpable.<br/><br/>H did ask me to take as many pictures as I could, but I couldn&#39;t take my camera in &amp; I didn&#39;t want to be one of those guys watching the gig through a phone. https://mastodon.social/tags/bandmaid</p><p><em>Mastodon &middot; OBiW4NSHiNOBi</em></p>]]></description>
     </item>
   </channel>
 </rss>
