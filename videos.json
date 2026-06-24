@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "nMqigVzcif8",
+        "Title":  "BAND-MAID/Days[guitar cover ]",
+        "Channel":  "健司山崎",
+        "ChannelId":  "UCxi7MJ_H2Jd73nqALLn71KQ",
+        "Url":  "https://youtu.be/nMqigVzcif8",
+        "Thumbnail":  "https://i.ytimg.com/vi/nMqigVzcif8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T14:24:30.0000000Z",
+        "DiscoveredAt":  "2026-06-24T14:37:43.5274946Z",
+        "Duration":  "00:03:28",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vrWtsmKWeNo",
         "Title":  "Band-Maid. Days & CAGED Reaction. (Energetic CD)",
         "Channel":  "The Band of Maids Channel.",
