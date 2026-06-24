@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8yfA6TwbzLg",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) Reaction | Yap Session",
+        "Channel":  "Rayless and Relucent Music",
+        "ChannelId":  "UCOZE5JBgTOUKBVYCm1BjUCQ",
+        "Url":  "https://youtu.be/8yfA6TwbzLg",
+        "Thumbnail":  "https://i.ytimg.com/vi/8yfA6TwbzLg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T03:50:08.0000000Z",
+        "DiscoveredAt":  "2026-06-24T03:56:28.6562702Z",
+        "Duration":  "00:12:15",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "h3uyArWwU5I",
         "Title":  "FIRST TIME Reacting To BAND-MAID / ENERGETIC (Official Music Video)",
         "Channel":  "TYLR Reacts",
