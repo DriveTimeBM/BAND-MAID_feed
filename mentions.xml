@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 20:48:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:19:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Happy womb emancipation day, Doc!</title>
+      <link>https://bsky.app/profile/did:plc:7vdodzcvvzc2berdzebdp4hy/post/3mp2pke5sbs2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7vdodzcvvzc2berdzebdp4hy/post/3mp2pke5sbs2f</guid>
+      <pubDate>Wed, 24 Jun 2026 20:04:04 GMT</pubDate>
+      <dc:creator>The Antarian Ambassador (antarian-embassy.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Happy womb emancipation day, Doc!<br/><br/>I had heard of Band-Maid, but never listened to anything by them; didn&#39;t know they were metal. I&#39;ll have to check them out some more.</p><p><em>BlueSky &middot; antarian-embassy.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Happy Birthday to me! New Band-Maid!</title>
       <link>https://bsky.app/profile/did:plc:3sr3c6bxu4puhggubeij2cmi/post/3mp2oajjjk223</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: endless Story</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mof4zfubku2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mof4zfubku2j</guid>
-      <pubDate>Tue, 16 Jun 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: endless Story<br/>Album: CONQUEROR<br/>Release: 12/10/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
