@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "QV3BoNGQSF8",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) reaction",
+        "Channel":  "Aryas Katsu",
+        "ChannelId":  "UCQpZV9Bw3WZXXf4xdfCf4sQ",
+        "Url":  "https://youtu.be/QV3BoNGQSF8",
+        "Thumbnail":  "https://i.ytimg.com/vi/QV3BoNGQSF8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T12:06:15.0000000Z",
+        "DiscoveredAt":  "2026-06-24T12:28:03.3635519Z",
+        "Duration":  "00:03:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "aRIFo_5WV2s",
+        "Title":  "This BAND-MAID Masterpiece Blew My Mind! | Forbidden Tale  - Reaction",
+        "Channel":  "DevelopeReaction",
+        "ChannelId":  "UCHKivAu2YBYV-jb51udLH-A",
+        "Url":  "https://youtu.be/aRIFo_5WV2s",
+        "Thumbnail":  "https://i.ytimg.com/vi/aRIFo_5WV2s/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T12:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-24T12:28:02.3973314Z",
+        "Duration":  "00:14:22",
+        "ViewsAtDiscovery":  21,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zw9e8cjoQls",
         "Title":  "BAND-MAID / ENERGETIC (Official Music Video) //Reaction ",
         "Channel":  "Lil  kash",
