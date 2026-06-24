@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lebPTEYVv_0",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) | REACTION ",
+        "Channel":  "GOLDEN BRO REACTS",
+        "ChannelId":  "UCKzU0pYOJzVnEecdwbNstrw",
+        "Url":  "https://youtu.be/lebPTEYVv_0",
+        "Thumbnail":  "https://i.ytimg.com/vi/lebPTEYVv_0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-24T00:13:21.0000000Z",
+        "DiscoveredAt":  "2026-06-24T00:17:53.4306768Z",
+        "Duration":  "00:03:33",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "g5PorlzCAjo",
         "Title":  "「REACCIÓN」| Band Maid - Energetic",
         "Channel":  "Generación de Contenido",
