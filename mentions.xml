@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 14:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 15:53:36 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] あたしが以前から推してるバンドの新曲</title>
+      <link>https://bsky.app/profile/did:plc:d3uc5t3q6vobzk6acdcvldli/post/3mp4pvedle22x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:d3uc5t3q6vobzk6acdcvldli/post/3mp4pvedle22x</guid>
+      <pubDate>Thu, 25 Jun 2026 15:15:33 GMT</pubDate>
+      <dc:creator>三寒四温＠趣味の執筆者 (cinq-en-sion.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>あたしが以前から推してるバンドの新曲<br/>マジでベースがカッコええわあ！<br/>イロモノと捉えられそうだがガチの実力派なのだ<br/>BAND-MAID / ENERGETIC<br/><br/>youtu.be/NpZjslVGhbE?...</p><p><em>BlueSky &middot; cinq-en-sion.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] what it's like to see BAND-MAID live</title>
       <link>https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3mp4ijhz3322k</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago<br/>REAL EXISTENCE<br/>MV<br/>released<br/>2015/6/17<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] FFXIV sound director, Masayoshi Soken: I would have loved to see Band-Maid</title>
-      <link>https://bsky.app/profile/did:plc:5j4ewltuyyslnnaleyjvx3b3/post/3mogv5uiqoshj</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5j4ewltuyyslnnaleyjvx3b3/post/3mogv5uiqoshj</guid>
-      <pubDate>Tue, 16 Jun 2026 22:51:13 GMT</pubDate>
-      <dc:creator>Fillet Knife 7.5 Spoilers (filletknife.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>FFXIV sound director, Masayoshi Soken: I would have loved to see Band-Maid<br/><br/>Soken come watch Rock Lady <br/><br/>https://www.thegamer.com/the-primals-download-festival-2026-interview-masayoshi-soken/</p><p><em>BlueSky &middot; filletknife.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
