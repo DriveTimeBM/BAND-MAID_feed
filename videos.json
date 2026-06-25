@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "md225opq6VE",
+        "Title":  "GETTING TO KNOW BAND MAID! | Band-Maid Documentary / Miku Part 2 reaction",
+        "Channel":  "PhoebeFromTV",
+        "ChannelId":  "UCWBQXzPdSa_m-sJhxQtxsRA",
+        "Url":  "https://youtu.be/md225opq6VE",
+        "Thumbnail":  "https://i.ytimg.com/vi/md225opq6VE/hqdefault.jpg",
+        "PublishedAt":  "2026-06-25T20:00:03.0000000Z",
+        "DiscoveredAt":  "2026-06-25T20:30:21.0935822Z",
+        "Duration":  "00:49:47",
+        "ViewsAtDiscovery":  64,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Q8OinLoI-pY",
         "Title":  "BAND-MAID / ENERGETIC (Official Music Video) (First Time Reaction!!)",
         "Channel":  "ItsstillJohnny",
