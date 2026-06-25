@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Q8OinLoI-pY",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) (First Time Reaction!!)",
+        "Channel":  "ItsstillJohnny",
+        "ChannelId":  "UCBNAz9lVyFq_eEpKj3udDfg",
+        "Url":  "https://youtu.be/Q8OinLoI-pY",
+        "Thumbnail":  "https://i.ytimg.com/vi/Q8OinLoI-pY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-25T18:19:19.0000000Z",
+        "DiscoveredAt":  "2026-06-25T18:27:22.6287813Z",
+        "Duration":  "00:04:30",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "eAZMa_vEhV0",
+        "Title":  "BAND-MAID | ENERGETIC ...3 Opinions, 1 New Single, 5 Hard Rocking Maids!",
+        "Channel":  "Ears To The East",
+        "ChannelId":  "UCv9f-JJy6z3E_zs6x1CshXw",
+        "Url":  "https://youtu.be/eAZMa_vEhV0",
+        "Thumbnail":  "https://i.ytimg.com/vi/eAZMa_vEhV0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-25T18:00:08.0000000Z",
+        "DiscoveredAt":  "2026-06-25T18:27:21.7735886Z",
+        "Duration":  "00:24:01",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DiLuH3yBjOA",
         "Title":  "First Look | BAND-MAID - ENERGETIC  | At AOS216 Reacts Drive-In",
         "Channel":  "AOS216Reacts",
