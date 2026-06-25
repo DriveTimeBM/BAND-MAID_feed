@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vw1R7HlRnJU",
+        "Title":  "BAND-MAID / ENERGETIC (MV) 6/24/2026. A Layman's Reaction",
+        "Channel":  "A Layman's Reaction",
+        "ChannelId":  "UCBfLiPasLMduGO1FWT9yJ4Q",
+        "Url":  "https://youtu.be/vw1R7HlRnJU",
+        "Thumbnail":  "https://i.ytimg.com/vi/vw1R7HlRnJU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-25T16:53:22.0000000Z",
+        "DiscoveredAt":  "2026-06-25T16:55:02.9619781Z",
+        "Duration":  "00:05:06",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ymh-7OJTziU",
         "Title":  "BAND-MAID + The Warning \"Show Them\" Reaction",
         "Channel":  "Tony",
