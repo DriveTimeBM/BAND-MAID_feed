@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DiLuH3yBjOA",
+        "Title":  "First Look | BAND-MAID - ENERGETIC  | At AOS216 Reacts Drive-In",
+        "Channel":  "AOS216Reacts",
+        "ChannelId":  "UCCFnEPEW0wpRZlccuYiSmBg",
+        "Url":  "https://youtu.be/DiLuH3yBjOA",
+        "Thumbnail":  "https://i.ytimg.com/vi/DiLuH3yBjOA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-25T17:00:33.0000000Z",
+        "DiscoveredAt":  "2026-06-25T17:25:53.7252654Z",
+        "Duration":  "00:14:51",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "0flVX4lgLTs",
+        "Title":  "MISA!!!! First Time Reaction to Band-Maid - Energetic",
+        "Channel":  "ziggychrisReacts",
+        "ChannelId":  "UCB86L1AeOr7fa_az-inYB0Q",
+        "Url":  "https://youtu.be/0flVX4lgLTs",
+        "Thumbnail":  "https://i.ytimg.com/vi/0flVX4lgLTs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-25T17:00:05.0000000Z",
+        "DiscoveredAt":  "2026-06-25T17:25:52.8319117Z",
+        "Duration":  "00:11:43",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vw1R7HlRnJU",
         "Title":  "BAND-MAID / ENERGETIC (MV) 6/24/2026. A Layman's Reaction",
         "Channel":  "A Layman's Reaction",
