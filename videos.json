@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "R8AX45a2JrQ",
+        "Title":  "Band-Maid, Days Instrumental.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/R8AX45a2JrQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/R8AX45a2JrQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-25T12:46:16.0000000Z",
+        "DiscoveredAt":  "2026-06-25T12:50:27.6244651Z",
+        "Duration":  "00:03:30",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "GwAlkhAy31c",
         "Title":  "BAND-MAID ‘Shambles’ LIVE Reaction – HOW Are They This Good Live?",
         "Channel":  "Addy's React",
