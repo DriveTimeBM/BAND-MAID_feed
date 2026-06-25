@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 11:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:21:14 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] what it's like to see BAND-MAID live</title>
+      <link>https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3mp4ijhz3322k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3mp4ijhz3322k</guid>
+      <pubDate>Thu, 25 Jun 2026 13:03:38 GMT</pubDate>
+      <dc:creator>Merry Ol' Soul (merryolsoul.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>what it&#39;s like to see BAND-MAID live<br/><br/>#music #japan<br/><br/>youtu.be/EeMsM5erg7Q?...</p><p><em>BlueSky &middot; merryolsoul.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 昨日リリースの新シングル ♫ ENERGETIC - Single - BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:fqu2ug6b6hadxsxbvahus7jy/post/3mp47tn6j4c2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Fillet Knife 7.5 Spoilers (filletknife.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>FFXIV sound director, Masayoshi Soken: I would have loved to see Band-Maid<br/><br/>Soken come watch Rock Lady <br/><br/>https://www.thegamer.com/the-primals-download-festival-2026-interview-masayoshi-soken/</p><p><em>BlueSky &middot; filletknife.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mog6ut3hl32k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mog6ut3hl32k</guid>
-      <pubDate>Tue, 16 Jun 2026 16:12:26 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
