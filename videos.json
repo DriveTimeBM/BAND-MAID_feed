@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zBFKw97e71Y",
+        "Title":  "Rise of Eros ENERGETIC by BAND-MAID",
+        "Channel":  "Peeranan Gamers",
+        "ChannelId":  "UCmjPL32HpSL6eC3DhvXiKbA",
+        "Url":  "https://youtu.be/zBFKw97e71Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/zBFKw97e71Y/hqdefault.jpg",
+        "PublishedAt":  "2026-06-25T04:02:05.0000000Z",
+        "DiscoveredAt":  "2026-06-25T04:08:25.7997427Z",
+        "Duration":  "00:03:23",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "x_KWZB2QKG4",
         "Title":  "Do NOT Let The Outfits Fool You! They SHRED! 🤯 BAND-MAID - ENERGETIC",
         "Channel":  "The EagleFan",
