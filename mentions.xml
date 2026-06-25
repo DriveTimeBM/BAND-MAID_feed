@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 22:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:18:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 昨日リリースの新シングル ♫ ENERGETIC - Single - BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:fqu2ug6b6hadxsxbvahus7jy/post/3mp47tn6j4c2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fqu2ug6b6hadxsxbvahus7jy/post/3mp47tn6j4c2q</guid>
+      <pubDate>Thu, 25 Jun 2026 10:28:15 GMT</pubDate>
+      <dc:creator>たくのん (taknom.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>昨日リリースの新シングル ♫ ENERGETIC - Single - BAND-MAID<br/>#NowPlaying <br/>music.apple.com/jp/album/ene...</p><p><em>BlueSky &middot; taknom.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Wishing you the happiest of birthdays! I hope this year sees many more good t...</title>
       <link>https://bsky.app/profile/did:plc:7vh3fd4r6r4uhjmlqcgbffpx/post/3mp2vmokrqk2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] We all did the desert island/Mount Rushmore album thing a few months ago, but...</title>
-      <link>https://bsky.app/profile/did:plc:xrhtyqj7nsrqfp4vwtgeppm2/post/3mog2dw5cxs2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xrhtyqj7nsrqfp4vwtgeppm2/post/3mog2dw5cxs2q</guid>
-      <pubDate>Tue, 16 Jun 2026 14:51:25 GMT</pubDate>
-      <dc:creator>persona non sequitur (nouseforajames.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>We all did the desert island/Mount Rushmore album thing a few months ago, but mine got shaken up by two of the best albums I&#39;ve ever heard getting released in the span of like 6 weeks this winter.</p><p><em>BlueSky &middot; nouseforajames.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
