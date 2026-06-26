@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lpJKdcSiNWU",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) REACTION",
+        "Channel":  "frank_reacts",
+        "ChannelId":  "UCfNKOaP3QKj9qUxB1g5HBDw",
+        "Url":  "https://youtu.be/lpJKdcSiNWU",
+        "Thumbnail":  "https://i.ytimg.com/vi/lpJKdcSiNWU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-26T11:38:25.0000000Z",
+        "DiscoveredAt":  "2026-06-26T11:46:09.5731814Z",
+        "Duration":  "00:08:56",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2RmYsBrF1BQ",
         "Title":  "Musician reacts to BAND-MAID / Days | One of my new favourites!",
         "Channel":  "Vault of Art",
