@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HNHW0mgoptk",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) reaction",
+        "Channel":  "WilkVizReacts",
+        "ChannelId":  "UCy0T2G7KTFKSY9P-9COw9zg",
+        "Url":  "https://youtu.be/HNHW0mgoptk",
+        "Thumbnail":  "https://i.ytimg.com/vi/HNHW0mgoptk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-26T17:33:37.0000000Z",
+        "DiscoveredAt":  "2026-06-26T18:01:41.4137475Z",
+        "Duration":  "00:08:08",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "nN0_cBPE68Q",
         "Title":  "Band-Maid \"Shambles\" LIVE REACTION | This Band Is INSANE(0-10)",
         "Channel":  "mrdrew looks ",
