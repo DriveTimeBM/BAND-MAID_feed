@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_qHSwjJ8YvI",
+        "Title":  "Composer Hears BAND-MAID 'Energetic' for the FIRST TIME | Reaction & Review ⚡",
+        "Channel":  "SquishyJoshy",
+        "ChannelId":  "UCnsKlUofjekaGMLi6cyRVSw",
+        "Url":  "https://youtu.be/_qHSwjJ8YvI",
+        "Thumbnail":  "https://i.ytimg.com/vi/_qHSwjJ8YvI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-26T16:25:56.0000000Z",
+        "DiscoveredAt":  "2026-06-26T16:29:50.0158092Z",
+        "Duration":  "00:12:38",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "oMElEAssStk",
+        "Title":  "BAND-MAID 'Choose Me' Reaction | This Blend of Nostalgia and Power is INSANE",
+        "Channel":  "AngelTalionMusicReactions",
+        "ChannelId":  "UCk7Ti2pq-srCWBdGh61aOsw",
+        "Url":  "https://youtu.be/oMElEAssStk",
+        "Thumbnail":  "https://i.ytimg.com/vi/oMElEAssStk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-26T16:00:01.0000000Z",
+        "DiscoveredAt":  "2026-06-26T16:29:49.3981032Z",
+        "Duration":  "00:06:28",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3CcS_fpD_5Q",
         "Title":  "🔥🤘 BAND-MAID / Bubble (Official Music Video) Reaction 🤘🔥",
         "Channel":  "Mike Mosrie",
