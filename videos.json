@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "wMpMxfoiQp8",
+        "Title":  "React to BAND-MAID - start over (Official Music Video)",
+        "Channel":  "We Watched That 2",
+        "ChannelId":  "UCmDpLB_c3Dt9hBTQ2DUhQ5w",
+        "Url":  "https://youtu.be/wMpMxfoiQp8",
+        "Thumbnail":  "https://i.ytimg.com/vi/wMpMxfoiQp8/hqdefault.jpg",
+        "PublishedAt":  "2026-06-26T12:45:10.0000000Z",
+        "DiscoveredAt":  "2026-06-26T12:53:40.9858490Z",
+        "Duration":  "00:07:15",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "j6hKLcLlvaA",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) Reaction",
+        "Channel":  "Crib Reactions",
+        "ChannelId":  "UC08DxLBOhXux6Tn88Nby4xw",
+        "Url":  "https://youtu.be/j6hKLcLlvaA",
+        "Thumbnail":  "https://i.ytimg.com/vi/j6hKLcLlvaA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-26T12:11:06.0000000Z",
+        "DiscoveredAt":  "2026-06-26T12:53:40.1109557Z",
+        "Duration":  "00:11:05",
+        "ViewsAtDiscovery":  22,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lpJKdcSiNWU",
         "Title":  "BAND-MAID / ENERGETIC (Official Music Video) REACTION",
         "Channel":  "frank_reacts",
