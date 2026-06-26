@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Exbj9lobzNg",
+        "Title":  "Band-Maid - Energetic London 2026.06.11",
+        "Channel":  "Sugaan Essena",
+        "ChannelId":  "UCVTpqicgj9hyzKDWPhrfkRw",
+        "Url":  "https://youtu.be/Exbj9lobzNg",
+        "Thumbnail":  "https://i.ytimg.com/vi/Exbj9lobzNg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-26T20:56:45.0000000Z",
+        "DiscoveredAt":  "2026-06-26T21:00:40.0642718Z",
+        "Duration":  "00:03:29",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "HNHW0mgoptk",
         "Title":  "BAND-MAID / ENERGETIC (Official Music Video) reaction",
         "Channel":  "WilkVizReacts",
