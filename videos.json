@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "iYOQSuwfMIc",
+        "Title":  "BAND-MAID - CAGE Lyrics | [Kanji/Romaji/English]",
+        "Channel":  "Kanamincho",
+        "ChannelId":  "UCHNJpI8sUnbvNC2FWgQ7OFA",
+        "Url":  "https://youtu.be/iYOQSuwfMIc",
+        "Thumbnail":  "https://i.ytimg.com/vi/iYOQSuwfMIc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-26T22:45:36.0000000Z",
+        "DiscoveredAt":  "2026-06-26T22:54:52.9442563Z",
+        "Duration":  "00:03:26",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "tjUsdtKhYBY",
         "Title":  "Band-Maid Never Misses! | \"ENERGETIC\" Music Video Reaction",
         "Channel":  "Tii_Rose Reactions",
