@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HotD6IBTCTI",
+        "Title":  "Band-Maid CAGE Instrumental.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/HotD6IBTCTI",
+        "Thumbnail":  "https://i.ytimg.com/vi/HotD6IBTCTI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-26T13:10:26.0000000Z",
+        "DiscoveredAt":  "2026-06-26T13:24:23.6734072Z",
+        "Duration":  "00:03:21",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "mLYSWxgqjj0",
+        "Title":  "BAND MAID | ENERGETIC (Official Music Video) | First Time Reaction",
+        "Channel":  "B-Drags Den",
+        "ChannelId":  "UCAzN5A_zST9aX8IiJ753uCA",
+        "Url":  "https://youtu.be/mLYSWxgqjj0",
+        "Thumbnail":  "https://i.ytimg.com/vi/mLYSWxgqjj0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-26T13:01:28.0000000Z",
+        "DiscoveredAt":  "2026-06-26T13:24:21.8983836Z",
+        "Duration":  "00:09:46",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wMpMxfoiQp8",
         "Title":  "React to BAND-MAID - start over (Official Music Video)",
         "Channel":  "We Watched That 2",
