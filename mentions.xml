@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 10:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 18:50:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 💿 Forbidden tale - BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:sbgxajlshb7vqtd4zuzjcnk5/post/3mpc2zh32zx2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sbgxajlshb7vqtd4zuzjcnk5/post/3mpc2zh32zx2d</guid>
+      <pubDate>Sat, 27 Jun 2026 18:18:00 GMT</pubDate>
+      <dc:creator>Bruno (sunraku.latinsky.app)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>💿 Forbidden tale - BAND-MAID<br/>#NowPlaying #なうぷれ #なうぷれあっと</p><p><em>BlueSky &middot; sunraku.latinsky.app</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: YOLOSIOSU</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpas5kmb5a2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>New Band Maid single incoming (June 24th)</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid have put a teaser for their new song Energetic on YouTube. I heard ...</title>
-      <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3moksvmiqwc2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3moksvmiqwc2d</guid>
-      <pubDate>Thu, 18 Jun 2026 12:21:27 GMT</pubDate>
-      <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid have put a teaser for their new song Energetic on YouTube. I heard this tune on their world tour 2026 and it&#39;s a banger.<br/><br/>www.youtube.com/shorts/cKmZP...</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
