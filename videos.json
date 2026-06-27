@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "84dEFCUdRUg",
+        "Title":  "EARS TO THE EAST | New songs from BAND-MAID , NEMOPHILA , SAKI , and ANO CHAN | plus more...",
+        "Channel":  "Ears To The East",
+        "ChannelId":  "UCv9f-JJy6z3E_zs6x1CshXw",
+        "Url":  "https://youtu.be/84dEFCUdRUg",
+        "Thumbnail":  "https://i.ytimg.com/vi/84dEFCUdRUg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-27T17:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-27T18:50:00.8148233Z",
+        "Duration":  "01:38:26",
+        "ViewsAtDiscovery":  72,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Z3jGnLyx99M",
         "Title":  "BAND-MAID / ENERGETIC (Official Music Video) REACTION",
         "Channel":  "Alexa Takes A Look",
