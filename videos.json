@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6D0WbuUxz9c",
+        "Title":  "Ginger T Reacts to BAND-MAID ‘ENERGETIC’ Official MV | First Time Reaction 🔥⚡",
+        "Channel":  "Ginger T Reacts",
+        "ChannelId":  "UCZWOGhnKe5lh_KnpNaWRtQg",
+        "Url":  "https://youtu.be/6D0WbuUxz9c",
+        "Thumbnail":  "https://i.ytimg.com/vi/6D0WbuUxz9c/hqdefault.jpg",
+        "PublishedAt":  "2026-06-27T19:00:11.0000000Z",
+        "DiscoveredAt":  "2026-06-27T19:20:43.6160951Z",
+        "Duration":  "00:29:09",
+        "ViewsAtDiscovery":  30,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "84dEFCUdRUg",
         "Title":  "EARS TO THE EAST | New songs from BAND-MAID , NEMOPHILA , SAKI , and ANO CHAN | plus more...",
         "Channel":  "Ears To The East",
