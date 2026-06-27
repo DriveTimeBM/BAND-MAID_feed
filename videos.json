@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Z3jGnLyx99M",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) REACTION",
+        "Channel":  "Alexa Takes A Look",
+        "ChannelId":  "UCnZtYNtVW9aFc66sxoOQ0RA",
+        "Url":  "https://youtu.be/Z3jGnLyx99M",
+        "Thumbnail":  "https://i.ytimg.com/vi/Z3jGnLyx99M/hqdefault.jpg",
+        "PublishedAt":  "2026-06-27T13:00:17.0000000Z",
+        "DiscoveredAt":  "2026-06-27T13:14:07.1370186Z",
+        "Duration":  "00:06:52",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yTeDGbWBx_E",
         "Title":  "BAND-MAID - ENERGETIC REACTION | They Are Next Level!",
         "Channel":  "Happy Man Reactions",
