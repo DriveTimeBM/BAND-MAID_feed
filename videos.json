@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NlFQ4FknV4A",
+        "Title":  "BAND-MAID - Days Lyrics | [Kanji/Romaji/English]",
+        "Channel":  "Kanamincho",
+        "ChannelId":  "UCHNJpI8sUnbvNC2FWgQ7OFA",
+        "Url":  "https://youtu.be/NlFQ4FknV4A",
+        "Thumbnail":  "https://i.ytimg.com/vi/NlFQ4FknV4A/hqdefault.jpg",
+        "PublishedAt":  "2026-06-27T23:25:59.0000000Z",
+        "DiscoveredAt":  "2026-06-27T23:27:17.3936627Z",
+        "Duration":  "00:03:29",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "zYQ3iyc9OcI",
+        "Title":  "BAND-MAID - Energetic Reaction - This is INSANE!!",
+        "Channel":  "PopzReacts!!",
+        "ChannelId":  "UCwWxpVyRVLhJhLSS1TBVTyw",
+        "Url":  "https://youtu.be/zYQ3iyc9OcI",
+        "Thumbnail":  "https://i.ytimg.com/vi/zYQ3iyc9OcI/hqdefault.jpg",
+        "PublishedAt":  "2026-06-27T23:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-27T23:27:16.8039229Z",
+        "Duration":  "00:07:47",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Z9fA7q4a5uk",
         "Title":  "外国人が反応 | BAND-MAID 'Cage' + 'Days' REACTION | From DARK & Haunting to Beautifully Comforting 🤯",
         "Channel":  "Overthinking with Dennis",
