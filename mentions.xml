@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 18:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 19:20:50 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://m...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpc3z7jxz42v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpc3z7jxz42v</guid>
+      <pubDate>Sat, 27 Jun 2026 18:35:45 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 💿 Forbidden tale - BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:sbgxajlshb7vqtd4zuzjcnk5/post/3mpc2zh32zx2d</link>
@@ -899,15 +908,6 @@
       <dc:creator> WineHusk/酒壳 (sld07.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>多来点BAND-MAID 和 The Warning这种合作好吗……人活着就是要看这种乐队活儿<br/>打死我也想不到在别的圈接触的墨西哥姐妹乐队和动画OP认识的乐队居然会合作，梦幻</p><p><em>BlueSky &middot; sld07.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] New Band Maid single incoming (June 24th)</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mokx3sdqgk2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mokx3sdqgk2m</guid>
-      <pubDate>Thu, 18 Jun 2026 13:36:30 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>New Band Maid single incoming (June 24th)</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
