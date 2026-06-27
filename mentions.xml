@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 20:52:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 22:56:42 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] music.youtube.com/watch?v=5cqS...</title>
+      <link>https://bsky.app/profile/did:plc:vyopjr7nvbs4yluwxsdkvwtt/post/3mpcilz4lj22z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vyopjr7nvbs4yluwxsdkvwtt/post/3mpcilz4lj22z</guid>
+      <pubDate>Sat, 27 Jun 2026 22:21:01 GMT</pubDate>
+      <dc:creator>平穏無事 (sansyougohan123.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>music.youtube.com/watch?v=5cqS...<br/>BAND-MAID好き</p><p><em>BlueSky &middot; sansyougohan123.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 💿 SHOW THEM - BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:sbgxajlshb7vqtd4zuzjcnk5/post/3mpcbtwxmsv2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played at club KNOT in Toyohashi JP on 2016/6/19. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Pretty much anything by Band Maid, but uh... Their songs start super hardcore...</title>
-      <link>https://bsky.app/profile/did:plc:hqaj6wh7b3an6vr6aiwaqwpg/post/3mom7g576d22n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hqaj6wh7b3an6vr6aiwaqwpg/post/3mom7g576d22n</guid>
-      <pubDate>Fri, 19 Jun 2026 01:38:06 GMT</pubDate>
-      <dc:creator>David Kuszmar (davidkuszmar.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Pretty much anything by Band Maid, but uh... Their songs start super hardcore so it goes from Inhuman to Godlike pretty quick.</p><p><em>BlueSky &middot; davidkuszmar.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
