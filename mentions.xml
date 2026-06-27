@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 19:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 20:52:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 💿 SHOW THEM - BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:sbgxajlshb7vqtd4zuzjcnk5/post/3mpcbtwxmsv2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sbgxajlshb7vqtd4zuzjcnk5/post/3mpcbtwxmsv2d</guid>
+      <pubDate>Sat, 27 Jun 2026 20:20:10 GMT</pubDate>
+      <dc:creator>Bruno (sunraku.latinsky.app)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>💿 SHOW THEM - BAND-MAID<br/>#NowPlaying #なうぷれ #なうぷれあっと</p><p><em>BlueSky &middot; sunraku.latinsky.app</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Best group vocals is band maid.</title>
       <link>https://bsky.app/profile/did:plc:a3l3thks3h72ek22zqcys6z5/post/3mpc54n3vik2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>David Kuszmar (davidkuszmar.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Pretty much anything by Band Maid, but uh... Their songs start super hardcore so it goes from Inhuman to Godlike pretty quick.</p><p><em>BlueSky &middot; davidkuszmar.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] I discovered The Warning through their friendship with Band-Maid, and I think...</title>
-      <link>https://mastodon.social/@ChrisJagged/116773842094480564</link>
-      <guid isPermaLink="true">https://mastodon.social/@ChrisJagged/116773842094480564</guid>
-      <pubDate>Fri, 19 Jun 2026 00:03:44 GMT</pubDate>
-      <dc:creator>Chris Jags (ChrisJagged)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>I discovered The Warning through their friendship with Band-Maid, and I think they&#39;re a very solid band. Cool video, too.<br/><br/>https://www.youtube.com/watch?v=juwlhYHWHTM<br/><br/>https://mastodon.social/tags/TheWarning https://mastodon.social/tags/Metal https://mastodon.social/tags/music https://mastodon.social/tags/BandMaid</p><p><em>Mastodon &middot; ChrisJagged</em></p>]]></description>
     </item>
   </channel>
 </rss>
