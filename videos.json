@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mh-686Qrs70",
+        "Title":  "BAND-MAID - One and Only [CSC Q1 2026 Chart Preview]",
+        "Channel":  "Spachi",
+        "ChannelId":  "UCQpGzrCzoaiQ4wlV9pTzs5g",
+        "Url":  "https://youtu.be/mh-686Qrs70",
+        "Thumbnail":  "https://i.ytimg.com/vi/mh-686Qrs70/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T02:28:46.0000000Z",
+        "DiscoveredAt":  "2026-06-28T02:31:26.8684572Z",
+        "Duration":  "00:03:25",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NlFQ4FknV4A",
         "Title":  "BAND-MAID - Days Lyrics | [Kanji/Romaji/English]",
         "Channel":  "Kanamincho",
