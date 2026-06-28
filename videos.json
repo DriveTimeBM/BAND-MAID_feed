@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KiKfRYKSEuQ",
+        "Title":  "Why does 'Cage' Sound So Good? Is it Just Nostalgia? | Quick Thoughts #1 - Band-Maid",
+        "Channel":  "Venus Gaijin",
+        "ChannelId":  "UCzXt_lAr9Nvi3-3RfaSmh_Q",
+        "Url":  "https://youtu.be/KiKfRYKSEuQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/KiKfRYKSEuQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T20:00:17.0000000Z",
+        "DiscoveredAt":  "2026-06-28T20:56:54.5459152Z",
+        "Duration":  "00:03:06",
+        "ViewsAtDiscovery":  33,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "J7vq4yPNJMk",
         "Title":  "THAT BASS!!! BAND-MAID / ENERGETIC (Official Music Video) REACTION",
         "Channel":  "Hawkeye Reactions",
