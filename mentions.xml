@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 14:47:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 18:02:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpehzpveiv2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpehzpveiv2o</guid>
+      <pubDate>Sun, 28 Jun 2026 17:16:07 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Babymetal seemed to have started a new wave of metal in Japan.</title>
       <link>https://bsky.app/profile/did:plc:dcsn454wsda5anl7wbjtpibh/post/3mpe47ojjas2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Unleash!!!!!<br/>Album: Unleash<br/>Release: 9/20/2022<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku], 彩姫 [Saiki]<br/>Arrangement: BAND-MAID<br/>1st Live:8/16/2022<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID / ENERGETIC (Official Teaser Video)</title>
-      <link>https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3mop266yirc2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3mop266yirc2o</guid>
-      <pubDate>Sat, 20 Jun 2026 04:42:10 GMT</pubDate>
-      <dc:creator>さかざき(`^´69) (red-herring-11250.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID / ENERGETIC (Official Teaser Video)<br/>youtube.com/shorts/cKmZP...<br/>イントロだけで気持ちええ</p><p><em>BlueSky &middot; red-herring-11250.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
