@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jybh4robxKo",
+        "Title":  "世界のロックシーンでは圧倒的人気！BAND-MAID なぜここまで受け入れられるのか？　感想　評価",
+        "Channel":  "ちょこめたベビー",
+        "ChannelId":  "UC_ELgxs9au2JuooN4x_btuA",
+        "Url":  "https://youtu.be/jybh4robxKo",
+        "Thumbnail":  "https://i.ytimg.com/vi/jybh4robxKo/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T10:15:23.0000000Z",
+        "DiscoveredAt":  "2026-06-28T10:42:06.4354525Z",
+        "Duration":  "00:04:52",
+        "ViewsAtDiscovery":  14,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0ATEai51HD8",
         "Title":  "BAND-MAID ENERGETIC REACTION",
         "Channel":  "Fablinker Music ",
