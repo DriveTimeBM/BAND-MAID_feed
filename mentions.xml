@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 18:33:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 21:27:40 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Hey Band-Maid</title>
+      <link>https://bsky.app/profile/did:plc:dev2fqkzjqkqvc35b64si2pv/post/3mpeuczezjl2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dev2fqkzjqkqvc35b64si2pv/post/3mpeuczezjl2g</guid>
+      <pubDate>Sun, 28 Jun 2026 20:56:04 GMT</pubDate>
+      <dc:creator>Chi Nerd (mimikute.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Hey Band-Maid<br/>There is a real family behind these words, not just another post on your screen. Their story deserves to be seen. If you have a moment, please visit my page and read the pinned post. 🙏</p><p><em>BlueSky &middot; mimikute.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] BAND-MAID YouTube subscribers have surpassed 800,000.</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mpeucutkys2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mpeucutkys2f</guid>
+      <pubDate>Sun, 28 Jun 2026 20:55:59 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID YouTube subscribers have surpassed 800,000.</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
       <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mpejrusvut2v</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago<br/>Don&#39;t apply the brake<br/>live debut<br/>Shibuya Eggman, Tokyo, Japan<br/>2015/6/21<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Friday at Download Festival 2026: Scene Queen, Lake Malice, Halestorm and Ban...</title>
-      <link>https://bsky.app/profile/did:plc:7gjx7bkaw6gvn23l3pc4zkvy/post/3mopsn3irjg2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7gjx7bkaw6gvn23l3pc4zkvy/post/3mopsn3irjg2y</guid>
-      <pubDate>Sat, 20 Jun 2026 11:59:58 GMT</pubDate>
-      <dc:creator>LOUD WOMEN (loudwomen.org)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Friday at Download Festival 2026: Scene Queen, Lake Malice, Halestorm and Band&#160;Maid<br/><br/>A special one for Artemi, Halestorm opened up with confetti, pyro and cryo (and thats just in the first two songs), Halestorm show themselves to be future main stage headliners with an electrifying set full of rock…</p><p><em>BlueSky &middot; loudwomen.org</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] those who don’t know well about Band-Maid.</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mop6v6vt432q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mop6v6vt432q</guid>
-      <pubDate>Sat, 20 Jun 2026 06:06:37 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>those who don’t know well about Band-Maid.<br/><br/>Saiki: That’s right. We got fired up even more when the video was completed, and we were really like “Yes, yes, this is what we wanted!” (laughs)<br/><br/>Miku Kobato: You know, there are scenes in the beginning where we appear one by one, po. Each of them is link</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
