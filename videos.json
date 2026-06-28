@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3bWsyMqhg-o",
+        "Title":  "BAND-MAID WORLD TOUR 2026 - 2026.06.27: Hiroshima Recap Movie",
+        "Channel":  "Nin puzzle",
+        "ChannelId":  "UCCZ3DnDT0dT1-5AuoEGN7GQ",
+        "Url":  "https://youtu.be/3bWsyMqhg-o",
+        "Thumbnail":  "https://i.ytimg.com/vi/3bWsyMqhg-o/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T14:03:29.0000000Z",
+        "DiscoveredAt":  "2026-06-28T14:17:04.8996638Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "0vvVv_oWlFQ",
+        "Title":  "Leeloo Miko - Upside of Down (EP | The Warning | Band-Maid | J-Rock)",
+        "Channel":  "Marc Stellar",
+        "ChannelId":  "UCnWJCC_zy77FfAQ2Xcj0pPg",
+        "Url":  "https://youtu.be/0vvVv_oWlFQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/0vvVv_oWlFQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T14:00:07.0000000Z",
+        "DiscoveredAt":  "2026-06-28T14:17:04.0686361Z",
+        "Duration":  "00:01:02",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qHW8k7JX2Oc",
         "Title":  "BAND-MAID: CHOOSE ME live at Yokohama Arena 2023. This was the 31st song of the night!",
         "Channel":  "TONY GRIFFIN",
