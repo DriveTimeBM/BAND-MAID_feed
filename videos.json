@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "qHW8k7JX2Oc",
+        "Title":  "BAND-MAID: CHOOSE ME live at Yokohama Arena 2023. This was the 31st song of the night!",
+        "Channel":  "TONY GRIFFIN",
+        "ChannelId":  "UCCMxdwEJNdCB1BrfMDwrMFw",
+        "Url":  "https://youtu.be/qHW8k7JX2Oc",
+        "Thumbnail":  "https://i.ytimg.com/vi/qHW8k7JX2Oc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T13:42:38.0000000Z",
+        "DiscoveredAt":  "2026-06-28T13:46:14.7841593Z",
+        "Duration":  "00:04:11",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "pWUgl8V0pOQ",
+        "Title":  "Musician REACTS to NEW  BAND-MAID and REN songs!",
+        "Channel":  "musicplayeralan",
+        "ChannelId":  "UCpfUmCNtyS2EXKQ0a9HlYHQ",
+        "Url":  "https://youtu.be/pWUgl8V0pOQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/pWUgl8V0pOQ/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T11:56:27.0000000Z",
+        "DiscoveredAt":  "2026-06-28T13:46:14.0723562Z",
+        "Duration":  "00:50:14",
+        "ViewsAtDiscovery":  99,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6yT7DztLBOg",
         "Title":  "Band-Maid Hiroshima Okyuji Recap #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
