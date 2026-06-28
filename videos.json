@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-49uFWbCkI0",
+        "Title":  "SIRIUS | All Female J-Rock alá Nemophila, Lovebites, Hagane & Band-Maid | Polaris | Reaction",
+        "Channel":  "Metalalter TV",
+        "ChannelId":  "UCysM1wvMnkQ-hHrz-QLgjJg",
+        "Url":  "https://youtu.be/-49uFWbCkI0",
+        "Thumbnail":  "https://i.ytimg.com/vi/-49uFWbCkI0/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T12:00:24.0000000Z",
+        "DiscoveredAt":  "2026-06-28T12:13:55.0324802Z",
+        "Duration":  "00:07:30",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "cHwgP4tS3Xg",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) Reaction Ft. Emma",
+        "Channel":  "Tim Overman",
+        "ChannelId":  "UCHxSDK2kjF9zqxPOmYFjB0Q",
+        "Url":  "https://youtu.be/cHwgP4tS3Xg",
+        "Thumbnail":  "https://i.ytimg.com/vi/cHwgP4tS3Xg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T12:00:02.0000000Z",
+        "DiscoveredAt":  "2026-06-28T12:13:54.3465567Z",
+        "Duration":  "00:11:11",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MILOl4LGlPI",
         "Title":  "¡SON LAS REINAS DEL J-ROCK! 😍 BAND-MAID - 'ENERGETIC' Official MV Reaction",
         "Channel":  "MVDRAMA BLACKWITTE",
