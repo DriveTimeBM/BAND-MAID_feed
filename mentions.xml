@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 12:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 14:47:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Babymetal seemed to have started a new wave of metal in Japan.</title>
+      <link>https://bsky.app/profile/did:plc:dcsn454wsda5anl7wbjtpibh/post/3mpe47ojjas2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcsn454wsda5anl7wbjtpibh/post/3mpe47ojjas2b</guid>
+      <pubDate>Sun, 28 Jun 2026 13:44:42 GMT</pubDate>
+      <dc:creator>Chris Washington (cwashington.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Babymetal seemed to have started a new wave of metal in Japan.</p><p><em>BlueSky &middot; cwashington.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAIDもっと早く聴くべきだった</title>
       <link>https://bsky.app/profile/did:plc:ftvoguilqb3vhm7hey2lplac/post/3mpduzelcyc27</link>
@@ -899,15 +908,6 @@
       <dc:creator>さかざき(`^´69) (red-herring-11250.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID / ENERGETIC (Official Teaser Video)<br/>youtube.com/shorts/cKmZP...<br/>イントロだけで気持ちええ</p><p><em>BlueSky &middot; red-herring-11250.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I'm #now_listening_to "Why Why Why" by BAND-MAID</title>
-      <link>https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3monkcccpz22a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3monkcccpz22a</guid>
-      <pubDate>Fri, 19 Jun 2026 14:25:28 GMT</pubDate>
-      <dc:creator>métal vert foncé (darkgreenmetal.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I&#39;m #now_listening_to &quot;Why Why Why&quot; by BAND-MAID</p><p><em>BlueSky &middot; darkgreenmetal.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
