@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6yT7DztLBOg",
+        "Title":  "Band-Maid Hiroshima Okyuji Recap #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/6yT7DztLBOg",
+        "Thumbnail":  "https://i.ytimg.com/vi/6yT7DztLBOg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T13:10:29.0000000Z",
+        "DiscoveredAt":  "2026-06-28T13:15:19.0534683Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "eht5NbqvTBg",
+        "Title":  "GUITAR SOLO REACTIONS ~ BAND MAID ~ Energetic #bandmaidreaction",
+        "Channel":  "Guitar Solo Reactions",
+        "ChannelId":  "UCIX9qg7gttMdaSrjnZaC8jg",
+        "Url":  "https://youtu.be/eht5NbqvTBg",
+        "Thumbnail":  "https://i.ytimg.com/vi/eht5NbqvTBg/hqdefault.jpg",
+        "PublishedAt":  "2026-06-28T13:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-28T13:15:17.7109195Z",
+        "Duration":  "00:05:21",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-49uFWbCkI0",
         "Title":  "SIRIUS | All Female J-Rock alá Nemophila, Lovebites, Hagane & Band-Maid | Polaris | Reaction",
         "Channel":  "Metalalter TV",
