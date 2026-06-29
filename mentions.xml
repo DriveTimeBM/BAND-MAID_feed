@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 10:19:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:55:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Akane from Band-Maid drumming like a champ on their new single.</title>
+      <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mpgfyqxkek2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mpgfyqxkek2u</guid>
+      <pubDate>Mon, 29 Jun 2026 11:45:07 GMT</pubDate>
+      <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Akane from Band-Maid drumming like a champ on their new single.<br/><br/>youtube.com/shorts/uGr9W...</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] My copy of the new Band-Maid single, Energetic, arrived last week but I could...</title>
       <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mpg7jn777s2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Incidentally, my Top 5 J Rock bands<br/><br/>1: Band-Maid<br/>2=Atozome<br/>Glim Spanky<br/>NEK!<br/>Scandal</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 🎥 Our REACTION is live! This BAND-MAID “HATE” live performance hit hard!</title>
-      <link>https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mossggaalq2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mossggaalq2c</guid>
-      <pubDate>Sun, 21 Jun 2026 16:34:14 GMT</pubDate>
-      <dc:creator>AngelTalion (angeltalion.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>🎥 Our REACTION is live! This BAND-MAID “HATE” live performance hit hard!<br/><br/>What part caught you off guard in the best way?<br/><br/>https://www.youtube.com/watch?v=xrD7DyfQ8a4&amp;list=PL7MzXPGtHwvCpOtbZmSz5FAt_oLkjooMn</p><p><em>BlueSky &middot; angeltalion.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
