@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dQW6N9xa4hU",
+        "Title":  "Band-Maid - Energetic | Let's Get This Going | Reaction!",
+        "Channel":  "Wandering Souls Webzine",
+        "ChannelId":  "UCxhB5JDHd-motvgA0l23U_Q",
+        "Url":  "https://youtu.be/dQW6N9xa4hU",
+        "Thumbnail":  "https://i.ytimg.com/vi/dQW6N9xa4hU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-29T09:00:17.0000000Z",
+        "DiscoveredAt":  "2026-06-29T10:19:35.3115806Z",
+        "Duration":  "00:07:25",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "trU87Mygp1M",
         "Title":  "Misassianted | Band-Maid - ENERGETIC (Official Music Video)(Reaction)",
         "Channel":  "Nicky's Music Box",
