@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "q7hzewZdKvA",
+        "Title":  "This Rhythm Section Is Absolute MADNESS! 🤯 BAND-MAID - Why Why Why REACTION",
+        "Channel":  "RJS_Reactions",
+        "ChannelId":  "UCfOmuwwHkq0wbruIT0FdLiQ",
+        "Url":  "https://youtu.be/q7hzewZdKvA",
+        "Thumbnail":  "https://i.ytimg.com/vi/q7hzewZdKvA/hqdefault.jpg",
+        "PublishedAt":  "2026-06-29T15:10:52.0000000Z",
+        "DiscoveredAt":  "2026-06-29T15:29:45.2956945Z",
+        "Duration":  "00:08:27",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Bsh-nEFIjQ4",
+        "Title":  "BAND-MAID / Brightest Star (Live) Electric Brixton- London 2026 🌸Reaction🌸",
+        "Channel":  "Faro & Sofi",
+        "ChannelId":  "UCLQzdUgHF9l_eybT3_Wo22A",
+        "Url":  "https://youtu.be/Bsh-nEFIjQ4",
+        "Thumbnail":  "https://i.ytimg.com/vi/Bsh-nEFIjQ4/hqdefault.jpg",
+        "PublishedAt":  "2026-06-29T15:00:21.0000000Z",
+        "DiscoveredAt":  "2026-06-29T15:29:44.7367799Z",
+        "Duration":  "00:14:03",
+        "ViewsAtDiscovery":  15,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Nhr2MZ7dsrc",
         "Title":  "BAND MAID MONDAY!! NEW SONG - \"ENERGETIC\"",
         "Channel":  "WavesAcrossTheWater",
