@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 13:27:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 13:58:10 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonice a...</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mpgkklk7oy2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mpgkklk7oy2o</guid>
+      <pubDate>Mon, 29 Jun 2026 13:06:40 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonice ahora: https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] ⛩️The Singularity Is Nigh, aber vorher kommt BAND-MAID mit ENERGETIC</title>
       <link>https://bsky.app/profile/did:plc:7un4skhn44fe3jsrbf44hdiy/post/3mpgenehuah32</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>7 years ago Band-Maid played 24 songs at Islington Assembly Hall in London GB on 2019/6/22. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
-      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3motuvpqgkm2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3motuvpqgkm2m</guid>
-      <pubDate>Mon, 22 Jun 2026 02:51:15 GMT</pubDate>
-      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
     </item>
   </channel>
 </rss>
