@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 11:55:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 13:27:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] ⛩️The Singularity Is Nigh, aber vorher kommt BAND-MAID mit ENERGETIC</title>
+      <link>https://bsky.app/profile/did:plc:7un4skhn44fe3jsrbf44hdiy/post/3mpgenehuah32</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7un4skhn44fe3jsrbf44hdiy/post/3mpgenehuah32</guid>
+      <pubDate>Mon, 29 Jun 2026 11:20:40 GMT</pubDate>
+      <dc:creator>SvenTetzlaff （翁 辞文） (sventetzlaff.literatur.social.ap.brid.gy)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>⛩️The Singularity Is Nigh, aber vorher kommt BAND-MAID mit ENERGETIC<br/><br/>LALALA LALALA LALALA ... 🤪<br/><br/>BAND-MAID hatte gerade eine Tour in Europe:<br/>BERLIN, COLUMBIA THEATER<br/>FRANKFURT, BATSCHKAPP<br/>MUNICH, TECHNIKUM<br/>PARIS, BATACLAN<br/>LONDON, ELECTRIC BRIXTON<br/>Alle Konzerte waren restlos ausverkauft. 😎 […]</p><p><em>BlueSky &middot; sventetzlaff.literatur.social.ap.brid.gy</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Akane from Band-Maid drumming like a champ on their new single.</title>
       <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mpgfyqxkek2u</link>
@@ -899,15 +908,6 @@
       <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Incidentally, my Top 5 J Rock bands</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mot2scffz22e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mot2scffz22e</guid>
-      <pubDate>Sun, 21 Jun 2026 19:04:04 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Incidentally, my Top 5 J Rock bands<br/><br/>1: Band-Maid<br/>2=Atozome<br/>Glim Spanky<br/>NEK!<br/>Scandal</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
