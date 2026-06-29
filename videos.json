@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_TIFmtiXOZ4",
+        "Title":  "ADRENALIZED MAIDS! - BAND-MAID - ENERGETIC REACTION",
+        "Channel":  "Tequila Jimmy Unleashed!",
+        "ChannelId":  "UC6e_cgIkklSLUonsjCc0_og",
+        "Url":  "https://youtu.be/_TIFmtiXOZ4",
+        "Thumbnail":  "https://i.ytimg.com/vi/_TIFmtiXOZ4/hqdefault.jpg",
+        "PublishedAt":  "2026-06-29T10:45:18.0000000Z",
+        "DiscoveredAt":  "2026-06-29T10:50:57.2322269Z",
+        "Duration":  "00:12:23",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dQW6N9xa4hU",
         "Title":  "Band-Maid - Energetic | Let's Get This Going | Reaction!",
         "Channel":  "Wandering Souls Webzine",
