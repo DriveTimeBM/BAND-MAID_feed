@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "oG2nusaNHWs",
+        "Title":  "BAND-MAID/ENENRGETIC[guitar cover ]",
+        "Channel":  "健司山崎",
+        "ChannelId":  "UCxi7MJ_H2Jd73nqALLn71KQ",
+        "Url":  "https://youtu.be/oG2nusaNHWs",
+        "Thumbnail":  "https://i.ytimg.com/vi/oG2nusaNHWs/hqdefault.jpg",
+        "PublishedAt":  "2026-06-29T21:27:55.0000000Z",
+        "DiscoveredAt":  "2026-06-29T21:45:56.4459960Z",
+        "Duration":  "00:03:23",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "UMip32xywX8",
         "Title":  "BAND-MAID / ENERGETIC ( Official Music Video) REACTION",
         "Channel":  "Angelo's World",
