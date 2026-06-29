@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hMv0M6tzNVU",
+        "Title":  "BAND-MAID - Energetic REACTION by professional singer",
+        "Channel":  "Wrighteousj",
+        "ChannelId":  "UCT9YAMN4u7FZk8uMmij7_gg",
+        "Url":  "https://youtu.be/hMv0M6tzNVU",
+        "Thumbnail":  "https://i.ytimg.com/vi/hMv0M6tzNVU/hqdefault.jpg",
+        "PublishedAt":  "2026-06-29T12:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-29T12:26:09.4329817Z",
+        "Duration":  "00:10:15",
+        "ViewsAtDiscovery":  40,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "R7Ju50l5Rdw",
+        "Title":  "BAND-MAID \"Choose Me\" (OLV Reaction)",
+        "Channel":  "vintage sol",
+        "ChannelId":  "UCMRBbkpiK8JnDg9kTQdYPtA",
+        "Url":  "https://youtu.be/R7Ju50l5Rdw",
+        "Thumbnail":  "https://i.ytimg.com/vi/R7Ju50l5Rdw/hqdefault.jpg",
+        "PublishedAt":  "2026-06-29T11:56:24.0000000Z",
+        "DiscoveredAt":  "2026-06-29T12:26:08.8418872Z",
+        "Duration":  "00:11:01",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_TIFmtiXOZ4",
         "Title":  "ADRENALIZED MAIDS! - BAND-MAID - ENERGETIC REACTION",
         "Channel":  "Tequila Jimmy Unleashed!",
