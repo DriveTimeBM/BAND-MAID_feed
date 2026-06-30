@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "OvwjIl6xDpk",
+        "Title":  "【BAND-MAID】神戸公演が伝説級の熱狂！日本武道館2DAYSチケット受付開始…ワールドツアーの結末とは？",
+        "Channel":  "ソウルスポットライト",
+        "ChannelId":  "UCAjNmAlM7dy3p5eT5qlzLQw",
+        "Url":  "https://youtu.be/OvwjIl6xDpk",
+        "Thumbnail":  "https://i.ytimg.com/vi/OvwjIl6xDpk/hqdefault.jpg",
+        "PublishedAt":  "2026-06-30T15:13:38.0000000Z",
+        "DiscoveredAt":  "2026-06-30T15:19:58.6525515Z",
+        "Duration":  "00:08:28",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ChwZlSnd6z4",
         "Title":  "FANTASY! BAND-MAID / Choose me (Official Live Video) REACTION",
         "Channel":  "Chadeo",
