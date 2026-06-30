@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "MJTQtXG_fRc",
+        "Title":  "Band Maid Just Dropped a MONSTER! | Energetic Reaction & Breakdown",
+        "Channel":  "Metal Coach Hard Rock and Metal Reactions",
+        "ChannelId":  "UC7lsCbASbTj0qkaoRbLMqGA",
+        "Url":  "https://youtu.be/MJTQtXG_fRc",
+        "Thumbnail":  "https://i.ytimg.com/vi/MJTQtXG_fRc/hqdefault.jpg",
+        "PublishedAt":  "2026-06-30T21:49:13.0000000Z",
+        "DiscoveredAt":  "2026-06-30T22:05:47.5349072Z",
+        "Duration":  "00:15:38",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "f_Wlhs9honU",
         "Title":  "SUPER SUNSHINE: Bringing the Sunshine! | BAND-MAID Live Reaction",
         "Channel":  "Tii_Rose Reactions",
