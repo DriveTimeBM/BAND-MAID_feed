@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XKzrME8MgDY",
+        "Title":  "THIS WAS NOT WHAT I EXPECTED! 😱🔥 | BAND-MAID - Bestie REACTION",
+        "Channel":  "RJS_Reactions",
+        "ChannelId":  "UCfOmuwwHkq0wbruIT0FdLiQ",
+        "Url":  "https://youtu.be/XKzrME8MgDY",
+        "Thumbnail":  "https://i.ytimg.com/vi/XKzrME8MgDY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-30T22:35:48.0000000Z",
+        "DiscoveredAt":  "2026-06-30T22:36:26.0860637Z",
+        "Duration":  "00:07:40",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "zTT4eFp8Hxw",
+        "Title":  "BAND-MAID & The Warning Prove Why This Collab Had To Happen",
+        "Channel":  "PunqeweReacts",
+        "ChannelId":  "UCioCmd4htYyq78U0YOFFLog",
+        "Url":  "https://youtu.be/zTT4eFp8Hxw",
+        "Thumbnail":  "https://i.ytimg.com/vi/zTT4eFp8Hxw/hqdefault.jpg",
+        "PublishedAt":  "2026-06-30T18:19:35.0000000Z",
+        "DiscoveredAt":  "2026-06-30T22:36:25.3025045Z",
+        "Duration":  "00:08:43",
+        "ViewsAtDiscovery":  23,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MJTQtXG_fRc",
         "Title":  "Band Maid Just Dropped a MONSTER! | Energetic Reaction & Breakdown",
         "Channel":  "Metal Coach Hard Rock and Metal Reactions",
