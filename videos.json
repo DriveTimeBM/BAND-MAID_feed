@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ewsfELzAppY",
+        "Title":  "Reaction: BAND-MAID / “Memorable” Official Music Video",
+        "Channel":  "Ramieh Reacts & Live",
+        "ChannelId":  "UCR588hWYawFA6vfBSJeyIrA",
+        "Url":  "https://youtu.be/ewsfELzAppY",
+        "Thumbnail":  "https://i.ytimg.com/vi/ewsfELzAppY/hqdefault.jpg",
+        "PublishedAt":  "2026-06-30T15:30:18.0000000Z",
+        "DiscoveredAt":  "2026-06-30T15:46:06.0608915Z",
+        "Duration":  "00:07:46",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "OvwjIl6xDpk",
         "Title":  "【BAND-MAID】神戸公演が伝説級の熱狂！日本武道館2DAYSチケット受付開始…ワールドツアーの結末とは？",
         "Channel":  "ソウルスポットライト",
