@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ChwZlSnd6z4",
+        "Title":  "FANTASY! BAND-MAID / Choose me (Official Live Video) REACTION",
+        "Channel":  "Chadeo",
+        "ChannelId":  "UCjLSPiLvfo-1EDEQamZ87KQ",
+        "Url":  "https://youtu.be/ChwZlSnd6z4",
+        "Thumbnail":  "https://i.ytimg.com/vi/ChwZlSnd6z4/hqdefault.jpg",
+        "PublishedAt":  "2026-06-30T13:00:01.0000000Z",
+        "DiscoveredAt":  "2026-06-30T13:17:58.6065196Z",
+        "Duration":  "00:06:14",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bHheWmaEP-c",
         "Title":  "First Time Hearing BAND-MAID Energetic | Pure Japanese Hard Rock! - Reaction",
         "Channel":  "DevelopeReaction",
