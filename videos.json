@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "fEiZvgQP77w",
+        "Title":  "June Highlights - BAND-MAID, LOVEBITES, and More!!",
+        "Channel":  "Adventura",
+        "ChannelId":  "UCkJkuW8Cqs0Ceifr24KrTmA",
+        "Url":  "https://youtu.be/fEiZvgQP77w",
+        "Thumbnail":  "https://i.ytimg.com/vi/fEiZvgQP77w/hqdefault.jpg",
+        "PublishedAt":  "2026-06-30T07:00:36.0000000Z",
+        "DiscoveredAt":  "2026-06-30T07:46:57.7913875Z",
+        "Duration":  "00:07:23",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "QIm97hLHwHo",
         "Title":  "This were June 26's most viewed videos in Japan's HR&HM: BAND-MAID, NEMOPHILA, HAGANE, East of Eden",
         "Channel":  "Rock Unmei",
