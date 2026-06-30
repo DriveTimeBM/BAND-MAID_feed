@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bHheWmaEP-c",
+        "Title":  "First Time Hearing BAND-MAID Energetic | Pure Japanese Hard Rock! - Reaction",
+        "Channel":  "DevelopeReaction",
+        "ChannelId":  "UCHKivAu2YBYV-jb51udLH-A",
+        "Url":  "https://youtu.be/bHheWmaEP-c",
+        "Thumbnail":  "https://i.ytimg.com/vi/bHheWmaEP-c/hqdefault.jpg",
+        "PublishedAt":  "2026-06-30T12:00:06.0000000Z",
+        "DiscoveredAt":  "2026-06-30T12:47:25.2871728Z",
+        "Duration":  "00:16:36",
+        "ViewsAtDiscovery":  84,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "fEiZvgQP77w",
         "Title":  "June Highlights - BAND-MAID, LOVEBITES, and More!!",
         "Channel":  "Adventura",
