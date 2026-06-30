@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 13:58:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 05:03:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAIDがOP担当してるのは知ってる</title>
+      <link>https://bsky.app/profile/did:plc:eg7hafnkkiohfmjwfuj2pgmi/post/3mpi5slir2k2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eg7hafnkkiohfmjwfuj2pgmi/post/3mpi5slir2k2o</guid>
+      <pubDate>Tue, 30 Jun 2026 04:23:49 GMT</pubDate>
+      <dc:creator>hibihas (hibiwareglass.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDがOP担当してるのは知ってる</p><p><em>BlueSky &middot; hibiwareglass.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonice a...</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mpgkklk7oy2o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago Band-Maid played 10 songs at Zepp@BIGBOX in Singapore SG on 2018/6/22. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 7 years ago Band-Maid played 24 songs at Islington Assembly Hall in London GB...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mou7gqgxhd2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mou7gqgxhd2m</guid>
-      <pubDate>Mon, 22 Jun 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>7 years ago Band-Maid played 24 songs at Islington Assembly Hall in London GB on 2019/6/22. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
