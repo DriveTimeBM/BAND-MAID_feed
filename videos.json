@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "o6vSHiFIm3w",
+        "Title":  "BAND-MAID “Without Holding Back” REACTION 🔥 THIS HIT HARDER THAN EXPECTED",
+        "Channel":  "Chilled Reactions",
+        "ChannelId":  "UC8xZRLGurUg6UTojwVHADUA",
+        "Url":  "https://youtu.be/o6vSHiFIm3w",
+        "Thumbnail":  "https://i.ytimg.com/vi/o6vSHiFIm3w/hqdefault.jpg",
+        "PublishedAt":  "2026-07-01T17:00:13.0000000Z",
+        "DiscoveredAt":  "2026-07-01T17:26:39.8915721Z",
+        "Duration":  "00:08:57",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "dbvyTuGhaSQ",
+        "Title":  "BAND-MAID 'Dice' & 'Hate' live | FIRST time listening to this band.",
+        "Channel":  "Did That Really Happen - DTRH",
+        "ChannelId":  "UCMy9rVGlMvD_Estj3I5OscQ",
+        "Url":  "https://youtu.be/dbvyTuGhaSQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/dbvyTuGhaSQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-01T17:00:07.0000000Z",
+        "DiscoveredAt":  "2026-07-01T17:26:36.9898551Z",
+        "Duration":  "00:15:20",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_kTL4B78IYA",
         "Title":  "First Reaction to BAND-MAID / ENERGETIC (Official Music Video)",
         "Channel":  "Shade Reacts Live",
