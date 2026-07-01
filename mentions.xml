@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 08:05:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:22:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Kanami from Band-Maid just rocking out on Energetic.</title>
+      <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mplmbgcqgs2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mplmbgcqgs2o</guid>
+      <pubDate>Wed, 01 Jul 2026 13:20:39 GMT</pubDate>
+      <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Kanami from Band-Maid just rocking out on Energetic.<br/>I&#39;m loving the new gothic look to the band members costumes.<br/><br/>youtube.com/shorts/SRAQO...</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] over, in this case, we wanted to make something that emphasized melody, and o...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpktzjzx252q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Simeon K Rabbani (slkrr9.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID raise the bar yet again as they plot world conquest, with their brand new MV, “ENERGETIC”:<br/><br/>#bandmaid<br/>#energetic<br/><br/>youtu.be/NpZjslVGhbE?...</p><p><em>BlueSky &middot; slkrr9.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] A new song by BAND-MAID. 🤘 🇯🇵 👍</title>
-      <link>https://social.tchncs.de/@dodger/116800198972787484</link>
-      <guid isPermaLink="true">https://social.tchncs.de/@dodger/116800198972787484</guid>
-      <pubDate>Tue, 23 Jun 2026 15:46:38 GMT</pubDate>
-      <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>A new song by BAND-MAID. 🤘 🇯🇵 👍 <br/><br/>https://www.youtube.com/watch?v=NpZjslVGhbE<br/><br/>https://social.tchncs.de/tags/music https://social.tchncs.de/tags/jrock https://social.tchncs.de/tags/bandmaid</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
     </item>
   </channel>
 </rss>
