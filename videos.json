@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ATZb8oM9UYw",
+        "Title":  "Wild boost of power - band maid , energetic , music reaction ",
+        "Channel":  "diving in- with avishai ",
+        "ChannelId":  "UCINfIIQ89os6QbBI4XRXo-A",
+        "Url":  "https://youtu.be/ATZb8oM9UYw",
+        "Thumbnail":  "https://i.ytimg.com/vi/ATZb8oM9UYw/hqdefault.jpg",
+        "PublishedAt":  "2026-07-01T12:19:31.0000000Z",
+        "DiscoveredAt":  "2026-07-01T12:20:15.2221393Z",
+        "Duration":  "00:06:15",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "rS6DiHqqQic",
+        "Title":  "BAND-MAID | 'ENERGETIC' M/V Reaction (They NEVER Miss A Beat!)",
+        "Channel":  "SpicyBenTV Reacts",
+        "ChannelId":  "UCXDT7IoxQ3nBpPnD1bpWK2w",
+        "Url":  "https://youtu.be/rS6DiHqqQic",
+        "Thumbnail":  "https://i.ytimg.com/vi/rS6DiHqqQic/hqdefault.jpg",
+        "PublishedAt":  "2026-07-01T12:00:34.0000000Z",
+        "DiscoveredAt":  "2026-07-01T12:20:14.6006863Z",
+        "Duration":  "00:07:04",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "OlvD4bYSGJA",
         "Title":  "【衝撃】BAND-MAID・MISAの神ベースソロが世界を震わせた！新曲「ENERGETIC」に絶賛殺到…ファン熱狂の理由とは！🔥",
         "Channel":  "Jp Music News",
