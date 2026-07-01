@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "kgTTChOEy4w",
+        "Title":  "Band Maid Rock In Me (Audio) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/kgTTChOEy4w",
+        "Thumbnail":  "https://i.ytimg.com/vi/kgTTChOEy4w/hqdefault.jpg",
+        "PublishedAt":  "2026-07-01T18:06:14.0000000Z",
+        "DiscoveredAt":  "2026-07-01T18:28:33.9392243Z",
+        "Duration":  "00:03:22",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2AHduOCM9YQ",
         "Title":  "バンドメイドの演奏力が異次元すぎる！😱 BAND-MAID - ‘ENERGETIC’ MV | They just keep getting better! (Reaction)",
         "Channel":  "Twin Skitz",
