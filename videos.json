@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_kTL4B78IYA",
+        "Title":  "First Reaction to BAND-MAID / ENERGETIC (Official Music Video)",
+        "Channel":  "Shade Reacts Live",
+        "ChannelId":  "UC0NFGDHBF_cViOnQtiOhrRg",
+        "Url":  "https://youtu.be/_kTL4B78IYA",
+        "Thumbnail":  "https://i.ytimg.com/vi/_kTL4B78IYA/hqdefault.jpg",
+        "PublishedAt":  "2026-07-01T16:43:26.0000000Z",
+        "DiscoveredAt":  "2026-07-01T16:55:22.4500278Z",
+        "Duration":  "00:11:22",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YiwKNx4pv_M",
         "Title":  "We listen to Hate? by BAND-MAID for the FIRST TIME! | (REACTION)",
         "Channel":  "The Keep Up",
