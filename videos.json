@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "PVrfr_YrDEo",
+        "Title":  "1st Time Reaction to BAND-MAID - HATE",
+        "Channel":  "P Reacts Music",
+        "ChannelId":  "UCUwevNkARRcrbq1ghGPGFaw",
+        "Url":  "https://youtu.be/PVrfr_YrDEo",
+        "Thumbnail":  "https://i.ytimg.com/vi/PVrfr_YrDEo/hqdefault.jpg",
+        "PublishedAt":  "2026-07-01T18:45:37.0000000Z",
+        "DiscoveredAt":  "2026-07-01T18:59:16.7097819Z",
+        "Duration":  "00:11:31",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "kgTTChOEy4w",
         "Title":  "Band Maid Rock In Me (Audio) Reaction",
         "Channel":  "jmnassar",
