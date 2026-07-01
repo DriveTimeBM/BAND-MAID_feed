@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7XVwFII4918",
+        "Title":  "New Band Maid Song  WOW  BAND MAID  ENERGETIC",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/7XVwFII4918",
+        "Thumbnail":  "https://i.ytimg.com/vi/7XVwFII4918/hqdefault.jpg",
+        "PublishedAt":  "2026-07-01T22:18:41.0000000Z",
+        "DiscoveredAt":  "2026-07-01T22:40:43.4340046Z",
+        "Duration":  "00:07:27",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "wlnKuVoolF0",
+        "Title":  "NAME SAYS IT ALL!! - BAND-MAID \"ENERGETIC\" Music Video Reaction | JMD Reactions",
+        "Channel":  "JMD",
+        "ChannelId":  "UCAVBOW62oMj8dFEji7hxuPQ",
+        "Url":  "https://youtu.be/wlnKuVoolF0",
+        "Thumbnail":  "https://i.ytimg.com/vi/wlnKuVoolF0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-01T22:10:51.0000000Z",
+        "DiscoveredAt":  "2026-07-01T22:40:42.5690730Z",
+        "Duration":  "00:12:14",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "PVrfr_YrDEo",
         "Title":  "1st Time Reaction to BAND-MAID - HATE",
         "Channel":  "P Reacts Music",
