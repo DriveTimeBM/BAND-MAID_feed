@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gY63KLvToA4",
+        "Title":  "Band-Maid in Berlin - I am Miku Kobato  #metal #kawaii #japan #rock #jpop #berlin #kultur",
+        "Channel":  "RADULF DRAMA",
+        "ChannelId":  "UCTE-z364_DpS3aFE0ae5ZMQ",
+        "Url":  "https://youtu.be/gY63KLvToA4",
+        "Thumbnail":  "https://i.ytimg.com/vi/gY63KLvToA4/hqdefault.jpg",
+        "PublishedAt":  "2026-07-02T15:58:33.0000000Z",
+        "DiscoveredAt":  "2026-07-02T16:24:05.2538528Z",
+        "Duration":  "00:05:27",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qH4KcWukwSk",
         "Title":  "BAND-MAID: CHOOSE ME was performed as an encore at Zepp Tokyo 2022.",
         "Channel":  "TONY GRIFFIN",
