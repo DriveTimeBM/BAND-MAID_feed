@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 19:30:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 05:34:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 7 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mpnaiyouvf2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mpnaiyouvf2q</guid>
+      <pubDate>Thu, 02 Jul 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>7 years ago<br/>Domination MV<br/>milestone<br/>surpassed 2M views<br/>2019/7/2<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Ended the first half of 2026 by listening to multiple recommendations, explor...</title>
       <link>https://bsky.app/profile/did:plc:qkkbk3fvbqtm3rln3ducestl/post/3mpm74p4pfc2t</link>
@@ -899,15 +908,6 @@
       <dc:creator>佐藤英男 (sato-hideo.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID / ENERGETIC (Official Music Video)<br/>www.youtube.com/watch?v=NpZj...<br/>Lyricist: Miku Kobato<br/>Composer: BAND-MAID<br/>Arranger: BAND-MAID<br/>#BANDMAID #ENERGETIC</p><p><em>BlueSky &middot; sato-hideo.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID /// CAGE</title>
-      <link>https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3moxptp7nqc23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3moxptp7nqc23</guid>
-      <pubDate>Tue, 23 Jun 2026 15:31:19 GMT</pubDate>
-      <dc:creator>Merry Ol' Soul (merryolsoul.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID /// CAGE<br/><br/>#music<br/><br/>www.youtube.com/watch?v=7MLd...</p><p><em>BlueSky &middot; merryolsoul.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
