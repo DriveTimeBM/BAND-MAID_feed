@@ -16,21 +16,6 @@
     },
     {
         "schema_version":  1,
-        "VideoId":  "qH4KcWukwSk",
-        "Title":  "BAND-MAID: CHOOSE ME was performed as an encore at Zepp Tokyo 2022.",
-        "Channel":  "TONY GRIFFIN",
-        "ChannelId":  "UCCMxdwEJNdCB1BrfMDwrMFw",
-        "Url":  "https://youtu.be/qH4KcWukwSk",
-        "Thumbnail":  "https://i.ytimg.com/vi/qH4KcWukwSk/hqdefault.jpg",
-        "PublishedAt":  "2026-07-02T15:18:17.0000000Z",
-        "DiscoveredAt":  "2026-07-02T15:21:50.5532990Z",
-        "Duration":  "00:06:35",
-        "ViewsAtDiscovery":  1,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
         "VideoId":  "Lm6aCJgFcwk",
         "Title":  "【BAND-MAID】TOKYO FM「Blue Ocean」2026.07.01 出演：小鳩ミク・SAIKI",
         "Channel":  "佐々木20XX",
@@ -925,21 +910,6 @@
         "PublishedAt":  "2026-06-28T14:00:07.0000000Z",
         "DiscoveredAt":  "2026-06-28T14:17:04.0686361Z",
         "Duration":  "00:01:02",
-        "ViewsAtDiscovery":  1,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
-        "VideoId":  "qHW8k7JX2Oc",
-        "Title":  "BAND-MAID: CHOOSE ME live at Yokohama Arena 2023. This was the 31st song of the night!",
-        "Channel":  "TONY GRIFFIN",
-        "ChannelId":  "UCCMxdwEJNdCB1BrfMDwrMFw",
-        "Url":  "https://youtu.be/qHW8k7JX2Oc",
-        "Thumbnail":  "https://i.ytimg.com/vi/qHW8k7JX2Oc/hqdefault.jpg",
-        "PublishedAt":  "2026-06-28T13:42:38.0000000Z",
-        "DiscoveredAt":  "2026-06-28T13:46:14.7841593Z",
-        "Duration":  "00:04:11",
         "ViewsAtDiscovery":  1,
         "Live":  "none",
         "Status":  "active"
