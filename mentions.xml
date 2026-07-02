@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 07:37:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:26:23 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] The warning son la caña y super jóvenes, así que van a dar guerra mucho tiemp...</title>
+      <link>https://bsky.app/profile/did:plc:3abic3dzpdssucbioowdhokj/post/3mpoig745ks2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3abic3dzpdssucbioowdhokj/post/3mpoig745ks2o</guid>
+      <pubDate>Thu, 02 Jul 2026 16:49:43 GMT</pubDate>
+      <dc:creator>Pablo Bouzada (pbousan.rocks)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>The warning son la ca&#241;a y super j&#243;venes, as&#237; que van a dar guerra mucho tiempo 🤟 Las encontr&#233; escuchando bandazas (te lo copio) de rock/metal japones, todo mujeres: Band-maid, Lovebites, Nemophila. Y de bola extra, Gacharic Spin, que es una banda m&#225;s ecl&#233;ctica pero musicalmente brutales.</p><p><em>BlueSky &middot; pbousan.rocks</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Don't apply the brake</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpnei4wvzc22</link>
@@ -899,15 +908,6 @@
       <dc:creator>Goji the sleepy (gojibbles.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Ooooo new BAND-MAID.</p><p><em>BlueSky &middot; gojibbles.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID / ENERGETIC (Official Music Video) youtu.be/NpZjslVGhbE?...</title>
-      <link>https://bsky.app/profile/did:plc:zmxswzrac2u2d6pydmzcbbrs/post/3moxyoximy223</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zmxswzrac2u2d6pydmzcbbrs/post/3moxyoximy223</guid>
-      <pubDate>Tue, 23 Jun 2026 18:09:43 GMT</pubDate>
-      <dc:creator>TF (24c-f.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID / ENERGETIC (Official Music Video) youtu.be/NpZjslVGhbE?... <br/><br/>#BAND-MAID</p><p><em>BlueSky &middot; 24c-f.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
