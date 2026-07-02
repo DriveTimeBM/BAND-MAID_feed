@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Qgf-6UA4gJ0",
+        "Title":  "GETTING TO KNOW BAND MAID! | Band-Maid Documentary / Miku Part 3 reaction",
+        "Channel":  "PhoebeFromTV",
+        "ChannelId":  "UCWBQXzPdSa_m-sJhxQtxsRA",
+        "Url":  "https://youtu.be/Qgf-6UA4gJ0",
+        "Thumbnail":  "https://i.ytimg.com/vi/Qgf-6UA4gJ0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-02T13:00:11.0000000Z",
+        "DiscoveredAt":  "2026-07-02T13:17:09.8463218Z",
+        "Duration":  "00:38:52",
+        "ViewsAtDiscovery":  44,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ROsfziGU1L8",
         "Title":  "Musician reacts to BAND-MAID / CAGE | Metal maids!",
         "Channel":  "Vault of Art",
