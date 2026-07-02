@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Uoq0SO3vJXE",
+        "Title":  "BAND-MAID – ENERGETIC Reaction | They Never Let You Breathe! 🔥⭐",
+        "Channel":  "Andrea's Music Corner",
+        "ChannelId":  "UCe4LiRGr2s2jySDPHQcfXrA",
+        "Url":  "https://youtu.be/Uoq0SO3vJXE",
+        "Thumbnail":  "https://i.ytimg.com/vi/Uoq0SO3vJXE/hqdefault.jpg",
+        "PublishedAt":  "2026-07-02T01:00:25.0000000Z",
+        "DiscoveredAt":  "2026-07-02T01:29:06.2554532Z",
+        "Duration":  "00:07:58",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "jrZJntaF0bg",
+        "Title":  "BAND-MAID Is Back... And They Didn't Come to Play | ENERGETIC Reaction🔥",
+        "Channel":  "Amiekinz4ever",
+        "ChannelId":  "UCu2rtkLLCgkLjKKys4JxqOA",
+        "Url":  "https://youtu.be/jrZJntaF0bg",
+        "Thumbnail":  "https://i.ytimg.com/vi/jrZJntaF0bg/hqdefault.jpg",
+        "PublishedAt":  "2026-07-02T00:55:53.0000000Z",
+        "DiscoveredAt":  "2026-07-02T01:29:05.4811133Z",
+        "Duration":  "00:14:41",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7XVwFII4918",
         "Title":  "New Band Maid Song  WOW  BAND MAID  ENERGETIC",
         "Channel":  "Purple unicorn reaction's",
