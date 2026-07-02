@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gyo2nK6CHrg",
+        "Title":  "Soft & HEAVY!!! [BAND-MAID - Days & CAGE] First time REACTION!",
+        "Channel":  "react-O-mat",
+        "ChannelId":  "UCjg2xGGQ_XCrrASJkWrI2eQ",
+        "Url":  "https://youtu.be/gyo2nK6CHrg",
+        "Thumbnail":  "https://i.ytimg.com/vi/gyo2nK6CHrg/hqdefault.jpg",
+        "PublishedAt":  "2026-07-02T10:00:07.0000000Z",
+        "DiscoveredAt":  "2026-07-02T10:11:19.6414035Z",
+        "Duration":  "00:13:09",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "APbV09lGTUg",
+        "Title":  "Dance it out with ENERGETIC by BAND-MAID 🤩 | German & Chinese Couple Reaction",
+        "Channel":  "Bobui Buibo",
+        "ChannelId":  "UCukx3cpb94uU7mIBWz_4ivA",
+        "Url":  "https://youtu.be/APbV09lGTUg",
+        "Thumbnail":  "https://i.ytimg.com/vi/APbV09lGTUg/hqdefault.jpg",
+        "PublishedAt":  "2026-07-02T09:08:54.0000000Z",
+        "DiscoveredAt":  "2026-07-02T10:11:18.8014498Z",
+        "Duration":  "00:09:53",
+        "ViewsAtDiscovery":  35,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Uoq0SO3vJXE",
         "Title":  "BAND-MAID – ENERGETIC Reaction | They Never Let You Breathe! 🔥⭐",
         "Channel":  "Andrea's Music Corner",
