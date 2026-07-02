@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ROsfziGU1L8",
+        "Title":  "Musician reacts to BAND-MAID / CAGE | Metal maids!",
+        "Channel":  "Vault of Art",
+        "ChannelId":  "UCZJ9ZsJGHLHmkqIh30knRXw",
+        "Url":  "https://youtu.be/ROsfziGU1L8",
+        "Thumbnail":  "https://i.ytimg.com/vi/ROsfziGU1L8/hqdefault.jpg",
+        "PublishedAt":  "2026-07-02T11:00:18.0000000Z",
+        "DiscoveredAt":  "2026-07-02T11:13:14.6177971Z",
+        "Duration":  "00:07:23",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gyo2nK6CHrg",
         "Title":  "Soft & HEAVY!!! [BAND-MAID - Days & CAGE] First time REACTION!",
         "Channel":  "react-O-mat",
