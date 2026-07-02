@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 17:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:59:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Anyway I am still waiting for Band Maid to release their October dates for th...</title>
+      <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mpone3ws5k2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mpone3ws5k2j</guid>
+      <pubDate>Thu, 02 Jul 2026 18:18:02 GMT</pubDate>
+      <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Anyway I am still waiting for Band Maid to release their October dates for the NA part of their world tour and it is killing me</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] The warning son la caña y super jóvenes, así que van a dar guerra mucho tiemp...</title>
       <link>https://bsky.app/profile/did:plc:3abic3dzpdssucbioowdhokj/post/3mpoig745ks2o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Thion 🌙 (eldritchmoon.love)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>new BAND-MAID so good, i was gonna add it to the oomfie playlist but its not on streaming yet..</p><p><em>BlueSky &middot; eldritchmoon.love</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Ooooo new BAND-MAID.</title>
-      <link>https://bsky.app/profile/did:plc:6dv5vw74awpxqverxhzv3tty/post/3moxz62sxtc2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6dv5vw74awpxqverxhzv3tty/post/3moxz62sxtc2u</guid>
-      <pubDate>Tue, 23 Jun 2026 18:18:10 GMT</pubDate>
-      <dc:creator>Goji the sleepy (gojibbles.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Ooooo new BAND-MAID.</p><p><em>BlueSky &middot; gojibbles.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
