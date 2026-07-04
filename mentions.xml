@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 16:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 18:04:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Freedom - Bandmaid</title>
+      <link>https://bsky.app/profile/did:plc:ycvcyz5aw4b26zisskjojujz/post/3mptkgrgui222</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycvcyz5aw4b26zisskjojujz/post/3mptkgrgui222</guid>
+      <pubDate>Sat, 04 Jul 2026 17:09:09 GMT</pubDate>
+      <dc:creator>Bob Sacemano (bobsacemano.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Freedom - Bandmaid<br/>www.youtube.com/watch?v=FHpu...</p><p><em>BlueSky &middot; bobsacemano.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
       <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mptdpkn6y32g</link>
@@ -899,15 +908,6 @@
       <dc:creator>MUSIC PRしていくぜ🦦 (nonashi88.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID / ENERGETIC (Official Music Video) youtu.be/NpZjslVGhbE?... @YouTubeより</p><p><em>BlueSky &middot; nonashi88.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID - "ENERGETIC"</title>
-      <link>https://bsky.app/profile/did:plc:lxlsluhv2lnmqbcgsl632tmc/post/3mozs26kcwk2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:lxlsluhv2lnmqbcgsl632tmc/post/3mozs26kcwk2c</guid>
-      <pubDate>Wed, 24 Jun 2026 11:16:03 GMT</pubDate>
-      <dc:creator>Balasch (balaschwolf.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID - &quot;ENERGETIC&quot;<br/><br/>youtu.be/NpZjslVGhbE</p><p><em>BlueSky &middot; balaschwolf.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
