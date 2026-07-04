@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jxUmXyUsvTQ",
+        "Title":  "Reaction BAND MAID  ENERGETIC Official Music Video",
+        "Channel":  "Joker Spotlight",
+        "ChannelId":  "UCidQYtKWLQquLv5idwsxkag",
+        "Url":  "https://youtu.be/jxUmXyUsvTQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/jxUmXyUsvTQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-04T19:39:47.0000000Z",
+        "DiscoveredAt":  "2026-07-04T19:46:03.2179879Z",
+        "Duration":  "00:07:24",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jAL-rPFgh8k",
         "Title":  "FIRST TIME REACTION to BAND-MAIKO – Gion-Cho (Official MV) |  Traditional Japan Meets Hard Rock!",
         "Channel":  "Ginger T Reacts",
