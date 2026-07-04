@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 14:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 16:07:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
+      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mptdpkn6y32g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mptdpkn6y32g</guid>
+      <pubDate>Sat, 04 Jul 2026 15:08:47 GMT</pubDate>
+      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Today's music:</title>
       <link>https://bsky.app/profile/did:plc:cbpcxfm7j4rybd7gwsuia34m/post/3mpt7it4z3s2l</link>
@@ -899,15 +908,6 @@
       <dc:creator>Balasch (balaschwolf.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - &quot;ENERGETIC&quot;<br/><br/>youtu.be/NpZjslVGhbE</p><p><em>BlueSky &middot; balaschwolf.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] THREE WHOLE NEW BAND MAID?!?!??!</title>
-      <link>https://bsky.app/profile/did:plc:db4dvkeirhu6u4ok5beavsfy/post/3mozdwllkqs2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:db4dvkeirhu6u4ok5beavsfy/post/3mozdwllkqs2n</guid>
-      <pubDate>Wed, 24 Jun 2026 07:03:30 GMT</pubDate>
-      <dc:creator>𝓝𝓮𝓪 (neaafterdark.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>THREE WHOLE NEW BAND MAID?!?!??! <br/>I check the other two later when on the train</p><p><em>BlueSky &middot; neaafterdark.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
