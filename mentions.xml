@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 12:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:09:33 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'm #now_listening_to "ENERGETIC" by BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mpvo3b37ek2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mpvo3b37ek2t</guid>
+      <pubDate>Sun, 05 Jul 2026 13:19:37 GMT</pubDate>
+      <dc:creator>métal vert foncé (darkgreenmetal.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;m #now_listening_to &quot;ENERGETIC&quot; by BAND-MAID</p><p><em>BlueSky &middot; darkgreenmetal.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Started mounting some posters in my new apartment. First to go up #Babymetal ...</title>
       <link>https://bsky.app/profile/did:plc:bbesorqp3bmojttcrwgnvws4/post/3mpvjlyfmdk2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>KHN (khnstmai.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>วงดนตรีญี่ปุ่นนี่จิ้มวงไหนก็เจอแต่ไลน์เบสเทพ ซึ่งเล่นคนละสไตล์กับตะวันตกเลย <br/><br/>เพลงใหม่ BAND-MAID นี่เบสโคตรเด่น เท่ด้วย อิพวกตะวันตกหูไม่ถึง<br/><br/>www.youtube.com/watch?v=NpZj...</p><p><em>BlueSky &middot; khnstmai.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mp5us7rbk722</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mp5us7rbk722</guid>
-      <pubDate>Fri, 26 Jun 2026 02:15:55 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
