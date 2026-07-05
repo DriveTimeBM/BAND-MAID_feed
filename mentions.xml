@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 18:04:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 03:32:48 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] alone</title>
+      <link>https://bsky.app/profile/did:plc:tkvqkqcl2ktsob27vo4kgg7w/post/3mpul7mj6mq62</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tkvqkqcl2ktsob27vo4kgg7w/post/3mpul7mj6mq62</guid>
+      <pubDate>Sun, 05 Jul 2026 02:55:38 GMT</pubDate>
+      <dc:creator>弓ム日月 (kiroahi.mstdn.jp.ap.brid.gy)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>alone<br/>BAND-MAID - Brand New MAID<br/>#NowPlaying<br/><br/>https://open.spotify.com/track/46cNvpdo9ddgeTa4DA4EOm</p><p><em>BlueSky &middot; kiroahi.mstdn.jp.ap.brid.gy</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Freedom - Bandmaid</title>
       <link>https://bsky.app/profile/did:plc:ycvcyz5aw4b26zisskjojujz/post/3mptkgrgui222</link>
@@ -899,15 +908,6 @@
       <dc:creator>Derek Smith (darathus.xyz)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Re-listening to this album and goddamn, does anyone know where I can get a replacement face? This one was melted from the opening riff.<br/><br/>BAND-MAID - Ready to Rock<br/>www.youtube.com/watch?v=eapN...</p><p><em>BlueSky &middot; darathus.xyz</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID / ENERGETIC (Official Music Video) youtu.be/NpZjslVGhbE?... @YouTubeより</title>
-      <link>https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mozyvxnmfc24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mozyvxnmfc24</guid>
-      <pubDate>Wed, 24 Jun 2026 13:18:58 GMT</pubDate>
-      <dc:creator>MUSIC PRしていくぜ🦦 (nonashi88.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID / ENERGETIC (Official Music Video) youtu.be/NpZjslVGhbE?... @YouTubeより</p><p><em>BlueSky &middot; nonashi88.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
