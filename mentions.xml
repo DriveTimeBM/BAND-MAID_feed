@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 16:42:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:44:55 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://sakurajima.moe/tags/WordWeavers 7.1 — If your MC wore tee shirts, wha...</title>
+      <link>https://sakurajima.moe/@NaraMoore/116868847099165057</link>
+      <guid isPermaLink="true">https://sakurajima.moe/@NaraMoore/116868847099165057</guid>
+      <pubDate>Sun, 05 Jul 2026 18:44:45 GMT</pubDate>
+      <dc:creator>NaraMoore ⛩️👻八尺様👻⛩️ at Fedi (NaraMoore@sakurajima.moe)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://sakurajima.moe/tags/WordWeavers 7.1 — If your MC wore tee shirts, what would be on their favorite one?<br/><br/>T-shirs are cool with my characters. <br/><br/>Arisu. ins https://sakurajima.moe/tags/SakuraTrick t.So here is Kao in a https://sakurajima.moe/tags/BandMaid t.Kao in a https://sakurajima.moe/tags/IsTheOrderARabbit? (https://sakurajima.moe/tags/GochiUsa) t.Kao in a &quot;Cute is Justice&quot; t.Kao in a https://sakurajima.moe/tags/BandMaid thttps://sakurajima.moe/tags/NMWW https://sakurajima.moe/tags/NMPrompts</p><p><em>Mastodon &middot; NaraMoore@sakurajima.moe</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Coming soon</title>
       <link>https://bsky.app/profile/did:plc:rmp6fwsva7t57qi5ffbovm3q/post/3mpvwvva5ac2w</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>7 years ago Band-Maid played 24 songs at LOGO in Hamburg DE on 2019/6/26. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mp65picom32p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mp65picom32p</guid>
-      <pubDate>Fri, 26 Jun 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago<br/>Choose Me<br/>MV<br/>released<br/>2017/6/26<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
