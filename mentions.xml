@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 18:44:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 23:51:06 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Não era band-maid que o mestre judoca tava ouvindo na série do pacificador?</title>
+      <link>https://bsky.app/profile/did:plc:zwzwoyhw5tsssommnygtslwi/post/3mpwnwkirkk2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zwzwoyhw5tsssommnygtslwi/post/3mpwnwkirkk2n</guid>
+      <pubDate>Sun, 05 Jul 2026 22:49:39 GMT</pubDate>
+      <dc:creator>Abandonada por Deus na fábrica de gincobilóba me revelei demonia (dianeinsetinha.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>N&#227;o era band-maid que o mestre judoca tava ouvindo na s&#233;rie do pacificador?</p><p><em>BlueSky &middot; dianeinsetinha.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] https://sakurajima.moe/tags/WordWeavers 7.1 — If your MC wore tee shirts, wha...</title>
       <link>https://sakurajima.moe/@NaraMoore/116868847099165057</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: FORWARD<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:12/26/2013<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 7 years ago Band-Maid played 24 songs at LOGO in Hamburg DE on 2019/6/26. The...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mp6bcg6jhu2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mp6bcg6jhu2w</guid>
-      <pubDate>Fri, 26 Jun 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>7 years ago Band-Maid played 24 songs at LOGO in Hamburg DE on 2019/6/26. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
