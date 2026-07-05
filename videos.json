@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "pynADB3Pc3Y",
+        "Title":  "BAND MAID - from now on Official Music Video | Reaction ",
+        "Channel":  "The Overreacters",
+        "ChannelId":  "UCHTkIZsGGZ2wOjZH9yiocVA",
+        "Url":  "https://youtu.be/pynADB3Pc3Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/pynADB3Pc3Y/hqdefault.jpg",
+        "PublishedAt":  "2026-07-05T06:00:37.0000000Z",
+        "DiscoveredAt":  "2026-07-05T07:47:28.5898402Z",
+        "Duration":  "00:05:04",
+        "ViewsAtDiscovery":  18,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Ve2LdqIXMGk",
+        "Title":  "BAND-MAID with THE WARNING - SHOW THEM [OFFICIAL MUSIC VIDEO] REACTION!! | THIS COLLAB IS EVERYTHING",
+        "Channel":  "Culture Klub",
+        "ChannelId":  "UCsNQ24Mya1z2fFZYuEKC_4A",
+        "Url":  "https://youtu.be/Ve2LdqIXMGk",
+        "Thumbnail":  "https://i.ytimg.com/vi/Ve2LdqIXMGk/hqdefault.jpg",
+        "PublishedAt":  "2026-07-05T05:00:17.0000000Z",
+        "DiscoveredAt":  "2026-07-05T07:47:27.9993754Z",
+        "Duration":  "00:07:09",
+        "ViewsAtDiscovery":  55,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jxUmXyUsvTQ",
         "Title":  "Reaction BAND MAID  ENERGETIC Official Music Video",
         "Channel":  "Joker Spotlight",
