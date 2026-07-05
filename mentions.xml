@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 07:51:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 12:37:42 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Started mounting some posters in my new apartment. First to go up #Babymetal ...</title>
+      <link>https://bsky.app/profile/did:plc:bbesorqp3bmojttcrwgnvws4/post/3mpvjlyfmdk2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bbesorqp3bmojttcrwgnvws4/post/3mpvjlyfmdk2b</guid>
+      <pubDate>Sun, 05 Jul 2026 11:59:29 GMT</pubDate>
+      <dc:creator>DutchJakeMetal (dutchjakemetal.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Started mounting some posters in my new apartment. First to go up #Babymetal and #BandMaid of course.</p><p><em>BlueSky &middot; dutchjakemetal.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] BAND-MAIDいいですねぇ</title>
+      <link>https://bsky.app/profile/did:plc:dw57busmufitsr4bnrb3xxnv/post/3mpvjermyps2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dw57busmufitsr4bnrb3xxnv/post/3mpvjermyps2n</guid>
+      <pubDate>Sun, 05 Jul 2026 11:55:27 GMT</pubDate>
+      <dc:creator>こまつ (alice3nc.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDいいですねぇ</p><p><em>BlueSky &middot; alice3nc.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] www.youtube.com/watch?v=NpZj... Your Sunday Brekkie Tune comes from Band-Maid</title>
       <link>https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mpuxnjmnk22z</link>
@@ -890,24 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 本日の更新です。</title>
-      <link>https://bsky.app/profile/did:plc:hfqiuadj2tusxjoxn2qwstvn/post/3mp5napl7j22k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hfqiuadj2tusxjoxn2qwstvn/post/3mp5napl7j22k</guid>
-      <pubDate>Fri, 26 Jun 2026 00:00:52 GMT</pubDate>
-      <dc:creator>我楽Gara (gara3.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>本日の更新です。<br/>静かに置いておきます。<br/>#BANDMAID #ENERGETIC<br/>garaosyou.hatenablog.com/entry/hr-hm/...</p><p><em>BlueSky &middot; gara3.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 【掲載アーティスト 1/4】</title>
-      <link>https://bsky.app/profile/did:plc:pai6rqkpfxoci7pl2pmw5ri5/post/3mp563i3oy22v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:pai6rqkpfxoci7pl2pmw5ri5/post/3mp563i3oy22v</guid>
-      <pubDate>Thu, 25 Jun 2026 19:29:31 GMT</pubDate>
-      <dc:creator>フェリオス (onefive.love)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>【掲載アーティスト 1/4】<br/><br/>Deja Vu Slider / HOME<br/>Oasis / bane, lo-key design<br/>in the room / Arche<br/>砂漠 / utari<br/>SNEAKPEAK feat. Shing02 / jizue, Shing02<br/>SIREN / Vuat<br/>乱気 / れん<br/>SOS / tuki.<br/>stella / Lil&#39; Leise But Gold, KM<br/>ENERGETIC / BAND-MAID<br/>銀夜灯 / 折原伊桜</p><p><em>BlueSky &middot; onefive.love</em></p>]]></description>
     </item>
   </channel>
 </rss>
