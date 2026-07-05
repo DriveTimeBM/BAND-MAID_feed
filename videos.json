@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_2Xv_s9VFNA",
+        "Title":  "【BAND-MAID】RCC中国放送「ザ・横山雄二ショー」2026.07.04 出演：SAIKI",
+        "Channel":  "佐々木20XX",
+        "ChannelId":  "UCSYV2UZrnNpuM5vNkSh_Erw",
+        "Url":  "https://youtu.be/_2Xv_s9VFNA",
+        "Thumbnail":  "https://i.ytimg.com/vi/_2Xv_s9VFNA/hqdefault.jpg",
+        "PublishedAt":  "2026-07-05T16:17:53.0000000Z",
+        "DiscoveredAt":  "2026-07-05T16:42:40.4901935Z",
+        "Duration":  "00:30:15",
+        "ViewsAtDiscovery":  23,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "z9eI0HUJ0dQ",
         "Title":  "【BAND-MAID】広島FM「Mash The Radio」2026.07.03 出演：SAIKI",
         "Channel":  "佐々木20XX",
