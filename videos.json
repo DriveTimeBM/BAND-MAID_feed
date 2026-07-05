@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "z9eI0HUJ0dQ",
+        "Title":  "【BAND-MAID】広島FM「Mash The Radio」2026.07.03 出演：SAIKI",
+        "Channel":  "佐々木20XX",
+        "ChannelId":  "UCSYV2UZrnNpuM5vNkSh_Erw",
+        "Url":  "https://youtu.be/z9eI0HUJ0dQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/z9eI0HUJ0dQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-05T15:57:49.0000000Z",
+        "DiscoveredAt":  "2026-07-05T16:12:04.3860125Z",
+        "Duration":  "00:13:44",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ynZ-w68kNx8",
         "Title":  "Flutist reacts to a⚡BOLT⚡of ELECTRIC BASS!|BAND-MAID, ENERGETIC",
         "Channel":  "NittPicc",
