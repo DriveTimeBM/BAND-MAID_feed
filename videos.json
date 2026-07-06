@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3ZnN9lWq_wA",
+        "Title":  "WILL BAND-MAID GET TO THE US/MEXICO?? AND A PACKED DAY WITH LITTLE LILITH, BRIDEAR, MORE! AND MAYTO!",
+        "Channel":  "MAID NEWS NETWORK",
+        "ChannelId":  "UCoGH2sqzaxLjcWpkzn83cZg",
+        "Url":  "https://youtu.be/3ZnN9lWq_wA",
+        "Thumbnail":  "https://i.ytimg.com/vi/3ZnN9lWq_wA/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T02:55:11.0000000Z",
+        "DiscoveredAt":  "2026-07-06T03:25:01.2938476Z",
+        "Duration":  "00:47:11",
+        "ViewsAtDiscovery":  359,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6Vj7k2K9SGg",
         "Title":  "BAND MAID – Don't You Tell Me Official MV | First Reaction – Why Fans Told Me To Watch The MV",
         "Channel":  "Midlife Mixer Reacts",
