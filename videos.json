@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "L4GobzLoxyM",
+        "Title":  "【BAND-MAID】NHK FM「ミュージックライン」2026.07.06 出演：SAIKI",
+        "Channel":  "佐々木20XX",
+        "ChannelId":  "UCSYV2UZrnNpuM5vNkSh_Erw",
+        "Url":  "https://youtu.be/L4GobzLoxyM",
+        "Thumbnail":  "https://i.ytimg.com/vi/L4GobzLoxyM/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T14:25:48.0000000Z",
+        "DiscoveredAt":  "2026-07-06T14:33:28.5224454Z",
+        "Duration":  "00:31:37",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gU3Hdx11l4s",
         "Title":  "BAND MAID MONDAY!! We Count Our \"DAYS\" For The First Time!! #BandMaid #LiveReaction",
         "Channel":  "WavesAcrossTheWater",
