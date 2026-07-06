@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "if7VALjDVF8",
+        "Title":  "Japan's Energy Is INSANE! | Band-Maid – Energetic Reaction",
+        "Channel":  "Kasey Reacts",
+        "ChannelId":  "UCz-TAdUNEv1cZXt0_kw8bgg",
+        "Url":  "https://youtu.be/if7VALjDVF8",
+        "Thumbnail":  "https://i.ytimg.com/vi/if7VALjDVF8/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T18:34:29.0000000Z",
+        "DiscoveredAt":  "2026-07-06T18:38:33.0615783Z",
+        "Duration":  "00:08:16",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "e5421AqhvAU",
         "Title":  "BAND-MAID “HATE?” Reaction | 強烈すぎる…海外が鳥肌",
         "Channel":  "TAYE-METAL",
