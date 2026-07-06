@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 22:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 23:47:10 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid's "Epic Narrative" covers so much of their musical range in one dis...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mpz72kvo6k2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mpz72kvo6k2u</guid>
+      <pubDate>Mon, 06 Jul 2026 23:01:26 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid&#39;s &quot;Epic Narrative&quot; covers so much of their musical range in one disc. Never gets dull.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] #ミュージックライン #NHKラジオ</title>
       <link>https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpz26kgygum2</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 💿 Forbidden tale - BAND-MAID</title>
-      <link>https://bsky.app/profile/did:plc:sbgxajlshb7vqtd4zuzjcnk5/post/3mpc2zh32zx2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sbgxajlshb7vqtd4zuzjcnk5/post/3mpc2zh32zx2d</guid>
-      <pubDate>Sat, 27 Jun 2026 18:18:00 GMT</pubDate>
-      <dc:creator>Bruno (sunraku.latinsky.app)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>💿 Forbidden tale - BAND-MAID<br/>#NowPlaying #なうぷれ #なうぷれあっと</p><p><em>BlueSky &middot; sunraku.latinsky.app</em></p>]]></description>
     </item>
   </channel>
 </rss>
