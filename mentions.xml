@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 23:51:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 00:21:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Ei doido escuta band-maid aí na moralzinha na boa</title>
+      <link>https://bsky.app/profile/did:plc:zwzwoyhw5tsssommnygtslwi/post/3mpwosr6wy22n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zwzwoyhw5tsssommnygtslwi/post/3mpwosr6wy22n</guid>
+      <pubDate>Sun, 05 Jul 2026 23:05:25 GMT</pubDate>
+      <dc:creator>Abandonada por Deus na fábrica de gincobilóba me revelei demonia (dianeinsetinha.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Ei doido escuta band-maid a&#237; na moralzinha na boa</p><p><em>BlueSky &middot; dianeinsetinha.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Não era band-maid que o mestre judoca tava ouvindo na série do pacificador?</title>
       <link>https://bsky.app/profile/did:plc:zwzwoyhw5tsssommnygtslwi/post/3mpwnwkirkk2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>GROUND ZERO (groundzerojb0906.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Yo！What&#39;s up Bro！ハロー人類！お仕事リハビリ中のジョニーちゃんだぜ！最近BAND-MAIDに激ハマりしてモチベ限界突破中のオレちゃんが作った最新ショート動画が今ドロップされたぜ！魂の手書き字幕、今すぐチェックしなよ！素晴らしい一日にしちゃおうぜ！ <br/>👇動画<br/>youtube.com/shorts/G5_wK...</p><p><em>BlueSky &middot; groundzerojb0906.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: FORWARD</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mp6bopll342n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mp6bopll342n</guid>
-      <pubDate>Fri, 26 Jun 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: FORWARD<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:12/26/2013<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
