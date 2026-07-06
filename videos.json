@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lT8gMxfEPEg",
+        "Title":  "BAND-MAID: Bubble (OMV)(first time reaction)",
+        "Channel":  "vintage sol",
+        "ChannelId":  "UCMRBbkpiK8JnDg9kTQdYPtA",
+        "Url":  "https://youtu.be/lT8gMxfEPEg",
+        "Thumbnail":  "https://i.ytimg.com/vi/lT8gMxfEPEg/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T20:36:42.0000000Z",
+        "DiscoveredAt":  "2026-07-06T20:41:40.9309597Z",
+        "Duration":  "00:09:25",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KmRE-HqYLxE",
         "Title":  "Influencer - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
         "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
