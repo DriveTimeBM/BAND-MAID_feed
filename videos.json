@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6Vj7k2K9SGg",
+        "Title":  "BAND MAID – Don't You Tell Me Official MV | First Reaction – Why Fans Told Me To Watch The MV",
+        "Channel":  "Midlife Mixer Reacts",
+        "ChannelId":  "UC4vD3qPndLZtOx8Ht8XMLwQ",
+        "Url":  "https://youtu.be/6Vj7k2K9SGg",
+        "Thumbnail":  "https://i.ytimg.com/vi/6Vj7k2K9SGg/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T01:15:07.0000000Z",
+        "DiscoveredAt":  "2026-07-06T01:22:56.1417038Z",
+        "Duration":  "00:10:52",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_2Xv_s9VFNA",
         "Title":  "【BAND-MAID】RCC中国放送「ザ・横山雄二ショー」2026.07.04 出演：SAIKI",
         "Channel":  "佐々木20XX",
