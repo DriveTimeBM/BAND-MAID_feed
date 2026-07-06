@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KmRE-HqYLxE",
+        "Title":  "Influencer - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
+        "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
+        "ChannelId":  "UCIexUz_m-AJhaRGPtRKY3hw",
+        "Url":  "https://youtu.be/KmRE-HqYLxE",
+        "Thumbnail":  "https://i.ytimg.com/vi/KmRE-HqYLxE/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T20:00:06.0000000Z",
+        "DiscoveredAt":  "2026-07-06T20:10:41.5027476Z",
+        "Duration":  "00:05:35",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "if7VALjDVF8",
         "Title":  "Japan's Energy Is INSANE! | Band-Maid – Energetic Reaction",
         "Channel":  "Kasey Reacts",
