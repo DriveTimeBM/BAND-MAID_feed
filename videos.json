@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gU3Hdx11l4s",
+        "Title":  "BAND MAID MONDAY!! We Count Our \"DAYS\" For The First Time!! #BandMaid #LiveReaction",
+        "Channel":  "WavesAcrossTheWater",
+        "ChannelId":  "UC8VWDy9uGVbgrBXwJlRwESQ",
+        "Url":  "https://youtu.be/gU3Hdx11l4s",
+        "Thumbnail":  "https://i.ytimg.com/vi/gU3Hdx11l4s/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T14:00:01.0000000Z",
+        "DiscoveredAt":  "2026-07-06T14:02:52.6601706Z",
+        "Duration":  "00:13:36",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XTyqifyccn0",
         "Title":  "Band-Maid Plane Ride. Sapporo to Tokyo.",
         "Channel":  "The Band of Maids Channel.",
