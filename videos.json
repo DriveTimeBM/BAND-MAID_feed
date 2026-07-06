@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Hk6vlyJXUVw",
+        "Title":  "Band Maid - Energetic (Review)",
+        "Channel":  "Beard Wizard Man",
+        "ChannelId":  "UCM0OKZ9g0wvRdCDCkTj4GFA",
+        "Url":  "https://youtu.be/Hk6vlyJXUVw",
+        "Thumbnail":  "https://i.ytimg.com/vi/Hk6vlyJXUVw/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T21:12:23.0000000Z",
+        "DiscoveredAt":  "2026-07-06T21:12:35.5101987Z",
+        "Duration":  "00:09:50",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lT8gMxfEPEg",
         "Title":  "BAND-MAID: Bubble (OMV)(first time reaction)",
         "Channel":  "vintage sol",
