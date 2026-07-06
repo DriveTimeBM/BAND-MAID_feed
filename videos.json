@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "e5421AqhvAU",
+        "Title":  "BAND-MAID “HATE?” Reaction | 強烈すぎる…海外が鳥肌",
+        "Channel":  "TAYE-METAL",
+        "ChannelId":  "UCNLQATL3VGLRomrOJq09oAg",
+        "Url":  "https://youtu.be/e5421AqhvAU",
+        "Thumbnail":  "https://i.ytimg.com/vi/e5421AqhvAU/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T15:00:05.0000000Z",
+        "DiscoveredAt":  "2026-07-06T15:34:41.0871666Z",
+        "Duration":  "00:10:51",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XSI87hWT4bk",
         "Title":  "BAND-MAID | ENERGETIC | Official Music Video First Time Reaction",
         "Channel":  "The Five Heart & Soul Reacts ",
