@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 15:34:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:12:44 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #ミュージックライン #NHKラジオ</title>
+      <link>https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpywixoad232</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpywixoad232</guid>
+      <pubDate>Mon, 06 Jul 2026 20:28:13 GMT</pubDate>
+      <dc:creator>ひとりネズミ (hitorinezumi.fedibird.com.ap.brid.gy)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#ミュージックライン #NHKラジオ<br/>#らじるらじる の #聴き逃し配信 で聴いてる。<br/><br/>&quot;BAND-MAID<br/><br/>初回放送日：2026年7月6日<br/><br/>今夜のゲストはＢＡＮＤ－ＭＡＩＤのＳＡＩＫＩ。悲願の日本武道館リベンジへ…ワールドツアーの手ごたえ、「昔は話したくなかった」ライブＭＣの“言葉の大切さ”に気づいた転機を告白！ライブ初披露で涙した新曲「Ｄａｙｓ」、２０２７年ライブ活動小休止に向けてファンへの“赤裸々な思い”をつづったという作詞エピソードを語る！リクエスト・メッセージは番組ホームページから、感想は＃ミュージックラインで！<br/><br/>楽曲一覧<br/>Ｃｒａｖｅ 三浦大知 （3分53秒)<br/>Ｐｒｅ […]</p><p><em>BlueSky &middot; hitorinezumi.fedibird.com.ap.brid.gy</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Se alguém algum dia me perguntar oq é BANDMAID vou só mandar esse vídeo</title>
       <link>https://bsky.app/profile/did:plc:opwedrmibtgj5mkgy5jk7v6k/post/3mpyed2wyqc2r</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: YOLOSIOSU<br/>Album: BAND-MAIKO<br/>Release: 3/31/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] www.youtube.com/watch?v=NpZj... Your Saturday Brekkie Tune is from Band-Maid</title>
-      <link>https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mparv7vvzs2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mparv7vvzs2v</guid>
-      <pubDate>Sat, 27 Jun 2026 06:01:55 GMT</pubDate>
-      <dc:creator>Keith Sowerby (jamesksowerby.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>www.youtube.com/watch?v=NpZj... Your Saturday Brekkie Tune is from Band-Maid</p><p><em>BlueSky &middot; jamesksowerby.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
