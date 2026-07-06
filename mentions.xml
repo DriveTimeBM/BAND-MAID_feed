@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 10:26:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 13:00:33 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'm #now_listening_to "Show Them" by BAND-MAID with The Warning</title>
+      <link>https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mpy2vc4prk2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mpy2vc4prk2c</guid>
+      <pubDate>Mon, 06 Jul 2026 12:14:15 GMT</pubDate>
+      <dc:creator>métal vert foncé (darkgreenmetal.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;m #now_listening_to &quot;Show Them&quot; by BAND-MAID with The Warning</p><p><em>BlueSky &middot; darkgreenmetal.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I could name a bunch of Bloodywood songs, but those often have English sectio...</title>
       <link>https://bsky.app/profile/did:plc:ln4ow2by6iir3src7q5put54/post/3mpxq6wca722r</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago Band-Maid played 5 songs at LIVEHOLIC in Tokyo JP on 2015/6/27. The opening song was Don&#39;t let me down.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpaoqrgq652b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpaoqrgq652b</guid>
-      <pubDate>Sat, 27 Jun 2026 05:05:44 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
