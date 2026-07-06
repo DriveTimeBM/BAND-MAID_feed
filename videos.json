@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XSI87hWT4bk",
+        "Title":  "BAND-MAID | ENERGETIC | Official Music Video First Time Reaction",
+        "Channel":  "The Five Heart & Soul Reacts ",
+        "ChannelId":  "UCJ-iJjxcVcrp7r5Q4l4KIvQ",
+        "Url":  "https://youtu.be/XSI87hWT4bk",
+        "Thumbnail":  "https://i.ytimg.com/vi/XSI87hWT4bk/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T15:00:15.0000000Z",
+        "DiscoveredAt":  "2026-07-06T15:04:09.0511081Z",
+        "Duration":  "00:08:45",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "5ALIDPDgkOM",
+        "Title":  "BANDMAID - ENERGETIC | NEW MUSIC | OLDSKULENERD REACTION |",
+        "Channel":  "OldSkuleNerd",
+        "ChannelId":  "UC5x6c7iMaqVTwb5JR0EHmBQ",
+        "Url":  "https://youtu.be/5ALIDPDgkOM",
+        "Thumbnail":  "https://i.ytimg.com/vi/5ALIDPDgkOM/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T14:00:20.0000000Z",
+        "DiscoveredAt":  "2026-07-06T15:04:08.4074549Z",
+        "Duration":  "00:10:50",
+        "ViewsAtDiscovery":  86,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "L4GobzLoxyM",
         "Title":  "【BAND-MAID】NHK FM「ミュージックライン」2026.07.06 出演：SAIKI",
         "Channel":  "佐々木20XX",
