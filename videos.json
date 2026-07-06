@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Crf2iWwqWZw",
+        "Title":  "【BAND-MAID】RCC中国放送「ザ・横山雄二ショー」2026.07.04 出演：SAIKI",
+        "Channel":  "佐々木20XX",
+        "ChannelId":  "UCSYV2UZrnNpuM5vNkSh_Erw",
+        "Url":  "https://youtu.be/Crf2iWwqWZw",
+        "Thumbnail":  "https://i.ytimg.com/vi/Crf2iWwqWZw/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T05:45:38.0000000Z",
+        "DiscoveredAt":  "2026-07-06T07:47:31.5823573Z",
+        "Duration":  "00:29:53",
+        "ViewsAtDiscovery":  138,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ta37JyvTnsY",
+        "Title":  "BAND-MAID’s “ENERGETIC” Lives Up to the Name! | Reaction",
+        "Channel":  "Reactions To The Classics",
+        "ChannelId":  "UCS1fdnnESyBmkdfRcLQM7PA",
+        "Url":  "https://youtu.be/ta37JyvTnsY",
+        "Thumbnail":  "https://i.ytimg.com/vi/ta37JyvTnsY/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T05:26:23.0000000Z",
+        "DiscoveredAt":  "2026-07-06T07:47:30.8661736Z",
+        "Duration":  "00:05:48",
+        "ViewsAtDiscovery":  32,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3ZnN9lWq_wA",
         "Title":  "WILL BAND-MAID GET TO THE US/MEXICO?? AND A PACKED DAY WITH LITTLE LILITH, BRIDEAR, MORE! AND MAYTO!",
         "Channel":  "MAID NEWS NETWORK",
