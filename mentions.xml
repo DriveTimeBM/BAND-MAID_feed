@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 23:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:52:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I forget, have you heard Band Maid? They might appeal to you. Their rhythm se...</title>
+      <link>https://bsky.app/profile/did:plc:gggmdhheju6dkp2vstzovcch/post/3mpzcze2xc227</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gggmdhheju6dkp2vstzovcch/post/3mpzcze2xc227</guid>
+      <pubDate>Tue, 07 Jul 2026 00:12:21 GMT</pubDate>
+      <dc:creator>Alex P (alexpi.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I forget, have you heard Band Maid? They might appeal to you. Their rhythm section frequently takes center stage</p><p><em>BlueSky &middot; alexpi.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band-Maid's "Epic Narrative" covers so much of their musical range in one dis...</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mpz72kvo6k2u</link>
@@ -899,15 +908,6 @@
       <dc:creator>Jinxe (jinxe.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Best group vocals is band maid.<br/><br/>youtu.be/NpZjslVGhbE?...</p><p><em>BlueSky &middot; jinxe.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://m...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpc3z7jxz42v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpc3z7jxz42v</guid>
-      <pubDate>Sat, 27 Jun 2026 18:35:45 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
