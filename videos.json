@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "wX3M3-4zan4",
+        "Title":  "BAND-MAID - Giovanni [SCU Variety Pack #3 Chart Preview]",
+        "Channel":  "Spachi",
+        "ChannelId":  "UCQpGzrCzoaiQ4wlV9pTzs5g",
+        "Url":  "https://youtu.be/wX3M3-4zan4",
+        "Thumbnail":  "https://i.ytimg.com/vi/wX3M3-4zan4/hqdefault.jpg",
+        "PublishedAt":  "2026-07-07T23:24:53.0000000Z",
+        "DiscoveredAt":  "2026-07-07T23:46:28.3046837Z",
+        "Duration":  "00:04:16",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "9uB89xvBDlQ",
+        "Title":  "BANDMAID - Time (Reaction)",
+        "Channel":  "BadBird Reactions",
+        "ChannelId":  "UCofWn-j1U2gZHosTHH96pfQ",
+        "Url":  "https://youtu.be/9uB89xvBDlQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/9uB89xvBDlQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-07T19:15:15.0000000Z",
+        "DiscoveredAt":  "2026-07-07T23:46:27.5565363Z",
+        "Duration":  "00:09:39",
+        "ViewsAtDiscovery":  96,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wGN_akIp5bs",
         "Title":  "Band-Maid I Still Seek Revenge Live at Frankfurt Germany #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
