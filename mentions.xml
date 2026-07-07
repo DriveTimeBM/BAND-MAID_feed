@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 00:52:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 03:28:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'm just now about halfway through a live DVD that BAND-MAID just released th...</title>
+      <link>https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mpzl6xnyxk25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mpzl6xnyxk25</guid>
+      <pubDate>Tue, 07 Jul 2026 02:38:39 GMT</pubDate>
+      <dc:creator>Acer Rubrum (d-t-39810.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;m just now about halfway through a live DVD that BAND-MAID just released thinking about how MISA (bass) is just thundering in this video. Every bass player in the world should listen to her. She&#39;s one of a kind. Their most recent OMV would not be a bad place to start if you are a bass player.</p><p><em>BlueSky &middot; d-t-39810.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I forget, have you heard Band Maid? They might appeal to you. Their rhythm se...</title>
       <link>https://bsky.app/profile/did:plc:gggmdhheju6dkp2vstzovcch/post/3mpzcze2xc227</link>
@@ -899,15 +908,6 @@
       <dc:creator>Bruno (sunraku.latinsky.app)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>💿 SHOW THEM - BAND-MAID<br/>#NowPlaying #なうぷれ #なうぷれあっと</p><p><em>BlueSky &middot; sunraku.latinsky.app</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Best group vocals is band maid.</title>
-      <link>https://bsky.app/profile/did:plc:a3l3thks3h72ek22zqcys6z5/post/3mpc54n3vik2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:a3l3thks3h72ek22zqcys6z5/post/3mpc54n3vik2n</guid>
-      <pubDate>Sat, 27 Jun 2026 18:55:34 GMT</pubDate>
-      <dc:creator>Jinxe (jinxe.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Best group vocals is band maid.<br/><br/>youtu.be/NpZjslVGhbE?...</p><p><em>BlueSky &middot; jinxe.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
