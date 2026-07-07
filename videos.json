@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XUXC-lVu7d0",
+        "Title":  "Pork Chop's Music Reaction: BAND-MAID - DICE",
+        "Channel":  "Kollin \"Pork Chop\"",
+        "ChannelId":  "UC_8J8buz9JSrZMdPnWzAI0Q",
+        "Url":  "https://youtu.be/XUXC-lVu7d0",
+        "Thumbnail":  "https://i.ytimg.com/vi/XUXC-lVu7d0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-07T00:00:05.0000000Z",
+        "DiscoveredAt":  "2026-07-07T00:20:12.5133640Z",
+        "Duration":  "00:11:23",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Hk6vlyJXUVw",
         "Title":  "Band Maid - Energetic (Review)",
         "Channel":  "Beard Wizard Man",
