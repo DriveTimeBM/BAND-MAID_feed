@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7lIJwHSK87w",
+        "Title":  "#95 BAND-MAID / Sense + LIVE - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/7lIJwHSK87w",
+        "Thumbnail":  "https://i.ytimg.com/vi/7lIJwHSK87w/hqdefault.jpg",
+        "PublishedAt":  "2026-07-07T18:45:06.0000000Z",
+        "DiscoveredAt":  "2026-07-07T19:12:37.0499039Z",
+        "Duration":  "00:17:33",
+        "ViewsAtDiscovery":  51,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wpvltz12WXI",
         "Title":  "Dilly-Dally - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
         "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
