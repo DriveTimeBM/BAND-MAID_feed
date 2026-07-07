@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 14:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:56:41 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #ミュージックライン #NHKラジオ</title>
+      <link>https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpyxnirlbqk2</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpyxnirlbqk2</guid>
+      <pubDate>Mon, 06 Jul 2026 20:48:40 GMT</pubDate>
+      <dc:creator>ひとりネズミ (hitorinezumi.fedibird.com.ap.brid.gy)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#ミュージックライン #NHKラジオ<br/>#らじるらじる の #聴き逃し配信 で聴いてる。<br/><br/>#オンエア曲<br/>#お気に入り<br/><br/>BAND-MAID / Present Perfect (Official Music Video) - YouTube<br/>https://www.youtube.com/watch?v=yzSdgw-tdr0<br/><br/>BAND-MAID「Present Perfect」の歌詞 / 歌詞検索サービス「歌ネット」<br/>https://www.uta-net.com/song/381782/</p><p><em>BlueSky &middot; hitorinezumi.fedibird.com.ap.brid.gy</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonice ahora: http...</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mq2o7hs4ud2e</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played at CLUB UPSET in Nagoya JP on 2016/6/28. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago Band-Maid played 23 songs at Okaya Kouki Nagoya Koukaidou in Nago...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpdcaaqtou2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpdcaaqtou2w</guid>
-      <pubDate>Sun, 28 Jun 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago Band-Maid played 23 songs at Okaya Kouki Nagoya Koukaidou in Nagoya JP on 2024/6/28. The opening song was NO GOD.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
