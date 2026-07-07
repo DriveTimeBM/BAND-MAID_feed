@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "c-_CN7UkdsE",
+        "Title":  "BAND-MAID - CAGE - learning stuff",
+        "Channel":  "Ryan Mear",
+        "ChannelId":  "UCvKUIZjMmlHJ9vjGJey0SBQ",
+        "Url":  "https://youtu.be/c-_CN7UkdsE",
+        "Thumbnail":  "https://i.ytimg.com/vi/c-_CN7UkdsE/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T23:40:00.0000000Z",
+        "DiscoveredAt":  "2026-07-07T00:52:47.2963998Z",
+        "Duration":  "01:03:17",
+        "ViewsAtDiscovery":  107,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "WN5-FQh6M5U",
+        "Title":  "Band-Maid Plane Ride. Don't Know Where We Are Going.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/WN5-FQh6M5U",
+        "Thumbnail":  "https://i.ytimg.com/vi/WN5-FQh6M5U/hqdefault.jpg",
+        "PublishedAt":  "2026-07-06T19:59:03.0000000Z",
+        "DiscoveredAt":  "2026-07-07T00:52:45.6499226Z",
+        "Duration":  "02:20:44",
+        "ViewsAtDiscovery":  69,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XUXC-lVu7d0",
         "Title":  "Pork Chop's Music Reaction: BAND-MAID - DICE",
         "Channel":  "Kollin \"Pork Chop\"",
