@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yA_OTY7UCCI",
+        "Title":  " \"Manners\" proves BAND-MAID sounds even better live. #bandmaidreaction ",
+        "Channel":  "xenoglosiatube ID",
+        "ChannelId":  "UC7XDT1KSSLsg7OEzKxwXEmw",
+        "Url":  "https://youtu.be/yA_OTY7UCCI",
+        "Thumbnail":  "https://i.ytimg.com/vi/yA_OTY7UCCI/hqdefault.jpg",
+        "PublishedAt":  "2026-07-08T22:55:57.0000000Z",
+        "DiscoveredAt":  "2026-07-08T23:46:10.7927494Z",
+        "Duration":  "00:04:17",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "nzh05JBc5fw",
         "Title":  "This Was Very Interesting BAND MAID Documentary  SAIKI",
         "Channel":  "Purple unicorn reaction's",
