@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SxZCkI-s20Y",
+        "Title":  "THIS IS THE ONE | Band-Maid - Cage (Reaction)",
+        "Channel":  "Nicky's Music Box",
+        "ChannelId":  "UCaPGxalK4mYOinCcaX8hSJg",
+        "Url":  "https://youtu.be/SxZCkI-s20Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/SxZCkI-s20Y/hqdefault.jpg",
+        "PublishedAt":  "2026-07-08T16:59:27.0000000Z",
+        "DiscoveredAt":  "2026-07-08T17:11:02.8394977Z",
+        "Duration":  "00:04:18",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ALAZOrApdkM",
         "Title":  "BAND-MAID「Present Perfect」リアクション | 攻撃的サウンドに衝撃",
         "Channel":  "TAYE-METAL",
