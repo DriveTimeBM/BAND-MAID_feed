@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ArPhatsvwSE",
+        "Title":  "Ready to Rock - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
+        "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
+        "ChannelId":  "UCIexUz_m-AJhaRGPtRKY3hw",
+        "Url":  "https://youtu.be/ArPhatsvwSE",
+        "Thumbnail":  "https://i.ytimg.com/vi/ArPhatsvwSE/hqdefault.jpg",
+        "PublishedAt":  "2026-07-08T18:00:05.0000000Z",
+        "DiscoveredAt":  "2026-07-08T18:12:30.3494862Z",
+        "Duration":  "00:03:45",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SxZCkI-s20Y",
         "Title":  "THIS IS THE ONE | Band-Maid - Cage (Reaction)",
         "Channel":  "Nicky's Music Box",
