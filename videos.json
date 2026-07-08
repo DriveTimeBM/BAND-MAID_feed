@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yn6t03z42v8",
+        "Title":  "Band-Maid / Energetic - The MIDI Sequence",
+        "Channel":  "Dean F",
+        "ChannelId":  "UCXaaXZk7hJieGIPh7I_MIhA",
+        "Url":  "https://youtu.be/yn6t03z42v8",
+        "Thumbnail":  "https://i.ytimg.com/vi/yn6t03z42v8/hqdefault.jpg",
+        "PublishedAt":  "2026-07-08T20:15:06.0000000Z",
+        "DiscoveredAt":  "2026-07-08T20:49:39.8703372Z",
+        "Duration":  "00:03:46",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ArPhatsvwSE",
         "Title":  "Ready to Rock - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
         "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
