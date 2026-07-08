@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "1edPAsvJEWA",
+        "Title":  "BAND-MAID - ENERGETIC MV REACTION ",
+        "Channel":  "Toya & Bre Reacts",
+        "ChannelId":  "UCAllk4P_BVI3Yz378XjuCvw",
+        "Url":  "https://youtu.be/1edPAsvJEWA",
+        "Thumbnail":  "https://i.ytimg.com/vi/1edPAsvJEWA/hqdefault.jpg",
+        "PublishedAt":  "2026-07-08T10:00:19.0000000Z",
+        "DiscoveredAt":  "2026-07-08T10:17:08.2923592Z",
+        "Duration":  "00:06:36",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "2D8cmqKS8dM",
+        "Title":  "BAND-MAID ...and more... | Another cdJapan Unboxing",
+        "Channel":  "Wandering Souls Webzine",
+        "ChannelId":  "UCxhB5JDHd-motvgA0l23U_Q",
+        "Url":  "https://youtu.be/2D8cmqKS8dM",
+        "Thumbnail":  "https://i.ytimg.com/vi/2D8cmqKS8dM/hqdefault.jpg",
+        "PublishedAt":  "2026-07-08T09:00:21.0000000Z",
+        "DiscoveredAt":  "2026-07-08T10:17:07.7446501Z",
+        "Duration":  "00:09:02",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1LTrr-PWNOw",
         "Title":  "BAND-MAID - UNLEASH!!!!",
         "Channel":  "Just Kells",
