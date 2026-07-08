@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HwnW8cWKiMU",
+        "Title":  "Band Maid Cage Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/HwnW8cWKiMU",
+        "Thumbnail":  "https://i.ytimg.com/vi/HwnW8cWKiMU/hqdefault.jpg",
+        "PublishedAt":  "2026-07-08T00:36:33.0000000Z",
+        "DiscoveredAt":  "2026-07-08T00:51:29.4009139Z",
+        "Duration":  "00:03:25",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "uAFNbmlrih4",
+        "Title":  "Band-Maid Plane Ride. Somewhere to Somewhere in USA.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/uAFNbmlrih4",
+        "Thumbnail":  "https://i.ytimg.com/vi/uAFNbmlrih4/hqdefault.jpg",
+        "PublishedAt":  "2026-07-07T20:56:00.0000000Z",
+        "DiscoveredAt":  "2026-07-08T00:51:28.0337854Z",
+        "Duration":  "02:38:31",
+        "ViewsAtDiscovery":  98,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wX3M3-4zan4",
         "Title":  "BAND-MAID - Giovanni [SCU Variety Pack #3 Chart Preview]",
         "Channel":  "Spachi",
