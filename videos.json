@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ugUOyqFuKK8",
+        "Title":  "KAIYO//SHARD — Take me higher !!! (Band-Maid Cover) | Rock Cover",
+        "Channel":  "KAIYO⧸⧸SHARD",
+        "ChannelId":  "UCKR66xP79OxmfUkxZlLdtMw",
+        "Url":  "https://youtu.be/ugUOyqFuKK8",
+        "Thumbnail":  "https://i.ytimg.com/vi/ugUOyqFuKK8/hqdefault.jpg",
+        "PublishedAt":  "2026-07-08T13:20:57.0000000Z",
+        "DiscoveredAt":  "2026-07-08T13:35:36.3591147Z",
+        "Duration":  "00:03:20",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1edPAsvJEWA",
         "Title":  "BAND-MAID - ENERGETIC MV REACTION ",
         "Channel":  "Toya & Bre Reacts",
