@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 14:56:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:05:06 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Don't apply the brake</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mq4hbuda4f2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mq4hbuda4f2c</guid>
+      <pubDate>Wed, 08 Jul 2026 06:06:38 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Don&#39;t apply the brake<br/>Album: New Beginning<br/>Release: 11/17/2015<br/>Music: 山口篤 [Yamaguchi, Atsushi]<br/>Lyrics: 川島だりあ [Kawashima, Daria]<br/>Arrangement: 山口篤 [Yamaguchi, Atsushi] 倉田冬樹 [Kurata, Fuyuki] spinstealthspike<br/>1st Live:6/20/2015<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 5 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mq4dck2ed22f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mq4dck2ed22f</guid>
+      <pubDate>Wed, 08 Jul 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>5 years ago<br/>Different MV<br/>milestone<br/>surpassed 2 million views<br/>2021/7/8<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] #ミュージックライン #NHKラジオ</title>
       <link>https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpyxnirlbqk2</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Honey (ハニー)<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: MIYA [MUCC]/BAND-MAID<br/>Lyrics: MIYA [MUCC]<br/>Arrangement: BAND-MAID<br/>1st Live:12/19/2017<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at Shibuya Kinoto in Tokyo JP on 2014/6...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpdcadbp342w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpdcadbp342w</guid>
-      <pubDate>Sun, 28 Jun 2026 05:59:46 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at Shibuya Kinoto in Tokyo JP on 2014/6/28. The opening song was Be OK.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played at CLUB UPSET in Nagoya JP on 2016/6/28. The se...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpdcabx4ci2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpdcabx4ci2u</guid>
-      <pubDate>Sun, 28 Jun 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played at CLUB UPSET in Nagoya JP on 2016/6/28. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
