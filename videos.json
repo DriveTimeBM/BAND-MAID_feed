@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "U7ulSDvB3gM",
+        "Title":  "Band-Maid Plane Ride. Crashing into Bob's House.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/U7ulSDvB3gM",
+        "Thumbnail":  "https://i.ytimg.com/vi/U7ulSDvB3gM/hqdefault.jpg",
+        "PublishedAt":  "2026-07-08T20:31:54.0000000Z",
+        "DiscoveredAt":  "2026-07-09T00:54:53.4098774Z",
+        "Duration":  "02:36:59",
+        "ViewsAtDiscovery":  72,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yA_OTY7UCCI",
         "Title":  " \"Manners\" proves BAND-MAID sounds even better live. #bandmaidreaction ",
         "Channel":  "xenoglosiatube ID",
