@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 16:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:00:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Today is the birthday of everybody's favorite enthusiast of indie music, film...</title>
+      <link>https://bsky.app/profile/did:plc:txdrfhrkdpcdq2taygu4gapv/post/3mq7zdrja6k2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:txdrfhrkdpcdq2taygu4gapv/post/3mq7zdrja6k2q</guid>
+      <pubDate>Thu, 09 Jul 2026 16:07:51 GMT</pubDate>
+      <dc:creator>Kara Buchanan 🏳️‍⚧️ (magicariot.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Today is the birthday of everybody&#39;s favorite enthusiast of indie music, film photography, and mega hyper turbo gay-ass lesbianism from the &quot;Magica Riot&quot; series, Hazel Hoffman! You can be sure that Claire and Bloom will be participating in quite the birthday celebration with her today!</p><p><em>BlueSky &middot; magicariot.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAIDには思い当たるフシがあるな、、、</title>
       <link>https://bsky.app/profile/did:plc:bli6vjzxivlqvkdktm5bjzvz/post/3mq7xb7sluk23</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Hey Band-Maid</title>
-      <link>https://bsky.app/profile/did:plc:dev2fqkzjqkqvc35b64si2pv/post/3mpeuczezjl2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dev2fqkzjqkqvc35b64si2pv/post/3mpeuczezjl2g</guid>
-      <pubDate>Sun, 28 Jun 2026 20:56:04 GMT</pubDate>
-      <dc:creator>Chi Nerd (mimikute.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Hey Band-Maid<br/>There is a real family behind these words, not just another post on your screen. Their story deserves to be seen. If you have a moment, please visit my page and read the pinned post. 🙏</p><p><em>BlueSky &middot; mimikute.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
