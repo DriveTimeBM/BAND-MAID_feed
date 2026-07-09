@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 01:56:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:01:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Balance</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mq6xqlwxim2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mq6xqlwxim2e</guid>
+      <pubDate>Thu, 09 Jul 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Balance<br/>Album: Unleash<br/>Release: 9/20/2022<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:1/8/2023<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 3 years ago Band-Maid played 23 songs at NIIGATA LOTS in Niigata JP on 2023/7...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mq6xek2tx22c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mq6xek2tx22c</guid>
+      <pubDate>Thu, 09 Jul 2026 05:59:48 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at NIIGATA LOTS in Niigata JP on 2023/7/9. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mq6h2i2ly524</link>
@@ -890,24 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Babymetal seemed to have started a new wave of metal in Japan.</title>
-      <link>https://bsky.app/profile/did:plc:dcsn454wsda5anl7wbjtpibh/post/3mpe47ojjas2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcsn454wsda5anl7wbjtpibh/post/3mpe47ojjas2b</guid>
-      <pubDate>Sun, 28 Jun 2026 13:44:42 GMT</pubDate>
-      <dc:creator>Chris Washington (cwashington.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Babymetal seemed to have started a new wave of metal in Japan.</p><p><em>BlueSky &middot; cwashington.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAIDもっと早く聴くべきだった</title>
-      <link>https://bsky.app/profile/did:plc:ftvoguilqb3vhm7hey2lplac/post/3mpduzelcyc27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ftvoguilqb3vhm7hey2lplac/post/3mpduzelcyc27</guid>
-      <pubDate>Sun, 28 Jun 2026 11:35:54 GMT</pubDate>
-      <dc:creator>C38 M50 Y0 K0 (nov0320.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAIDもっと早く聴くべきだった<br/>ベースが好き…<br/>youtu.be/ZpAYnVJX9CY?...</p><p><em>BlueSky &middot; nov0320.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
