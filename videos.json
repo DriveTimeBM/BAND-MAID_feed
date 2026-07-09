@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "r9HHYaGULJw",
+        "Title":  "BAND-MAID WORLD TOUR 2026 BlueLive広島お給仕帰宅レポート  (Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/r9HHYaGULJw",
+        "Thumbnail":  "https://i.ytimg.com/vi/r9HHYaGULJw/hqdefault.jpg",
+        "PublishedAt":  "2026-07-09T08:15:01.0000000Z",
+        "DiscoveredAt":  "2026-07-09T08:32:19.5038375Z",
+        "Duration":  "00:51:10",
+        "ViewsAtDiscovery":  27,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "U7ulSDvB3gM",
         "Title":  "Band-Maid Plane Ride. Crashing into Bob's House.",
         "Channel":  "The Band of Maids Channel.",
