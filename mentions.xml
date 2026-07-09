@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 17:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 19:33:14 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonice ahora:...</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mqabzdqruw24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mqabzdqruw24</guid>
+      <pubDate>Thu, 09 Jul 2026 18:43:05 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonice ahora: https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] A few years ago I popped over to Sakai in Osaka for a Band-Maid show.</title>
+      <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mqaboljd7s25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mqaboljd7s25</guid>
+      <pubDate>Thu, 09 Jul 2026 18:37:04 GMT</pubDate>
+      <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>A few years ago I popped over to Sakai in Osaka for a Band-Maid show.<br/><br/>I was travelling alone so took time to investigate some small, back street coffee shops. <br/><br/>This one, called Akari Coffee, was awesome. <br/><br/>The owner was very cool, took time to listen to my rubbish Japanese and had a chat with me.</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Today is the birthday of everybody's favorite enthusiast of indie music, film...</title>
       <link>https://bsky.app/profile/did:plc:txdrfhrkdpcdq2taygu4gapv/post/3mq7zdrja6k2q</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago Band-Maid played 20 songs at Foro Indie Rocks! in Mexico City MX on 2018/6/29. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago Band-Maid played 9 songs at Foros TV Azteca in Mexico City MX on ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpfsp5gj4v2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpfsp5gj4v2g</guid>
-      <pubDate>Mon, 29 Jun 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago Band-Maid played 9 songs at Foros TV Azteca in Mexico City MX on 2018/6/29. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpfqnxf4xn2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpfqnxf4xn2h</guid>
-      <pubDate>Mon, 29 Jun 2026 05:23:15 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
