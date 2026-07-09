@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Q306pC_8OF0",
+        "Title":  "This one got me, BAND-MAID \"BESTIE\" Reaction",
+        "Channel":  "vintage sol",
+        "ChannelId":  "UCMRBbkpiK8JnDg9kTQdYPtA",
+        "Url":  "https://youtu.be/Q306pC_8OF0",
+        "Thumbnail":  "https://i.ytimg.com/vi/Q306pC_8OF0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-09T13:00:31.0000000Z",
+        "DiscoveredAt":  "2026-07-09T13:24:55.1506361Z",
+        "Duration":  "00:12:57",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "GWAcwMdKhi0",
         "Title":  "BAND MAID DOMINATION - camping / REACTION",
         "Channel":  "Refined Reviews",
