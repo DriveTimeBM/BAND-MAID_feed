@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 15:59:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:30:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAIDには思い当たるフシがあるな、、、</title>
+      <link>https://bsky.app/profile/did:plc:bli6vjzxivlqvkdktm5bjzvz/post/3mq7xb7sluk23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bli6vjzxivlqvkdktm5bjzvz/post/3mq7xb7sluk23</guid>
+      <pubDate>Thu, 09 Jul 2026 15:30:38 GMT</pubDate>
+      <dc:creator>Sue Cat Boy (suecatboy.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDには思い当たるフシがあるな、、、<br/><br/>ベスト盤もそうだったけど<br/>その後に出たアルバムの通常盤CD、<br/>それなりに結構な値段するのに<br/>歌詞ブックレットの出来があまりにもショボくてスゲエ損した気分ってか、得が無いなとシラケてしまったのがデカいな<br/>しっかり値段相応に作ってくんね〜かな〜、、そう、シラケたんだよ</p><p><em>BlueSky &middot; suecatboy.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 好きだった(まだファンではあるけど)</title>
       <link>https://bsky.app/profile/did:plc:bli6vjzxivlqvkdktm5bjzvz/post/3mq7virk6lk23</link>
@@ -899,15 +908,6 @@
       <dc:creator>Chi Nerd (mimikute.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Hey Band-Maid<br/>There is a real family behind these words, not just another post on your screen. Their story deserves to be seen. If you have a moment, please visit my page and read the pinned post. 🙏</p><p><em>BlueSky &middot; mimikute.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID YouTube subscribers have surpassed 800,000.</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mpeucutkys2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mpeucutkys2f</guid>
-      <pubDate>Sun, 28 Jun 2026 20:55:59 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID YouTube subscribers have surpassed 800,000.</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
