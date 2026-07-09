@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 08:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:50:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 那很摇滚了（在说BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:fnoy24dwvaafqh55fznz76lk/post/3mq7d4f3zfc24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fnoy24dwvaafqh55fznz76lk/post/3mq7d4f3zfc24</guid>
+      <pubDate>Thu, 09 Jul 2026 09:30:01 GMT</pubDate>
+      <dc:creator> WineHusk/酒壳 (sld07.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>那很摇滚了（在说BAND-MAID</p><p><em>BlueSky &middot; sld07.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Balance</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mq6xqlwxim2e</link>
@@ -899,15 +908,6 @@
       <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpehzpveiv2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mpehzpveiv2o</guid>
-      <pubDate>Sun, 28 Jun 2026 17:16:07 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
