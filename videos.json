@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lE7aFeeCts0",
+        "Title":  "Musician reacts to BAND-MAID / Summer Drive | Final song!",
+        "Channel":  "Vault of Art",
+        "ChannelId":  "UCZJ9ZsJGHLHmkqIh30knRXw",
+        "Url":  "https://youtu.be/lE7aFeeCts0",
+        "Thumbnail":  "https://i.ytimg.com/vi/lE7aFeeCts0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-09T11:00:16.0000000Z",
+        "DiscoveredAt":  "2026-07-09T11:21:17.6842238Z",
+        "Duration":  "00:08:08",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "I3I3U8Gfwek",
         "Title":  "METALLICA FAN REACTS TO \"BAND MAID - ENERGETIC\" REACTION",
         "Channel":  "Stev_yt - Reactions & Drumcovers ",
