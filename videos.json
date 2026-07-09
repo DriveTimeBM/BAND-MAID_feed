@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "OiIN3ITNob0",
+        "Title":  "English singer songwriters reaction to Band Maid song called HATE",
+        "Channel":  "Gavin Davies Music",
+        "ChannelId":  "UC3co7usechhWcvPko3LlodA",
+        "Url":  "https://youtu.be/OiIN3ITNob0",
+        "Thumbnail":  "https://i.ytimg.com/vi/OiIN3ITNob0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-09T16:30:06.0000000Z",
+        "DiscoveredAt":  "2026-07-09T17:00:39.4171416Z",
+        "Duration":  "00:12:08",
+        "ViewsAtDiscovery":  21,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4EBqI0M2mSw",
         "Title":  "MORE AWESOME JAPANESE ROCK?? - World Domination Band Maid Album Music Reactions 148",
         "Channel":  "TheLuigiReactor",
