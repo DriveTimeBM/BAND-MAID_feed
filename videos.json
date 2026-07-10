@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "9j4HcLACnKo",
+        "Title":  "Jazz Musician Reacts to BAND-MAID – Don't You Tell ME | Every Member Is Ridiculously Talented",
+        "Channel":  "chris g",
+        "ChannelId":  "UCNVbyGQ2nrT-mTr6BFxelLw",
+        "Url":  "https://youtu.be/9j4HcLACnKo",
+        "Thumbnail":  "https://i.ytimg.com/vi/9j4HcLACnKo/hqdefault.jpg",
+        "PublishedAt":  "2026-07-10T16:00:25.0000000Z",
+        "DiscoveredAt":  "2026-07-10T16:23:55.4383453Z",
+        "Duration":  "00:08:57",
+        "ViewsAtDiscovery":  22,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Jap-2is2gbk",
+        "Title":  "Daaaaangg!! After Life - Band-Maid REACTION!",
+        "Channel":  "Higher Ground Vibes",
+        "ChannelId":  "UCl8lWUKCTJsPSO9MHrH5-9Q",
+        "Url":  "https://youtu.be/Jap-2is2gbk",
+        "Thumbnail":  "https://i.ytimg.com/vi/Jap-2is2gbk/hqdefault.jpg",
+        "PublishedAt":  "2026-07-10T16:00:14.0000000Z",
+        "DiscoveredAt":  "2026-07-10T16:23:54.8461646Z",
+        "Duration":  "00:06:34",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jV2ZSwrVBuM",
         "Title":  "BAND-MAID WHEEL OF JACKPOTS | EP. 4",
         "Channel":  "Another Perspective",
