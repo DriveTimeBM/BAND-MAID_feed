@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "uBfCHAMPVxQ",
+        "Title":  "First Look | BAND-MAID - Dilly-Dally | LIVE Performance| At AOS216 Reacts Drive-In",
+        "Channel":  "AOS216Reacts",
+        "ChannelId":  "UCCFnEPEW0wpRZlccuYiSmBg",
+        "Url":  "https://youtu.be/uBfCHAMPVxQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/uBfCHAMPVxQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-10T18:00:12.0000000Z",
+        "DiscoveredAt":  "2026-07-10T18:27:05.0517463Z",
+        "Duration":  "00:17:45",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Gw35-0Oiw90",
+        "Title":  "Unleash!!!!! - Band Maid World Tour 2026 (By the footage from live in Paris & London)",
+        "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
+        "ChannelId":  "UCIexUz_m-AJhaRGPtRKY3hw",
+        "Url":  "https://youtu.be/Gw35-0Oiw90",
+        "Thumbnail":  "https://i.ytimg.com/vi/Gw35-0Oiw90/hqdefault.jpg",
+        "PublishedAt":  "2026-07-10T18:00:06.0000000Z",
+        "DiscoveredAt":  "2026-07-10T18:27:04.1648841Z",
+        "Duration":  "00:04:25",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9j4HcLACnKo",
         "Title":  "Jazz Musician Reacts to BAND-MAID – Don't You Tell ME | Every Member Is Ridiculously Talented",
         "Channel":  "chris g",
