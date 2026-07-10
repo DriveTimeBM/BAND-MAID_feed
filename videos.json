@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ja9igirqgz8",
+        "Title":  "Band-Maid - Warning! (guitar backing track)",
+        "Channel":  "Guitar Solo Tracks",
+        "ChannelId":  "UC2HQH01Et8x48Mb4MWap2Hg",
+        "Url":  "https://youtu.be/ja9igirqgz8",
+        "Thumbnail":  "https://i.ytimg.com/vi/ja9igirqgz8/hqdefault.jpg",
+        "PublishedAt":  "2026-07-10T22:18:48.0000000Z",
+        "DiscoveredAt":  "2026-07-10T23:45:54.8344362Z",
+        "Duration":  "00:04:22",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "uFljOHWF-AQ",
+        "Title":  "Masterpiece BAND MAID Documentary  KANAMI",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/uFljOHWF-AQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/uFljOHWF-AQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-10T21:58:49.0000000Z",
+        "DiscoveredAt":  "2026-07-10T23:45:54.0209877Z",
+        "Duration":  "00:37:26",
+        "ViewsAtDiscovery":  22,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "uBfCHAMPVxQ",
         "Title":  "First Look | BAND-MAID - Dilly-Dally | LIVE Performance| At AOS216 Reacts Drive-In",
         "Channel":  "AOS216Reacts",
