@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 23:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 08:01:22 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: secret MAIKO lips</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqbi7krsv42d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqbi7krsv42d</guid>
+      <pubDate>Fri, 10 Jul 2026 06:06:34 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: secret MAIKO lips<br/>Album: BAND-MAIKO<br/>Release: 3/31/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:12/7/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at PLATINUM PRODUCTION in Tokyo JP on 2...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mqbhtgb2el2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mqbhtgb2el2p</guid>
+      <pubDate>Fri, 10 Jul 2026 05:59:46 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at PLATINUM PRODUCTION in Tokyo JP on 2014/7/10. The opening song was Yoake Mae.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
       <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mqaq4p7sxa2g</link>
@@ -890,24 +908,6 @@
       <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>My copy of the new Band-Maid single, Energetic, arrived last week but I couldn&#39;t enjoy it due to my knackered back.<br/><br/>I feel like today is the day to open it up and put it on repeat for a while.</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I love Band Maid</title>
-      <link>https://bsky.app/profile/did:plc:2bp6pgepyxtfmirthmb2jxwd/post/3mpg3pjztrc2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2bp6pgepyxtfmirthmb2jxwd/post/3mpg3pjztrc2r</guid>
-      <pubDate>Mon, 29 Jun 2026 08:41:00 GMT</pubDate>
-      <dc:creator>KillerChair (killerchair.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I love Band Maid<br/>These ladies kick ass<br/><br/>www.youtube.com/watch?v=NpZj...</p><p><em>BlueSky &middot; killerchair.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Rock in me</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpft3firmx2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpft3firmx2g</guid>
-      <pubDate>Mon, 29 Jun 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Rock in me<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID TIENOWA<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID TIENOWA<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
