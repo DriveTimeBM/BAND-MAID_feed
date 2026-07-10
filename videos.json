@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KSqEGuewwwI",
+        "Title":  "WHO NEEDS A SINGER WITH INSTRUMENTALS THIS GOOD?! 🤯🎸 | Band-Maid - ONSET #reaction #reactionvideo",
+        "Channel":  "Rhythm & Views",
+        "ChannelId":  "UCzzkTCEHipvlDQMccmID9vQ",
+        "Url":  "https://youtu.be/KSqEGuewwwI",
+        "Thumbnail":  "https://i.ytimg.com/vi/KSqEGuewwwI/hqdefault.jpg",
+        "PublishedAt":  "2026-07-10T05:17:06.0000000Z",
+        "DiscoveredAt":  "2026-07-10T07:47:30.4949712Z",
+        "Duration":  "00:08:16",
+        "ViewsAtDiscovery":  172,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "TWDfJ5qHSAQ",
+        "Title":  "First Time Reaction - Band-Maid - Ready To Rock | OMV",
+        "Channel":  "Tristan Reacts",
+        "ChannelId":  "UCucnXR4qmpfnEsPUMSnE_Gw",
+        "Url":  "https://youtu.be/TWDfJ5qHSAQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/TWDfJ5qHSAQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-10T05:00:32.0000000Z",
+        "DiscoveredAt":  "2026-07-10T07:47:29.7381923Z",
+        "Duration":  "00:15:37",
+        "ViewsAtDiscovery":  89,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "iXbY8M64EOc",
         "Title":  "外国人が反応 | This Song Still Hits Different Every Single Time 😭 | BAND-MAID Thrill Reaction",
         "Channel":  "Overthinking with Dennis",
