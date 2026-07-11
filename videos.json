@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bXNrEXlGNH4",
+        "Title":  "BAND-MAID / SUPER SUNSHINE (Official Live Video)　Commercial Theme Song for “Hakutake Shiro” REACTION",
+        "Channel":  "Alexa Takes A Look",
+        "ChannelId":  "UCnZtYNtVW9aFc66sxoOQ0RA",
+        "Url":  "https://youtu.be/bXNrEXlGNH4",
+        "Thumbnail":  "https://i.ytimg.com/vi/bXNrEXlGNH4/hqdefault.jpg",
+        "PublishedAt":  "2026-07-11T13:00:25.0000000Z",
+        "DiscoveredAt":  "2026-07-11T15:46:31.2946389Z",
+        "Duration":  "00:06:29",
+        "ViewsAtDiscovery":  173,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "wFyZKgnZbT4",
+        "Title":  "Mrs. GREEN APPLE - Hagane - STMLT  - Band-Maid  #livepix #reaction",
+        "Channel":  "Ramieh Reacts & Live",
+        "ChannelId":  "UCR588hWYawFA6vfBSJeyIrA",
+        "Url":  "https://youtu.be/wFyZKgnZbT4",
+        "Thumbnail":  "https://i.ytimg.com/vi/wFyZKgnZbT4/hqdefault.jpg",
+        "PublishedAt":  "2026-07-11T12:01:27.0000000Z",
+        "DiscoveredAt":  "2026-07-11T15:46:29.6648565Z",
+        "Duration":  "01:32:32",
+        "ViewsAtDiscovery":  349,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "uijJip9gupY",
         "Title":  "BAND-MAID - ENERGETIC - What an Understatement! Total FIRE!! Metal Musician REACTION/ANALYSIS",
         "Channel":  "BemusingBill",
