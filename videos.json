@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "uijJip9gupY",
+        "Title":  "BAND-MAID - ENERGETIC - What an Understatement! Total FIRE!! Metal Musician REACTION/ANALYSIS",
+        "Channel":  "BemusingBill",
+        "ChannelId":  "UCI4J8kViQsQMIL-KfbDCFgw",
+        "Url":  "https://youtu.be/uijJip9gupY",
+        "Thumbnail":  "https://i.ytimg.com/vi/uijJip9gupY/hqdefault.jpg",
+        "PublishedAt":  "2026-07-11T09:15:19.0000000Z",
+        "DiscoveredAt":  "2026-07-11T11:46:15.3375677Z",
+        "Duration":  "00:11:16",
+        "ViewsAtDiscovery":  88,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ypvq7hbWjw8",
         "Title":  "BAND-MAID 2026 US Tour in Trouble??",
         "Channel":  "Metali_dad",
