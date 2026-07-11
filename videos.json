@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ypvq7hbWjw8",
+        "Title":  "BAND-MAID 2026 US Tour in Trouble??",
+        "Channel":  "Metali_dad",
+        "ChannelId":  "UCnjUNjR-Kej1bfKZWYQbJmg",
+        "Url":  "https://youtu.be/ypvq7hbWjw8",
+        "Thumbnail":  "https://i.ytimg.com/vi/ypvq7hbWjw8/hqdefault.jpg",
+        "PublishedAt":  "2026-07-11T04:39:50.0000000Z",
+        "DiscoveredAt":  "2026-07-11T07:48:06.3930472Z",
+        "Duration":  "00:10:37",
+        "ViewsAtDiscovery":  25,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ja9igirqgz8",
         "Title":  "Band-Maid - Warning! (guitar backing track)",
         "Channel":  "Guitar Solo Tracks",
