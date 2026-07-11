@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "D9pDaCn06m0",
+        "Title":  "FIRST TIME Hearing Band-Maid ‘DILEMMA’ LIVE! 🤯 | The Energy, Precision & Musicianship Blew Me Away!",
+        "Channel":  "Ginger T Reacts",
+        "ChannelId":  "UCZWOGhnKe5lh_KnpNaWRtQg",
+        "Url":  "https://youtu.be/D9pDaCn06m0",
+        "Thumbnail":  "https://i.ytimg.com/vi/D9pDaCn06m0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-11T19:00:37.0000000Z",
+        "DiscoveredAt":  "2026-07-11T19:47:20.4871392Z",
+        "Duration":  "00:24:15",
+        "ViewsAtDiscovery":  52,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "SQ56YGCZS_o",
+        "Title":  "BAND MAID REAL EXISTENCE reaction",
+        "Channel":  "Refined Reviews",
+        "ChannelId":  "UCJhWNP4vsj_A89WV2pYqF6w",
+        "Url":  "https://youtu.be/SQ56YGCZS_o",
+        "Thumbnail":  "https://i.ytimg.com/vi/SQ56YGCZS_o/hqdefault.jpg",
+        "PublishedAt":  "2026-07-11T16:07:40.0000000Z",
+        "DiscoveredAt":  "2026-07-11T19:47:09.7420136Z",
+        "Duration":  "00:10:31",
+        "ViewsAtDiscovery":  32,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bXNrEXlGNH4",
         "Title":  "BAND-MAID / SUPER SUNSHINE (Official Live Video)　Commercial Theme Song for “Hakutake Shiro” REACTION",
         "Channel":  "Alexa Takes A Look",
