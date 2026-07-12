@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "JSQErUJflYM",
+        "Title":  "【日本凱旋】🔥 BAND-MAID WORLD TOUR 2026再始動！広島・兵庫を熱狂の渦に…北海道公演直前に公開された最新オフショット＆ヨーロッパ秘蔵映像がファン歓喜！🤯🎸",
+        "Channel":  "Jp Music News",
+        "ChannelId":  "UCZc4hp17_1i6PmwzpR6OcCw",
+        "Url":  "https://youtu.be/JSQErUJflYM",
+        "Thumbnail":  "https://i.ytimg.com/vi/JSQErUJflYM/hqdefault.jpg",
+        "PublishedAt":  "2026-07-12T07:06:33.0000000Z",
+        "DiscoveredAt":  "2026-07-12T07:47:36.4492971Z",
+        "Duration":  "00:08:40",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "aaJzOEPuVe0",
+        "Title":  "BAND-MAID - Zen REACTION | Their speed is absolutely ridiculous!",
+        "Channel":  "The Overreacters",
+        "ChannelId":  "UCHTkIZsGGZ2wOjZH9yiocVA",
+        "Url":  "https://youtu.be/aaJzOEPuVe0",
+        "Thumbnail":  "https://i.ytimg.com/vi/aaJzOEPuVe0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-12T06:00:04.0000000Z",
+        "DiscoveredAt":  "2026-07-12T07:47:35.6073373Z",
+        "Duration":  "00:05:02",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "tSSm_Nn7o-E",
         "Title":  "Week in Rock :Here and Everywhere, Rob Zombie and NEW BAND MAID!",
         "Channel":  "Creativity Talkin",
