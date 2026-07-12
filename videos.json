@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "fgBPNl04scg",
+        "Title":  "BAND-MAID with The Warning - Show Them (Official Music Video) First Watch and Reaction",
+        "Channel":  "2 Studs And A Dud",
+        "ChannelId":  "UC3OSu65GvCxkwVwUNBA0sTw",
+        "Url":  "https://youtu.be/fgBPNl04scg",
+        "Thumbnail":  "https://i.ytimg.com/vi/fgBPNl04scg/hqdefault.jpg",
+        "PublishedAt":  "2026-07-12T20:09:17.0000000Z",
+        "DiscoveredAt":  "2026-07-12T20:35:28.0420400Z",
+        "Duration":  "00:06:58",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3-rizrpY3f4",
         "Title":  "Band-Maid Documentary - Saiki | Reaction | Very interesting! (Repost From @BattooshAndNonna )",
         "Channel":  "Battoosh & Nonna Watchlist",
