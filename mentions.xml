@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 14:52:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 20:35:33 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Ten acts you’ve seen, female lead singer edition:</title>
+      <link>https://bsky.app/profile/did:plc:owrpfaqulcesxacljhgptn5z/post/3mqhvslaqzc2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:owrpfaqulcesxacljhgptn5z/post/3mqhvslaqzc2q</guid>
+      <pubDate>Sun, 12 Jul 2026 19:25:51 GMT</pubDate>
+      <dc:creator>Paul Baldowski 🔜 Tabletop Scotland (Sept. 4–6) (paulbaldowski.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Ten acts you’ve seen, female lead singer edition:<br/><br/>Tori Amos<br/>Regina Spektor<br/>Marian Call<br/>Cyndi Lauper<br/><br/>Um... I haven&#39;t seen many live bands. If I could see a few more, I&#39;d add:<br/><br/>Band Maid<br/>Sleeper<br/>The Cardigans<br/>Geike Arnaert<br/>Skunk Anansie<br/>The Audience/Sophie Ellis-Bextor <br/><br/>#LiveMusic</p><p><em>BlueSky &middot; paulbaldowski.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Summer Drive</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqgj5dtqr426</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago Band-Maid played 6 songs at shibuya eggman in Tokyo JP on 2015/6/30. The opening song was Yoake Mae.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAIDがOP担当してるのは知ってる</title>
-      <link>https://bsky.app/profile/did:plc:eg7hafnkkiohfmjwfuj2pgmi/post/3mpi5slir2k2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:eg7hafnkkiohfmjwfuj2pgmi/post/3mpi5slir2k2o</guid>
-      <pubDate>Tue, 30 Jun 2026 04:23:49 GMT</pubDate>
-      <dc:creator>hibihas (hibiwareglass.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAIDがOP担当してるのは知ってる</p><p><em>BlueSky &middot; hibiwareglass.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
