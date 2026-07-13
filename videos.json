@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XXfQ-8lVrpo",
+        "Title":  "Musicians react to hearing BAND-MAID / without holding back (Official Live Video)",
+        "Channel":  "Offset Era (Official Band & Reaction Channel)",
+        "ChannelId":  "UCAgfypa3N06Vp8nGs1AFngQ",
+        "Url":  "https://youtu.be/XXfQ-8lVrpo",
+        "Thumbnail":  "https://i.ytimg.com/vi/XXfQ-8lVrpo/hqdefault.jpg",
+        "PublishedAt":  "2026-07-13T10:11:56.0000000Z",
+        "DiscoveredAt":  "2026-07-13T10:23:43.1305491Z",
+        "Duration":  "00:11:44",
+        "ViewsAtDiscovery":  19,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "MIaauFrwpoc",
+        "Title":  "BAND MAID REAL EXISTENCE Official Live Video REACTION",
+        "Channel":  "Refined Reviews",
+        "ChannelId":  "UCJhWNP4vsj_A89WV2pYqF6w",
+        "Url":  "https://youtu.be/MIaauFrwpoc",
+        "Thumbnail":  "https://i.ytimg.com/vi/MIaauFrwpoc/hqdefault.jpg",
+        "PublishedAt":  "2026-07-13T09:15:26.0000000Z",
+        "DiscoveredAt":  "2026-07-13T10:23:42.4878319Z",
+        "Duration":  "00:10:57",
+        "ViewsAtDiscovery":  36,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oaKMY4xbCx0",
         "Title":  "Reacting to Don’t You Tell Me by Band-Maid Was Passionate",
         "Channel":  "The Smith House Reactions",
