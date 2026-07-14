@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 15:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 23:29:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] BAND-MAID's “ENERGETIC” Is Out Now with Official Music Video and New Comment ...</title>
+      <link>https://mastodon.social/@slrmagazine/116920830432820459</link>
+      <guid isPermaLink="true">https://mastodon.social/@slrmagazine/116920830432820459</guid>
+      <pubDate>Tue, 14 Jul 2026 23:04:48 GMT</pubDate>
+      <dc:creator>S.L.R. Magazine (slrmagazine)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>BAND-MAID&#39;s “ENERGETIC” Is Out Now with Official Music Video and New Comment from SAIKI! https://mastodon.social/tags/bandmaid @bandmaid<br/><br/>https://slrmagazine.com/2026/07/14/band-maids-energetic-is-out-now-with-official-music-video-and-new-comment-from-saiki/</p><p><em>Mastodon &middot; slrmagazine</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] で、花冷え。とBAND-MAIDはいつ対バンするんですかね？ #対ありアニメ</title>
       <link>https://bsky.app/profile/did:plc:t6yxc5rf6owvqu7oww5zdilm/post/3mqmhuklozk2o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>12 years ago Band-Maid played 6 songs at morph in Tokyo JP on 2014/7/1. The opening song was Bye My Tears.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 15 songs at Shibuya Kinoto in Tokyo JP on 2017/7...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpktmyup732q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpktmyup732q</guid>
-      <pubDate>Wed, 01 Jul 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 15 songs at Shibuya Kinoto in Tokyo JP on 2017/7/1. The opening song was Moratorium.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
