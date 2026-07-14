@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xt7n8b7FY00",
+        "Title":  "BAND MAID  ENERGETIC Reaction",
+        "Channel":  "Jammer's Metal Mischief",
+        "ChannelId":  "UC2qJjs2b-eH7aYiQxaCdViw",
+        "Url":  "https://youtu.be/xt7n8b7FY00",
+        "Thumbnail":  "https://i.ytimg.com/vi/xt7n8b7FY00/hqdefault.jpg",
+        "PublishedAt":  "2026-07-14T13:19:42.0000000Z",
+        "DiscoveredAt":  "2026-07-14T13:50:11.8239243Z",
+        "Duration":  "00:06:48",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KdrmeQrmKHo",
         "Title":  "La historia de SAIKI (BAND-MAID) | Reacción al documental | ¡La voz detrás de la leyenda!",
         "Channel":  "Rock and Reactions",
