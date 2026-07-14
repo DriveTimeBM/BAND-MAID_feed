@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 08:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 15:53:35 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] で、花冷え。とBAND-MAIDはいつ対バンするんですかね？ #対ありアニメ</title>
+      <link>https://bsky.app/profile/did:plc:t6yxc5rf6owvqu7oww5zdilm/post/3mqmhuklozk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:t6yxc5rf6owvqu7oww5zdilm/post/3mqmhuklozk2o</guid>
+      <pubDate>Tue, 14 Jul 2026 14:59:43 GMT</pubDate>
+      <dc:creator>ルピナス (ultimate-trigger.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>で、花冷え。とBAND-MAIDはいつ対バンするんですかね？ #対ありアニメ</p><p><em>BlueSky &middot; ultimate-trigger.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: FREEDOM</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqlk3sgmqh2c</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 15 songs at Shibuya Kinoto in Tokyo JP on 2017/7/1. The opening song was Moratorium.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mpkq2h4a3726</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mpkq2h4a3726</guid>
-      <pubDate>Wed, 01 Jul 2026 04:55:39 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago<br/>r/BANDMAID on reddit<br/>milestone<br/>reached 1,000 subscribers <br/>2018/7/1<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
