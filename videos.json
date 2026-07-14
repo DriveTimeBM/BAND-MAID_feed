@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "r-AwAPkJP5I",
+        "Title":  "Reaction: BAND-MAID — \"Ready to Rock\" ×「ロックは淑女の嗜みでして」(Anime Music Video)",
+        "Channel":  "Ramieh Reacts & Live",
+        "ChannelId":  "UCR588hWYawFA6vfBSJeyIrA",
+        "Url":  "https://youtu.be/r-AwAPkJP5I",
+        "Thumbnail":  "https://i.ytimg.com/vi/r-AwAPkJP5I/hqdefault.jpg",
+        "PublishedAt":  "2026-07-14T10:45:01.0000000Z",
+        "DiscoveredAt":  "2026-07-14T11:15:28.9643589Z",
+        "Duration":  "00:08:22",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Pm-DIQxpXK0",
         "Title":  "BAND-MAID First Live 2013 + MISA Documentary Reaction 🔥 The Beginning of a Legend",
         "Channel":  "ROCK AND REACTIONS II (canal secundario)",
