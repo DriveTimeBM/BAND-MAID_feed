@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HyfJHUiKh8A",
+        "Title":  "Great solo guitar - band maid , hate ? Music reaction , my first time hearing ",
+        "Channel":  "diving in- with avishai ",
+        "ChannelId":  "UCINfIIQ89os6QbBI4XRXo-A",
+        "Url":  "https://youtu.be/HyfJHUiKh8A",
+        "Thumbnail":  "https://i.ytimg.com/vi/HyfJHUiKh8A/hqdefault.jpg",
+        "PublishedAt":  "2026-07-15T15:41:07.0000000Z",
+        "DiscoveredAt":  "2026-07-15T15:46:24.2621541Z",
+        "Duration":  "00:08:02",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "_zUAhLFiRp0",
+        "Title":  "Live Request Stream 7/14/26 // BAND-MAID, Hagane, KOIAI... and even some non-Japanese bands 😱",
+        "Channel":  "Ryan Mear",
+        "ChannelId":  "UCvKUIZjMmlHJ9vjGJey0SBQ",
+        "Url":  "https://youtu.be/_zUAhLFiRp0",
+        "Thumbnail":  "https://i.ytimg.com/vi/_zUAhLFiRp0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-15T15:25:51.0000000Z",
+        "DiscoveredAt":  "2026-07-15T15:46:23.5947809Z",
+        "Duration":  "03:13:48",
+        "ViewsAtDiscovery":  850,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gWug4YJjL3A",
         "Title":  "BAND MAID MONDAY! ON A WEDNESDAY! We Listen To CAGE For The First Time! #BandMaid",
         "Channel":  "WavesAcrossTheWater",
