@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 14:18:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:58:24 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mqpp75fmci23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mqpp75fmci23</guid>
+      <pubDate>Wed, 15 Jul 2026 21:48:54 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 【インタビュー】7年ぶりヨーロッパツアーを経て「我らBAND-MAID、これまで以上にカッコ良くなっている」 | BARKS</title>
       <link>https://bsky.app/profile/did:plc:4ipefc6m335fpbumpvgzx2w3/post/3mqoteudunu2m</link>
@@ -899,15 +908,6 @@
       <dc:creator>Kikoman589 ☀️ (kikoman589.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Ended the first half of 2026 by listening to multiple recommendations, exploring more releases from electronic artists I like and diving into BAND-MAID before attending their concert. Really enjoyable all around. Lots of bangers.</p><p><em>BlueSky &middot; kikoman589.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] planning this trip is reinforcing my habits to solo travel because missing yk...</title>
-      <link>https://bsky.app/profile/did:plc:jz4vfc627fburefkyuvlfatl/post/3mpm6itgp2k2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jz4vfc627fburefkyuvlfatl/post/3mpm6itgp2k2s</guid>
-      <pubDate>Wed, 01 Jul 2026 18:46:55 GMT</pubDate>
-      <dc:creator>Magitek (magitekelite.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>planning this trip is reinforcing my habits to solo travel because missing ykl vol 22 while in japan is pain<br/>we couldve made band maid tour fukuoka leg but they werent interested and when i decided to just solo it and checked again just now theyre sold out whoops</p><p><em>BlueSky &middot; magitekelite.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
