@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 04:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 07:09:22 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: EverGreen</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqo2k7rs3x2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqo2k7rs3x2y</guid>
+      <pubDate>Wed, 15 Jul 2026 06:06:35 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: EverGreen<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 福井昌彦 [Fukui, Masahiko]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>福井昌彦 [Fukui, Masahiko]<br/>1st Live:2/7/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 3 years ago Band-Maid played 23 songs at LIVE ROXY in Shizuoka JP on 2023/7/1...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mqo25vda452h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mqo25vda452h</guid>
+      <pubDate>Wed, 15 Jul 2026 05:59:43 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at LIVE ROXY in Shizuoka JP on 2023/7/15. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonice ahora:...</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mqnrnsdl3n2k</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>over, in this case, we wanted to make something that emphasized melody, and on top of that, we wanted the background sound to be playful, without being too technical, and we thought that by doing that, we could create something that was typical of BAND-MAID. We made it with the hope that it would li</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] akes it different from when we simply try to make a new song for BAND-MAID; r...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpktzj76zs2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpktzj76zs2b</guid>
-      <pubDate>Wed, 01 Jul 2026 06:06:43 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>akes it different from when we simply try to make a new song for BAND-MAID; rather, our approach is &quot;Let&#39;s make a song that fits this anime, in a way that&#39;s typical of BAND-MAID.&quot; In that sense, the fundamental aspects of how we make the song change a bit, and something new is born as a result. More</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] nd it ended up being composed almost entirely of fills. That kind of composit...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpktzfcciv2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpktzfcciv2q</guid>
-      <pubDate>Wed, 01 Jul 2026 06:06:39 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>nd it ended up being composed almost entirely of fills. That kind of composition itself is quite new to me. The approach of connecting eight bars with fills without beating the beat is quite rare for BAND-MAID, and it might have been the first time we connected such a long and playful phrase. I feel</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
