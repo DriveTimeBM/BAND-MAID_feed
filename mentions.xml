@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 07:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 09:13:46 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Ready to Rock by BAND-MAID on the PRS Rock Lady guitar</title>
+      <link>https://bsky.app/profile/did:plc:3ha3lyaur54cu4shwsq3gci5/post/3mqqrny4qqs2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ha3lyaur54cu4shwsq3gci5/post/3mqqrny4qqs2f</guid>
+      <pubDate>Thu, 16 Jul 2026 08:05:39 GMT</pubDate>
+      <dc:creator>DOUBLE WHAMMY (doublewhammy.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Ready to Rock by BAND-MAID on the PRS Rock Lady guitar<br/>#DoubleWhammyGame #indiegame #guitar</p><p><em>BlueSky &middot; doublewhammy.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] MUCC -縁 [en]-" album (Disc 1 - Track #2) released on 11/22/2017. Included as ...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqqkyzwsrb2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>Kingu (Kingu@loops.video)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>https://loops.video/tag/BandMaid https://loops.video/tag/Kanami https://loops.video/tag/Guitar https://loops.video/tag/Rock https://loops.video/tag/Jrock https://loops.video/tag/Jpop https://loops.video/tag/Music</p><p><em>Mastodon &middot; Kingu@loops.video</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Anyway I am still waiting for Band Maid to release their October dates for th...</title>
-      <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mpone3ws5k2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mpone3ws5k2j</guid>
-      <pubDate>Thu, 02 Jul 2026 18:18:02 GMT</pubDate>
-      <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Anyway I am still waiting for Band Maid to release their October dates for the NA part of their world tour and it is killing me</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
