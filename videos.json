@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rCNDAc5jM-A",
+        "Title":  "Reacting to Japanese Rock! | BAND-MAID 3 Song Special",
+        "Channel":  "BIGTONYSTV",
+        "ChannelId":  "UCeAf_CPDRtxc_-UPmqzC4Aw",
+        "Url":  "https://youtu.be/rCNDAc5jM-A",
+        "Thumbnail":  "https://i.ytimg.com/vi/rCNDAc5jM-A/hqdefault.jpg",
+        "PublishedAt":  "2026-07-17T00:00:09.0000000Z",
+        "DiscoveredAt":  "2026-07-17T00:41:57.2393569Z",
+        "Duration":  "00:14:01",
+        "ViewsAtDiscovery":  33,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4h-aY_SF7zE",
         "Title":  "BAND-MAID / secret My lips (Official Music Video) Reaction || W",
         "Channel":  "AmiyaReacts",
