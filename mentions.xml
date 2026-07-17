@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 03:49:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 06:52:37 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: DICE</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqt3hx7ncj2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqt3hx7ncj2x</guid>
+      <pubDate>Fri, 17 Jul 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: DICE<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:3/9/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 【LINDBERGや打首獄門同好会も出演】</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mqsr45mpz52o</link>
@@ -899,15 +908,6 @@
       <dc:creator>AngelTalion (angeltalion.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>🎥 Our REACTION is live! BAND-MAID’s “Choose Me” hits with powerful rock energy, but the vocals glide right through it with so much control and confidence.<br/><br/>What detail made you want to hit rewind?<br/><br/>https://www.youtube.com/watch?v=E3SRjKFh7TI&amp;list=PL7MzXPGtHwvCpOtbZmSz5FAt_oLkjooMn</p><p><em>BlueSky &middot; angeltalion.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] overseas masters and daughters who study Japanese and learn kanji (Chinese ch...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mppux3ws6t26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mppux3ws6t26</guid>
-      <pubDate>Fri, 03 Jul 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p> overseas masters and daughters who study Japanese and learn kanji (Chinese characters) from BAND-MAID lyrics.<br/><br/>SAIKI Kobato herself is studying too. She finds things from movies, manga, and many other places.<br/><br/>Kobato I learned the word &quot;indefinite precept&quot; from a comic book.<br/><br/>SAIKI What manga was i</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
