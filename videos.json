@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "tES2xjNGMuI",
+        "Title":  "Complete Surprise! | BAND-MAID - DICE (first listen reaction)",
+        "Channel":  "Lune-atic Reactions",
+        "ChannelId":  "UCZIw3dC_uQvtz-y71xl1fZQ",
+        "Url":  "https://youtu.be/tES2xjNGMuI",
+        "Thumbnail":  "https://i.ytimg.com/vi/tES2xjNGMuI/hqdefault.jpg",
+        "PublishedAt":  "2026-07-17T08:13:33.0000000Z",
+        "DiscoveredAt":  "2026-07-17T08:23:52.9740824Z",
+        "Duration":  "00:09:20",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qJvZzJttOtc",
         "Title":  "Kanami is a Genious! Reaction to BAND-MAID / Days",
         "Channel":  "VelcroReacts",
