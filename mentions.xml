@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 19:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:15:12 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] band-maid - choose me</title>
+      <link>https://bsky.app/profile/did:plc:rigmeyg2kinwyypyvdi6mc24/post/3mqusgprxes2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rigmeyg2kinwyypyvdi6mc24/post/3mqusgprxes2q</guid>
+      <pubDate>Fri, 17 Jul 2026 22:30:08 GMT</pubDate>
+      <dc:creator>angel 🔜 otakon (acantha.etheirys.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>band-maid - choose me<br/><br/>www.youtube.com/watch?v=MZIJ...</p><p><em>BlueSky &middot; acantha.etheirys.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] https://www.wacoca.com/media/714062/ “おぼろっく2026 ～TSURUGA MUSIC FESTIVAL～”、最終出...</title>
       <link>https://wakoka.com/@media/116936973659886397</link>
@@ -899,15 +908,6 @@
       <dc:creator>E d u  🐇 (adagiorii.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid world domination real</p><p><em>BlueSky &middot; adagiorii.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ‪CatFreak‬ @catfreak.bsky.social‬</title>
-      <link>https://bsky.app/profile/did:plc:fwlw5optrnfdyolb7xtevmbp/post/3mpr4w5nl7c2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fwlw5optrnfdyolb7xtevmbp/post/3mpr4w5nl7c2n</guid>
-      <pubDate>Fri, 03 Jul 2026 18:01:53 GMT</pubDate>
-      <dc:creator>Neil Cameron (neilcam57.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>‪CatFreak‬ @catfreak.bsky.social‬<br/><br/>#LookAndSee 447<br/> #MusicChallenge <br/>#MusicSky<br/>This is just for fun! No rules.  I will post a pic often for your music association… 🎧<br/><br/>#LookAndSee (Day 447) 🎶<br/><br/>Band-Maid &quot;Freedom&quot;<br/>youtu.be/FHpuEqMAcDg?...</p><p><em>BlueSky &middot; neilcam57.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
