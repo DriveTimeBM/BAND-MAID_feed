@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 14:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 19:38:21 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://www.wacoca.com/media/714062/ “おぼろっく2026 ～TSURUGA MUSIC FESTIVAL～”、最終出...</title>
+      <link>https://wakoka.com/@media/116936973659886397</link>
+      <guid isPermaLink="true">https://wakoka.com/@media/116936973659886397</guid>
+      <pubDate>Fri, 17 Jul 2026 19:30:14 GMT</pubDate>
+      <dc:creator>Media Japan (media@wakoka.com)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://www.wacoca.com/media/714062/ “おぼろっく2026 ～TSURUGA MUSIC FESTIVAL～”、最終出演アーティストでBAND-MAID、NOISEMAKER、四星球、キュウソネコカミ等14組発表！日割り公開！ | 激ロック ニュース https://wakoka.com/tags/BANDMAID https://wakoka.com/tags/music https://wakoka.com/tags/NOISEMAKER https://wakoka.com/tags/%E3%81%8A%E3%81%BC%E3%82%8D%E3%81%A3%E3%81%8F https://wakoka.com/tags/%E3%81%97%E3%81%9B%E3%81%84%E3%81%8D%E3%82%85%E3%81%86 https://wakoka.com/tags/%E3%81%99%E3%83%BC%E3%81%97%E3%82%93%E3%81%A1%E3%82%85%E3%81%86 https://wakoka.com/tags/%E3%83%8E%E3%82%A4%E3%82%BA%E3%83%A1%E3%82%A4%E3%82%AB%E3%83%BC https://wakoka.com/tags/%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A1%E3%82%A4%E3%83%89 https://wakoka.com/tags/%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A1%E3%82%A4%E3%83%89 https://wakoka.com/tags/%E5%9B%9B%E6%98%9F%E7%90%83 https://wakoka.com/tags/%E9%9F%B3%E6%A5%BD</p><p><em>Mastodon &middot; media@wakoka.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] おぼろっくにBAND-MAID？！</title>
       <link>https://bsky.app/profile/did:plc:qxyv6gwbqfzrh7p3nuxybdlc/post/3mqtti7jdv22q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Neil Cameron (neilcam57.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>‪CatFreak‬ @catfreak.bsky.social‬<br/><br/>#LookAndSee 447<br/> #MusicChallenge <br/>#MusicSky<br/>This is just for fun! No rules.  I will post a pic often for your music association… 🎧<br/><br/>#LookAndSee (Day 447) 🎶<br/><br/>Band-Maid &quot;Freedom&quot;<br/>youtu.be/FHpuEqMAcDg?...</p><p><em>BlueSky &middot; neilcam57.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] #EcksteinsMonthOfMusic</title>
-      <link>https://bsky.app/profile/did:plc:fwlw5optrnfdyolb7xtevmbp/post/3mpr3sfbt6c2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fwlw5optrnfdyolb7xtevmbp/post/3mpr3sfbt6c2w</guid>
-      <pubDate>Fri, 03 Jul 2026 17:41:53 GMT</pubDate>
-      <dc:creator>Neil Cameron (neilcam57.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>#EcksteinsMonthOfMusic<br/>#MusicChallenge<br/>#MusicSky<br/><br/>July 4 PARTY!!<br/><br/>Band-Maid &quot;Domination&quot;<br/>(It has lasers, so it must be a party!)<br/><br/>youtu.be/QbyQCJn6rYg?...</p><p><em>BlueSky &middot; neilcam57.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
