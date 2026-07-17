@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "pbgVbsLdfDc",
+        "Title":  "This BAND-MAID Song is the PERFECT Opening for a Rock Band Anime! - Animator react to Ready to Rock",
+        "Channel":  "Kaeppster's Corner",
+        "ChannelId":  "UCbsXWBzw0jiatsxbGH3ycDg",
+        "Url":  "https://youtu.be/pbgVbsLdfDc",
+        "Thumbnail":  "https://i.ytimg.com/vi/pbgVbsLdfDc/hqdefault.jpg",
+        "PublishedAt":  "2026-07-17T13:00:12.0000000Z",
+        "DiscoveredAt":  "2026-07-17T13:30:12.0087949Z",
+        "Duration":  "00:06:00",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "g6P9YuDUMA0",
         "Title":  "This Is The Most Beautiful Song They’ve Ever Made! 😭 BAND-MAID - Awkward REACTION",
         "Channel":  "RJS_Reactions",
