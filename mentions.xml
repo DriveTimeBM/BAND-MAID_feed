@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 21:32:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 02:47:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BARKS【インタビュー】7年ぶりヨーロッパツアーを経て「我らBAND-MAID、これまで以上にカッコ良くなっている」</title>
+      <link>https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mqsnenqp7k23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mqsnenqp7k23</guid>
+      <pubDate>Fri, 17 Jul 2026 01:54:11 GMT</pubDate>
+      <dc:creator>佐藤英男 (sato-hideo.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BARKS【インタビュー】7年ぶりヨーロッパツアーを経て「我らBAND-MAID、これまで以上にカッコ良くなっている」<br/>barks.jp/news/1078232/<br/>“欧州での日々についても、彼女たちの記憶が鮮明なうちに訊いておきたい。とはいえ会話は、このバンドの仲の良さを無言のうちに伝えるかのような「ENERGETIC」のミュージックビデオのことから始まったのだった。”<br/>取材・文◎増田勇一<br/>撮影◎尾藤能暢<br/>#BARKS #BANDMAID</p><p><em>BlueSky &middot; sato-hideo.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] #julymusicchallenge</title>
       <link>https://bsky.app/profile/did:plc:fwlw5optrnfdyolb7xtevmbp/post/3mqs4jauoik2z</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Blooming<br/>Album: CONQUEROR<br/>Release: 12/10/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:10/13/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 23 songs at Zepp Shinjuku (TOKYO) in Tokyo JP on...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mppuku2osq2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mppuku2osq2d</guid>
-      <pubDate>Fri, 03 Jul 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at Zepp Shinjuku (TOKYO) in Tokyo JP on 2023/7/3. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
