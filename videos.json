@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "qJvZzJttOtc",
+        "Title":  "Kanami is a Genious! Reaction to BAND-MAID / Days",
+        "Channel":  "VelcroReacts",
+        "ChannelId":  "UCTXT5orVqM_ozxatQ-4UO4w",
+        "Url":  "https://youtu.be/qJvZzJttOtc",
+        "Thumbnail":  "https://i.ytimg.com/vi/qJvZzJttOtc/hqdefault.jpg",
+        "PublishedAt":  "2026-07-17T02:50:35.0000000Z",
+        "DiscoveredAt":  "2026-07-17T04:50:41.1145727Z",
+        "Duration":  "00:09:13",
+        "ViewsAtDiscovery":  44,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rCNDAc5jM-A",
         "Title":  "Reacting to Japanese Rock! | BAND-MAID 3 Song Special",
         "Channel":  "BIGTONYSTV",
