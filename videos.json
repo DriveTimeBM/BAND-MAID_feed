@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-Tlwb_x11R4",
+        "Title":  "Reacting to Band Maid | Forward | Live",
+        "Channel":  "Kyros Reactions",
+        "ChannelId":  "UCo6VhAuklHvW8ZC35pIezXg",
+        "Url":  "https://youtu.be/-Tlwb_x11R4",
+        "Thumbnail":  "https://i.ytimg.com/vi/-Tlwb_x11R4/hqdefault.jpg",
+        "PublishedAt":  "2026-07-18T18:00:38.0000000Z",
+        "DiscoveredAt":  "2026-07-18T18:03:40.3323606Z",
+        "Duration":  "00:06:55",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "FaM_chAPGoA",
+        "Title":  "Band Maid just dominated my Brain lol | Band Maid DOMINATION Live Show | FIRST REACTION",
+        "Channel":  "ALAN  EVANS  REACTIONS ",
+        "ChannelId":  "UCiR9Jh9LICSqvFnXzfmLGlQ",
+        "Url":  "https://youtu.be/FaM_chAPGoA",
+        "Thumbnail":  "https://i.ytimg.com/vi/FaM_chAPGoA/hqdefault.jpg",
+        "PublishedAt":  "2026-07-18T17:52:24.0000000Z",
+        "DiscoveredAt":  "2026-07-18T18:03:39.5084194Z",
+        "Duration":  "00:09:31",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "tQMkBz38RgQ",
         "Title":  "5 BAND-MAID Concerts Every Fan Must See",
         "Channel":  "Venus Gaijin",
