@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_3JdFidpYsc",
+        "Title":  "【BAND-MAID】Single「ENERGETIC」発売記念パネル展",
+        "Channel":  "uwfint",
+        "ChannelId":  "UCOhhGQGi5mIrfpvx5RP1iNg",
+        "Url":  "https://youtu.be/_3JdFidpYsc",
+        "Thumbnail":  "https://i.ytimg.com/vi/_3JdFidpYsc/hqdefault.jpg",
+        "PublishedAt":  "2026-07-18T03:57:05.0000000Z",
+        "DiscoveredAt":  "2026-07-18T04:00:59.9635361Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "saLGfFco8vg",
         "Title":  "The Hu - Yabai T-shirts Yasan  - LOVE de ONEGAISHIMASU - Band-Maid   #livepix #reaction",
         "Channel":  "Ramieh Reacts & Live",
