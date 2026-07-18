@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 16:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 18:34:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonice ahora: http...</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mqwt5l57tz2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mqwt5l57tz2w</guid>
+      <pubDate>Sat, 18 Jul 2026 17:48:14 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonice ahora: https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] T-SQUARE</title>
       <link>https://bsky.app/profile/did:plc:epfshfqpr3e5yxzhoasxr7qd/post/3mqwk3avivk2e</link>
@@ -899,15 +908,6 @@
       <dc:creator>弓ム日月 (kiroahi.mstdn.jp.ap.brid.gy)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>alone<br/>BAND-MAID - Brand New MAID<br/>#NowPlaying<br/><br/>https://open.spotify.com/track/46cNvpdo9ddgeTa4DA4EOm</p><p><em>BlueSky &middot; kiroahi.mstdn.jp.ap.brid.gy</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Freedom - Bandmaid</title>
-      <link>https://bsky.app/profile/did:plc:ycvcyz5aw4b26zisskjojujz/post/3mptkgrgui222</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycvcyz5aw4b26zisskjojujz/post/3mptkgrgui222</guid>
-      <pubDate>Sat, 04 Jul 2026 17:09:09 GMT</pubDate>
-      <dc:creator>Bob Sacemano (bobsacemano.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Freedom - Bandmaid<br/>www.youtube.com/watch?v=FHpu...</p><p><em>BlueSky &middot; bobsacemano.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
