@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 23:15:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 02:58:12 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] This always satisfies, better than an Oh Henry bar. Band-Maid "Just Bring It"...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mqv6qjznpk2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mqv6qjznpk2n</guid>
+      <pubDate>Sat, 18 Jul 2026 02:10:23 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>This always satisfies, better than an Oh Henry bar. Band-Maid &quot;Just Bring It&quot;. It shows off the range of the band and their compositional and musicians ship skills. Every song a smile.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] band-maid - choose me</title>
       <link>https://bsky.app/profile/did:plc:rigmeyg2kinwyypyvdi6mc24/post/3mqusgprxes2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonice ahora: https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid world domination real</title>
-      <link>https://bsky.app/profile/did:plc:f7udjeqlktp22gbt65yfgjy4/post/3mprowhjgs22h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:f7udjeqlktp22gbt65yfgjy4/post/3mprowhjgs22h</guid>
-      <pubDate>Fri, 03 Jul 2026 23:24:11 GMT</pubDate>
-      <dc:creator>E d u  🐇 (adagiorii.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid world domination real</p><p><em>BlueSky &middot; adagiorii.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
