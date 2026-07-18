@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "tGYBlNOnpJo",
+        "Title":  "This is how BAND-MAID became ANIME Characters?! - Animator reacts to Rock is a Lady's Modesty MoCap",
+        "Channel":  "Kaeppster's Corner",
+        "ChannelId":  "UCbsXWBzw0jiatsxbGH3ycDg",
+        "Url":  "https://youtu.be/tGYBlNOnpJo",
+        "Thumbnail":  "https://i.ytimg.com/vi/tGYBlNOnpJo/hqdefault.jpg",
+        "PublishedAt":  "2026-07-18T07:00:40.0000000Z",
+        "DiscoveredAt":  "2026-07-18T07:46:08.2013065Z",
+        "Duration":  "00:05:00",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3JH72mnrLzQ",
         "Title":  "【BAND-MAID】TOKYO FM「Da-iCEの大野雄大ッス！」2026.07.17 出演：小鳩ミク・SAIKI",
         "Channel":  "佐々木20XX",
