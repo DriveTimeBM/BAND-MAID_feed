@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "1k-ZMKCRDw4",
+        "Title":  "METAL HEAD REACTS to BAND-MAID / NO GOD (Official Live Video)",
+        "Channel":  "Zenith Darksky",
+        "ChannelId":  "UCOtLfnmrnWXQHJk6MOYFBiQ",
+        "Url":  "https://youtu.be/1k-ZMKCRDw4",
+        "Thumbnail":  "https://i.ytimg.com/vi/1k-ZMKCRDw4/hqdefault.jpg",
+        "PublishedAt":  "2026-07-19T11:00:21.0000000Z",
+        "DiscoveredAt":  "2026-07-19T11:19:01.9106306Z",
+        "Duration":  "00:11:56",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "b_Y9uB7NXlg",
+        "Title":  "Is this their THE MOST beautiful song? | BAND-MAID - Endless Story Reaction and Lyrics Analysis",
+        "Channel":  "JapaGirl Reacts.",
+        "ChannelId":  "UCEckk2nuN7w4NxlvsrnU0qg",
+        "Url":  "https://youtu.be/b_Y9uB7NXlg",
+        "Thumbnail":  "https://i.ytimg.com/vi/b_Y9uB7NXlg/hqdefault.jpg",
+        "PublishedAt":  "2026-07-19T11:00:03.0000000Z",
+        "DiscoveredAt":  "2026-07-19T11:19:00.9885509Z",
+        "Duration":  "00:30:13",
+        "ViewsAtDiscovery":  14,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7lK488md1FQ",
         "Title":  "Double Reaction | BAND-MAID - HATE? (studio & Official Live Video first listen and comparison)",
         "Channel":  "Lune-atic Reactions",
