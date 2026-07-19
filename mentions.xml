@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 06:33:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 18:04:31 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3mqzcluc7rc2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3mqzcluc7rc2o</guid>
+      <pubDate>Sun, 19 Jul 2026 17:30:00 GMT</pubDate>
+      <dc:creator>Merry Ol' Soul (merryolsoul.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID<br/><br/>#Japan #Music<br/><br/>www.youtube.com/watch?v=tQMk...</p><p><em>BlueSky &middot; merryolsoul.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: EverGreen</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqy4ft7xb72i</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Bestie<br/>Album: Epic Narratives<br/>Release: 4/16/2024<br/>Music: Mike Einziger, BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/30/2024<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 16 songs at CLUB PHASE in Tokyo JP on 2017/7/5. ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpuviqtqzh2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mpuviqtqzh2r</guid>
-      <pubDate>Sun, 05 Jul 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 16 songs at CLUB PHASE in Tokyo JP on 2017/7/5. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
