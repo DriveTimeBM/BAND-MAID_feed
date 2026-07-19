@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 18:04:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:38:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Oh Band Maid is rad! I learned of them/fell in love with them from watching t...</title>
+      <link>https://bsky.app/profile/did:plc:vn6e3nrynyuizzb6rp7rds4m/post/3mqzo5vqcjs2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vn6e3nrynyuizzb6rp7rds4m/post/3mqzo5vqcjs2o</guid>
+      <pubDate>Sun, 19 Jul 2026 20:56:56 GMT</pubDate>
+      <dc:creator>DocBray Is Tired, Boss (docbray.wafflesky.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Oh Band Maid is rad! I learned of them/fell in love with them from watching the anime Rock is a Lady&#39;s Modesty<br/><br/>www.youtube.com/watch?v=eapN...</p><p><em>BlueSky &middot; docbray.wafflesky.com</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] BandMaid from Japan with The Warning one off youtu.be/LVl0mcEu1r8?...</title>
+      <link>https://bsky.app/profile/did:plc:2vpnclyzzvtyfj3kfemmrqll/post/3mqznumsb4227</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2vpnclyzzvtyfj3kfemmrqll/post/3mqznumsb4227</guid>
+      <pubDate>Sun, 19 Jul 2026 20:51:45 GMT</pubDate>
+      <dc:creator>Chefdad2000 (chefdad2000.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BandMaid from Japan with The Warning one off youtu.be/LVl0mcEu1r8?...</p><p><em>BlueSky &middot; chefdad2000.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3mqzcluc7rc2o</link>
@@ -890,24 +908,6 @@
       <dc:creator>こまつ (alice3nc.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAIDいいですねぇ</p><p><em>BlueSky &middot; alice3nc.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] www.youtube.com/watch?v=NpZj... Your Sunday Brekkie Tune comes from Band-Maid</title>
-      <link>https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mpuxnjmnk22z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mpuxnjmnk22z</guid>
-      <pubDate>Sun, 05 Jul 2026 06:38:14 GMT</pubDate>
-      <dc:creator>Keith Sowerby (jamesksowerby.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>www.youtube.com/watch?v=NpZj... Your Sunday Brekkie Tune comes from Band-Maid</p><p><em>BlueSky &middot; jamesksowerby.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Bestie</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpuvuv4blb2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mpuvuv4blb2f</guid>
-      <pubDate>Sun, 05 Jul 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Bestie<br/>Album: Epic Narratives<br/>Release: 4/16/2024<br/>Music: Mike Einziger, BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/30/2024<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
