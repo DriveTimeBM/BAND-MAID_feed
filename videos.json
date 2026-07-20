@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "y3TptXek0EM",
+        "Title":  "Okay, Akane, I See You | BAND-MAID / Bubble (first listen reaction)",
+        "Channel":  "Lune-atic Reactions",
+        "ChannelId":  "UCZIw3dC_uQvtz-y71xl1fZQ",
+        "Url":  "https://youtu.be/y3TptXek0EM",
+        "Thumbnail":  "https://i.ytimg.com/vi/y3TptXek0EM/hqdefault.jpg",
+        "PublishedAt":  "2026-07-20T10:00:00.0000000Z",
+        "DiscoveredAt":  "2026-07-20T10:21:38.2124718Z",
+        "Duration":  "00:10:50",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "eBeZNczsFsY",
+        "Title":  "BAND-MAID / Unleash!!!!! | ¡Mira lo que llegó! Look what just arrived! ほら、今届いたよ！",
+        "Channel":  "Andrés Random Videos",
+        "ChannelId":  "UCy73dD5KOHeL4ecQLKEF__A",
+        "Url":  "https://youtu.be/eBeZNczsFsY",
+        "Thumbnail":  "https://i.ytimg.com/vi/eBeZNczsFsY/hqdefault.jpg",
+        "PublishedAt":  "2026-07-20T09:30:30.0000000Z",
+        "DiscoveredAt":  "2026-07-20T10:21:37.5321740Z",
+        "Duration":  "00:02:41",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "U4FKyqNaT44",
         "Title":  "Once Again! Band Maid - Hate? (FIRST TIME REACTION)",
         "Channel":  "Shirin Reacts",
