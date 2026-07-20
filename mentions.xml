@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 10:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 23:54:22 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID taking 2027 off, and will be back in 2028, for their 15th anniversary.</title>
+      <link>https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3mr4cdwhjv22h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3mr4cdwhjv22h</guid>
+      <pubDate>Mon, 20 Jul 2026 22:03:33 GMT</pubDate>
+      <dc:creator>Merry Ol' Soul (merryolsoul.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID taking 2027 off, and will be back in 2028, for their 15th anniversary. <br/><br/>A message from BAND-MAID <br/><br/>#music<br/><br/>youtu.be/y2cHkvFG5D4?...</p><p><em>BlueSky &middot; merryolsoul.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] alone</title>
       <link>https://bsky.app/profile/did:plc:tkvqkqcl2ktsob27vo4kgg7w/post/3mr2xgdaqgzi2</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2 years ago<br/>Magie Live<br/>OLV<br/>released<br/>2024/7/6<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] mora ハイレゾランキング［2026.6.23 – 29］今週の1位はYOASOBI！Michael Jackson、Hollywood Movie W...</title>
-      <link>https://bsky.app/profile/did:plc:cazef5u2rbzqfpzhqve5wshg/post/3mpx2blioga2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:cazef5u2rbzqfpzhqve5wshg/post/3mpx2blioga2c</guid>
-      <pubDate>Mon, 06 Jul 2026 02:30:30 GMT</pubDate>
-      <dc:creator>MAGMOE (magmoe.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>mora ハイレゾランキング［2026.6.23 – 29］今週の1位はYOASOBI！Michael Jackson、Hollywood Movie Works、mora Acousticの人気作に、Hiromitsu Kitayama、BAND-MAID、SUPER BEAVER、竹達彩奈、Museの新譜もランクイン！<br/><br/>https://www.magmoe.com/3079261/movie/2026-07-06/<br/><br/>今週の１位は、YOASOBIの“読むCD”としてシリーズ化してきたEPの4作目が獲得！2位には、映画公開で話題のMichael …</p><p><em>BlueSky &middot; magmoe.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
