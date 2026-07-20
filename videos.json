@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "erTeuTNjgyo",
+        "Title":  "BAND-MAID - What is justice | REACTION#reaction",
+        "Channel":  "Metal Lens Reviews",
+        "ChannelId":  "UC-xuBbjEuA550Mq0lhmQjGw",
+        "Url":  "https://youtu.be/erTeuTNjgyo",
+        "Thumbnail":  "https://i.ytimg.com/vi/erTeuTNjgyo/hqdefault.jpg",
+        "PublishedAt":  "2026-07-20T11:00:17.0000000Z",
+        "DiscoveredAt":  "2026-07-20T11:23:05.0795563Z",
+        "Duration":  "00:10:45",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "y3TptXek0EM",
         "Title":  "Okay, Akane, I See You | BAND-MAID / Bubble (first listen reaction)",
         "Channel":  "Lune-atic Reactions",
