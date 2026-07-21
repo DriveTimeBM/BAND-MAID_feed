@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZrYPJBpsqDo",
+        "Title":  "FIRST TIME REACTION, Band Maid Dilly-Dally!!",
+        "Channel":  "DRM Nightmares",
+        "ChannelId":  "UCoatX-Fqi-kD-0bW-nOOndg",
+        "Url":  "https://youtu.be/ZrYPJBpsqDo",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZrYPJBpsqDo/hqdefault.jpg",
+        "PublishedAt":  "2026-07-21T03:48:50.0000000Z",
+        "DiscoveredAt":  "2026-07-21T04:07:19.1991145Z",
+        "Duration":  "00:08:48",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SNMF8i0s0TQ",
         "Title":  "Pork Chop's Music Reaction: BAND-MAID - From Now On (OMV)",
         "Channel":  "Kollin \"Pork Chop\"",
