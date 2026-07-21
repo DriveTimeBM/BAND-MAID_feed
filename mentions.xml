@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 15:30:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:25:01 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Been following along with someone's chronological ranking of Band Maid's song...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mr6n6hzf6c2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mr6n6hzf6c2i</guid>
+      <pubDate>Tue, 21 Jul 2026 20:22:40 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Been following along with someone&#39;s chronological ranking of Band Maid&#39;s songs (and doing my own list) on a Discord I&#39;m on. Just caught up to him on this track, which I&#39;d have among their Top 10. It&#39;s a B Side. Really.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAIDじゃねーじゃねーかOP #対ありアニメ</title>
       <link>https://bsky.app/profile/did:plc:t6yxc5rf6owvqu7oww5zdilm/post/3mr5zpv7rvs26</link>
@@ -899,15 +908,6 @@
       <dc:creator>Alex P (alexpi.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I forget, have you heard Band Maid? They might appeal to you. Their rhythm section frequently takes center stage</p><p><em>BlueSky &middot; alexpi.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid's "Epic Narrative" covers so much of their musical range in one dis...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mpz72kvo6k2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mpz72kvo6k2u</guid>
-      <pubDate>Mon, 06 Jul 2026 23:01:26 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid&#39;s &quot;Epic Narrative&quot; covers so much of their musical range in one disc. Never gets dull.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
