@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 07:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:58:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonice ahora: http...</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mr5v5phw4h2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mr5v5phw4h2y</guid>
+      <pubDate>Tue, 21 Jul 2026 13:12:45 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonice ahora: https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: EverGreen</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mr55doc4mw2m</link>
@@ -899,15 +908,6 @@
       <dc:creator>ひとりネズミ (hitorinezumi.fedibird.com.ap.brid.gy)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>#ミュージックライン #NHKラジオ<br/>#らじるらじる の #聴き逃し配信 で聴いてる。<br/><br/>#オンエア曲<br/>#お気に入り<br/><br/>BAND-MAID / ENERGETIC (Official Music Video) - YouTube<br/>https://www.youtube.com/watch?v=NpZjslVGhbE<br/><br/>BAND-MAID「ENERGETIC」の歌詞 / 歌詞検索サービス「歌ネット」<br/>https://www.uta-net.com/song/394891/</p><p><em>BlueSky &middot; hitorinezumi.fedibird.com.ap.brid.gy</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] #ミュージックライン #NHKラジオ</title>
-      <link>https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpywixoad232</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpywixoad232</guid>
-      <pubDate>Mon, 06 Jul 2026 20:28:13 GMT</pubDate>
-      <dc:creator>ひとりネズミ (hitorinezumi.fedibird.com.ap.brid.gy)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>#ミュージックライン #NHKラジオ<br/>#らじるらじる の #聴き逃し配信 で聴いてる。<br/><br/>&quot;BAND-MAID<br/><br/>初回放送日：2026年7月6日<br/><br/>今夜のゲストはＢＡＮＤ－ＭＡＩＤのＳＡＩＫＩ。悲願の日本武道館リベンジへ…ワールドツアーの手ごたえ、「昔は話したくなかった」ライブＭＣの“言葉の大切さ”に気づいた転機を告白！ライブ初披露で涙した新曲「Ｄａｙｓ」、２０２７年ライブ活動小休止に向けてファンへの“赤裸々な思い”をつづったという作詞エピソードを語る！リクエスト・メッセージは番組ホームページから、感想は＃ミュージックラインで！<br/><br/>楽曲一覧<br/>Ｃｒａｖｅ 三浦大知 （3分53秒)<br/>Ｐｒｅ […]</p><p><em>BlueSky &middot; hitorinezumi.fedibird.com.ap.brid.gy</em></p>]]></description>
     </item>
   </channel>
 </rss>
