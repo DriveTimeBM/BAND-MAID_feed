@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HhGXijgN5d0",
+        "Title":  "BAND-MAID WORLD TOUR 2026 - July 18, 2026 - Fukuoka",
+        "Channel":  "Nin puzzle",
+        "ChannelId":  "UCCZ3DnDT0dT1-5AuoEGN7GQ",
+        "Url":  "https://youtu.be/HhGXijgN5d0",
+        "Thumbnail":  "https://i.ytimg.com/vi/HhGXijgN5d0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-21T11:09:55.0000000Z",
+        "DiscoveredAt":  "2026-07-21T11:23:41.4882082Z",
+        "Duration":  "00:01:04",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "uANYqKfvnvo",
+        "Title":  "METAL HEAD REACTS to BAND-MAID / onset (Official Live Video)",
+        "Channel":  "Zenith Darksky",
+        "ChannelId":  "UCOtLfnmrnWXQHJk6MOYFBiQ",
+        "Url":  "https://youtu.be/uANYqKfvnvo",
+        "Thumbnail":  "https://i.ytimg.com/vi/uANYqKfvnvo/hqdefault.jpg",
+        "PublishedAt":  "2026-07-21T11:00:23.0000000Z",
+        "DiscoveredAt":  "2026-07-21T11:23:40.1937613Z",
+        "Duration":  "00:12:02",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "23jH2Msr3Rk",
         "Title":  "band maid shambles reaction",
         "Channel":  "Refined Reviews",
