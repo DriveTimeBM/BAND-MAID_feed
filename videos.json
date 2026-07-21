@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "i8pNxhI-4ZQ",
+        "Title":  "BAND-MAID - DICE REACTION | They look cute BUT PLAY LIKE THIS?! 🤯🔥",
+        "Channel":  "Lestat Reax",
+        "ChannelId":  "UC45t3GiSIMH-IJkK9plYRvQ",
+        "Url":  "https://youtu.be/i8pNxhI-4ZQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/i8pNxhI-4ZQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-21T20:30:27.0000000Z",
+        "DiscoveredAt":  "2026-07-21T20:54:13.2351696Z",
+        "Duration":  "00:05:58",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "X2fkzrFxag4",
+        "Title":  "#97 BAND-MAID / Corallium - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/X2fkzrFxag4",
+        "Thumbnail":  "https://i.ytimg.com/vi/X2fkzrFxag4/hqdefault.jpg",
+        "PublishedAt":  "2026-07-21T20:15:06.0000000Z",
+        "DiscoveredAt":  "2026-07-21T20:54:12.7456302Z",
+        "Duration":  "00:12:51",
+        "ViewsAtDiscovery":  74,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ay0mlqcroUA",
         "Title":  "My First Time Listening To BAND MAID  After Life",
         "Channel":  "Purple unicorn reaction's",
