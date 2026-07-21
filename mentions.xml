@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 13:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 15:30:20 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAIDじゃねーじゃねーかOP #対ありアニメ</title>
+      <link>https://bsky.app/profile/did:plc:t6yxc5rf6owvqu7oww5zdilm/post/3mr5zpv7rvs26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:t6yxc5rf6owvqu7oww5zdilm/post/3mr5zpv7rvs26</guid>
+      <pubDate>Tue, 21 Jul 2026 14:34:30 GMT</pubDate>
+      <dc:creator>ルピナス (ultimate-trigger.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDじゃねーじゃねーかOP #対ありアニメ</p><p><em>BlueSky &middot; ultimate-trigger.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonice ahora: http...</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mr5v5phw4h2y</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid&#39;s &quot;Epic Narrative&quot; covers so much of their musical range in one disc. Never gets dull.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] #ミュージックライン #NHKラジオ</title>
-      <link>https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpz26kgygum2</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpz26kgygum2</guid>
-      <pubDate>Mon, 06 Jul 2026 21:34:10 GMT</pubDate>
-      <dc:creator>ひとりネズミ (hitorinezumi.fedibird.com.ap.brid.gy)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>#ミュージックライン #NHKラジオ<br/>#らじるらじる の #聴き逃し配信 で聴いてる。<br/><br/>#オンエア曲<br/>#お気に入り<br/><br/>BAND-MAID / ENERGETIC (Official Music Video) - YouTube<br/>https://www.youtube.com/watch?v=NpZjslVGhbE<br/><br/>BAND-MAID「ENERGETIC」の歌詞 / 歌詞検索サービス「歌ネット」<br/>https://www.uta-net.com/song/394891/</p><p><em>BlueSky &middot; hitorinezumi.fedibird.com.ap.brid.gy</em></p>]]></description>
     </item>
   </channel>
 </rss>
