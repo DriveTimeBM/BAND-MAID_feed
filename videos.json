@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "V1GnMMCjPC8",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) 🔥 Reacción / Análisis Musical ✅",
+        "Channel":  "Gabo Rossini",
+        "ChannelId":  "UClj-BH4NW5nrUkXtcKkEg-w",
+        "Url":  "https://youtu.be/V1GnMMCjPC8",
+        "Thumbnail":  "https://i.ytimg.com/vi/V1GnMMCjPC8/hqdefault.jpg",
+        "PublishedAt":  "2026-07-22T23:00:32.0000000Z",
+        "DiscoveredAt":  "2026-07-22T23:45:51.3497702Z",
+        "Duration":  "00:12:25",
+        "ViewsAtDiscovery":  29,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "RNtQKPaLdjE",
         "Title":  "INT Reacts to BAND-MAID - RINNE (輪廻) 🤯 | THIS Is Their HEAVIEST Song?!",
         "Channel":  "Underground Hustlin'",
