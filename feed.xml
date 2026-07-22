@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 23:28:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 03:36:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BANDMAID - Time Live (Reaction)</title>
+      <link>https://youtu.be/-zuFQbfCiEg</link>
+      <guid isPermaLink="false">yt:video:-zuFQbfCiEg</guid>
+      <pubDate>Tue, 21 Jul 2026 19:15:19 GMT</pubDate>
+      <dc:creator>BadBird Reactions</dc:creator>
+      <category>BadBird Reactions</category>
+      <description><![CDATA[<p><a href="https://youtu.be/-zuFQbfCiEg"><img src="https://i.ytimg.com/vi/-zuFQbfCiEg/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: BadBird Reactions<br/>Duration: 00:08:31<br/>Views at discovery: 306</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/-zuFQbfCiEg/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band-Maid - Blooming [Legendado]</title>
       <link>https://youtu.be/jAVXpTfCiyk</link>
