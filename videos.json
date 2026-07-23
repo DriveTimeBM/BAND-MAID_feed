@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8S-PxsT57Yw",
+        "Title":  "Hillbilly ReactS! BAND-MAID / Thrill (スリル) (Official Music Video)",
+        "Channel":  "The Skeptical Hillbilly",
+        "ChannelId":  "UC8RVrBdLPB50V1zbci5x7Ng",
+        "Url":  "https://youtu.be/8S-PxsT57Yw",
+        "Thumbnail":  "https://i.ytimg.com/vi/8S-PxsT57Yw/hqdefault.jpg",
+        "PublishedAt":  "2026-07-23T22:05:20.0000000Z",
+        "DiscoveredAt":  "2026-07-23T22:14:57.9314809Z",
+        "Duration":  "00:06:07",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JiL118GqKBw",
         "Title":  "Band-Maid: Energetic(OMV)(first time reaction)",
         "Channel":  "vintage sol",
