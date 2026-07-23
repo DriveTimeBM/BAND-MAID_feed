@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5e6wn59mL2A",
+        "Title":  "I introduce us to BAND-MAID: Blooming",
+        "Channel":  "bruins35",
+        "ChannelId":  "UCpbZVxBaxmatvFhMXAzxOzg",
+        "Url":  "https://youtu.be/5e6wn59mL2A",
+        "Thumbnail":  "https://i.ytimg.com/vi/5e6wn59mL2A/hqdefault.jpg",
+        "PublishedAt":  "2026-07-23T16:30:01.0000000Z",
+        "DiscoveredAt":  "2026-07-23T16:38:48.4516096Z",
+        "Duration":  "00:08:28",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ftnTgpxv8_w",
+        "Title":  "Band-Maid in Berlin - Warning!  #metal #rock #japan #kawaii #jpop #kultur #dothingsyoudontwanttodo",
+        "Channel":  "RADULF DRAMA",
+        "ChannelId":  "UCTE-z364_DpS3aFE0ae5ZMQ",
+        "Url":  "https://youtu.be/ftnTgpxv8_w",
+        "Thumbnail":  "https://i.ytimg.com/vi/ftnTgpxv8_w/hqdefault.jpg",
+        "PublishedAt":  "2026-07-23T16:21:48.0000000Z",
+        "DiscoveredAt":  "2026-07-23T16:38:47.4861846Z",
+        "Duration":  "00:04:28",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MDLpOsBHJYg",
         "Title":  "A BAND-MAID, 13th Anniversary PhotoTribute",
         "Channel":  "Dorian",
