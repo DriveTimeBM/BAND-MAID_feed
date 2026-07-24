@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8OEEWR_SK6A",
+        "Title":  "Band Maid - Awkward (LIVE)",
+        "Channel":  "Shirin Reacts",
+        "ChannelId":  "UCKl8gsoikwaVY8MwERSy8yg",
+        "Url":  "https://youtu.be/8OEEWR_SK6A",
+        "Thumbnail":  "https://i.ytimg.com/vi/8OEEWR_SK6A/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T09:30:16.0000000Z",
+        "DiscoveredAt":  "2026-07-24T10:03:26.1127014Z",
+        "Duration":  "00:05:46",
+        "ViewsAtDiscovery":  68,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mXhrjP17_Wk",
         "Title":  "BAND-MAID Fan Favorites Top10 Songs (2026 Edition)",
         "Channel":  "shin.ultra7",
