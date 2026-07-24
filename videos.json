@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DB4ltjlBofY",
+        "Title":  "Metal Guitarist Reacts to BAND-MAID Turn me on",
+        "Channel":  "APOKALYPSE34",
+        "ChannelId":  "UCBt3JX654OyVDFwYUtZFkDw",
+        "Url":  "https://youtu.be/DB4ltjlBofY",
+        "Thumbnail":  "https://i.ytimg.com/vi/DB4ltjlBofY/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T03:12:38.0000000Z",
+        "DiscoveredAt":  "2026-07-24T03:25:39.4004080Z",
+        "Duration":  "00:09:28",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KQGsScfWq0U",
         "Title":  "INT Reacts to BAND-MAID - ONSET (LIVE) 🎸🤯 Their Instrumental Skills Are INSANE..But I Missed the VoX",
         "Channel":  "Underground Hustlin'",
