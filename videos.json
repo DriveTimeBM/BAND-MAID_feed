@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2ixs0wZOTuk",
+        "Title":  "Thrill | Band-Maid | Karaoke Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/2ixs0wZOTuk",
+        "Thumbnail":  "https://i.ytimg.com/vi/2ixs0wZOTuk/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T11:07:58.0000000Z",
+        "DiscoveredAt":  "2026-07-24T11:35:12.7378625Z",
+        "Duration":  "00:04:11",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "tlqHnPYoH2M",
         "Title":  "First Time Reaction - Band Maid - Ready To Rock | LIVE, 2026 Megaport Festival",
         "Channel":  "Tristan Reacts",
