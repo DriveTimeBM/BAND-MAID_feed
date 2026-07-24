@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "VlH8UnXR7JU",
+        "Title":  "Don't Let Me down | Band-Maid | Live + Music Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/VlH8UnXR7JU",
+        "Thumbnail":  "https://i.ytimg.com/vi/VlH8UnXR7JU/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T15:48:31.0000000Z",
+        "DiscoveredAt":  "2026-07-24T16:10:37.2044880Z",
+        "Duration":  "00:03:24",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "UjauEr8QDVE",
         "Title":  "How Have I Never Heard BAND-MAID Before?! | Dice Reaction",
         "Channel":  "Matty Ice Reacts",
