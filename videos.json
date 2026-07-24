@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jsEyCBE3uNY",
+        "Title":  "Don't Let Me Down | Band-Maid | Karaoke Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/jsEyCBE3uNY",
+        "Thumbnail":  "https://i.ytimg.com/vi/jsEyCBE3uNY/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T17:22:59.0000000Z",
+        "DiscoveredAt":  "2026-07-24T17:43:05.5682899Z",
+        "Duration":  "00:03:24",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VlH8UnXR7JU",
         "Title":  "Don't Let Me down | Band-Maid | Live + Music Video",
         "Channel":  "NormanatorTV",
