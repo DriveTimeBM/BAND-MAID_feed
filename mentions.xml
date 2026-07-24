@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 13:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 14:38:34 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mrfikfhqrk2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mrfikfhqrk2w</guid>
+      <pubDate>Fri, 24 Jul 2026 13:48:29 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Oh shit it's finally happening</title>
       <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mrfdxeb5f227</link>
@@ -899,15 +908,6 @@
       <dc:creator> WineHusk/酒壳 (sld07.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>那很摇滚了（在说BAND-MAID</p><p><em>BlueSky &middot; sld07.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Balance</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mq6xqlwxim2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mq6xqlwxim2e</guid>
-      <pubDate>Thu, 09 Jul 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Balance<br/>Album: Unleash<br/>Release: 9/20/2022<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:1/8/2023<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
