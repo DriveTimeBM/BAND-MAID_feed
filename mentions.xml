@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 18:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 04:26:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] My previous favourite song to introduce people to Band-Maid was the live vers...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mrefwvu55s2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mrefwvu55s2f</guid>
+      <pubDate>Fri, 24 Jul 2026 03:29:09 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>My previous favourite song to introduce people to Band-Maid was the live version of Domination, but more recently I&#39;ve updated that to the live version of Shambles, because they are just so good live. www.youtube.com/watch?v=RmFY...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mrdfexgtgx2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>5 years ago<br/>Different MV<br/>milestone<br/>surpassed 2 million views<br/>2021/7/8<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] #ミュージックライン #NHKラジオ</title>
-      <link>https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpyxnirlbqk2</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:aivtqyr4juseoadtfasa7b3i/post/3mpyxnirlbqk2</guid>
-      <pubDate>Mon, 06 Jul 2026 20:48:40 GMT</pubDate>
-      <dc:creator>ひとりネズミ (hitorinezumi.fedibird.com.ap.brid.gy)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>#ミュージックライン #NHKラジオ<br/>#らじるらじる の #聴き逃し配信 で聴いてる。<br/><br/>#オンエア曲<br/>#お気に入り<br/><br/>BAND-MAID / Present Perfect (Official Music Video) - YouTube<br/>https://www.youtube.com/watch?v=yzSdgw-tdr0<br/><br/>BAND-MAID「Present Perfect」の歌詞 / 歌詞検索サービス「歌ネット」<br/>https://www.uta-net.com/song/381782/</p><p><em>BlueSky &middot; hitorinezumi.fedibird.com.ap.brid.gy</em></p>]]></description>
     </item>
   </channel>
 </rss>
