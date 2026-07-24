@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "UjauEr8QDVE",
+        "Title":  "How Have I Never Heard BAND-MAID Before?! | Dice Reaction",
+        "Channel":  "Matty Ice Reacts",
+        "ChannelId":  "UC7hBLHPm0SMPiRSk09Kn5vQ",
+        "Url":  "https://youtu.be/UjauEr8QDVE",
+        "Thumbnail":  "https://i.ytimg.com/vi/UjauEr8QDVE/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T15:35:36.0000000Z",
+        "DiscoveredAt":  "2026-07-24T15:39:45.7805067Z",
+        "Duration":  "00:09:37",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "VVoI3eBbhrc",
+        "Title":  "INT REACTS to BAND-MAID - REAL EXISTENCE 🤯 Velvet Revolver Meets Metallica? | Solo GAVE 7 Genres!?",
+        "Channel":  "Underground Hustlin'",
+        "ChannelId":  "UCr7h__vd8nVUX02BkplGxKw",
+        "Url":  "https://youtu.be/VVoI3eBbhrc",
+        "Thumbnail":  "https://i.ytimg.com/vi/VVoI3eBbhrc/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T15:00:06.0000000Z",
+        "DiscoveredAt":  "2026-07-24T15:39:45.2508793Z",
+        "Duration":  "00:10:20",
+        "ViewsAtDiscovery":  80,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "aOQALpXOarU",
         "Title":  "SPECIAL BIRTHDAY VIDEO: Stray Kids/Band-Maid/UAU/ATEEZ/XLOV/WOODZ/PLAVE/P1Harmony/Wonho/Kihyun &MORE",
         "Channel":  "Talking About Nothing",
