@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mXhrjP17_Wk",
+        "Title":  "BAND-MAID Fan Favorites Top10 Songs (2026 Edition)",
+        "Channel":  "shin.ultra7",
+        "ChannelId":  "UCf0CsaKXSnKK_hrI1FcUjcw",
+        "Url":  "https://youtu.be/mXhrjP17_Wk",
+        "Thumbnail":  "https://i.ytimg.com/vi/mXhrjP17_Wk/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T05:30:39.0000000Z",
+        "DiscoveredAt":  "2026-07-24T07:47:38.0065010Z",
+        "Duration":  "00:41:49",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "CdAuFxyIECo",
         "Title":  "Band-Maid / Band-Maiko Only Live #musicstream",
         "Channel":  "Rhythm & Views",
