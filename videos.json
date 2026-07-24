@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CdAuFxyIECo",
+        "Title":  "Band-Maid / Band-Maiko Only Live #musicstream",
+        "Channel":  "Rhythm & Views",
+        "ChannelId":  "UCzzkTCEHipvlDQMccmID9vQ",
+        "Url":  "https://youtu.be/CdAuFxyIECo",
+        "Thumbnail":  "https://i.ytimg.com/vi/CdAuFxyIECo/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T01:27:32.0000000Z",
+        "DiscoveredAt":  "2026-07-24T03:45:53.2405794Z",
+        "Duration":  "02:10:55",
+        "ViewsAtDiscovery":  116,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DB4ltjlBofY",
         "Title":  "Metal Guitarist Reacts to BAND-MAID Turn me on",
         "Channel":  "APOKALYPSE34",
