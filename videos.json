@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "tlqHnPYoH2M",
+        "Title":  "First Time Reaction - Band Maid - Ready To Rock | LIVE, 2026 Megaport Festival",
+        "Channel":  "Tristan Reacts",
+        "ChannelId":  "UCucnXR4qmpfnEsPUMSnE_Gw",
+        "Url":  "https://youtu.be/tlqHnPYoH2M",
+        "Thumbnail":  "https://i.ytimg.com/vi/tlqHnPYoH2M/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T11:00:13.0000000Z",
+        "DiscoveredAt":  "2026-07-24T11:04:41.5521346Z",
+        "Duration":  "00:14:38",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "fHTC8jYgSN0",
+        "Title":  "METAL HEAD REACTS to BAND-MAID / Play (Official Live Video)",
+        "Channel":  "Zenith Darksky",
+        "ChannelId":  "UCOtLfnmrnWXQHJk6MOYFBiQ",
+        "Url":  "https://youtu.be/fHTC8jYgSN0",
+        "Thumbnail":  "https://i.ytimg.com/vi/fHTC8jYgSN0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-24T11:00:13.0000000Z",
+        "DiscoveredAt":  "2026-07-24T11:04:39.1799500Z",
+        "Duration":  "00:12:42",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KvukG5dlsts",
         "Title":  "Thrill | Band-Maid | Live + Music Video",
         "Channel":  "NormanatorTV",
