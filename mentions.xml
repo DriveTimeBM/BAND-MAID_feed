@@ -7,8 +7,53 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 05:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 08:21:10 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] alone</title>
+      <link>https://bsky.app/profile/did:plc:tkvqkqcl2ktsob27vo4kgg7w/post/3mrhdqf65ya22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tkvqkqcl2ktsob27vo4kgg7w/post/3mrhdqf65ya22</guid>
+      <pubDate>Sat, 25 Jul 2026 07:27:41 GMT</pubDate>
+      <dc:creator>弓ム日月 (kiroahi.mstdn.jp.ap.brid.gy)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>alone<br/>BAND-MAID • ロスレス - Brand New MAID<br/>#NowPlaying</p><p><em>BlueSky &middot; kiroahi.mstdn.jp.ap.brid.gy</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Song: Why Why Why</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mrh77evcly2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mrh77evcly2o</guid>
+      <pubDate>Sat, 25 Jul 2026 06:06:34 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Why Why Why<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 11 years ago Band-Maid played 6 songs at LIVEHOLIC in Tokyo JP on 2015/7/25. ...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mrh6t6xdda2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mrh6t6xdda2t</guid>
+      <pubDate>Sat, 25 Jul 2026 05:59:46 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>11 years ago Band-Maid played 6 songs at LIVEHOLIC in Tokyo JP on 2015/7/25. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 5 years ago Band-Maid played 6 songs at harevutai in Tokyo JP on 2021/7/25. T...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mrh6t5cf5t2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mrh6t5cf5t2w</guid>
+      <pubDate>Sat, 25 Jul 2026 05:59:44 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>5 years ago Band-Maid played 6 songs at harevutai in Tokyo JP on 2021/7/25. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 8 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mrh3a637hu2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mrh3a637hu2w</guid>
+      <pubDate>Sat, 25 Jul 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>8 years ago<br/>start over<br/>single<br/>released<br/>2018/7/25<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonice a...</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mrgy3ebvs22y</link>
@@ -863,51 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at PLATINUM PRODUCTION in Tokyo JP on 2014/7/10. The opening song was Yoake Mae.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
-      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mqaq4p7sxa2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mqaq4p7sxa2g</guid>
-      <pubDate>Thu, 09 Jul 2026 22:55:28 GMT</pubDate>
-      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Whilst in Osaka seeing Band-Maid a few years ago I decided to pop into the Ze...</title>
-      <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mqadyvx7t225</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mqadyvx7t225</guid>
-      <pubDate>Thu, 09 Jul 2026 19:18:38 GMT</pubDate>
-      <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Whilst in Osaka seeing Band-Maid a few years ago I decided to pop into the Zemaitis showroom to see the Miku Kobato guitar display. <br/><br/>The nice people there took time to talk to me and demanded I play one of their instruments. <br/><br/>So I did... Badly 🤣<br/><br/>I liked it so much I bought one for myself.</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonice ahora:...</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mqabzdqruw24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mqabzdqruw24</guid>
-      <pubDate>Thu, 09 Jul 2026 18:43:05 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonice ahora: https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] A few years ago I popped over to Sakai in Osaka for a Band-Maid show.</title>
-      <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mqaboljd7s25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mqaboljd7s25</guid>
-      <pubDate>Thu, 09 Jul 2026 18:37:04 GMT</pubDate>
-      <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>A few years ago I popped over to Sakai in Osaka for a Band-Maid show.<br/><br/>I was travelling alone so took time to investigate some small, back street coffee shops. <br/><br/>This one, called Akari Coffee, was awesome. <br/><br/>The owner was very cool, took time to listen to my rubbish Japanese and had a chat with me.</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Today is the birthday of everybody's favorite enthusiast of indie music, film...</title>
-      <link>https://bsky.app/profile/did:plc:txdrfhrkdpcdq2taygu4gapv/post/3mq7zdrja6k2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:txdrfhrkdpcdq2taygu4gapv/post/3mq7zdrja6k2q</guid>
-      <pubDate>Thu, 09 Jul 2026 16:07:51 GMT</pubDate>
-      <dc:creator>Kara Buchanan 🏳️‍⚧️ (magicariot.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Today is the birthday of everybody&#39;s favorite enthusiast of indie music, film photography, and mega hyper turbo gay-ass lesbianism from the &quot;Magica Riot&quot; series, Hazel Hoffman! You can be sure that Claire and Bloom will be participating in quite the birthday celebration with her today!</p><p><em>BlueSky &middot; magicariot.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
