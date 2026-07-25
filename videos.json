@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7bGvgsPsk08",
+        "Title":  "Domination | Band-Maid | Studio + Music Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/7bGvgsPsk08",
+        "Thumbnail":  "https://i.ytimg.com/vi/7bGvgsPsk08/hqdefault.jpg",
+        "PublishedAt":  "2026-07-25T10:19:28.0000000Z",
+        "DiscoveredAt":  "2026-07-25T11:45:58.7490881Z",
+        "Duration":  "00:03:56",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "S_kWQ36Kw8o",
         "Title":  "Musicians REACT to Band-Maid: Fate (2018 Tokyo)",
         "Channel":  "Glenn and Adrian's Rock Talk",
