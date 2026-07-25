@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7pVwzK2vBrk",
+        "Title":  "Reacting to Ready to Rock Live Performance by Band-Maid Was Electrifying",
+        "Channel":  "The Smith House Reactions",
+        "ChannelId":  "UCfQeTYw5jS1UryRg8GN3_PQ",
+        "Url":  "https://youtu.be/7pVwzK2vBrk",
+        "Thumbnail":  "https://i.ytimg.com/vi/7pVwzK2vBrk/hqdefault.jpg",
+        "PublishedAt":  "2026-07-25T05:00:29.0000000Z",
+        "DiscoveredAt":  "2026-07-25T05:04:03.6917496Z",
+        "Duration":  "00:06:45",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "n_ZdVnjCZT0",
         "Title":  "That Aggressive Funk-Metal Pocket Left Me Speechless! 🎸 BAND-MAID Live at TGT 2023 REACTION",
         "Channel":  "RJS_Reactions",
