@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 01:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 05:04:13 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonice a...</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mrgy3ebvs22y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mrgy3ebvs22y</guid>
+      <pubDate>Sat, 25 Jul 2026 03:59:04 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonice ahora: https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mrgllnqwly2o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Kara Buchanan 🏳️‍⚧️ (magicariot.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Today is the birthday of everybody&#39;s favorite enthusiast of indie music, film photography, and mega hyper turbo gay-ass lesbianism from the &quot;Magica Riot&quot; series, Hazel Hoffman! You can be sure that Claire and Bloom will be participating in quite the birthday celebration with her today!</p><p><em>BlueSky &middot; magicariot.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAIDには思い当たるフシがあるな、、、</title>
-      <link>https://bsky.app/profile/did:plc:bli6vjzxivlqvkdktm5bjzvz/post/3mq7xb7sluk23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bli6vjzxivlqvkdktm5bjzvz/post/3mq7xb7sluk23</guid>
-      <pubDate>Thu, 09 Jul 2026 15:30:38 GMT</pubDate>
-      <dc:creator>Sue Cat Boy (suecatboy.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAIDには思い当たるフシがあるな、、、<br/><br/>ベスト盤もそうだったけど<br/>その後に出たアルバムの通常盤CD、<br/>それなりに結構な値段するのに<br/>歌詞ブックレットの出来があまりにもショボくてスゲエ損した気分ってか、得が無いなとシラケてしまったのがデカいな<br/>しっかり値段相応に作ってくんね〜かな〜、、そう、シラケたんだよ</p><p><em>BlueSky &middot; suecatboy.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
