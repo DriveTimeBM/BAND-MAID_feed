@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "S_kWQ36Kw8o",
+        "Title":  "Musicians REACT to Band-Maid: Fate (2018 Tokyo)",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/S_kWQ36Kw8o",
+        "Thumbnail":  "https://i.ytimg.com/vi/S_kWQ36Kw8o/hqdefault.jpg",
+        "PublishedAt":  "2026-07-25T10:00:11.0000000Z",
+        "DiscoveredAt":  "2026-07-25T10:03:01.7527105Z",
+        "Duration":  "00:10:23",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7pVwzK2vBrk",
         "Title":  "Reacting to Ready to Rock Live Performance by Band-Maid Was Electrifying",
         "Channel":  "The Smith House Reactions",
