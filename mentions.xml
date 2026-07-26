@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 08:32:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 14:25:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] They're big fans of and inspired by Band Maid, and the bands have now met and...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mrkiitrshs2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mrkiitrshs2k</guid>
+      <pubDate>Sun, 26 Jul 2026 13:30:56 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>They&#39;re big fans of and inspired by Band Maid, and the bands have now met and, it seems, are a bit of a mutual appreciation society. Collab please!</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] super cute kessoku band maid figures</title>
       <link>https://bsky.app/profile/did:plc:g3lwvg3t7w7u6xcjbc4ewfqb/post/3mrjrpukigs2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid, technically a new 3 song single, Energetic. www.youtube.com/watch?v=NpZj...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Ten acts you’ve seen, female lead singer edition:</title>
-      <link>https://bsky.app/profile/did:plc:owrpfaqulcesxacljhgptn5z/post/3mqhvslaqzc2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:owrpfaqulcesxacljhgptn5z/post/3mqhvslaqzc2q</guid>
-      <pubDate>Sun, 12 Jul 2026 19:25:51 GMT</pubDate>
-      <dc:creator>Paul Baldowski 🔜 Tabletop Scotland (Sept. 4–6) (paulbaldowski.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Ten acts you’ve seen, female lead singer edition:<br/><br/>Tori Amos<br/>Regina Spektor<br/>Marian Call<br/>Cyndi Lauper<br/><br/>Um... I haven&#39;t seen many live bands. If I could see a few more, I&#39;d add:<br/><br/>Band Maid<br/>Sleeper<br/>The Cardigans<br/>Geike Arnaert<br/>Skunk Anansie<br/>The Audience/Sophie Ellis-Bextor <br/><br/>#LiveMusic</p><p><em>BlueSky &middot; paulbaldowski.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
