@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Ze8oBIy2U0s",
+        "Title":  "Onset | Band-Maid",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/Ze8oBIy2U0s",
+        "Thumbnail":  "https://i.ytimg.com/vi/Ze8oBIy2U0s/hqdefault.jpg",
+        "PublishedAt":  "2026-07-26T01:19:18.0000000Z",
+        "DiscoveredAt":  "2026-07-26T01:25:55.9254910Z",
+        "Duration":  "00:04:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3OFiD6YKr_I",
         "Title":  "BAND-MAID WORLD TOUR 2026 札幌FactoryHallお給仕帰宅レポート  (Live Report)",
         "Channel":  "いちお盟主のつぶやき",
