@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7LpxGpNEOAI",
+        "Title":  "BAND-MAID / HATE? (Official Live Video) | Reaction",
+        "Channel":  "WaywardCulture",
+        "ChannelId":  "UCgsZeQwznikU0d6LR3Ih0jw",
+        "Url":  "https://youtu.be/7LpxGpNEOAI",
+        "Thumbnail":  "https://i.ytimg.com/vi/7LpxGpNEOAI/hqdefault.jpg",
+        "PublishedAt":  "2026-07-26T13:00:16.0000000Z",
+        "DiscoveredAt":  "2026-07-26T13:23:47.3703584Z",
+        "Duration":  "00:10:48",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "LEMrEZTtxjI",
         "Title":  "INT Reacts to BAND-MAID - About Us (LIVE) 🥹 | This Ending Gave Me GOOSEBUMPS",
         "Channel":  "Underground Hustlin'",
