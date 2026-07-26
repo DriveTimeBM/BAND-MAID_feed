@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "43vw-1LzUfw",
+        "Title":  "Flutist reacts: First full song in English?😲|BAND-MAID, The Dragon Cries",
+        "Channel":  "NittPicc",
+        "ChannelId":  "UCXj2vn4DScTLfa2Dtw3f5HA",
+        "Url":  "https://youtu.be/43vw-1LzUfw",
+        "Thumbnail":  "https://i.ytimg.com/vi/43vw-1LzUfw/hqdefault.jpg",
+        "PublishedAt":  "2026-07-26T15:00:21.0000000Z",
+        "DiscoveredAt":  "2026-07-26T15:26:52.4205824Z",
+        "Duration":  "00:25:22",
+        "ViewsAtDiscovery":  120,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9x-sOJmLCeo",
         "Title":  "THAT Guitar & Bass Duel?! | BAND-MAID - Hate? (Official Live Video) Reaction",
         "Channel":  "Matty Ice Reacts",
