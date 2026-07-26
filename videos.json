@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "9x-sOJmLCeo",
+        "Title":  "THAT Guitar & Bass Duel?! | BAND-MAID - Hate? (Official Live Video) Reaction",
+        "Channel":  "Matty Ice Reacts",
+        "ChannelId":  "UC7hBLHPm0SMPiRSk09Kn5vQ",
+        "Url":  "https://youtu.be/9x-sOJmLCeo",
+        "Thumbnail":  "https://i.ytimg.com/vi/9x-sOJmLCeo/hqdefault.jpg",
+        "PublishedAt":  "2026-07-26T13:30:15.0000000Z",
+        "DiscoveredAt":  "2026-07-26T13:54:48.4392924Z",
+        "Duration":  "00:10:05",
+        "ViewsAtDiscovery":  17,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7LpxGpNEOAI",
         "Title":  "BAND-MAID / HATE? (Official Live Video) | Reaction",
         "Channel":  "WaywardCulture",
