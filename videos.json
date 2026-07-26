@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5bwV7OnnBT4",
+        "Title":  "Band-Maid Dilly-Dally (Live) reaction - Punk Rock singer Giacomo James reactions",
+        "Channel":  "Giacomo James",
+        "ChannelId":  "UC3peTwU9kgOpD0_yM-FfeSQ",
+        "Url":  "https://youtu.be/5bwV7OnnBT4",
+        "Thumbnail":  "https://i.ytimg.com/vi/5bwV7OnnBT4/hqdefault.jpg",
+        "PublishedAt":  "2026-07-26T18:02:46.0000000Z",
+        "DiscoveredAt":  "2026-07-26T18:36:05.5293845Z",
+        "Duration":  "00:09:49",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zTAq8HNJsr0",
         "Title":  "Without Holding Back | Band-Maid | Live + Instrumental Video",
         "Channel":  "NormanatorTV",
