@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "35gaMU1siok",
+        "Title":  "Bestie | Band-Maid | Anime + Music Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/35gaMU1siok",
+        "Thumbnail":  "https://i.ytimg.com/vi/35gaMU1siok/hqdefault.jpg",
+        "PublishedAt":  "2026-07-26T22:32:49.0000000Z",
+        "DiscoveredAt":  "2026-07-26T22:42:38.3907119Z",
+        "Duration":  "00:03:44",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bzlQGyvRan8",
         "Title":  "Band Maid - Choose Me (LIVE)",
         "Channel":  "Shirin Reacts",
