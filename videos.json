@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zTAq8HNJsr0",
+        "Title":  "Without Holding Back | Band-Maid | Live + Instrumental Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/zTAq8HNJsr0",
+        "Thumbnail":  "https://i.ytimg.com/vi/zTAq8HNJsr0/hqdefault.jpg",
+        "PublishedAt":  "2026-07-26T18:02:53.0000000Z",
+        "DiscoveredAt":  "2026-07-26T18:05:09.7769794Z",
+        "Duration":  "00:03:57",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "mmGZ47BecHo",
+        "Title":  "Band-Maid Energetic reaction - Punk Rock singer reactions",
+        "Channel":  "Giacomo James",
+        "ChannelId":  "UC3peTwU9kgOpD0_yM-FfeSQ",
+        "Url":  "https://youtu.be/mmGZ47BecHo",
+        "Thumbnail":  "https://i.ytimg.com/vi/mmGZ47BecHo/hqdefault.jpg",
+        "PublishedAt":  "2026-07-26T17:41:51.0000000Z",
+        "DiscoveredAt":  "2026-07-26T18:05:08.8259474Z",
+        "Duration":  "00:09:36",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zIYo10cX0bc",
         "Title":  "BAND-MAID  Don't you tell ME (Official Music Video) FIRST REACTION | One from my PATREON",
         "Channel":  "Chilled Reactions",
