@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zIYo10cX0bc",
+        "Title":  "BAND-MAID  Don't you tell ME (Official Music Video) FIRST REACTION | One from my PATREON",
+        "Channel":  "Chilled Reactions",
+        "ChannelId":  "UC8xZRLGurUg6UTojwVHADUA",
+        "Url":  "https://youtu.be/zIYo10cX0bc",
+        "Thumbnail":  "https://i.ytimg.com/vi/zIYo10cX0bc/hqdefault.jpg",
+        "PublishedAt":  "2026-07-26T17:00:02.0000000Z",
+        "DiscoveredAt":  "2026-07-26T17:03:53.0546476Z",
+        "Duration":  "00:14:29",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "wjf0b8WCXt8",
+        "Title":  "BAND-MAID - DOMINATION, SUPER SUNSHINE live @ WORLD TOUR 2026 in FFM",
+        "Channel":  "Dimi K",
+        "ChannelId":  "UCSjQ6n5Dtc_GJj2BGKqD66w",
+        "Url":  "https://youtu.be/wjf0b8WCXt8",
+        "Thumbnail":  "https://i.ytimg.com/vi/wjf0b8WCXt8/hqdefault.jpg",
+        "PublishedAt":  "2026-07-26T16:34:05.0000000Z",
+        "DiscoveredAt":  "2026-07-26T17:03:51.9204972Z",
+        "Duration":  "00:09:19",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "43vw-1LzUfw",
         "Title":  "Flutist reacts: First full song in English?😲|BAND-MAID, The Dragon Cries",
         "Channel":  "NittPicc",
