@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 22:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:44:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bestie | Band-Maid | Karaoke Video</title>
+      <link>https://youtu.be/8AQSD7NxilQ</link>
+      <guid isPermaLink="false">yt:video:8AQSD7NxilQ</guid>
+      <pubDate>Mon, 27 Jul 2026 00:31:34 GMT</pubDate>
+      <dc:creator>NormanatorTV</dc:creator>
+      <category>NormanatorTV</category>
+      <description><![CDATA[<p><a href="https://youtu.be/8AQSD7NxilQ"><img src="https://i.ytimg.com/vi/8AQSD7NxilQ/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: NormanatorTV<br/>Duration: 00:03:44<br/>Views at discovery: 2</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/8AQSD7NxilQ/hqdefault.jpg" />
+    </item>
     <item>
       <title>Bestie | Band-Maid | Anime + Music Video</title>
       <link>https://youtu.be/35gaMU1siok</link>

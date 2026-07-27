@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8AQSD7NxilQ",
+        "Title":  "Bestie | Band-Maid | Karaoke Video",
+        "Channel":  "NormanatorTV",
+        "ChannelId":  "UCR_pPWWSux7fEDQNcXoo50g",
+        "Url":  "https://youtu.be/8AQSD7NxilQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/8AQSD7NxilQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-27T00:31:34.0000000Z",
+        "DiscoveredAt":  "2026-07-27T00:44:54.3494942Z",
+        "Duration":  "00:03:44",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "35gaMU1siok",
         "Title":  "Bestie | Band-Maid | Anime + Music Video",
         "Channel":  "NormanatorTV",
