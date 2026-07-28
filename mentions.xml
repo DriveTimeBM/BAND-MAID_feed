@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 07:52:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:40:45 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Today's music:</title>
+      <link>https://bsky.app/profile/did:plc:cbpcxfm7j4rybd7gwsuia34m/post/3mrphyeli222s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:cbpcxfm7j4rybd7gwsuia34m/post/3mrphyeli222s</guid>
+      <pubDate>Tue, 28 Jul 2026 13:05:02 GMT</pubDate>
+      <dc:creator>Fionnbharr (fionnbharr.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Today&#39;s music:<br/><br/>BAND-MAID / Present Perfect<br/><br/>youtu.be/2U9AP21jXuk<br/><br/>#rock #HardRock #japan #music #np #NowPlaying #MusicSky</p><p><em>BlueSky &middot; fionnbharr.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: BLACK HOLE</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mroqm34v7h2z</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonice ahora: https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] BAND-MAID's “ENERGETIC” Is Out Now with Official Music Video and New Comment ...</title>
-      <link>https://mastodon.social/@slrmagazine/116920830432820459</link>
-      <guid isPermaLink="true">https://mastodon.social/@slrmagazine/116920830432820459</guid>
-      <pubDate>Tue, 14 Jul 2026 23:04:48 GMT</pubDate>
-      <dc:creator>S.L.R. Magazine (slrmagazine)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>BAND-MAID&#39;s “ENERGETIC” Is Out Now with Official Music Video and New Comment from SAIKI! https://mastodon.social/tags/bandmaid @bandmaid<br/><br/>https://slrmagazine.com/2026/07/14/band-maids-energetic-is-out-now-with-official-music-video-and-new-comment-from-saiki/</p><p><em>Mastodon &middot; slrmagazine</em></p>]]></description>
     </item>
   </channel>
 </rss>
