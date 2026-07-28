@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zCVHexbEeqE",
+        "Title":  "METAL HEAD REACTS to BAND-MAID / Puzzle (Official Live Video)",
+        "Channel":  "Zenith Darksky",
+        "ChannelId":  "UCOtLfnmrnWXQHJk6MOYFBiQ",
+        "Url":  "https://youtu.be/zCVHexbEeqE",
+        "Thumbnail":  "https://i.ytimg.com/vi/zCVHexbEeqE/hqdefault.jpg",
+        "PublishedAt":  "2026-07-28T11:00:32.0000000Z",
+        "DiscoveredAt":  "2026-07-28T11:06:23.5701636Z",
+        "Duration":  "00:14:26",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bFh12nFLNEI",
         "Title":  "That Bass & Drum Intro Left Me Completely SPEECHLESS! 🤯 BAND-MAID - Toi Et Moi (Live 2026) REACTION",
         "Channel":  "RJS_Reactions",
