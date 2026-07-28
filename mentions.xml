@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 17:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 02:57:45 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Get to know your oomfs!</title>
+      <link>https://bsky.app/profile/did:plc:dkvfbiyqolzseyksocd44lt3/post/3mrod4rqdlc2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dkvfbiyqolzseyksocd44lt3/post/3mrod4rqdlc2t</guid>
+      <pubDate>Tue, 28 Jul 2026 02:05:22 GMT</pubDate>
+      <dc:creator>Louise Bootylicious (louisebigbutt.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Get to know your oomfs!<br/><br/>Name: Louise <br/>Age: 32<br/>Zodiac Sign: Gemini<br/>Bday: June 7th<br/>Fav Music Artists: Charlie XCX, Chappell Roan, Band-maid<br/>Country: Australia<br/>Dream Job: Vet<br/>Fav Color: Green<br/>Fav Season: Summer<br/>Birth Year: 1994</p><p><em>BlueSky &middot; louisebigbutt.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mrmurtj3vi2x</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: FREEDOM<br/>Album: Brand New MAID<br/>Release: 5/17/2016<br/>Music: 井口イチロウ [Iguchi, Ichiro]<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: SCRAMBLES<br/>1st Live:12/23/2015<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago Band-Maid played 23 songs at Kanagawa Kenmin Hall in Yokohama JP ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mqljoxdh5m2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mqljoxdh5m2n</guid>
-      <pubDate>Tue, 14 Jul 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago Band-Maid played 23 songs at Kanagawa Kenmin Hall in Yokohama JP on 2024/7/14. The opening song was NO GOD.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
