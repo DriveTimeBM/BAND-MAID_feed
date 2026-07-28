@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HL_e7tk2TMY",
+        "Title":  "How BAND-MAID Poured Their Determination into ‘Energetic’ Before Their ‘OKYU-JI’ Hiatus",
+        "Channel":  "Broadcast 4u",
+        "ChannelId":  "UCPN349YpPPHbG4qnNx_SvsA",
+        "Url":  "https://youtu.be/HL_e7tk2TMY",
+        "Thumbnail":  "https://i.ytimg.com/vi/HL_e7tk2TMY/hqdefault.jpg",
+        "PublishedAt":  "2026-07-28T22:18:26.0000000Z",
+        "DiscoveredAt":  "2026-07-28T22:34:47.4616278Z",
+        "Duration":  "00:01:54",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "PmXbAymwcXU",
         "Title":  "#98 BAND-MAID / from now on - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
         "Channel":  "K-Ross Reacts",
