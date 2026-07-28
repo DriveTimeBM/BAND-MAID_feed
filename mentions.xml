@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 21:33:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:44:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] pior que minha música favorita das BAND-MAID é uma baladinha</title>
+      <link>https://bsky.app/profile/did:plc:iond2kdgf4z2e6qrpzuxxwke/post/3mrqgp5sg3kp2</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:iond2kdgf4z2e6qrpzuxxwke/post/3mrqgp5sg3kp2</guid>
+      <pubDate>Tue, 28 Jul 2026 22:14:39 GMT</pubDate>
+      <dc:creator>「TeuZx」 (shinjukusyndrome.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>pior que minha m&#250;sica favorita das BAND-MAID &#233; uma baladinha </p><p><em>BlueSky &middot; shinjukusyndrome.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] How BAND-MAID Poured Their Determination into ‘Energetic’ Before Their ‘OKYU-...</title>
       <link>https://bsky.app/profile/did:plc:sobuuoeq2fx72o26vpoclgki/post/3mrqbgneuh42c</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: EverGreen<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 福井昌彦 [Fukui, Masahiko]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>福井昌彦 [Fukui, Masahiko]<br/>1st Live:2/7/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 23 songs at LIVE ROXY in Shizuoka JP on 2023/7/1...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mqo25vda452h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mqo25vda452h</guid>
-      <pubDate>Wed, 15 Jul 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at LIVE ROXY in Shizuoka JP on 2023/7/15. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
