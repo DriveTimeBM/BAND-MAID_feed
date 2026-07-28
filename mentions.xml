@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 22:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 23:46:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 何度もリピートしたくなるx邦楽x紹介</title>
+      <link>https://bsky.app/profile/did:plc:tyosqh4deq5we3pcfsg3cign/post/3mrqj376v422p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tyosqh4deq5we3pcfsg3cign/post/3mrqj376v422p</guid>
+      <pubDate>Tue, 28 Jul 2026 22:57:11 GMT</pubDate>
+      <dc:creator>みきやん (miki-yan.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>何度もリピートしたくなるx邦楽x紹介<br/><br/>BAND-MAID - about Us<br/>この楽曲はコロナ禍を意識した「応援歌」です。この詩を聴いて皆でコロナ禍を乗り切ろう。<br/><br/>#BANDMAID<br/>#aboutUs<br/>今話題のキーワード：　#小渕優子<br/><br/>mikiyan-jpop.seesaa.net/article/5114...<br/>#リピート #repeat</p><p><em>BlueSky &middot; miki-yan.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] pior que minha música favorita das BAND-MAID é uma baladinha</title>
       <link>https://bsky.app/profile/did:plc:iond2kdgf4z2e6qrpzuxxwke/post/3mrqgp5sg3kp2</link>
@@ -899,15 +908,6 @@
       <dc:creator>Coca News (cocanews.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>【インタビュー】7年ぶりヨーロッパツアーを経て「我らBAND-MAID、これまで以上にカッコ良くなっている」 | BARKS<br/><br/>https://www.wacoca.com/news/2884042/<br/><br/>【インタビュー】7年ぶりヨーロッパツアーを経て「我らBAND-MAID、これまで以上にカッコ良くなっている」 実に7年ぶりとなるヨーロッパツアーからの帰国直後にあたる6月下旬のある日、BAND-MAIDの面々に話を聞いた [...]</p><p><em>BlueSky &middot; cocanews.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: EverGreen</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqo2k7rs3x2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqo2k7rs3x2y</guid>
-      <pubDate>Wed, 15 Jul 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: EverGreen<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 福井昌彦 [Fukui, Masahiko]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>福井昌彦 [Fukui, Masahiko]<br/>1st Live:2/7/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
