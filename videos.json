@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Rc3qDsuf7kQ",
+        "Title":  "Horrorcore Rapper Listens to \"BAND-MAID / Thrill (スリル)\" Reaction Video #reaction #bandmaid",
+        "Channel":  "HatchetHead Reacts",
+        "ChannelId":  "UCqRW2_SAFhMop0QyMcAomFA",
+        "Url":  "https://youtu.be/Rc3qDsuf7kQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/Rc3qDsuf7kQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-29T18:00:33.0000000Z",
+        "DiscoveredAt":  "2026-07-29T20:09:13.3971784Z",
+        "Duration":  "00:09:27",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "RSZ6Wa0eutw",
         "Title":  "Live Requests! July 28 2026 // BAND-MAID, NEMOPHILA interview, PassCode, gamigami, and more!!1!",
         "Channel":  "Ryan Mear",
