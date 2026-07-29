@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 15:33:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 17:36:22 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] This summer it has been Band-Maid "Super Sunshine" www.youtube.com/watch?v=Lw...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mrsedmbbpc2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mrsedmbbpc2d</guid>
+      <pubDate>Wed, 29 Jul 2026 16:37:44 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>This summer it has been Band-Maid &quot;Super Sunshine&quot; www.youtube.com/watch?v=LwbX...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mrs6kcn6p62j</link>
@@ -899,15 +908,6 @@
       <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Genuinely, you gotta get them into jrock/jpop, it might work out for everyone<br/><br/>Throw on some Ado or Polkadot Stingray or Band Maid or whoever you find that you like</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Ready to Rock by BAND-MAID on the PRS Rock Lady guitar</title>
-      <link>https://bsky.app/profile/did:plc:3ha3lyaur54cu4shwsq3gci5/post/3mqqrny4qqs2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ha3lyaur54cu4shwsq3gci5/post/3mqqrny4qqs2f</guid>
-      <pubDate>Thu, 16 Jul 2026 08:05:39 GMT</pubDate>
-      <dc:creator>DOUBLE WHAMMY (doublewhammy.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Ready to Rock by BAND-MAID on the PRS Rock Lady guitar<br/>#DoubleWhammyGame #indiegame #guitar</p><p><em>BlueSky &middot; doublewhammy.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
