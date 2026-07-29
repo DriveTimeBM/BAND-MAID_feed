@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 02:19:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 02:49:55 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Supposedly they're announcing the US locations and dates for Band Maid this w...</title>
+      <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mrqssnqzqs2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mrqssnqzqs2r</guid>
+      <pubDate>Wed, 29 Jul 2026 01:51:21 GMT</pubDate>
+      <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Supposedly they&#39;re announcing the US locations and dates for Band Maid this week, I am so excited for this shit that it will almost be impossible to live up to expectations</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] October will be Band Maid, which I'm much more excited about, but that's TBD ...</title>
       <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mrqrhgamxc2r</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago<br/>Thrill MV<br/>milestone<br/>surpassed 5 million views<br/>2017/7/16<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mqpp75fmci23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mqpp75fmci23</guid>
-      <pubDate>Wed, 15 Jul 2026 21:48:54 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
