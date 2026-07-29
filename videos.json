@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-4ZUxJNvHmQ",
+        "Title":  "BAND MAID NORTH AMERICAN TOUR INFO!",
+        "Channel":  "MAID NEWS NETWORK",
+        "ChannelId":  "UCoGH2sqzaxLjcWpkzn83cZg",
+        "Url":  "https://youtu.be/-4ZUxJNvHmQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/-4ZUxJNvHmQ/hqdefault.jpg",
+        "PublishedAt":  "2026-07-29T16:09:15.0000000Z",
+        "DiscoveredAt":  "2026-07-29T17:36:15.7070490Z",
+        "Duration":  "00:25:21",
+        "ViewsAtDiscovery":  192,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4kKvhJyLuvQ",
         "Title":  "BAND-MAID – Catharsis (Acoustic Ver.) | Classical Guitarist Reacts",
         "Channel":  "Jone Ruiz Guitar",
