@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 16:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:34:06 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #BandMaid has a North American tour that doesn't have a stop in Canada, let a...</title>
+      <link>https://bsky.app/profile/did:plc:d7nv6ns6cl2bwmy2o4hmljti/post/3mruthtkmoc2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:d7nv6ns6cl2bwmy2o4hmljti/post/3mruthtkmoc2m</guid>
+      <pubDate>Thu, 30 Jul 2026 16:13:51 GMT</pubDate>
+      <dc:creator>Tabby Lavalamp, Duchess of the Oort Cloud (tabbylavalamp.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#BandMaid has a North American tour that doesn&#39;t have a stop in Canada, let alone Edmonton. 😞<br/>It is nice though to see a North American tour shut out Canada instead of Mexico for a change.</p><p><em>BlueSky &middot; tabbylavalamp.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] NEK!、BAND-MAIDの武道館公演のOAって凄いな。</title>
       <link>https://bsky.app/profile/did:plc:umlrz26kcmzx3c45beb56n7w/post/3mruqmbjsxs2o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>This always satisfies, better than an Oh Henry bar. Band-Maid &quot;Just Bring It&quot;. It shows off the range of the band and their compositional and musicians ship skills. Every song a smile.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] band-maid - choose me</title>
-      <link>https://bsky.app/profile/did:plc:rigmeyg2kinwyypyvdi6mc24/post/3mqusgprxes2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rigmeyg2kinwyypyvdi6mc24/post/3mqusgprxes2q</guid>
-      <pubDate>Fri, 17 Jul 2026 22:30:08 GMT</pubDate>
-      <dc:creator>angel 🔜 otakon (acantha.etheirys.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>band-maid - choose me<br/><br/>www.youtube.com/watch?v=MZIJ...</p><p><em>BlueSky &middot; acantha.etheirys.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
