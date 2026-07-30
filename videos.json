@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gXeGVuElM0A",
+        "Title":  "REAL EXISTENCE by BAND-MAID | Reaction",
+        "Channel":  "Detour Signal",
+        "ChannelId":  "UCVh0KqXD6YyLZgJr-I1wOBw",
+        "Url":  "https://youtu.be/gXeGVuElM0A",
+        "Thumbnail":  "https://i.ytimg.com/vi/gXeGVuElM0A/hqdefault.jpg",
+        "PublishedAt":  "2026-07-30T01:33:38.0000000Z",
+        "DiscoveredAt":  "2026-07-30T03:15:15.0785135Z",
+        "Duration":  "00:09:13",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Q6f12LIisao",
         "Title":  "THANK YOU ANTHONY!  INT Reacts to BAND-MAID - MORATORIUM (LIVE|) THIS BREAKDOWN WAS INSANE! 🤯🔥",
         "Channel":  "Underground Hustlin'",
