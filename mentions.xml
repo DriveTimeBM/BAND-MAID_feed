@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 17:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 05:49:48 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 7 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mrtnksk5ni2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mrtnksk5ni2x</guid>
+      <pubDate>Thu, 30 Jul 2026 04:55:28 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>7 years ago<br/>Rinne [Reincarnation]<br/>live debut<br/>Shouwa Joshi Daigaku, Hitomi Kinen Koudou, Tokyo, Japan<br/>2019/7/30<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] This summer it has been Band-Maid "Super Sunshine" www.youtube.com/watch?v=Lw...</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mrsedmbbpc2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Genuinely, you gotta get them into jrock/jpop, it might work out for everyone</title>
-      <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mqrdgrccpc2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mqrdgrccpc2u</guid>
-      <pubDate>Thu, 16 Jul 2026 13:23:44 GMT</pubDate>
-      <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Genuinely, you gotta get them into jrock/jpop, it might work out for everyone<br/><br/>Throw on some Ado or Polkadot Stingray or Band Maid or whoever you find that you like</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
