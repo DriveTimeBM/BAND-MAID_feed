@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 18:49:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:51:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Amazing news for one of my favourite new JRock bands. NEK! will be opening fo...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mrv5r4bkdc2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mrv5r4bkdc2z</guid>
+      <pubDate>Thu, 30 Jul 2026 19:18:00 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Amazing news for one of my favourite new JRock bands. NEK! will be opening for Band Maid at their Budokan shows later this year. I&#39;m hoping those shows will be streamed, and I&#39;d LOVE there to be a streaming ticket that includes the chance to see NEK!&#39;s set as well.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] BAND-MAID World Tour 2026 North American Tour Dates Announced! Tickets go on ...</title>
+      <link>https://bsky.app/profile/did:plc:ilpkzfoiapzmxtibnk3fz7td/post/3mrv4ruzwm22j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ilpkzfoiapzmxtibnk3fz7td/post/3mrv4ruzwm22j</guid>
+      <pubDate>Thu, 30 Jul 2026 19:00:32 GMT</pubDate>
+      <dc:creator>Outburn Magazine (outburnmag.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID World Tour 2026 North American Tour Dates Announced! Tickets go on sale soon! See all dates on OUTBURN.COM #bandmaid #ponycanyon<br/>outburn.com/news/band-ma...</p><p><em>BlueSky &middot; outburnmag.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Predictably, I'm going to recommend a Band Maid song. I'll go with an early o...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mruz4wsavc2z</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago<br/>Shake That!!<br/>live debut<br/>Shibuya Eggman, Tokyo, Japan<br/>2015/7/18<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 11 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mqvhxw3nyx2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mqvhxw3nyx2p</guid>
-      <pubDate>Sat, 18 Jul 2026 04:55:32 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>11 years ago<br/>Price of Pride<br/>live debut<br/>Shibuya Eggman, Tokyo, Japan<br/>2015/7/18<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 11 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mqvhxth2vp2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mqvhxth2vp2v</guid>
-      <pubDate>Sat, 18 Jul 2026 04:55:30 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>11 years ago<br/>Beauty and the beast<br/>live debut<br/>Shibuya Eggman, Tokyo, Japan<br/>2015/7/18<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
