@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 16:34:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 18:19:20 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] rock is a lady's modesty is a good show but more importantly it got me listen...</title>
+      <link>https://bsky.app/profile/did:plc:y4fs5fdmvsmqauq2ul6c4bln/post/3mruxgx7mx22t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:y4fs5fdmvsmqauq2ul6c4bln/post/3mruxgx7mx22t</guid>
+      <pubDate>Thu, 30 Jul 2026 17:24:56 GMT</pubDate>
+      <dc:creator>women shaped like malamar (trustworthyelf.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>rock is a lady&#39;s modesty is a good show but more importantly it got me listening to band-maid and mudy on the sakuban</p><p><em>BlueSky &middot; trustworthyelf.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] #BandMaid has a North American tour that doesn't have a stop in Canada, let a...</title>
       <link>https://bsky.app/profile/did:plc:d7nv6ns6cl2bwmy2o4hmljti/post/3mruthtkmoc2m</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonice ahora: https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] This always satisfies, better than an Oh Henry bar. Band-Maid "Just Bring It"...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mqv6qjznpk2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mqv6qjznpk2n</guid>
-      <pubDate>Sat, 18 Jul 2026 02:10:23 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>This always satisfies, better than an Oh Henry bar. Band-Maid &quot;Just Bring It&quot;. It shows off the range of the band and their compositional and musicians ship skills. Every song a smile.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
