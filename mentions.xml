@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 14:31:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 15:01:59 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Oh shit it's decision time</title>
+      <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mrum5ld26s25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mrum5ld26s25</guid>
+      <pubDate>Thu, 30 Jul 2026 14:02:51 GMT</pubDate>
+      <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Oh shit it&#39;s decision time</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID日本武道館2DAYS</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mruinoevr52m</link>
@@ -899,15 +908,6 @@
       <dc:creator>秋葉 (rkc-akiba.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>おぼろっくにBAND-MAID？！<br/>oborock.com/artist/</p><p><em>BlueSky &middot; rkc-akiba.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: DICE</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqt3hx7ncj2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mqt3hx7ncj2x</guid>
-      <pubDate>Fri, 17 Jul 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: DICE<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:3/9/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
