@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "VW4uMnfDIug",
+        "Title":  "BAND-MAID - FREEDOM (Official Live Video) | REACTION",
+        "Channel":  "Lestat Reax",
+        "ChannelId":  "UC45t3GiSIMH-IJkK9plYRvQ",
+        "Url":  "https://youtu.be/VW4uMnfDIug",
+        "Thumbnail":  "https://i.ytimg.com/vi/VW4uMnfDIug/hqdefault.jpg",
+        "PublishedAt":  "2026-07-30T20:30:03.0000000Z",
+        "DiscoveredAt":  "2026-07-30T20:52:54.1972758Z",
+        "Duration":  "00:07:44",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "33cUpyn4O-M",
         "Title":  "THANK YOU PETER! 🙏 INT REACTS TO BAND-MAID – WARNING! (OMV) |  | THE GAP GOES DEEP! 😎🔥",
         "Channel":  "Underground Hustlin'",
