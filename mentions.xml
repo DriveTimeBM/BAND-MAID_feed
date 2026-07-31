@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 07:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:06:27 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID have released details of the North American leg of their 2026 World...</title>
+      <link>https://bsky.app/profile/did:plc:fzgpyghzk5bdnxnxrpjkv5ck/post/3mrxku2iu4u2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fzgpyghzk5bdnxnxrpjkv5ck/post/3mrxku2iu4u2v</guid>
+      <pubDate>Fri, 31 Jul 2026 18:17:36 GMT</pubDate>
+      <dc:creator>J-Pop Project News (jpopprojectnews.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID have released details of the North American leg of their 2026 World Tour. The group posted earlier that &quot;part of our tour schedule has been announced and tickets have gone on sale earlier than we had intended&quot; upsetting some fans. bandmaid.tokyo/conte...</p><p><em>BlueSky &middot; jpopprojectnews.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: DICE</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mrwbyyk7sf2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at CLUB CITTA&#39; in Kawasaki JP on 2023/7/19. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 13 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mqxygqbhcw2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mqxygqbhcw2s</guid>
-      <pubDate>Sun, 19 Jul 2026 04:55:30 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>13 years ago<br/>Official Twitter<br/>[milestone]<br/>started<br/>2013/7/19<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
