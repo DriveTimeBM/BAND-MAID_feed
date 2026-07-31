@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "C4A3TKDXA6g",
+        "Title":  "FIRST TIME REACTING TO JAPANESE GIRL BAND \"BAND-MAID\" | I WAS SO SURPRISED ON HOW GOOD THEY ARE!!!",
+        "Channel":  "Cherman Vlogs",
+        "ChannelId":  "UCvEgHm5bWB8Rvla_Bxl83WA",
+        "Url":  "https://youtu.be/C4A3TKDXA6g",
+        "Thumbnail":  "https://i.ytimg.com/vi/C4A3TKDXA6g/hqdefault.jpg",
+        "PublishedAt":  "2026-07-31T13:10:31.0000000Z",
+        "DiscoveredAt":  "2026-07-31T13:24:43.7547468Z",
+        "Duration":  "00:10:27",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "GDmuBgUwEaU",
+        "Title":  "React to BAND-MAID - CAGE",
+        "Channel":  "We Watched That 2",
+        "ChannelId":  "UCmDpLB_c3Dt9hBTQ2DUhQ5w",
+        "Url":  "https://youtu.be/GDmuBgUwEaU",
+        "Thumbnail":  "https://i.ytimg.com/vi/GDmuBgUwEaU/hqdefault.jpg",
+        "PublishedAt":  "2026-07-31T13:00:07.0000000Z",
+        "DiscoveredAt":  "2026-07-31T13:24:42.8698803Z",
+        "Duration":  "00:06:44",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0UHRYbAAL8c",
         "Title":  "BAND-MAID - 'Choose Me' | This Song Goes HARD!",
         "Channel":  "Jeanette Music",
