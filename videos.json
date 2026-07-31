@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "PeAklapw-As",
+        "Title":  "REAL EXISTENCE by BAND-MAID (Live) | Reaction",
+        "Channel":  "Detour Signal",
+        "ChannelId":  "UCVh0KqXD6YyLZgJr-I1wOBw",
+        "Url":  "https://youtu.be/PeAklapw-As",
+        "Thumbnail":  "https://i.ytimg.com/vi/PeAklapw-As/hqdefault.jpg",
+        "PublishedAt":  "2026-07-31T00:33:01.0000000Z",
+        "DiscoveredAt":  "2026-07-31T02:53:24.0907347Z",
+        "Duration":  "00:08:59",
+        "ViewsAtDiscovery":  77,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VW4uMnfDIug",
         "Title":  "BAND-MAID - FREEDOM (Official Live Video) | REACTION",
         "Channel":  "Lestat Reax",
