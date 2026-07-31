@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 02:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 03:54:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mrvxwpnvrj2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mrvxwpnvrj2l</guid>
+      <pubDate>Fri, 31 Jul 2026 03:06:25 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mrvobza5cm25</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago Band-Maid played 18 songs at shibuya eggman in Tokyo JP on 2015/7/18. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played 7 songs at KYOTO MOJO in Kyoto JP on 2016/7/18....</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mqvlkovwqc2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mqvlkovwqc2s</guid>
-      <pubDate>Sat, 18 Jul 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played 7 songs at KYOTO MOJO in Kyoto JP on 2016/7/18. The opening song was alone.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
