@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 15:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 16:57:44 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I pre-ordered the BAND MAID world tour shirts and got the fan club exclusive ...</title>
+      <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mrztngzn7227</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mrztngzn7227</guid>
+      <pubDate>Sat, 01 Aug 2026 16:00:18 GMT</pubDate>
+      <dc:creator>Chris『ScaryYandere』@ Art and Merch grind again (scaryyandere.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I pre-ordered the BAND MAID world tour shirts and got the fan club exclusive beer mug. Mainly got the shirts in-case they sell out at the concert or if I don&#39;t get tickets lol<br/><br/>Hoping I got the right sizes, measurements in cm only gave &quot;length&quot; and &quot;width&quot; and I&#39;m like, &quot;of what???&quot;</p><p><em>BlueSky &middot; scaryyandere.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Today's colourful and immature graphic band shirt. I just ordered 5 new shirt...</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mrzlmbcexk2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Spirit!!<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago Band-Maid played 19 songs at shibuya eggman in Tokyo JP on 2018/7...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mr2miik33x2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mr2miik33x2p</guid>
-      <pubDate>Mon, 20 Jul 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago Band-Maid played 19 songs at shibuya eggman in Tokyo JP on 2018/7/20. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
