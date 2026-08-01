@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vi_-Rjly0a4",
+        "Title":  "BAND-MAID - Play live @ WORLD TOUR 2026 in FFM",
+        "Channel":  "Dimi K",
+        "ChannelId":  "UCSjQ6n5Dtc_GJj2BGKqD66w",
+        "Url":  "https://youtu.be/vi_-Rjly0a4",
+        "Thumbnail":  "https://i.ytimg.com/vi/vi_-Rjly0a4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-01T15:00:26.0000000Z",
+        "DiscoveredAt":  "2026-08-01T15:25:55.3511651Z",
+        "Duration":  "00:03:30",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "s_wet6uF5mE",
         "Title":  "An Evening With Band-Maid Top 10 voted for by the fans..",
         "Channel":  "Cake & Rabbit FM",
