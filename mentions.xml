@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 08:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 10:14:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #ministry</title>
+      <link>https://bsky.app/profile/did:plc:n3piy665vr2pkzdyr4cbta63/post/3mrz6hdqop22v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:n3piy665vr2pkzdyr4cbta63/post/3mrz6hdqop22v</guid>
+      <pubDate>Sat, 01 Aug 2026 09:40:58 GMT</pubDate>
+      <dc:creator>BatDance (batbance.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#ministry<br/>#kmfdm<br/>#eyehategod<br/>#electricwizard<br/>#sistersofmercy<br/>#thegazzete<br/>#emilieautumn <br/>#deathbyromy<br/>#acidbath<br/>#jackoffjill<br/>#kyuss <br/>#chelseawolfe<br/>#bongzilla<br/>#siouxieandthebanshees<br/>#violentvira<br/>#direngrey<br/>#bandmaid<br/>#tool<br/>#cristiandeath<br/>#bauhaus<br/>#nailbomb <br/>#lambofgod</p><p><em>BlueSky &middot; batbance.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] So, is it the first Band-Maid song about loneliness and weakness of a girl in...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mryshsqs472d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago<br/>start over<br/>live debut<br/>Shibuya Eggman, Tokyo, Japan<br/>2018/7/20<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I was going to recommend Band-Maid, but they’re not underbooked or unknown in...</title>
-      <link>https://bsky.app/profile/did:plc:yzfy4argfh7pfohfrxup2rgr/post/3mqzoyjpeis2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:yzfy4argfh7pfohfrxup2rgr/post/3mqzoyjpeis2v</guid>
-      <pubDate>Sun, 19 Jul 2026 21:11:50 GMT</pubDate>
-      <dc:creator>MegaDaffy (megadaffy.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I was going to recommend Band-Maid, but they’re not underbooked or unknown in my opinion. Sounds like they have the overseas attention.</p><p><em>BlueSky &middot; megadaffy.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
