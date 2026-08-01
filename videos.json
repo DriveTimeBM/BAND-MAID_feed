@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Pu8h1qYcMMI",
+        "Title":  "ENERGETIC by BAND-MAID | Reaction",
+        "Channel":  "Detour Signal",
+        "ChannelId":  "UCVh0KqXD6YyLZgJr-I1wOBw",
+        "Url":  "https://youtu.be/Pu8h1qYcMMI",
+        "Thumbnail":  "https://i.ytimg.com/vi/Pu8h1qYcMMI/hqdefault.jpg",
+        "PublishedAt":  "2026-08-01T02:06:37.0000000Z",
+        "DiscoveredAt":  "2026-08-01T02:15:14.1961854Z",
+        "Duration":  "00:06:44",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "AjOen8dJIO8",
         "Title":  "ANTHONY CAME THRU AGAIN! INT Reacts to BAND-MAID - DOMINATION (LIVE) | The ULTIMATE Live Anthem! 🤯🔥",
         "Channel":  "Underground Hustlin'",
