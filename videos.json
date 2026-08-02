@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_eAsyPQ5vnw",
+        "Title":  "Don't You Tell ME by BAND-MAID (Live) | Reaction",
+        "Channel":  "Detour Signal",
+        "ChannelId":  "UCVh0KqXD6YyLZgJr-I1wOBw",
+        "Url":  "https://youtu.be/_eAsyPQ5vnw",
+        "Thumbnail":  "https://i.ytimg.com/vi/_eAsyPQ5vnw/hqdefault.jpg",
+        "PublishedAt":  "2026-08-02T22:42:17.0000000Z",
+        "DiscoveredAt":  "2026-08-02T23:00:53.2656791Z",
+        "Duration":  "00:08:05",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MeAtycbVrmM",
         "Title":  "Kanami is FUNNIER Than I Expected 😭 | BAND-MAID Docuseries Reaction | Ohrenje",
         "Channel":  "Overthinking with Dennis",
