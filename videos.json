@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FaovGikJjOY",
+        "Title":  "BAND-MAID Reaction | Choose Me (First Time Listening) 🤘",
+        "Channel":  "Nia Reacts",
+        "ChannelId":  "UCmn6WTi6i7QZLP7I-T5iGXA",
+        "Url":  "https://youtu.be/FaovGikJjOY",
+        "Thumbnail":  "https://i.ytimg.com/vi/FaovGikJjOY/hqdefault.jpg",
+        "PublishedAt":  "2026-08-02T21:12:39.0000000Z",
+        "DiscoveredAt":  "2026-08-02T21:28:57.3248372Z",
+        "Duration":  "00:10:00",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "QsNtuIuG3i8",
+        "Title":  "BAND-MAID News / 2026-08-02",
+        "Channel":  "Ohrenje",
+        "ChannelId":  "UCuuctf2ICSjbkuLHv87Uc8A",
+        "Url":  "https://youtu.be/QsNtuIuG3i8",
+        "Thumbnail":  "https://i.ytimg.com/vi/QsNtuIuG3i8/hqdefault.jpg",
+        "PublishedAt":  "2026-08-02T21:00:21.0000000Z",
+        "DiscoveredAt":  "2026-08-02T21:28:55.8817503Z",
+        "Duration":  "00:10:33",
+        "ViewsAtDiscovery":  160,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "g1RT5zSYHjw",
         "Title":  "Zen | BAND-MAID- | Zenshu | (OSU!)",
         "Channel":  "m41coL_09",
