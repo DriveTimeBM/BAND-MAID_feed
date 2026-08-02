@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "OwcAgdNMAkE",
+        "Title":  "BAND-MAID \"Mirage\" Acoustic REACTION | A Completely Different Side of Japan's Rock Queens!",
+        "Channel":  "Rock and Reactions",
+        "ChannelId":  "UCqAy-EERjiQYNBVIOj3MY7A",
+        "Url":  "https://youtu.be/OwcAgdNMAkE",
+        "Thumbnail":  "https://i.ytimg.com/vi/OwcAgdNMAkE/hqdefault.jpg",
+        "PublishedAt":  "2026-08-02T17:00:37.0000000Z",
+        "DiscoveredAt":  "2026-08-02T17:24:21.2770162Z",
+        "Duration":  "00:16:00",
+        "ViewsAtDiscovery":  19,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "h7N1BwQHFSo",
         "Title":  "Band-Maid x The Warning: 'Show Them' First Reaction | Epic Collaboration",
         "Channel":  "Melodic Logic",
