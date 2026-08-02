@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "oXRZNWZdWIE",
+        "Title":  "Doing a live to discuss The Warning, Band-Maid",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/oXRZNWZdWIE",
+        "Thumbnail":  "https://i.ytimg.com/vi/oXRZNWZdWIE/hqdefault.jpg",
+        "PublishedAt":  "2026-08-02T23:03:26.0000000Z",
+        "DiscoveredAt":  "2026-08-02T23:31:27.4420276Z",
+        "Duration":  "00:22:39",
+        "ViewsAtDiscovery":  183,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_eAsyPQ5vnw",
         "Title":  "Don't You Tell ME by BAND-MAID (Live) | Reaction",
         "Channel":  "Detour Signal",
