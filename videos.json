@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "h7N1BwQHFSo",
+        "Title":  "Band-Maid x The Warning: 'Show Them' First Reaction | Epic Collaboration",
+        "Channel":  "Melodic Logic",
+        "ChannelId":  "UCBt8z4eHlqhrysdHgRSmiVA",
+        "Url":  "https://youtu.be/h7N1BwQHFSo",
+        "Thumbnail":  "https://i.ytimg.com/vi/h7N1BwQHFSo/hqdefault.jpg",
+        "PublishedAt":  "2026-08-02T16:00:06.0000000Z",
+        "DiscoveredAt":  "2026-08-02T16:23:26.2640918Z",
+        "Duration":  "00:07:04",
+        "ViewsAtDiscovery":  96,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "x09ns1iiBUU",
         "Title":  "Flutist reacts: One hit wonder?🕵🏼‍♀️|BAND-MAID, Flying High",
         "Channel":  "NittPicc",
