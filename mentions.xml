@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 11:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 20:27:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I want to go to Chicago to see Band-Maid with my friends !! I really enjoyed ...</title>
+      <link>https://bsky.app/profile/did:plc:xfulhlg3bf7d6isof62seoz6/post/3ms4plwxves2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xfulhlg3bf7d6isof62seoz6/post/3ms4plwxves2d</guid>
+      <pubDate>Sun, 02 Aug 2026 19:25:52 GMT</pubDate>
+      <dc:creator>Juliatchi 🌵 (shabon.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I want to go to Chicago to see Band-Maid with my friends !! I really enjoyed seeing them in NYC 4 years ago, I want to see them again. I love them so much.</p><p><em>BlueSky &middot; shabon.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3ms3s7wzx342y</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: EverGreen<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 福井昌彦 [Fukui, Masahiko]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>福井昌彦 [Fukui, Masahiko]<br/>1st Live:2/7/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 15 songs at clubasia in Tokyo JP on 2014/7/21. ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mr54xif4gj2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mr54xif4gj2t</guid>
-      <pubDate>Tue, 21 Jul 2026 05:59:46 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 15 songs at clubasia in Tokyo JP on 2014/7/21. The opening song was .</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
