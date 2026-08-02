@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 16:57:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 00:04:13 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'm #now_listening_to "Summer Drive" by BAND-MAID®</title>
+      <link>https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3ms2kb7i4vs2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3ms2kb7i4vs2o</guid>
+      <pubDate>Sat, 01 Aug 2026 22:45:03 GMT</pubDate>
+      <dc:creator>métal vert foncé (darkgreenmetal.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;m #now_listening_to &quot;Summer Drive&quot; by BAND-MAID&#174;</p><p><em>BlueSky &middot; darkgreenmetal.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I pre-ordered the BAND MAID world tour shirts and got the fan club exclusive ...</title>
       <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mrztngzn7227</link>
@@ -899,15 +908,6 @@
       <dc:creator>黒坂カヲル (96kaworu.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>新しいPCスピーカー届くまでにBAND-MAIDのアルバムは全部取り込んでおきたい</p><p><em>BlueSky &middot; 96kaworu.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Spirit!!</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mr2muu67uz2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mr2muu67uz2a</guid>
-      <pubDate>Mon, 20 Jul 2026 06:06:37 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Spirit!!<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
