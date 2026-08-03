@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yZDdMcsdDvY",
+        "Title":  "BAND-MAID - Lock and Load live @ WORLD TOUR 2026 in FFM",
+        "Channel":  "Dimi K",
+        "ChannelId":  "UCSjQ6n5Dtc_GJj2BGKqD66w",
+        "Url":  "https://youtu.be/yZDdMcsdDvY",
+        "Thumbnail":  "https://i.ytimg.com/vi/yZDdMcsdDvY/hqdefault.jpg",
+        "PublishedAt":  "2026-08-03T15:00:22.0000000Z",
+        "DiscoveredAt":  "2026-08-03T15:14:19.3483822Z",
+        "Duration":  "00:03:25",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "clMPRpMRJuo",
         "Title":  "BAND-MAID - NUMBER SHOT 2026 Recap Movie",
         "Channel":  "Nin puzzle",
