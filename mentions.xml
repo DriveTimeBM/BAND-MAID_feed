@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 07:55:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 10:07:52 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] サマソニはChilli Beans、Travis Japan、HALCALI、BAND-MAID、LE SSERAFIM、L'Arc～en～Cielかな。...</title>
+      <link>https://bsky.app/profile/did:plc:znol5m2abqys5suh5qfx2d7k/post/3ms6ahuto4s2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:znol5m2abqys5suh5qfx2d7k/post/3ms6ahuto4s2b</guid>
+      <pubDate>Mon, 03 Aug 2026 10:00:29 GMT</pubDate>
+      <dc:creator>パパパパパパ (pingpingrock.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>サマソニはChilli Beans、Travis Japan、HALCALI、BAND-MAID、LE SSERAFIM、L&#39;Arc～en～Cielかな。そのあとJamiroquaiの終わりを観る余裕はなさそう</p><p><em>BlueSky &middot; pingpingrock.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Kanami: I was pretty conscious of newness when I wrote it. It’s based on the ...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3ms5tfnlgym2l</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>My previous favourite song to introduce people to Band-Maid was the live version of Domination, but more recently I&#39;ve updated that to the live version of Shambles, because they are just so good live. www.youtube.com/watch?v=RmFY...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mrdfexgtgx2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mrdfexgtgx2p</guid>
-      <pubDate>Thu, 23 Jul 2026 17:46:26 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
