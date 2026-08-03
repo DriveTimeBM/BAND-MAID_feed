@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-3gLRDkYo7M",
+        "Title":  "クルッポMAID IN NAGOYA お給仕 at CIRCUS NAGOYA 2027.7 25 [BAND-MAID]cover  DOMINATION",
+        "Channel":  "noriee30",
+        "ChannelId":  "UCKmDzuK5D4oHao1z_Q5pSyA",
+        "Url":  "https://youtu.be/-3gLRDkYo7M",
+        "Thumbnail":  "https://i.ytimg.com/vi/-3gLRDkYo7M/hqdefault.jpg",
+        "PublishedAt":  "2026-08-03T22:00:13.0000000Z",
+        "DiscoveredAt":  "2026-08-03T22:25:29.2199325Z",
+        "Duration":  "00:06:10",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "EZEmAVHDIzE",
         "Title":  "BAND-MAID - Warning! | Reaction | At AOS216 Reacts Drive-In",
         "Channel":  "AOS216Reacts",
