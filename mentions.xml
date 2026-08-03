@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 20:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 00:02:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID’s Just Bring it, World Domination and Conqueror all coming out in c...</title>
+      <link>https://bsky.app/profile/did:plc:snjxuajunpwjybbvzxp3fdks/post/3ms55376ij22q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:snjxuajunpwjybbvzxp3fdks/post/3ms55376ij22q</guid>
+      <pubDate>Sun, 02 Aug 2026 23:27:02 GMT</pubDate>
+      <dc:creator>Moth (theabyssofwhoa.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID’s Just Bring it, World Domination and Conqueror all coming out in consecutive years is so unfair.</p><p><em>BlueSky &middot; theabyssofwhoa.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I want to go to Chicago to see Band-Maid with my friends !! I really enjoyed ...</title>
       <link>https://bsky.app/profile/did:plc:xfulhlg3bf7d6isof62seoz6/post/3ms4plwxves2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonice ahora: https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: EverGreen</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mr55doc4mw2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mr55doc4mw2m</guid>
-      <pubDate>Tue, 21 Jul 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: EverGreen<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 福井昌彦 [Fukui, Masahiko]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>福井昌彦 [Fukui, Masahiko]<br/>1st Live:2/7/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
