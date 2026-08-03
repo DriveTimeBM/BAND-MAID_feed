@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "EZEmAVHDIzE",
+        "Title":  "BAND-MAID - Warning! | Reaction | At AOS216 Reacts Drive-In",
+        "Channel":  "AOS216Reacts",
+        "ChannelId":  "UCCFnEPEW0wpRZlccuYiSmBg",
+        "Url":  "https://youtu.be/EZEmAVHDIzE",
+        "Thumbnail":  "https://i.ytimg.com/vi/EZEmAVHDIzE/hqdefault.jpg",
+        "PublishedAt":  "2026-08-03T21:00:14.0000000Z",
+        "DiscoveredAt":  "2026-08-03T21:24:03.8777935Z",
+        "Duration":  "00:12:27",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ajMQmg2-Trs",
+        "Title":  "BAND-MAID - Warning! | Let's Talk About It | At AOS216 Reacts Drive-In",
+        "Channel":  "AOS216Reacts",
+        "ChannelId":  "UCCFnEPEW0wpRZlccuYiSmBg",
+        "Url":  "https://youtu.be/ajMQmg2-Trs",
+        "Thumbnail":  "https://i.ytimg.com/vi/ajMQmg2-Trs/hqdefault.jpg",
+        "PublishedAt":  "2026-08-03T21:00:02.0000000Z",
+        "DiscoveredAt":  "2026-08-03T21:24:03.1656953Z",
+        "Duration":  "00:13:37",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "fOY-7Xc8DiY",
         "Title":  "INT REACTS I BAND-MAID \"NO GOD\" (LIVE v STUDIO) | Anthony Sent Me Deep In the GAP... Did It Deliver?",
         "Channel":  "Underground Hustlin'",
