@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "om0mC3HjNV0",
+        "Title":  "Band Maid - Toi Et Moi (Live)",
+        "Channel":  "Shirin Reacts",
+        "ChannelId":  "UCKl8gsoikwaVY8MwERSy8yg",
+        "Url":  "https://youtu.be/om0mC3HjNV0",
+        "Thumbnail":  "https://i.ytimg.com/vi/om0mC3HjNV0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-03T07:00:21.0000000Z",
+        "DiscoveredAt":  "2026-08-03T07:47:44.3765649Z",
+        "Duration":  "00:04:04",
+        "ViewsAtDiscovery":  36,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "nFKwmqZ7dXg",
+        "Title":  "【NUMBER SHOT2026】 BAND-MAID、クラップ合戦で会場一体! メイド姿から放たれる激重ロックに観客完全ノックアウト",
+        "Channel":  "japan news ",
+        "ChannelId":  "UCEo8zKbJz7KEf2cx3d6xsYg",
+        "Url":  "https://youtu.be/nFKwmqZ7dXg",
+        "Thumbnail":  "https://i.ytimg.com/vi/nFKwmqZ7dXg/hqdefault.jpg",
+        "PublishedAt":  "2026-08-03T04:39:56.0000000Z",
+        "DiscoveredAt":  "2026-08-03T07:47:43.6851407Z",
+        "Duration":  "00:01:31",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "p9GSgXF7Se4",
         "Title":  "【涙の告白】BAND-MAID・MISAがメンバーへ捧げた“愛と感謝”のラブソング──涙なしでは聴けない感動の一曲！",
         "Channel":  "Jp Music News",
