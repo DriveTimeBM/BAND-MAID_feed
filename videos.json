@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_lEJDeBBovc",
+        "Title":  "BAND MAID - YOLO Kanami Piano Version - Dave M",
+        "Channel":  "Dave M. Channel",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/_lEJDeBBovc",
+        "Thumbnail":  "https://i.ytimg.com/vi/_lEJDeBBovc/hqdefault.jpg",
+        "PublishedAt":  "2026-08-03T16:52:56.0000000Z",
+        "DiscoveredAt":  "2026-08-03T17:17:16.8708578Z",
+        "Duration":  "00:06:46",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yZDdMcsdDvY",
         "Title":  "BAND-MAID - Lock and Load live @ WORLD TOUR 2026 in FFM",
         "Channel":  "Dimi K",
