@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 10:07:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:44:59 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Once again going to go see #BAND-MAID live, im so excited!</title>
+      <link>https://bsky.app/profile/did:plc:mgzrjfnehlkquy5tgr3twq7h/post/3ms6qbcpf6s2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mgzrjfnehlkquy5tgr3twq7h/post/3ms6qbcpf6s2r</guid>
+      <pubDate>Mon, 03 Aug 2026 14:43:08 GMT</pubDate>
+      <dc:creator>Hannah (miqomiqomi.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Once again going to go see #BAND-MAID live, im so excited!</p><p><em>BlueSky &middot; miqomiqomi.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] サマソニはChilli Beans、Travis Japan、HALCALI、BAND-MAID、LE SSERAFIM、L'Arc～en～Cielかな。...</title>
       <link>https://bsky.app/profile/did:plc:znol5m2abqys5suh5qfx2d7k/post/3ms6ahuto4s2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>13 years ago<br/>** 1st Live Event **<br/>live debut<br/>Deepa, Otsuka<br/>2013/7/24<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] My previous favourite song to introduce people to Band-Maid was the live vers...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mrefwvu55s2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mrefwvu55s2f</guid>
-      <pubDate>Fri, 24 Jul 2026 03:29:09 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>My previous favourite song to introduce people to Band-Maid was the live version of Domination, but more recently I&#39;ve updated that to the live version of Shambles, because they are just so good live. www.youtube.com/watch?v=RmFY...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
