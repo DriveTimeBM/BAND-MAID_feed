@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 15:44:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 18:18:27 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I got the BAND-MAID tickets (x4), aaaaAAAAAAAAaaa,</title>
+      <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3ms6yxzd6a227</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3ms6yxzd6a227</guid>
+      <pubDate>Mon, 03 Aug 2026 17:19:00 GMT</pubDate>
+      <dc:creator>Chris『ScaryYandere』@ Art and Merch grind again (scaryyandere.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I got the BAND-MAID tickets (x4), aaaaAAAAAAAAaaa,<br/><br/>there are reasons to live</p><p><em>BlueSky &middot; scaryyandere.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Once again going to go see #BAND-MAID live, im so excited!</title>
       <link>https://bsky.app/profile/did:plc:mgzrjfnehlkquy5tgr3twq7h/post/3ms6qbcpf6s2r</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played at club KNOT in Toyohashi JP on 2016/7/24. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 13 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mrekre566o2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mrekre566o2p</guid>
-      <pubDate>Fri, 24 Jul 2026 04:55:30 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>13 years ago<br/>** 1st Live Event **<br/>live debut<br/>Deepa, Otsuka<br/>2013/7/24<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
