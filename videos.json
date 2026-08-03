@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "1-3O9dPNfPM",
+        "Title":  "BAND MAID MONDAY! \"Before Yesterday\" Reaction + US Tour Talk! #bandmaid #livereaction",
+        "Channel":  "WavesAcrossTheWater",
+        "ChannelId":  "UC8VWDy9uGVbgrBXwJlRwESQ",
+        "Url":  "https://youtu.be/1-3O9dPNfPM",
+        "Thumbnail":  "https://i.ytimg.com/vi/1-3O9dPNfPM/hqdefault.jpg",
+        "PublishedAt":  "2026-08-03T14:00:39.0000000Z",
+        "DiscoveredAt":  "2026-08-03T14:13:07.2712456Z",
+        "Duration":  "00:16:36",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NKU_QrcU5nk",
         "Title":  "BAND MAID - YOLO (Official Music Video) - Dave M",
         "Channel":  "Dave M. Channel",
