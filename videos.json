@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NKU_QrcU5nk",
+        "Title":  "BAND MAID - YOLO (Official Music Video) - Dave M",
+        "Channel":  "Dave M. Channel",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/NKU_QrcU5nk",
+        "Thumbnail":  "https://i.ytimg.com/vi/NKU_QrcU5nk/hqdefault.jpg",
+        "PublishedAt":  "2026-08-03T13:34:45.0000000Z",
+        "DiscoveredAt":  "2026-08-03T13:42:31.4454736Z",
+        "Duration":  "00:14:00",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Ug8nG2GREos",
+        "Title":  "BAND-MAID WORLD TOUR 2026 熊本B.9V1小鳩スペシャルお給仕帰宅レポート  (Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/Ug8nG2GREos",
+        "Thumbnail":  "https://i.ytimg.com/vi/Ug8nG2GREos/hqdefault.jpg",
+        "PublishedAt":  "2026-08-03T13:15:16.0000000Z",
+        "DiscoveredAt":  "2026-08-03T13:42:30.5972786Z",
+        "Duration":  "01:08:49",
+        "ViewsAtDiscovery":  33,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rn8UGWuBFz4",
         "Title":  "Triple Reaction! Puzzle - BAND-MAID",
         "Channel":  "Rockin' with Matt",
