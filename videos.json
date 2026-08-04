@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "olf7vKZfjpQ",
+        "Title":  "This Is NOT A Ballad!  BAND-MAID - 'ENERGETIC' Reaction",
+        "Channel":  "CoachCastTV",
+        "ChannelId":  "UCrztTuQpwd8wNh__4Mu0AEQ",
+        "Url":  "https://youtu.be/olf7vKZfjpQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/olf7vKZfjpQ/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T13:00:16.0000000Z",
+        "DiscoveredAt":  "2026-08-04T13:12:13.1501920Z",
+        "Duration":  "00:08:27",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NxTNWmJFSy8",
         "Title":  "BAND-MAID【Magie】cover                     クルッポMAID IN NAGOYA お給仕 at CIRCUS NAGOYA 2027.7 25 ",
         "Channel":  "noriee30",
