@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "k6HgC95Q4Vo",
+        "Title":  "#99 BAND-MAID / Balanced - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/k6HgC95Q4Vo",
+        "Thumbnail":  "https://i.ytimg.com/vi/k6HgC95Q4Vo/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T20:00:06.0000000Z",
+        "DiscoveredAt":  "2026-08-04T20:30:08.6112255Z",
+        "Duration":  "00:12:05",
+        "ViewsAtDiscovery":  41,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gL1KUFdGBLs",
         "Title":  "BAND-MAID: Zen reaction",
         "Channel":  "NeuroticVowsMusic",
