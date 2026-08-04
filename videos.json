@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5UQgRUkE2mE",
+        "Title":  "BAND-MAID Ready To Rock cover ft @jenainofficial (including GP TAB) 「ロックは淑女の嗜みでして」オープニングテーマソング",
+        "Channel":  "ARUSPEX",
+        "ChannelId":  "UCIiOTf4pj6OW5cyZtEgsojg",
+        "Url":  "https://youtu.be/5UQgRUkE2mE",
+        "Thumbnail":  "https://i.ytimg.com/vi/5UQgRUkE2mE/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T15:06:31.0000000Z",
+        "DiscoveredAt":  "2026-08-04T15:14:09.9467885Z",
+        "Duration":  "00:03:29",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "1VHElEHEz4M",
+        "Title":  "Headbangers Haven: Reviewing Band-Maid's \"Choose Me\" and Next Steps",
+        "Channel":  "The Heart of Geek",
+        "ChannelId":  "UCHcSOD-JBM2mZEx_xNGZ-vQ",
+        "Url":  "https://youtu.be/1VHElEHEz4M",
+        "Thumbnail":  "https://i.ytimg.com/vi/1VHElEHEz4M/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T15:00:34.0000000Z",
+        "DiscoveredAt":  "2026-08-04T15:14:09.2588845Z",
+        "Duration":  "00:10:51",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "olf7vKZfjpQ",
         "Title":  "This Is NOT A Ballad!  BAND-MAID - 'ENERGETIC' Reaction",
         "Channel":  "CoachCastTV",
