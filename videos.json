@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2Ogy96sTBg0",
+        "Title":  "Don't You Tell ME by BAND-MAID | Music Video Reaction",
+        "Channel":  "Detour Signal",
+        "ChannelId":  "UCVh0KqXD6YyLZgJr-I1wOBw",
+        "Url":  "https://youtu.be/2Ogy96sTBg0",
+        "Thumbnail":  "https://i.ytimg.com/vi/2Ogy96sTBg0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T01:02:24.0000000Z",
+        "DiscoveredAt":  "2026-08-04T01:33:25.3279275Z",
+        "Duration":  "00:06:13",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mQjsRdaRDi4",
         "Title":  "Pork Chop's Music Reaction: BAND-MAID - Daydreaming",
         "Channel":  "Kollin \"Pork Chop\"",
