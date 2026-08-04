@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hG2ldoT4ftQ",
+        "Title":  "BAND-MAID【you.】cover  クルッポMAID IN NAGOYA お給仕 at CIRCUS NAGOYA 2026.7.25",
+        "Channel":  "noriee30",
+        "ChannelId":  "UCKmDzuK5D4oHao1z_Q5pSyA",
+        "Url":  "https://youtu.be/hG2ldoT4ftQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/hG2ldoT4ftQ/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T22:00:27.0000000Z",
+        "DiscoveredAt":  "2026-08-04T22:02:02.7917317Z",
+        "Duration":  "00:03:51",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Gfy7skFIixc",
         "Title":  "INT REACTS to BAND-MAID – SHAMBLES | DAREK BROUGHT ME BACK INTO THE GAP! 🤯🔥 | THANK YOU LAWN RANGER!",
         "Channel":  "Underground Hustlin'",
