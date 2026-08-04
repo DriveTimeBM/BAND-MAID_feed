@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "H1Xg3mAp-qE",
+        "Title":  "DOMINATION by BAND-MAID | Reaction",
+        "Channel":  "Detour Signal",
+        "ChannelId":  "UCVh0KqXD6YyLZgJr-I1wOBw",
+        "Url":  "https://youtu.be/H1Xg3mAp-qE",
+        "Thumbnail":  "https://i.ytimg.com/vi/H1Xg3mAp-qE/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T01:44:34.0000000Z",
+        "DiscoveredAt":  "2026-08-04T02:04:07.4641342Z",
+        "Duration":  "00:07:03",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2Ogy96sTBg0",
         "Title":  "Don't You Tell ME by BAND-MAID | Music Video Reaction",
         "Channel":  "Detour Signal",
