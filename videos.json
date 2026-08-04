@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Hd6oko9QgR4",
+        "Title":  "This Is BAND-MAID’s Best Kept Secret?! | Matchless GUM Reaction",
+        "Channel":  "RJS_Reactions",
+        "ChannelId":  "UCfOmuwwHkq0wbruIT0FdLiQ",
+        "Url":  "https://youtu.be/Hd6oko9QgR4",
+        "Thumbnail":  "https://i.ytimg.com/vi/Hd6oko9QgR4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T10:30:09.0000000Z",
+        "DiscoveredAt":  "2026-08-04T10:36:57.0724971Z",
+        "Duration":  "00:08:17",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YomRXPBUz9s",
         "Title":  "Band-Maid Album Appreciation \"Don't You Tell Me\"(OMV)(first time reaction)",
         "Channel":  "vintage sol",
