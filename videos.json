@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "E2sXYw5On4c",
+        "Title":  "Grim Reacts | BAND-MAID - Thrill | First Time Reaction",
+        "Channel":  "Grim Reactions",
+        "ChannelId":  "UCr1qe4LNHZrxTtZkUSHBcDg",
+        "Url":  "https://youtu.be/E2sXYw5On4c",
+        "Thumbnail":  "https://i.ytimg.com/vi/E2sXYw5On4c/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T23:00:20.0000000Z",
+        "DiscoveredAt":  "2026-08-04T23:03:22.6807326Z",
+        "Duration":  "00:09:34",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6ghH7DvtBMM",
         "Title":  "Hillbilly Reacts! - BAND-MAID / DOMINATION (Official Live Video)",
         "Channel":  "The Skeptical Hillbilly",
