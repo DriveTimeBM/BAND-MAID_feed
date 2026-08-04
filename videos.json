@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NxTNWmJFSy8",
+        "Title":  "BAND-MAID【Magie】cover                     クルッポMAID IN NAGOYA お給仕 at CIRCUS NAGOYA 2027.7 25 ",
+        "Channel":  "noriee30",
+        "ChannelId":  "UCKmDzuK5D4oHao1z_Q5pSyA",
+        "Url":  "https://youtu.be/NxTNWmJFSy8",
+        "Thumbnail":  "https://i.ytimg.com/vi/NxTNWmJFSy8/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T11:12:04.0000000Z",
+        "DiscoveredAt":  "2026-08-04T11:38:18.8986186Z",
+        "Duration":  "00:03:08",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Hd6oko9QgR4",
         "Title":  "This Is BAND-MAID’s Best Kept Secret?! | Matchless GUM Reaction",
         "Channel":  "RJS_Reactions",
