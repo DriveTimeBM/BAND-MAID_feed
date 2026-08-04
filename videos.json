@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0rJWobNH2qc",
+        "Title":  "Finishing the EP!! Reacting to Days by Band-Maid!",
+        "Channel":  "Adventura",
+        "ChannelId":  "UCkJkuW8Cqs0Ceifr24KrTmA",
+        "Url":  "https://youtu.be/0rJWobNH2qc",
+        "Thumbnail":  "https://i.ytimg.com/vi/0rJWobNH2qc/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T07:00:20.0000000Z",
+        "DiscoveredAt":  "2026-08-04T07:47:31.4616444Z",
+        "Duration":  "00:12:31",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "LxjNmxTOI2o",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) REACTION",
+        "Channel":  "The Ivy Vibe",
+        "ChannelId":  "UCon-nEqPxmXO6pXUU_S5WCg",
+        "Url":  "https://youtu.be/LxjNmxTOI2o",
+        "Thumbnail":  "https://i.ytimg.com/vi/LxjNmxTOI2o/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T06:43:30.0000000Z",
+        "DiscoveredAt":  "2026-08-04T07:47:30.7304525Z",
+        "Duration":  "00:06:52",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4npPDcZZFjg",
         "Title":  "INT REACTS to BAND-MAID – UNLEASH 🤯 STRIPPED DOWN... STILL TOOK ME TO THE GAP! | THANK YOU ANTHONY!",
         "Channel":  "Underground Hustlin'",
