@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dD62tr2i7mg",
+        "Title":  "Daydreaming by BAND-MAiD",
+        "Channel":  "Detour Signal",
+        "ChannelId":  "UCVh0KqXD6YyLZgJr-I1wOBw",
+        "Url":  "https://youtu.be/dD62tr2i7mg",
+        "Thumbnail":  "https://i.ytimg.com/vi/dD62tr2i7mg/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T02:25:32.0000000Z",
+        "DiscoveredAt":  "2026-08-04T02:34:52.7088164Z",
+        "Duration":  "00:06:46",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "H1Xg3mAp-qE",
         "Title":  "DOMINATION by BAND-MAID | Reaction",
         "Channel":  "Detour Signal",
