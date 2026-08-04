@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gL1KUFdGBLs",
+        "Title":  "BAND-MAID: Zen reaction",
+        "Channel":  "NeuroticVowsMusic",
+        "ChannelId":  "UCTnGd-ZCNO-qqlfVRWxdaRg",
+        "Url":  "https://youtu.be/gL1KUFdGBLs",
+        "Thumbnail":  "https://i.ytimg.com/vi/gL1KUFdGBLs/hqdefault.jpg",
+        "PublishedAt":  "2026-08-04T19:45:13.0000000Z",
+        "DiscoveredAt":  "2026-08-04T19:46:16.0227779Z",
+        "Duration":  "00:08:55",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DE7erXis7ZU",
         "Title":  "BAND MAID: 'Hate?' First Reaction | Live Concert Absolutely Rockin'",
         "Channel":  "Melodic Logic",
