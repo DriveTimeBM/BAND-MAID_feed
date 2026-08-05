@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "F-tMc2ethH4",
+        "Title":  "BAND-MAID – Toi et moi (Official Live Video) [REACTION] | THEY JUST BLEW MY MIND 🤯🔥",
+        "Channel":  "LoccdWolf Reacts",
+        "ChannelId":  "UCc_C2ZXORZXOG9iVWgGWZLQ",
+        "Url":  "https://youtu.be/F-tMc2ethH4",
+        "Thumbnail":  "https://i.ytimg.com/vi/F-tMc2ethH4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-05T16:00:28.0000000Z",
+        "DiscoveredAt":  "2026-08-05T16:06:53.6256409Z",
+        "Duration":  "00:08:18",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "HzlVyrseCXE",
         "Title":  "BAND-MAID - Days live @ WORLD TOUR 2026 in FFM",
         "Channel":  "Dimi K",
