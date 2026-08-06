@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "l8xTPMnDgoA",
+        "Title":  "BAND-MAID【Don't you tell ME】cover クルッポMAID IN NAGOYA お給仕 at CIRCUS NAGOYA 2026.7.25",
+        "Channel":  "noriee30",
+        "ChannelId":  "UCKmDzuK5D4oHao1z_Q5pSyA",
+        "Url":  "https://youtu.be/l8xTPMnDgoA",
+        "Thumbnail":  "https://i.ytimg.com/vi/l8xTPMnDgoA/hqdefault.jpg",
+        "PublishedAt":  "2026-08-06T09:00:11.0000000Z",
+        "DiscoveredAt":  "2026-08-06T09:23:41.0725803Z",
+        "Duration":  "00:03:32",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "UJS1GouPm-c",
         "Title":  "Band Maid - Freedom",
         "Channel":  "Shirin Reacts",
