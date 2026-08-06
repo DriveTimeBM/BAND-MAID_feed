@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "UJS1GouPm-c",
+        "Title":  "Band Maid - Freedom",
+        "Channel":  "Shirin Reacts",
+        "ChannelId":  "UCKl8gsoikwaVY8MwERSy8yg",
+        "Url":  "https://youtu.be/UJS1GouPm-c",
+        "Thumbnail":  "https://i.ytimg.com/vi/UJS1GouPm-c/hqdefault.jpg",
+        "PublishedAt":  "2026-08-06T07:00:06.0000000Z",
+        "DiscoveredAt":  "2026-08-06T07:48:38.7758324Z",
+        "Duration":  "00:05:21",
+        "ViewsAtDiscovery":  42,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wWyYQdVLB74",
         "Title":  "my discord loving BAND-MAID (Ready to Rock, Catharsis Acoustic Ver.)",
         "Channel":  "kpx ATOM & Eve ",
