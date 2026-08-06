@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vHh7vQR4Cl4",
+        "Title":  "SPECTACULAR! 2026大港開唱現場 | BAND-MAID：Ready to Rock",
+        "Channel":  "Chadeo",
+        "ChannelId":  "UCjLSPiLvfo-1EDEQamZ87KQ",
+        "Url":  "https://youtu.be/vHh7vQR4Cl4",
+        "Thumbnail":  "https://i.ytimg.com/vi/vHh7vQR4Cl4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-06T13:00:09.0000000Z",
+        "DiscoveredAt":  "2026-08-06T13:02:04.6714537Z",
+        "Duration":  "00:05:40",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "hGpiQL0wc2U",
+        "Title":  "REACTING TO STUDIO RECORDING AND LIVE PERFORMANCE OF \"BAND-MAID\" THERE'S AN EXTENDED VERSION!!!!!",
+        "Channel":  "Cherman Vlogs",
+        "ChannelId":  "UCvEgHm5bWB8Rvla_Bxl83WA",
+        "Url":  "https://youtu.be/hGpiQL0wc2U",
+        "Thumbnail":  "https://i.ytimg.com/vi/hGpiQL0wc2U/hqdefault.jpg",
+        "PublishedAt":  "2026-08-06T12:53:04.0000000Z",
+        "DiscoveredAt":  "2026-08-06T13:02:03.9466772Z",
+        "Duration":  "00:13:38",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "l8xTPMnDgoA",
         "Title":  "BAND-MAID【Don't you tell ME】cover クルッポMAID IN NAGOYA お給仕 at CIRCUS NAGOYA 2026.7.25",
         "Channel":  "noriee30",
