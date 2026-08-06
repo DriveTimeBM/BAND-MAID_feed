@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 12:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 17:06:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] Got the latest single CD by Band-Maid - Energetic and Hanabie today.</title>
+      <link>https://social.tchncs.de/@dodger/117049638952067614</link>
+      <guid isPermaLink="true">https://social.tchncs.de/@dodger/117049638952067614</guid>
+      <pubDate>Thu, 06 Aug 2026 17:02:30 GMT</pubDate>
+      <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>Got the latest single CD by Band-Maid - Energetic and Hanabie today.<br/> <br/>In addition Band-Maids 2024 album Epic Narratives.<br/><br/> 🤘 🇯🇵 👍 <br/><br/>https://social.tchncs.de/tags/jrock https://social.tchncs.de/tags/music https://social.tchncs.de/tags/hanabie https://social.tchncs.de/tags/bandmaid https://social.tchncs.de/tags/BuyToOwn</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] https://mastodon.social/tags/ScribesAndMakers 6. Tell us about a drummer whos...</title>
       <link>https://mastodon.social/@ChrisJagged/117048249974591124</link>
@@ -899,15 +908,6 @@
       <dc:creator>domino (stopmrdomino.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>super cute kessoku band maid figures</p><p><em>BlueSky &middot; stopmrdomino.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] KANAMI: I wondered what it would be like if I wrote for [rhythm guitarist MIK...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mrjpoks4tb2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mrjpoks4tb2u</guid>
-      <pubDate>Sun, 26 Jul 2026 06:06:44 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>KANAMI: I wondered what it would be like if I wrote for [rhythm guitarist MIKU’s side-project and alter ego] cluppo, but in the end, it ended up sounding very typical of BAND-MAID. I think MIKU can shine both as a guitarist and a vocalist in this one. I wanted to lay down a guitar solo with her, so </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
