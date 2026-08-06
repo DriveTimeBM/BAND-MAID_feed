@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 08:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 12:00:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://mastodon.social/tags/ScribesAndMakers 6. Tell us about a drummer whos...</title>
+      <link>https://mastodon.social/@ChrisJagged/117048249974591124</link>
+      <guid isPermaLink="true">https://mastodon.social/@ChrisJagged/117048249974591124</guid>
+      <pubDate>Thu, 06 Aug 2026 11:09:16 GMT</pubDate>
+      <dc:creator>Chris Jags (ChrisJagged)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://mastodon.social/tags/ScribesAndMakers 6. Tell us about a drummer whose work you appreciate.<br/><br/>As a Canadian, the obvious answer is Neil Peart of Rush, but I think I&#39;d go with Akane Hirose from Band-Maid as my favorite.<br/><br/>https://mastodon.social/tags/bandMaid https://mastodon.social/tags/music</p><p><em>Mastodon &middot; ChrisJagged</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: After Life</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3msfesg3uff2v</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>KANAMI: I wondered what it would be like if I wrote for [rhythm guitarist MIKU’s side-project and alter ego] cluppo, but in the end, it ended up sounding very typical of BAND-MAID. I think MIKU can shine both as a guitarist and a vocalist in this one. I wanted to lay down a guitar solo with her, so </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Brightest Star</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mrjpok4gou2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mrjpok4gou2p</guid>
-      <pubDate>Sun, 26 Jul 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Brightest Star<br/>Album: Epic Narratives<br/>Release: 9/24/2024<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:9/22/2023<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
