@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "wWyYQdVLB74",
+        "Title":  "my discord loving BAND-MAID (Ready to Rock, Catharsis Acoustic Ver.)",
+        "Channel":  "kpx ATOM & Eve ",
+        "ChannelId":  "UCcMYiMFFcCrXRpHzmV_BCWA",
+        "Url":  "https://youtu.be/wWyYQdVLB74",
+        "Thumbnail":  "https://i.ytimg.com/vi/wWyYQdVLB74/hqdefault.jpg",
+        "PublishedAt":  "2026-08-06T03:35:51.0000000Z",
+        "DiscoveredAt":  "2026-08-06T03:46:02.1888962Z",
+        "Duration":  "00:17:48",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wW0_n_jNWSQ",
         "Title":  "BAND-MAID - Osaka Gigantic Festival 2026 Recap Movie",
         "Channel":  "Nin puzzle",
