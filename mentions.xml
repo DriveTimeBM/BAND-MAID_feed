@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 17:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:44:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Woohoo Gold Level VIP ticket to see Band Maid</title>
+      <link>https://bsky.app/profile/did:plc:dx2enwtdcpf62zr3pobetmx3/post/3msh5uhuco22u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dx2enwtdcpf62zr3pobetmx3/post/3msh5uhuco22u</guid>
+      <pubDate>Thu, 06 Aug 2026 23:07:48 GMT</pubDate>
+      <dc:creator>clashctyrkr.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Woohoo Gold Level VIP ticket to see Band Maid</p><p><em>BlueSky &middot; clashctyrkr.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] Got the latest single CD by Band-Maid - Energetic and Hanabie today.</title>
       <link>https://social.tchncs.de/@dodger/117049638952067614</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>They&#39;re big fans of and inspired by Band Maid, and the bands have now met and, it seems, are a bit of a mutual appreciation society. Collab please!</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] super cute kessoku band maid figures</title>
-      <link>https://bsky.app/profile/did:plc:g3lwvg3t7w7u6xcjbc4ewfqb/post/3mrjrpukigs2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:g3lwvg3t7w7u6xcjbc4ewfqb/post/3mrjrpukigs2q</guid>
-      <pubDate>Sun, 26 Jul 2026 06:43:16 GMT</pubDate>
-      <dc:creator>domino (stopmrdomino.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>super cute kessoku band maid figures</p><p><em>BlueSky &middot; stopmrdomino.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
