@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 23:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 02:48:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mshi2qbewk2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mshi2qbewk2b</guid>
+      <pubDate>Fri, 07 Aug 2026 02:10:15 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Woohoo Gold Level VIP ticket to see Band Maid</title>
       <link>https://bsky.app/profile/did:plc:dx2enwtdcpf62zr3pobetmx3/post/3msh5uhuco22u</link>
@@ -899,15 +908,6 @@
       <dc:creator>Face Drawn from Memory (geariod.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>They&#39;re on the same label as Band Maid now.</p><p><em>BlueSky &middot; geariod.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] They're big fans of and inspired by Band Maid, and the bands have now met and...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mrkiitrshs2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mrkiitrshs2k</guid>
-      <pubDate>Sun, 26 Jul 2026 13:30:56 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>They&#39;re big fans of and inspired by Band Maid, and the bands have now met and, it seems, are a bit of a mutual appreciation society. Collab please!</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
