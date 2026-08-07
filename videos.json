@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ib9TWUctR6M",
+        "Title":  "BAND-MAID – Real Existence | FIRST REACTION! You Guys Turned Me Into a FAN! 🤘🔥",
+        "Channel":  "RJS_Reactions",
+        "ChannelId":  "UCfOmuwwHkq0wbruIT0FdLiQ",
+        "Url":  "https://youtu.be/ib9TWUctR6M",
+        "Thumbnail":  "https://i.ytimg.com/vi/ib9TWUctR6M/hqdefault.jpg",
+        "PublishedAt":  "2026-08-07T22:49:11.0000000Z",
+        "DiscoveredAt":  "2026-08-07T23:15:17.8652409Z",
+        "Duration":  "00:08:47",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3h-1CGMra5M",
         "Title":  "BAND-MAID のライブ行きたいけどどうしようって言ってるだけです",
         "Channel":  "ひまひま星人",
