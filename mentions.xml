@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 14:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 16:31:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] rly getting into BAND-MAID this morning</title>
+      <link>https://bsky.app/profile/did:plc:afc4bsuxdssyo637ol27z5jd/post/3msiv2tp4t226</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:afc4bsuxdssyo637ol27z5jd/post/3msiv2tp4t226</guid>
+      <pubDate>Fri, 07 Aug 2026 15:35:37 GMT</pubDate>
+      <dc:creator>void 🦇 (goldenrequiems.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>rly getting into BAND-MAID this morning</p><p><em>BlueSky &middot; goldenrequiems.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] no (though I agree, it is peak)</title>
       <link>https://bsky.app/profile/did:plc:snukww26zzlegi24yedheb43/post/3msio4iauys25</link>
@@ -899,15 +908,6 @@
       <dc:creator>Louise Bootylicious (louisebigbutt.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Get to know your oomfs!<br/><br/>Name: Louise <br/>Age: 32<br/>Zodiac Sign: Gemini<br/>Bday: June 7th<br/>Fav Music Artists: Charlie XCX, Chappell Roan, Band-maid<br/>Country: Australia<br/>Dream Job: Vet<br/>Fav Color: Green<br/>Fav Season: Summer<br/>Birth Year: 1994</p><p><em>BlueSky &middot; louisebigbutt.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mrmurtj3vi2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mrmurtj3vi2x</guid>
-      <pubDate>Mon, 27 Jul 2026 12:16:02 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Zen de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
