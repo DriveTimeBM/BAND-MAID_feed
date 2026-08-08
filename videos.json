@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HACVbEFnzbc",
+        "Title":  "BAND-MAID – TAMAYA! | FIRST TIME REACTION | Japanese Rock Hits Different! | Ginger T Reacts",
+        "Channel":  "Ginger T Reacts",
+        "ChannelId":  "UCZWOGhnKe5lh_KnpNaWRtQg",
+        "Url":  "https://youtu.be/HACVbEFnzbc",
+        "Thumbnail":  "https://i.ytimg.com/vi/HACVbEFnzbc/hqdefault.jpg",
+        "PublishedAt":  "2026-08-08T19:00:16.0000000Z",
+        "DiscoveredAt":  "2026-08-08T19:20:38.2257360Z",
+        "Duration":  "00:16:39",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "A80IylvPJUo",
         "Title":  "BAND-MAID  ENERGETIC (Official Music Video) FIRST REACTION",
         "Channel":  "Chilled Reactions",
