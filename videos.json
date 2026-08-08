@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "EN3i88o7Lw4",
+        "Title":  "This BAND-MAID Special Music Video is FULL OF CONTRASTS! - Animator react to \"What is Justice?\" MV",
+        "Channel":  "Kaeppster's Corner",
+        "ChannelId":  "UCbsXWBzw0jiatsxbGH3ycDg",
+        "Url":  "https://youtu.be/EN3i88o7Lw4",
+        "Thumbnail":  "https://i.ytimg.com/vi/EN3i88o7Lw4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-08T07:00:07.0000000Z",
+        "DiscoveredAt":  "2026-08-08T07:47:37.2835302Z",
+        "Duration":  "00:11:15",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "19t8rPtQrc4",
         "Title":  "BAND-MAID WORLD TOUR 2026 ZEPP FUKUOKAお給仕帰宅レポート  (Live Report)",
         "Channel":  "いちお盟主のつぶやき",
