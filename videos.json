@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Uh2vdwP-kZY",
+        "Title":  "🇯🇵 BAND-MAID –「Daydreaming」| アメリカ人ドラマー初見リアクション 😭",
+        "Channel":  "Rea Reacts JP",
+        "ChannelId":  "UCJw7aqL3uWdG3lO7cmr8jcw",
+        "Url":  "https://youtu.be/Uh2vdwP-kZY",
+        "Thumbnail":  "https://i.ytimg.com/vi/Uh2vdwP-kZY/hqdefault.jpg",
+        "PublishedAt":  "2026-08-08T09:00:08.0000000Z",
+        "DiscoveredAt":  "2026-08-08T10:00:44.3275812Z",
+        "Duration":  "00:12:28",
+        "ViewsAtDiscovery":  133,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "uwsA-BALrpc",
+        "Title":  "BAND-MAID 【Unleash!!!!!】cover クルッポMAID IN NAGOYA お給仕 at CIRCUS NAGOYA",
+        "Channel":  "noriee30",
+        "ChannelId":  "UCKmDzuK5D4oHao1z_Q5pSyA",
+        "Url":  "https://youtu.be/uwsA-BALrpc",
+        "Thumbnail":  "https://i.ytimg.com/vi/uwsA-BALrpc/hqdefault.jpg",
+        "PublishedAt":  "2026-08-08T09:00:03.0000000Z",
+        "DiscoveredAt":  "2026-08-08T10:00:39.9589347Z",
+        "Duration":  "00:03:19",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "EN3i88o7Lw4",
         "Title":  "This BAND-MAID Special Music Video is FULL OF CONTRASTS! - Animator react to \"What is Justice?\" MV",
         "Channel":  "Kaeppster's Corner",
