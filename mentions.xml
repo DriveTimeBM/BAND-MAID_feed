@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 07 Aug 2026 23:46:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 04:24:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3msk56q6ypp2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3msk56q6ypp2n</guid>
+      <pubDate>Sat, 08 Aug 2026 03:33:37 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] como pode band maid ser TÃO BOM</title>
       <link>https://bsky.app/profile/did:plc:3obfeb6j7g7isgyqisfndjrl/post/3msjn7fqgws2c</link>
@@ -899,15 +908,6 @@
       <dc:creator>Fionnbharr (fionnbharr.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Today&#39;s music:<br/><br/>BAND-MAID / Present Perfect<br/><br/>youtu.be/2U9AP21jXuk<br/><br/>#rock #HardRock #japan #music #np #NowPlaying #MusicSky</p><p><em>BlueSky &middot; fionnbharr.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: BLACK HOLE</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mroqm34v7h2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mroqm34v7h2z</guid>
-      <pubDate>Tue, 28 Jul 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: BLACK HOLE<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
