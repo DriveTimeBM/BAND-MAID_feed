@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "A80IylvPJUo",
+        "Title":  "BAND-MAID  ENERGETIC (Official Music Video) FIRST REACTION",
+        "Channel":  "Chilled Reactions",
+        "ChannelId":  "UC8xZRLGurUg6UTojwVHADUA",
+        "Url":  "https://youtu.be/A80IylvPJUo",
+        "Thumbnail":  "https://i.ytimg.com/vi/A80IylvPJUo/hqdefault.jpg",
+        "PublishedAt":  "2026-08-08T17:00:06.0000000Z",
+        "DiscoveredAt":  "2026-08-08T17:15:18.8811793Z",
+        "Duration":  "00:08:45",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "l7Gj7n6S5G0",
         "Title":  "Band-Maid Documentary - Akane | Reaction | What's not to love?🥁😍🦍",
         "Channel":  "Battoosh & Nonna Watchlist",
