@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 08:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 21:27:20 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Giovanni - Band Maid</title>
+      <link>https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3mslwj6xqv22z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3mslwj6xqv22z</guid>
+      <pubDate>Sat, 08 Aug 2026 20:39:32 GMT</pubDate>
+      <dc:creator>dazedandconfused51 (dazedandconfused51.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Giovanni - Band Maid<br/>www.youtube.com/watch?v=0JZk...</p><p><em>BlueSky &middot; dazedandconfused51.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] my mind in my daily life to Kanami. The riff of CHEMICAL REACTION was one of ...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mskfqekelu2m</link>
@@ -899,15 +908,6 @@
       <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>October will be Band Maid, which I&#39;m much more excited about, but that&#39;s TBD date and city</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mrqrdr2qqc2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mrqrdr2qqc2l</guid>
-      <pubDate>Wed, 29 Jul 2026 01:25:07 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
