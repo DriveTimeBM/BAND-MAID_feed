@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "OEbEzdwH7I0",
+        "Title":  "Show Them - The Warning & Band-Maid (Lofi Version)",
+        "Channel":  "The Warning by Mark Seven",
+        "ChannelId":  "UCKloUDZUHZQ-zvfX2jPHBgw",
+        "Url":  "https://youtu.be/OEbEzdwH7I0",
+        "Thumbnail":  "https://i.ytimg.com/vi/OEbEzdwH7I0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-08T22:41:09.0000000Z",
+        "DiscoveredAt":  "2026-08-08T23:02:15.0550816Z",
+        "Duration":  "00:05:22",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "HACVbEFnzbc",
         "Title":  "BAND-MAID – TAMAYA! | FIRST TIME REACTION | Japanese Rock Hits Different! | Ginger T Reacts",
         "Channel":  "Ginger T Reacts",
