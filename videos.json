@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "K4FUjOOxpEU",
+        "Title":  "BAND-MAID with The Warning - SHOW THEM | REACTION",
+        "Channel":  "Lestat Reax",
+        "ChannelId":  "UC45t3GiSIMH-IJkK9plYRvQ",
+        "Url":  "https://youtu.be/K4FUjOOxpEU",
+        "Thumbnail":  "https://i.ytimg.com/vi/K4FUjOOxpEU/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T18:00:16.0000000Z",
+        "DiscoveredAt":  "2026-08-09T18:11:26.3754233Z",
+        "Duration":  "00:07:02",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "rTMwfJJFnTU",
+        "Title":  "Music Student First Listen To BAND-MAID (Reaction&Review)",
+        "Channel":  "mystic music",
+        "ChannelId":  "UCaI3JqATw10AUK879ngpofQ",
+        "Url":  "https://youtu.be/rTMwfJJFnTU",
+        "Thumbnail":  "https://i.ytimg.com/vi/rTMwfJJFnTU/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T18:00:03.0000000Z",
+        "DiscoveredAt":  "2026-08-09T18:11:25.3759235Z",
+        "Duration":  "00:16:16",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "iq1XtYfIpqQ",
         "Title":  "BAND-MAID - Freedom (live) - I got so excited I did a weird Howard Dean yell",
         "Channel":  "Wesley Makes Things",
