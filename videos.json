@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "TRPa3qSm-is",
+        "Title":  "🔥 INT REACTS I BAND-MAID – “Wonderland” LIVE | LATIN VIBES?! ANOTHER CURVEBALL! (THANX ANTHONY) 🇯🇵🔥",
+        "Channel":  "Underground Hustlin'",
+        "ChannelId":  "UCr7h__vd8nVUX02BkplGxKw",
+        "Url":  "https://youtu.be/TRPa3qSm-is",
+        "Thumbnail":  "https://i.ytimg.com/vi/TRPa3qSm-is/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T15:43:22.0000000Z",
+        "DiscoveredAt":  "2026-08-09T15:45:51.4529927Z",
+        "Duration":  "00:18:01",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "LpXd7r7wFGU",
+        "Title":  "BAND-MAID - Bubble Reaction | I Didn't Expect THIS! 🔥",
+        "Channel":  "Nia Reacts",
+        "ChannelId":  "UCmn6WTi6i7QZLP7I-T5iGXA",
+        "Url":  "https://youtu.be/LpXd7r7wFGU",
+        "Thumbnail":  "https://i.ytimg.com/vi/LpXd7r7wFGU/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T15:38:10.0000000Z",
+        "DiscoveredAt":  "2026-08-09T15:45:50.7269511Z",
+        "Duration":  "00:07:20",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Kt4YP5FvIN8",
         "Title":  "BAND-MAID - Ready to Rock, NO GOD live @ WOLD TOUR 2026 in FFM",
         "Channel":  "Dimi K",
