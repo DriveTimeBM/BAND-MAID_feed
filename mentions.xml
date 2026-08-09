@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 05:56:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:57:44 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: BLACK HOLE</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3msmw77mc4y2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3msmw77mc4y2b</guid>
+      <pubDate>Sun, 09 Aug 2026 06:06:35 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: BLACK HOLE<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 3 years ago Band-Maid played 19 songs at The Depot in Salt Lake City US on 20...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3msmvsvzmwz26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3msmvsvzmwz26</guid>
+      <pubDate>Sun, 09 Aug 2026 05:59:43 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>3 years ago Band-Maid played 19 songs at The Depot in Salt Lake City US on 2023/8/9. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 4 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3msms7ywuhi2l</link>
@@ -890,24 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>This summer it has been Band-Maid &quot;Super Sunshine&quot; www.youtube.com/watch?v=LwbX...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mrs6kcn6p62j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mrs6kcn6p62j</guid>
-      <pubDate>Wed, 29 Jul 2026 14:54:06 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] alone</title>
-      <link>https://bsky.app/profile/did:plc:tkvqkqcl2ktsob27vo4kgg7w/post/3mrs47jqy4m32</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tkvqkqcl2ktsob27vo4kgg7w/post/3mrs47jqy4m32</guid>
-      <pubDate>Wed, 29 Jul 2026 14:12:07 GMT</pubDate>
-      <dc:creator>弓ム日月 (kiroahi.mstdn.jp.ap.brid.gy)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>alone<br/>BAND-MAID - Brand New MAID<br/>#NowPlaying</p><p><em>BlueSky &middot; kiroahi.mstdn.jp.ap.brid.gy</em></p>]]></description>
     </item>
   </channel>
 </rss>
