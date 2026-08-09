@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5MCJkb9ay8k",
+        "Title":  "NEVER SURRENDER - BAND MAID ",
+        "Channel":  "TsukiWave",
+        "ChannelId":  "UCFAlryXWUOjUYSExKfQO4uA",
+        "Url":  "https://youtu.be/5MCJkb9ay8k",
+        "Thumbnail":  "https://i.ytimg.com/vi/5MCJkb9ay8k/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T06:00:14.0000000Z",
+        "DiscoveredAt":  "2026-08-09T06:27:09.8200683Z",
+        "Duration":  "00:05:28",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "tIAbVG_Tm00",
+        "Title":  "BAND-MAID – ENERGETIC (Official Music Video) [REACTION] | THEY JUST KEEP GETTING BETTER 🤯🔥",
+        "Channel":  "LoccdWolf Reacts",
+        "ChannelId":  "UCc_C2ZXORZXOG9iVWgGWZLQ",
+        "Url":  "https://youtu.be/tIAbVG_Tm00",
+        "Thumbnail":  "https://i.ytimg.com/vi/tIAbVG_Tm00/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T06:00:00.0000000Z",
+        "DiscoveredAt":  "2026-08-09T06:27:08.3280946Z",
+        "Duration":  "00:09:55",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ikrwb8WCnWI",
         "Title":  "INT REACTS TO BAND-MAID – Secret My Lips 🤫 | BAND-MAID CAN’T BE PUT IN A BOX! | Sponsored by Anthony",
         "Channel":  "Underground Hustlin'",
