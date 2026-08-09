@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xXvoS5LFrPk",
+        "Title":  "Reacting to Band-Maid - Energetic MAIDS IN COSTUMES PLAYING THIS IS SURREAL!",
+        "Channel":  "Alan Eternal",
+        "ChannelId":  "UCW3gFs3qFiZOdAI90rkpLDQ",
+        "Url":  "https://youtu.be/xXvoS5LFrPk",
+        "Thumbnail":  "https://i.ytimg.com/vi/xXvoS5LFrPk/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T18:39:05.0000000Z",
+        "DiscoveredAt":  "2026-08-09T18:42:09.9225652Z",
+        "Duration":  "00:05:19",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "lwNex-C0IXM",
+        "Title":  "1st time reaction for Christian  Day Dreaming  by BAND MAID",
+        "Channel":  "Joseph Rocco",
+        "ChannelId":  "UCSKmOZS1SARKI9jTt6GSIcg",
+        "Url":  "https://youtu.be/lwNex-C0IXM",
+        "Thumbnail":  "https://i.ytimg.com/vi/lwNex-C0IXM/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T18:01:01.0000000Z",
+        "DiscoveredAt":  "2026-08-09T18:42:09.1729358Z",
+        "Duration":  "00:08:41",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "K4FUjOOxpEU",
         "Title":  "BAND-MAID with The Warning - SHOW THEM | REACTION",
         "Channel":  "Lestat Reax",
