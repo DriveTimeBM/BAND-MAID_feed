@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 04:25:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 05:56:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 4 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3msms7ywuhi2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3msms7ywuhi2l</guid>
+      <pubDate>Sun, 09 Aug 2026 04:55:28 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>4 years ago<br/>Unleash!!!!! <br/>MV<br/>released<br/>2022/8/9<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 10 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3msms7y2f4a2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3msms7y2f4a2t</guid>
+      <pubDate>Sun, 09 Aug 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>10 years ago<br/>REAL EXISTENCE MV<br/>milestone<br/>surpassed 3 million views<br/>2016/8/9<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] “BAND-MAID WORLD TOUR 2026” (North America:US and Mexico, Ticket Is Still Ava...</title>
       <link>https://bsky.app/profile/did:plc:g4hg2zgkv5dyqr35bmjeekc6/post/3msmncaxkhq2e</link>
@@ -890,24 +908,6 @@
       <dc:creator>弓ム日月 (kiroahi.mstdn.jp.ap.brid.gy)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>alone<br/>BAND-MAID - Brand New MAID<br/>#NowPlaying</p><p><em>BlueSky &middot; kiroahi.mstdn.jp.ap.brid.gy</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: matchless GUM</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mrrb2zbael2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mrrb2zbael2a</guid>
-      <pubDate>Wed, 29 Jul 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: matchless GUM<br/>Album: YOLO<br/>Release: 11/15/2016<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:10/22/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 11 years ago Band-Maid played 7 songs at Otodama Seacret Box in Kamakura JP o...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mrraovgbn52p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mrraovgbn52p</guid>
-      <pubDate>Wed, 29 Jul 2026 05:59:46 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>11 years ago Band-Maid played 7 songs at Otodama Seacret Box in Kamakura JP on 2015/7/29. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
