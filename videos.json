@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "iq1XtYfIpqQ",
+        "Title":  "BAND-MAID - Freedom (live) - I got so excited I did a weird Howard Dean yell",
+        "Channel":  "Wesley Makes Things",
+        "ChannelId":  "UCLUFOVqUjNz3X3hiWPKWHdg",
+        "Url":  "https://youtu.be/iq1XtYfIpqQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/iq1XtYfIpqQ/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T17:00:30.0000000Z",
+        "DiscoveredAt":  "2026-08-09T17:10:07.1435466Z",
+        "Duration":  "00:09:05",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "xvQpP5LjbDk",
+        "Title":  "First Time Reaction - Band-Maid - Zen | OMV",
+        "Channel":  "Tristan Reacts",
+        "ChannelId":  "UCucnXR4qmpfnEsPUMSnE_Gw",
+        "Url":  "https://youtu.be/xvQpP5LjbDk",
+        "Thumbnail":  "https://i.ytimg.com/vi/xvQpP5LjbDk/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T17:00:11.0000000Z",
+        "DiscoveredAt":  "2026-08-09T17:10:06.5033814Z",
+        "Duration":  "00:13:15",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "TRPa3qSm-is",
         "Title":  "🔥 INT REACTS I BAND-MAID – “Wonderland” LIVE | LATIN VIBES?! ANOTHER CURVEBALL! (THANX ANTHONY) 🇯🇵🔥",
         "Channel":  "Underground Hustlin'",
