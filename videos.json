@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ech4ny2byac",
+        "Title":  "BAND-MAID / Battle of the Battles",
+        "Channel":  "Ohrenje",
+        "ChannelId":  "UCuuctf2ICSjbkuLHv87Uc8A",
+        "Url":  "https://youtu.be/ech4ny2byac",
+        "Thumbnail":  "https://i.ytimg.com/vi/ech4ny2byac/hqdefault.jpg",
+        "PublishedAt":  "2026-08-09T21:00:20.0000000Z",
+        "DiscoveredAt":  "2026-08-09T21:06:18.1724238Z",
+        "Duration":  "00:15:05",
+        "ViewsAtDiscovery":  25,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xXvoS5LFrPk",
         "Title":  "Reacting to Band-Maid - Energetic MAIDS IN COSTUMES PLAYING THIS IS SURREAL!",
         "Channel":  "Alan Eternal",
