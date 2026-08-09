@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 21:27:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 01:39:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3msmefakgfh2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3msmefakgfh2d</guid>
+      <pubDate>Sun, 09 Aug 2026 00:47:51 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Giovanni - Band Maid</title>
       <link>https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3mslwj6xqv22z</link>
@@ -899,15 +908,6 @@
       <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Supposedly they&#39;re announcing the US locations and dates for Band Maid this week, I am so excited for this shit that it will almost be impossible to live up to expectations</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] October will be Band Maid, which I'm much more excited about, but that's TBD ...</title>
-      <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mrqrhgamxc2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mrqrhgamxc2r</guid>
-      <pubDate>Wed, 29 Jul 2026 01:27:11 GMT</pubDate>
-      <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>October will be Band Maid, which I&#39;m much more excited about, but that&#39;s TBD date and city</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
