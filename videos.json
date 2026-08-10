@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "MzpDcKJVYhU",
+        "Title":  "BAND MAID – “RINNE” Official MV | First Reaction | This Is Straight Up Heavy Rock",
+        "Channel":  "Midlife Mixer Reacts",
+        "ChannelId":  "UC4vD3qPndLZtOx8Ht8XMLwQ",
+        "Url":  "https://youtu.be/MzpDcKJVYhU",
+        "Thumbnail":  "https://i.ytimg.com/vi/MzpDcKJVYhU/hqdefault.jpg",
+        "PublishedAt":  "2026-08-10T00:15:00.0000000Z",
+        "DiscoveredAt":  "2026-08-10T00:24:18.9733820Z",
+        "Duration":  "00:08:10",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ech4ny2byac",
         "Title":  "BAND-MAID / Battle of the Battles",
         "Channel":  "Ohrenje",
