@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 14:28:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:40:45 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Je partage le compte Instagram d'un photographe qui a couvert plusieurs conce...</title>
+      <link>https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3msr6ssl6p22q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3msr6ssl6p22q</guid>
+      <pubDate>Mon, 10 Aug 2026 22:51:23 GMT</pubDate>
+      <dc:creator>Xavier F. (fxmaccobra.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Je partage le compte Instagram d&#39;un photographe qui a couvert plusieurs concerts J-Music dont BAND-MAID, Japan Expo Anisong Festa ou encore r&#233;cemment QUEEN BEE<br/><br/>www.instagram.com/amaevisual</p><p><em>BlueSky &middot; fxmaccobra.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] i missed out on seeing them last time they were here because i was double boo...</title>
       <link>https://bsky.app/profile/did:plc:hs3rs3g4h72pqjifhazknv7q/post/3msqarx5x522i</link>
@@ -899,15 +908,6 @@
       <dc:creator>women shaped like malamar (trustworthyelf.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>rock is a lady&#39;s modesty is a good show but more importantly it got me listening to band-maid and mudy on the sakuban</p><p><em>BlueSky &middot; trustworthyelf.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] #BandMaid has a North American tour that doesn't have a stop in Canada, let a...</title>
-      <link>https://bsky.app/profile/did:plc:d7nv6ns6cl2bwmy2o4hmljti/post/3mruthtkmoc2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:d7nv6ns6cl2bwmy2o4hmljti/post/3mruthtkmoc2m</guid>
-      <pubDate>Thu, 30 Jul 2026 16:13:51 GMT</pubDate>
-      <dc:creator>Tabby Lavalamp, Duchess of the Oort Cloud (tabbylavalamp.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>#BandMaid has a North American tour that doesn&#39;t have a stop in Canada, let alone Edmonton. 😞<br/>It is nice though to see a North American tour shut out Canada instead of Mexico for a change.</p><p><em>BlueSky &middot; tabbylavalamp.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
