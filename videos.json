@@ -16,21 +16,6 @@
     },
     {
         "schema_version":  1,
-        "VideoId":  "xhf010bPQko",
-        "Title":  "BEYOND THE FLASH /  BAND-MAID",
-        "Channel":  "TsukiWave",
-        "ChannelId":  "UCFAlryXWUOjUYSExKfQO4uA",
-        "Url":  "https://youtu.be/xhf010bPQko",
-        "Thumbnail":  "https://i.ytimg.com/vi/xhf010bPQko/hqdefault.jpg",
-        "PublishedAt":  "2026-08-10T09:00:14.0000000Z",
-        "DiscoveredAt":  "2026-08-10T10:25:01.3033411Z",
-        "Duration":  "00:05:15",
-        "ViewsAtDiscovery":  3,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
         "VideoId":  "OeZIM1u-yQM",
         "Title":  "BAND-MAID 【DICE】cover クルッポMAID IN NAGOYA お給仕 at CIRCUS NAGOYA",
         "Channel":  "noriee30",
