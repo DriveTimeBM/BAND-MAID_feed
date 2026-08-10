@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "uf51Cx6G8Q4",
+        "Title":  "BAND-MAID 福岡NUMBER SHOT 2026 フェス参戦レポート  (Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/uf51Cx6G8Q4",
+        "Thumbnail":  "https://i.ytimg.com/vi/uf51Cx6G8Q4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-10T22:00:19.0000000Z",
+        "DiscoveredAt":  "2026-08-10T22:08:41.1554268Z",
+        "Duration":  "00:23:22",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "POWMn1s6Lys",
+        "Title":  "Reaction - BAND-MAID - Evergreen - P in D Photo Collage",
+        "Channel":  "NAR_by_Marek",
+        "ChannelId":  "UC53wjwxrZyoG1w2S3R2PrZw",
+        "Url":  "https://youtu.be/POWMn1s6Lys",
+        "Thumbnail":  "https://i.ytimg.com/vi/POWMn1s6Lys/hqdefault.jpg",
+        "PublishedAt":  "2026-08-10T21:46:43.0000000Z",
+        "DiscoveredAt":  "2026-08-10T22:08:40.3990144Z",
+        "Duration":  "00:18:00",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wEpqn8ZNgz0",
         "Title":  "BAND-MAID - Endless Story (Official Live Video) REACTION ",
         "Channel":  "Angelo's World",
