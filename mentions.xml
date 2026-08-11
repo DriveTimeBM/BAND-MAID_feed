@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 23:40:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 04:16:31 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 💿 CAGE - BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:w6zgpvs5b2fcqj6ca2i4kmx7/post/3msrovs4ltx23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:w6zgpvs5b2fcqj6ca2i4kmx7/post/3msrovs4ltx23</guid>
+      <pubDate>Tue, 11 Aug 2026 03:39:23 GMT</pubDate>
+      <dc:creator>さめいど (sabbath-lazy-sabbath.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>💿 CAGE - BAND-MAID<br/>#さめいどNow<br/>#NowPlaying #なうぷれ #なうぷれあっと</p><p><em>BlueSky &middot; sabbath-lazy-sabbath.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Je partage le compte Instagram d'un photographe qui a couvert plusieurs conce...</title>
       <link>https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3msr6ssl6p22q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Predictably, I&#39;m going to recommend a Band Maid song. I&#39;ll go with an early one that is still a big favourite of mine: Awkward (if you like this, try Forbidden Tale as well, it&#39;s like the evolved Pokemon version)</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] rock is a lady's modesty is a good show but more importantly it got me listen...</title>
-      <link>https://bsky.app/profile/did:plc:y4fs5fdmvsmqauq2ul6c4bln/post/3mruxgx7mx22t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:y4fs5fdmvsmqauq2ul6c4bln/post/3mruxgx7mx22t</guid>
-      <pubDate>Thu, 30 Jul 2026 17:24:56 GMT</pubDate>
-      <dc:creator>women shaped like malamar (trustworthyelf.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>rock is a lady&#39;s modesty is a good show but more importantly it got me listening to band-maid and mudy on the sakuban</p><p><em>BlueSky &middot; trustworthyelf.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
