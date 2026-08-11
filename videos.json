@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dwUDZq4nK1c",
+        "Title":  "BAND MAID Thrill",
+        "Channel":  "BrownBeard",
+        "ChannelId":  "UCWcliN2XYLVat69xKOJDIDA",
+        "Url":  "https://youtu.be/dwUDZq4nK1c",
+        "Thumbnail":  "https://i.ytimg.com/vi/dwUDZq4nK1c/hqdefault.jpg",
+        "PublishedAt":  "2026-08-11T18:15:23.0000000Z",
+        "DiscoveredAt":  "2026-08-11T18:30:48.2724399Z",
+        "Duration":  "00:07:06",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "9IFKwa8B-7o",
+        "Title":  "She Started Drums in High School… Now Look at Her! BAND-MAID Akane Documentary Reaction (Re-Upload)",
+        "Channel":  "Overthinking with Dennis",
+        "ChannelId":  "UCvk87FOUye_htA5xMl3GtIQ",
+        "Url":  "https://youtu.be/9IFKwa8B-7o",
+        "Thumbnail":  "https://i.ytimg.com/vi/9IFKwa8B-7o/hqdefault.jpg",
+        "PublishedAt":  "2026-08-11T18:00:06.0000000Z",
+        "DiscoveredAt":  "2026-08-11T18:30:47.2597972Z",
+        "Duration":  "00:52:04",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "q-Pdk3RKiaM",
         "Title":  "BAND-MAID - From Now On (reaction video)",
         "Channel":  "Just Kells",
