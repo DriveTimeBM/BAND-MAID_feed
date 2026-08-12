@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 08:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 09:57:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] A beautiful version of Daydreaming from Band Maid's 2025 acoustic gig.</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3msuqgv6ixc2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3msuqgv6ixc2o</guid>
+      <pubDate>Wed, 12 Aug 2026 08:44:50 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>A beautiful version of Daydreaming from Band Maid&#39;s 2025 acoustic gig.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Smile</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3msuhluchd32d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>rics with Sai-chan. We Band-Maid have had many lyrics with an image of a strong woman until now, but as for Alone, Sai-chan wanted to express also a woman’s weakness, and I wrote such lyrics. When Sai-chan said “This part is not right”, I rewrote it and showed it to my bandmates again and again.<br/><br/> —</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: alone</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mryshr5iiy2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mryshr5iiy2i</guid>
-      <pubDate>Sat, 01 Aug 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: alone<br/>Album: Brand New MAID<br/>Release: 5/17/2016<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku] 彩姫 [Saiki]<br/>Arrangement: BAND-MAID<br/>1st Live:9/30/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
