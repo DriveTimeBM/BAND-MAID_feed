@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "z27SpZsJa6I",
+        "Title":  "BAND-MAID - What is justice? (bass backing track)",
+        "Channel":  "Bass Cascade Solo Tracks",
+        "ChannelId":  "UCRZEhx0XGnb9Vzm-a7UU5mQ",
+        "Url":  "https://youtu.be/z27SpZsJa6I",
+        "Thumbnail":  "https://i.ytimg.com/vi/z27SpZsJa6I/hqdefault.jpg",
+        "PublishedAt":  "2026-08-12T15:55:40.0000000Z",
+        "DiscoveredAt":  "2026-08-12T16:12:13.9119468Z",
+        "Duration":  "00:03:31",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "nUjYB5ZLBn8",
         "Title":  "Band-Maid \"Before Yesterday\" Metal Head Reacts",
         "Channel":  "The Mad Scientist Musician",
