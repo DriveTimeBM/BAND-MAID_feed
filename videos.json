@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "79drPX60N54",
+        "Title":  "Show Them | Band-Maid with The Warning | Karaoke Video",
+        "Channel":  "Nahum Lydia",
+        "ChannelId":  "UCtMMUDFX51YGLZEYy0_Da5Q",
+        "Url":  "https://youtu.be/79drPX60N54",
+        "Thumbnail":  "https://i.ytimg.com/vi/79drPX60N54/hqdefault.jpg",
+        "PublishedAt":  "2026-08-12T23:06:10.0000000Z",
+        "DiscoveredAt":  "2026-08-12T23:28:00.9744207Z",
+        "Duration":  "00:03:22",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "tXHZFoHZNdM",
         "Title":  "Bestie | Band-Maid | Karaoke Video",
         "Channel":  "Nahum Lydia",
