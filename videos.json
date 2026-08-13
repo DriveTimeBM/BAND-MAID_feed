@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FABg0dVJdJs",
+        "Title":  "Deth fender Reacts: Band Maid-\"From Now On\"",
+        "Channel":  "Guitarist Reacts TV",
+        "ChannelId":  "UCn3wcz9YEoqHYVxnBIHvANg",
+        "Url":  "https://youtu.be/FABg0dVJdJs",
+        "Thumbnail":  "https://i.ytimg.com/vi/FABg0dVJdJs/hqdefault.jpg",
+        "PublishedAt":  "2026-08-13T17:00:06.0000000Z",
+        "DiscoveredAt":  "2026-08-13T17:38:17.7789910Z",
+        "Duration":  "00:23:09",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "f23WfZHRkq4",
         "Title":  "BAND MAID - Fan Favolites Top10 Songs (2026 Edition)",
         "Channel":  "shin.ultra8",
