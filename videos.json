@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rAcqYDmTp7Q",
+        "Title":  "Band-Maid/Ohrenje Appreciation \"Battle of the Battles\" Reaction",
+        "Channel":  "vintage sol",
+        "ChannelId":  "UCMRBbkpiK8JnDg9kTQdYPtA",
+        "Url":  "https://youtu.be/rAcqYDmTp7Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/rAcqYDmTp7Q/hqdefault.jpg",
+        "PublishedAt":  "2026-08-13T08:00:25.0000000Z",
+        "DiscoveredAt":  "2026-08-13T08:15:52.9415809Z",
+        "Duration":  "00:25:57",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "V8hdb3x8odk",
         "Title":  "NEMOPHILA LOSES TWO MORE, A LOSS TO BAND-MAID & THE JAPANESE INDIE SCENE",
         "Channel":  "MAID NEWS NETWORK",
