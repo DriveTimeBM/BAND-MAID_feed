@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "V8hdb3x8odk",
+        "Title":  "NEMOPHILA LOSES TWO MORE, A LOSS TO BAND-MAID & THE JAPANESE INDIE SCENE",
+        "Channel":  "MAID NEWS NETWORK",
+        "ChannelId":  "UCoGH2sqzaxLjcWpkzn83cZg",
+        "Url":  "https://youtu.be/V8hdb3x8odk",
+        "Thumbnail":  "https://i.ytimg.com/vi/V8hdb3x8odk/hqdefault.jpg",
+        "PublishedAt":  "2026-08-13T02:58:37.0000000Z",
+        "DiscoveredAt":  "2026-08-13T03:12:07.7344010Z",
+        "Duration":  "01:34:03",
+        "ViewsAtDiscovery":  1314,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "79drPX60N54",
         "Title":  "Show Them | Band-Maid with The Warning | Karaoke Video",
         "Channel":  "Nahum Lydia",
