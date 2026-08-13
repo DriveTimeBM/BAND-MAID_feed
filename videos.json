@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "WA7CIDHIGs8",
+        "Title":  "Eddian Reacts BAND MAID   ENERGETIC Official Music Video",
+        "Channel":  "THE EDDIAN PROJECT",
+        "ChannelId":  "UCVIva9f4cIpZJe2agDF2KpQ",
+        "Url":  "https://youtu.be/WA7CIDHIGs8",
+        "Thumbnail":  "https://i.ytimg.com/vi/WA7CIDHIGs8/hqdefault.jpg",
+        "PublishedAt":  "2026-08-13T09:00:31.0000000Z",
+        "DiscoveredAt":  "2026-08-13T09:17:39.7296190Z",
+        "Duration":  "00:09:22",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ygMWRKeEH_w",
+        "Title":  "BAND-MAID Had Us HOOKED Instantly! 🔥 “Turn Me On” | Reaction",
+        "Channel":  "Share What You Love",
+        "ChannelId":  "UCzE7qBZc6BlXWsANK183TTw",
+        "Url":  "https://youtu.be/ygMWRKeEH_w",
+        "Thumbnail":  "https://i.ytimg.com/vi/ygMWRKeEH_w/hqdefault.jpg",
+        "PublishedAt":  "2026-08-13T09:00:06.0000000Z",
+        "DiscoveredAt":  "2026-08-13T09:17:38.4016701Z",
+        "Duration":  "00:11:59",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rAcqYDmTp7Q",
         "Title":  "Band-Maid/Ohrenje Appreciation \"Battle of the Battles\" Reaction",
         "Channel":  "vintage sol",
