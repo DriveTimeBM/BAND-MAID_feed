@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XUr6kE2FHPs",
+        "Title":  "We watch the BAND-MAID - \"Shambles\" (Official Live Video) for the FIRST TIME! | (REACTION)",
+        "Channel":  "The Keep Up",
+        "ChannelId":  "UCLRUwERKaf97f6nfLsd3oTg",
+        "Url":  "https://youtu.be/XUr6kE2FHPs",
+        "Thumbnail":  "https://i.ytimg.com/vi/XUr6kE2FHPs/hqdefault.jpg",
+        "PublishedAt":  "2026-08-14T14:00:28.0000000Z",
+        "DiscoveredAt":  "2026-08-14T14:21:51.3397197Z",
+        "Duration":  "00:17:50",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "rdIIT6M1DD0",
+        "Title":  "BAND-MAID OSAKA GIGANTIC MUSIC FESTIVAL (ジャイガ) 参戦レポート  (Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/rdIIT6M1DD0",
+        "Thumbnail":  "https://i.ytimg.com/vi/rdIIT6M1DD0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-14T14:00:14.0000000Z",
+        "DiscoveredAt":  "2026-08-14T14:21:50.7773942Z",
+        "Duration":  "00:33:19",
+        "ViewsAtDiscovery":  41,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hC94EN8GM50",
         "Title":  "INT REACTS TO BAND-MAID MISA Documentary PT. 3 | THE BAREFOOT ASSASSIN 🍺🎸 | Sponsored by PolskaBob",
         "Channel":  "Underground Hustlin'",
