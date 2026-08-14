@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 06:46:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:23:12 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mt2dcnnk5p2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mt2dcnnk5p2r</guid>
+      <pubDate>Fri, 14 Aug 2026 14:05:47 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: BLACK HOLE</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mszilcx4zr24</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] bandmaid.tokyo/contents/109...</title>
-      <link>https://bsky.app/profile/did:plc:flre6gtzdidm26i6j54xfpov/post/3ms5kkcp4ss2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:flre6gtzdidm26i6j54xfpov/post/3ms5kkcp4ss2b</guid>
-      <pubDate>Mon, 03 Aug 2026 03:28:08 GMT</pubDate>
-      <dc:creator>Specter177✈️ (specter177.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>bandmaid.tokyo/contents/109...</p><p><em>BlueSky &middot; specter177.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
