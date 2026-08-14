@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 15:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 17:26:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] LoveBites &amp; Bandmaid...sind bisschen älter als Babymetal.</title>
+      <link>https://bsky.app/profile/did:plc:wsea6k2fjhexbdgbn2iaakvs/post/3mt2klogncs2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wsea6k2fjhexbdgbn2iaakvs/post/3mt2klogncs2z</guid>
+      <pubDate>Fri, 14 Aug 2026 16:16:06 GMT</pubDate>
+      <dc:creator>HANIBAL THE SMART (hjanedvin.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>LoveBites &amp; Bandmaid...sind bisschen &#228;lter als Babymetal.<br/>Die sind ja jetzt total angesagt. LoveBites waren anf&#228;nglich eher ein Geheimtip.<br/>Aber spielen k&#246;nnen sie alle!😂</p><p><em>BlueSky &middot; hjanedvin.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Hell yeah going to see Band-Maid in October</title>
+      <link>https://bsky.app/profile/did:plc:be4brlzshs2n3jsf6cgnmfci/post/3mt2hwmsyp22c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:be4brlzshs2n3jsf6cgnmfci/post/3mt2hwmsyp22c</guid>
+      <pubDate>Fri, 14 Aug 2026 15:28:32 GMT</pubDate>
+      <dc:creator>Shoe🇲🇽 (shoetheweeb.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Hell yeah going to see Band-Maid in October</p><p><em>BlueSky &middot; shoetheweeb.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mt2dcnnk5p2r</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played at club GRINDHOUSE in Tokushima JP on 2016/8/3. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 18 songs at Park West in Chicago US on 2023/8/3....</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3ms5szfj6qf2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3ms5szfj6qf2d</guid>
-      <pubDate>Mon, 03 Aug 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 18 songs at Park West in Chicago US on 2023/8/3. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3ms5pjongdq2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3ms5pjongdq2s</guid>
-      <pubDate>Mon, 03 Aug 2026 04:57:15 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Ready to Rock de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
