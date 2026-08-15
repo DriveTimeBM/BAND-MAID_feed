@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "20D_KeafTr0",
+        "Title":  "We listened to Hate? by BAND-MAID for the FIRST TIME!",
+        "Channel":  "The Keep Up",
+        "ChannelId":  "UCLRUwERKaf97f6nfLsd3oTg",
+        "Url":  "https://youtu.be/20D_KeafTr0",
+        "Thumbnail":  "https://i.ytimg.com/vi/20D_KeafTr0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-15T02:02:23.0000000Z",
+        "DiscoveredAt":  "2026-08-15T03:47:41.1764709Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  229,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "apz9Sp32wlw",
         "Title":  "【BAND-MAID】　-DOMINATION-    Drumcover",
         "Channel":  "カズヲといいます",
