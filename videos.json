@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gA1TK4pR3So",
+        "Title":  "Bestie | Band-Maid | Karaoke Video",
+        "Channel":  "Nahum Lydia KTV",
+        "ChannelId":  "UCtMMUDFX51YGLZEYy0_Da5Q",
+        "Url":  "https://youtu.be/gA1TK4pR3So",
+        "Thumbnail":  "https://i.ytimg.com/vi/gA1TK4pR3So/hqdefault.jpg",
+        "PublishedAt":  "2026-08-15T08:48:45.0000000Z",
+        "DiscoveredAt":  "2026-08-15T11:45:47.8679863Z",
+        "Duration":  "00:03:44",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "VsbDlvUznfM",
+        "Title":  "Band-Maid Album Appreciation \"YOLO\" (OMV)(first time reaction)",
+        "Channel":  "vintage sol",
+        "ChannelId":  "UCMRBbkpiK8JnDg9kTQdYPtA",
+        "Url":  "https://youtu.be/VsbDlvUznfM",
+        "Thumbnail":  "https://i.ytimg.com/vi/VsbDlvUznfM/hqdefault.jpg",
+        "PublishedAt":  "2026-08-15T08:30:01.0000000Z",
+        "DiscoveredAt":  "2026-08-15T11:45:47.1852265Z",
+        "Duration":  "00:11:47",
+        "ViewsAtDiscovery":  111,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1GzaL-WU9v4",
         "Title":  "Reacting to Super Sunshine by Band-Maid and It Had An Amazing Message",
         "Channel":  "The Smith House Reactions",
