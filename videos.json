@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zGO3cwpaVII",
+        "Title":  "BAND MAID MONDAY! We Hear \"The Dragon Cries\" For The FIRST Time! #BandMaid #LiveReaction",
+        "Channel":  "WavesAcrossTheWater",
+        "ChannelId":  "UC8VWDy9uGVbgrBXwJlRwESQ",
+        "Url":  "https://youtu.be/zGO3cwpaVII",
+        "Thumbnail":  "https://i.ytimg.com/vi/zGO3cwpaVII/hqdefault.jpg",
+        "PublishedAt":  "2026-08-17T14:00:39.0000000Z",
+        "DiscoveredAt":  "2026-08-17T17:41:18.1131018Z",
+        "Duration":  "00:13:32",
+        "ViewsAtDiscovery":  246,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "uo8ZxHm4YjA",
         "Title":  "Have you heard of Band Maid? #bandmaid #jrock #intj #bandmaidreaction #honkai",
         "Channel":  "INTJ Reacts",
