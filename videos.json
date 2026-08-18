@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "uPiqKwXNbbs",
+        "Title":  "BAND-MAID – PAGE (Acoustic Version) | Classical Guitarist Reacts",
+        "Channel":  "Jone Ruiz Guitar",
+        "ChannelId":  "UCIB9yrPidvZhW8uf_PT5AtA",
+        "Url":  "https://youtu.be/uPiqKwXNbbs",
+        "Thumbnail":  "https://i.ytimg.com/vi/uPiqKwXNbbs/hqdefault.jpg",
+        "PublishedAt":  "2026-08-18T17:03:38.0000000Z",
+        "DiscoveredAt":  "2026-08-18T17:31:07.0447815Z",
+        "Duration":  "00:22:32",
+        "ViewsAtDiscovery":  59,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "FMAdKoZYe1s",
+        "Title":  "BAND-MAID - Toi et moi (Special Intro incl.) | Mi Reacción",
+        "Channel":  "Rockeando con Fernando",
+        "ChannelId":  "UCQKr4MnGQ260vL52eAJGqOA",
+        "Url":  "https://youtu.be/FMAdKoZYe1s",
+        "Thumbnail":  "https://i.ytimg.com/vi/FMAdKoZYe1s/hqdefault.jpg",
+        "PublishedAt":  "2026-08-18T17:00:37.0000000Z",
+        "DiscoveredAt":  "2026-08-18T17:31:05.9005913Z",
+        "Duration":  "00:08:26",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3PxhFNbuSgc",
         "Title":  "REACTING TO: BAND-MAID - Thrill (スリル) | They are LEGIT!",
         "Channel":  "That Guy Cliff",
