@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Vs2jamVOet0",
+        "Title":  "BabyPunk? | Band-Maid Dice Reaction",
+        "Channel":  "GgrimmTakes",
+        "ChannelId":  "UC6YnOQsT2xNs4dDM0aengJQ",
+        "Url":  "https://youtu.be/Vs2jamVOet0",
+        "Thumbnail":  "https://i.ytimg.com/vi/Vs2jamVOet0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-18T20:22:04.0000000Z",
+        "DiscoveredAt":  "2026-08-18T20:44:34.8536045Z",
+        "Duration":  "00:07:24",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "XOgphwL3ht4",
+        "Title":  "#101 BAND-MAID / I'll - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/XOgphwL3ht4",
+        "Thumbnail":  "https://i.ytimg.com/vi/XOgphwL3ht4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-18T20:00:06.0000000Z",
+        "DiscoveredAt":  "2026-08-18T20:44:33.4004070Z",
+        "Duration":  "00:13:38",
+        "ViewsAtDiscovery":  36,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JymjCfPBRfU",
         "Title":  "Band Maid & The warning Tokyo 2026 Summer Sonic Live 25 aniversario",
         "Channel":  "Live Concerts Mexico",
