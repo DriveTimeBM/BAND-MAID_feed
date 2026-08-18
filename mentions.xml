@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 10:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:19:25 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] みんな仲良し</title>
+      <link>https://bsky.app/profile/did:plc:dcbdldbzmbo2huph7vdzexb7/post/3mteadunhn22e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcbdldbzmbo2huph7vdzexb7/post/3mteadunhn22e</guid>
+      <pubDate>Tue, 18 Aug 2026 12:39:24 GMT</pubDate>
+      <dc:creator>atasinti w (atasinti.wsocial.eu)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>みんな仲良し<br/><br/>詳しくはブログに。<br/>atasinti.chu.jp/dad4/archive...<br/><br/>#BABYMETAL #BANDMAID #METALVERSE</p><p><em>BlueSky &middot; atasinti.wsocial.eu</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] みんな仲良し</title>
+      <link>https://bsky.app/profile/did:plc:xadchjnbtfe27igf5nwfz6a3/post/3mte7x2zy6klr</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xadchjnbtfe27igf5nwfz6a3/post/3mte7x2zy6klr</guid>
+      <pubDate>Tue, 18 Aug 2026 12:32:15 GMT</pubDate>
+      <dc:creator>atasinti🍺 (atasinti.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>みんな仲良し<br/><br/>詳しくはブログに。<br/>https://atasinti.chu.jp/dad4/archives/93863<br/><br/>#BABYMETAL #BANDMAID #METALVERSE #イラスト </p><p><em>BlueSky &middot; atasinti.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID以外はじめましての方だけど予想通り好きそうでアカン</title>
       <link>https://bsky.app/profile/did:plc:6on6pkox7jmobwjyqrbzwsms/post/3mtdxwey6t225</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>5 years ago<br/>Choose Me MV<br/>milestone<br/>surpassed 9 million views<br/>2021/8/7<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mshi2qbewk2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mshi2qbewk2b</guid>
-      <pubDate>Fri, 07 Aug 2026 02:10:15 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Woohoo Gold Level VIP ticket to see Band Maid</title>
-      <link>https://bsky.app/profile/did:plc:dx2enwtdcpf62zr3pobetmx3/post/3msh5uhuco22u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dx2enwtdcpf62zr3pobetmx3/post/3msh5uhuco22u</guid>
-      <pubDate>Thu, 06 Aug 2026 23:07:48 GMT</pubDate>
-      <dc:creator>clashctyrkr.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Woohoo Gold Level VIP ticket to see Band Maid</p><p><em>BlueSky &middot; clashctyrkr.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
