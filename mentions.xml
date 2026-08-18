@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 13:50:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:51:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] You will take my Band-Maid albums from my cold, dead hands</title>
+      <link>https://bsky.app/profile/did:plc:yr7tbttb6ic5lgg2hyc46gdc/post/3mtefkvf4dc2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:yr7tbttb6ic5lgg2hyc46gdc/post/3mtefkvf4dc2w</guid>
+      <pubDate>Tue, 18 Aug 2026 14:12:49 GMT</pubDate>
+      <dc:creator>白線歌手 (singerofw.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>You will take my Band-Maid albums from my cold, dead hands</p><p><em>BlueSky &middot; singerofw.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Que crush son las Band-Maid, por Cthulhu durmiente, y que bien suenan The War...</title>
       <link>https://bsky.app/profile/did:plc:byehy3ewhpfk3e47glrhju4y/post/3mteasvd7hc2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Shake That!!<br/>Album: New Beginning<br/>Release: 11/17/2015<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:7/17/2015<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played 6 songs at CAVE-BE in Hiroshima JP on 2016/8/7....</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mshuwt4ewa2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mshuwt4ewa2g</guid>
-      <pubDate>Fri, 07 Aug 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played 6 songs at CAVE-BE in Hiroshima JP on 2016/8/7. The opening song was FREEDOM.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
