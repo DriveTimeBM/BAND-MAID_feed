@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lb_wohuBXIE",
+        "Title":  "Band Maid Brightest Star (live) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/lb_wohuBXIE",
+        "Thumbnail":  "https://i.ytimg.com/vi/lb_wohuBXIE/hqdefault.jpg",
+        "PublishedAt":  "2026-08-18T01:13:42.0000000Z",
+        "DiscoveredAt":  "2026-08-18T01:26:25.1145187Z",
+        "Duration":  "00:03:28",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "sCg_DV-rh8g",
         "Title":  "BAND-MAID / Blooming (Official Music Video) Reaction || THE SOLOS! THE VOCALS! EVERYTHING!!!!!",
         "Channel":  "AmiyaReacts",
