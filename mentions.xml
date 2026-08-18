@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 14:51:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:46:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Describe your musical taste in three artists, no genres:</title>
+      <link>https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3mtf4zpvvhk2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3mtf4zpvvhk2a</guid>
+      <pubDate>Tue, 18 Aug 2026 21:12:42 GMT</pubDate>
+      <dc:creator>CatUberMona🚕🐈‍⬛🏎️ Quaverposting (catubermona.vtubers.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Describe your musical taste in three artists, no genres:<br/><br/>D-CELL SOUND TEAM<br/>BAND-MAID<br/>Snail&#39;s House</p><p><em>BlueSky &middot; catubermona.vtubers.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] You will take my Band-Maid albums from my cold, dead hands</title>
       <link>https://bsky.app/profile/did:plc:yr7tbttb6ic5lgg2hyc46gdc/post/3mtefkvf4dc2w</link>
@@ -899,15 +908,6 @@
       <dc:creator>Baltech (baltech.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I still haven&#39;t recovered for the band-maid based yuri show</p><p><em>BlueSky &middot; baltech.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Shake That!!</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mshvbe2jav2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mshvbe2jav2z</guid>
-      <pubDate>Fri, 07 Aug 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Shake That!!<br/>Album: New Beginning<br/>Release: 11/17/2015<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:7/17/2015<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
