@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "fR6_gaU1NWw",
+        "Title":  "Band Maid Show Them ft. Dany (The Warning) live Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/fR6_gaU1NWw",
+        "Thumbnail":  "https://i.ytimg.com/vi/fR6_gaU1NWw/hqdefault.jpg",
+        "PublishedAt":  "2026-08-18T03:17:29.0000000Z",
+        "DiscoveredAt":  "2026-08-18T03:29:26.4851148Z",
+        "Duration":  "00:06:17",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "o_ErkAZTxpQ",
         "Title":  "Gen X Reacts & Relates \" Band Maid \"Hate?\" I Have you ever faced that?",
         "Channel":  "Initial Music & Adventure Studios",
