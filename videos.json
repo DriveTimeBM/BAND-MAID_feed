@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3PxhFNbuSgc",
+        "Title":  "REACTING TO: BAND-MAID - Thrill (スリル) | They are LEGIT!",
+        "Channel":  "That Guy Cliff",
+        "ChannelId":  "UCqfBBaOtsarabxsOiAllEbQ",
+        "Url":  "https://youtu.be/3PxhFNbuSgc",
+        "Thumbnail":  "https://i.ytimg.com/vi/3PxhFNbuSgc/hqdefault.jpg",
+        "PublishedAt":  "2026-08-18T16:44:43.0000000Z",
+        "DiscoveredAt":  "2026-08-18T17:00:19.3023269Z",
+        "Duration":  "00:11:47",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KxjYnBeA0Oc",
         "Title":  "SHOW THEM Live! BAND-MAID Ft. Dany Villarreal | Reaction!",
         "Channel":  "Rockin' with Matt",
