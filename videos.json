@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "o_ErkAZTxpQ",
+        "Title":  "Gen X Reacts & Relates \" Band Maid \"Hate?\" I Have you ever faced that?",
+        "Channel":  "Initial Music & Adventure Studios",
+        "ChannelId":  "UCcdhlVjoir4bgyk7ILXL0tA",
+        "Url":  "https://youtu.be/o_ErkAZTxpQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/o_ErkAZTxpQ/hqdefault.jpg",
+        "PublishedAt":  "2026-08-18T02:00:24.0000000Z",
+        "DiscoveredAt":  "2026-08-18T02:27:54.9286943Z",
+        "Duration":  "00:10:25",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lb_wohuBXIE",
         "Title":  "Band Maid Brightest Star (live) Reaction",
         "Channel":  "jmnassar",
