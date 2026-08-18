@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "JymjCfPBRfU",
+        "Title":  "Band Maid & The warning Tokyo 2026 Summer Sonic Live 25 aniversario",
+        "Channel":  "Live Concerts Mexico",
+        "ChannelId":  "UC0V6RpAx1Y4WUy5KTOBmPHA",
+        "Url":  "https://youtu.be/JymjCfPBRfU",
+        "Thumbnail":  "https://i.ytimg.com/vi/JymjCfPBRfU/hqdefault.jpg",
+        "PublishedAt":  "2026-08-18T19:11:20.0000000Z",
+        "DiscoveredAt":  "2026-08-18T19:46:18.3779725Z",
+        "Duration":  "00:05:47",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "uPiqKwXNbbs",
         "Title":  "BAND-MAID – PAGE (Acoustic Version) | Classical Guitarist Reacts",
         "Channel":  "Jone Ruiz Guitar",
