@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "loXfI880uEM",
+        "Title":  "BAND-MAID’s “INFLUENCER” Live Reaction!",
+        "Channel":  "Reactions To The Classics",
+        "ChannelId":  "UCS1fdnnESyBmkdfRcLQM7PA",
+        "Url":  "https://youtu.be/loXfI880uEM",
+        "Thumbnail":  "https://i.ytimg.com/vi/loXfI880uEM/hqdefault.jpg",
+        "PublishedAt":  "2026-08-19T03:27:21.0000000Z",
+        "DiscoveredAt":  "2026-08-19T03:42:56.9348987Z",
+        "Duration":  "00:07:41",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "39U9wBxDzvo",
         "Title":  "Grim Reacts | BAND-MAID - I'll | Recommendation Bonus Video",
         "Channel":  "Grim Reactions",
