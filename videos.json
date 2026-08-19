@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "brUKBPB6ZfQ",
+        "Title":  "BAND-MAID - H-G-K Tab (Full Band Tab)",
+        "Channel":  "Frostic Tabs",
+        "ChannelId":  "UCJgjHK1zDcpm0hiSpMqkPGw",
+        "Url":  "https://youtu.be/brUKBPB6ZfQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/brUKBPB6ZfQ/hqdefault.jpg",
+        "PublishedAt":  "2026-08-19T12:31:29.0000000Z",
+        "DiscoveredAt":  "2026-08-19T12:32:15.7746464Z",
+        "Duration":  "00:03:05",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "fq96lpSZLc4",
         "Title":  "Band-Maid Album Appreciation: \"OOPARTS\" It Builds!!!",
         "Channel":  "vintage sol",
