@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "39U9wBxDzvo",
+        "Title":  "Grim Reacts | BAND-MAID - I'll | Recommendation Bonus Video",
+        "Channel":  "Grim Reactions",
+        "ChannelId":  "UCr1qe4LNHZrxTtZkUSHBcDg",
+        "Url":  "https://youtu.be/39U9wBxDzvo",
+        "Thumbnail":  "https://i.ytimg.com/vi/39U9wBxDzvo/hqdefault.jpg",
+        "PublishedAt":  "2026-08-19T02:45:31.0000000Z",
+        "DiscoveredAt":  "2026-08-19T03:12:19.0613466Z",
+        "Duration":  "00:19:46",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "j3acj2k5Vwk",
         "Title":  "INT REACTS: BAND-MAID “you.” LIVE 🔥 POP-PUNK BAND-MAID?! | THANKS FRANK! DONO!! 😎😎😎",
         "Channel":  "Underground Hustlin'",
