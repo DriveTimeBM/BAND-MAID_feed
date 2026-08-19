@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "aIBofawgBKc",
+        "Title":  "BAND-MAID - From Now On - It's straight up boss fight music",
+        "Channel":  "Wesley Makes Things",
+        "ChannelId":  "UCLUFOVqUjNz3X3hiWPKWHdg",
+        "Url":  "https://youtu.be/aIBofawgBKc",
+        "Thumbnail":  "https://i.ytimg.com/vi/aIBofawgBKc/hqdefault.jpg",
+        "PublishedAt":  "2026-08-19T17:00:22.0000000Z",
+        "DiscoveredAt":  "2026-08-19T17:10:35.9287000Z",
+        "Duration":  "00:07:33",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bNvrlO3ZmLI",
         "Title":  "BAND-MAID feat.Daniela Villarreal  SHOW THEM  2026-08-16 SUMMER SONIC Tokyo,JAPAN   #summersonic",
         "Channel":  "area area",
