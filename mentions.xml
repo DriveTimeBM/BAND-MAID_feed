@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 21:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 22:15:25 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 👍, but my fav rock-ish guys are Steve Harris (iron maiden), Joe Lally (fugaz...</title>
+      <link>https://bsky.app/profile/did:plc:ygf2szzwyelxazh4v2biaugv/post/3mtk7aden4k24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ygf2szzwyelxazh4v2biaugv/post/3mtk7aden4k24</guid>
+      <pubDate>Thu, 20 Aug 2026 21:35:30 GMT</pubDate>
+      <dc:creator>mignaccolo.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>👍, but my fav rock-ish guys are Steve Harris (iron maiden), Joe Lally (fugazi), and recently discovered Misa from Band Maid (these ladies absolutely kick asses)</p><p><em>BlueSky &middot; mignaccolo.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID presenta “SHOW THEM” con The Warning en el festival Summer Sonic ww...</title>
       <link>https://bsky.app/profile/did:plc:candfbby4zdfekag33tggtxr/post/3mtk3wcrasc24</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: BLACK HOLE<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 19 songs at The Depot in Salt Lake City US on 20...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3msmvsvzmwz26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3msmvsvzmwz26</guid>
-      <pubDate>Sun, 09 Aug 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 19 songs at The Depot in Salt Lake City US on 2023/8/9. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
