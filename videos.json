@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "MbXqkrCzNG4",
+        "Title":  "After all these years, they finally met again. ⚡BAND-MAID × The Warning at Summer Sonic 2026 ",
+        "Channel":  "MUSiCDEFAULT",
+        "ChannelId":  "UCyJvwl3EW_9iRNGIjmTpVSg",
+        "Url":  "https://youtu.be/MbXqkrCzNG4",
+        "Thumbnail":  "https://i.ytimg.com/vi/MbXqkrCzNG4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-20T11:03:01.0000000Z",
+        "DiscoveredAt":  "2026-08-20T11:30:03.6001430Z",
+        "Duration":  "00:05:47",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ae7PfGVtwlw",
         "Title":  "Band-Maid Album Appreciation : \"Take Me Higher\" The Proper Way To Jam!!!",
         "Channel":  "vintage sol",
