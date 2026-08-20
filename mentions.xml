@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 08:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:05:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] since i've discovered BAND-MAID ii realized that a LOT of the "big" albums of...</title>
+      <link>https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3mtjgh6k6d22e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3mtjgh6k6d22e</guid>
+      <pubDate>Thu, 20 Aug 2026 14:11:57 GMT</pubDate>
+      <dc:creator>smiley (smiley.codes)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>since i&#39;ve discovered BAND-MAID ii realized that a LOT of the &quot;big&quot; albums of the past 50-60 years had only a handful of great songs on them and often the rest was mediocre at best. yes, some invented entire genres, but that didn&#39;t stop them from releasing b-side material and leftovers on albums.</p><p><em>BlueSky &middot; smiley.codes</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] tbh "can listen to with no skips" is a low bar. i'm raising you "3 albums wit...</title>
+      <link>https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3mtjgapfads2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3mtjgapfads2e</guid>
+      <pubDate>Thu, 20 Aug 2026 14:08:19 GMT</pubDate>
+      <dc:creator>smiley (smiley.codes)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>tbh &quot;can listen to with no skips&quot; is a low bar. i&#39;m raising you &quot;3 albums with ALL HITS NO SKIPS&quot;<br/><br/>The Warning - ERROR<br/>BAND-MAID - WORLD DOMINATION (and literally everything else ever since they&#39;ve started writing their own songs)<br/>Wolf Alice - Visions of a Life</p><p><em>BlueSky &middot; smiley.codes</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] guitar solo and double bass drumming. Also, we put out “Japaneseness” in the ...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtildaurat2e</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago<br/>Unleash!!!!! <br/>MV<br/>released<br/>2022/8/9<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3msms7y2f4a2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3msms7y2f4a2t</guid>
-      <pubDate>Sun, 09 Aug 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago<br/>REAL EXISTENCE MV<br/>milestone<br/>surpassed 3 million views<br/>2016/8/9<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] “BAND-MAID WORLD TOUR 2026” (North America:US and Mexico, Ticket Is Still Ava...</title>
-      <link>https://bsky.app/profile/did:plc:g4hg2zgkv5dyqr35bmjeekc6/post/3msmncaxkhq2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:g4hg2zgkv5dyqr35bmjeekc6/post/3msmncaxkhq2e</guid>
-      <pubDate>Sun, 09 Aug 2026 03:27:13 GMT</pubDate>
-      <dc:creator>Alo Japan (alojapan.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>“BAND-MAID WORLD TOUR 2026” (North America:US and Mexico, Ticket Is Still Available In Link Below)<br/><br/>https://www.alojapan.com/1521799/band-maid-world-tour-2026-north-americaus-and-mexico-ticket-is-still-available-in-link-below/<br/><br/>For full and tickets details, please see below: …</p><p><em>BlueSky &middot; alojapan.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
