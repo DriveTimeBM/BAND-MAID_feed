@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 15:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:14:06 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID presenta “SHOW THEM” con The Warning en el festival Summer Sonic ww...</title>
+      <link>https://bsky.app/profile/did:plc:candfbby4zdfekag33tggtxr/post/3mtk3wcrasc24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:candfbby4zdfekag33tggtxr/post/3mtk3wcrasc24</guid>
+      <pubDate>Thu, 20 Aug 2026 20:36:13 GMT</pubDate>
+      <dc:creator>EfectoParallax/Replicante (efectoparallax.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID presenta “SHOW THEM” con The Warning en el festival Summer Sonic www.parallaxradio.net/post/band-ma... @TheWarningBand2 @TheWarningArg @bandmaid @miku_bandmaid #monterrey #felizs&#225;bado #LaCasaDeLosFamososM&#233;xico #cdmx #cuu #BuenosD&#237;as</p><p><em>BlueSky &middot; efectoparallax.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] since i've discovered BAND-MAID ii realized that a LOT of the "big" albums of...</title>
       <link>https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3mtjgh6k6d22e</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>3 years ago Band-Maid played 19 songs at The Depot in Salt Lake City US on 2023/8/9. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3msms7ywuhi2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3msms7ywuhi2l</guid>
-      <pubDate>Sun, 09 Aug 2026 04:55:28 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago<br/>Unleash!!!!! <br/>MV<br/>released<br/>2022/8/9<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
