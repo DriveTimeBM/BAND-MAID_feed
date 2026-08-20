@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "j8avVIkNxBQ",
+        "Title":  "🥇 BAND-MAID: ¡LOS DUELOS MUSICALES QUE NOS VUELVEN LOCOS! 🤘🔥",
+        "Channel":  "Rockeando con Fernando",
+        "ChannelId":  "UCQKr4MnGQ260vL52eAJGqOA",
+        "Url":  "https://youtu.be/j8avVIkNxBQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/j8avVIkNxBQ/hqdefault.jpg",
+        "PublishedAt":  "2026-08-20T17:00:28.0000000Z",
+        "DiscoveredAt":  "2026-08-20T17:09:35.5154498Z",
+        "Duration":  "00:26:03",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "CW3DsFxsdoI",
         "Title":  "BAND-MAID Absolutely DOMINATED This Live Performance! | Domination Reaction",
         "Channel":  "Matty Ice Reacts",
