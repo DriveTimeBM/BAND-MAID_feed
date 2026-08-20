@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CW3DsFxsdoI",
+        "Title":  "BAND-MAID Absolutely DOMINATED This Live Performance! | Domination Reaction",
+        "Channel":  "Matty Ice Reacts",
+        "ChannelId":  "UC7hBLHPm0SMPiRSk09Kn5vQ",
+        "Url":  "https://youtu.be/CW3DsFxsdoI",
+        "Thumbnail":  "https://i.ytimg.com/vi/CW3DsFxsdoI/hqdefault.jpg",
+        "PublishedAt":  "2026-08-20T16:34:02.0000000Z",
+        "DiscoveredAt":  "2026-08-20T16:38:55.1767254Z",
+        "Duration":  "00:07:12",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MbXqkrCzNG4",
         "Title":  "After all these years, they finally met again. ⚡BAND-MAID × The Warning at Summer Sonic 2026 ",
         "Channel":  "MUSiCDEFAULT",
