@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "pKiL8FL8Ufw",
+        "Title":  "法政大学フォークソング研究会 BAND MAID(cover)",
+        "Channel":  "hoseifolk",
+        "ChannelId":  "UCERcgXKgqt_r2pdv6bNxg9w",
+        "Url":  "https://youtu.be/pKiL8FL8Ufw",
+        "Thumbnail":  "https://i.ytimg.com/vi/pKiL8FL8Ufw/hqdefault.jpg",
+        "PublishedAt":  "2026-08-21T00:13:01.0000000Z",
+        "DiscoveredAt":  "2026-08-21T00:20:38.6373934Z",
+        "Duration":  "00:04:06",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4wbY7RP8AJM",
         "Title":  "INT REACTS: BAND-MAID “Corallium” LIVE 🤯 PUNK TO SKA?! | DAREK SPONSORED",
         "Channel":  "Underground Hustlin'",
