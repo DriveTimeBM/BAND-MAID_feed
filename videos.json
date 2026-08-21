@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "eCdaRx1HzYo",
+        "Title":  "Lost in the Music | BAND-MAID 'Daydreaming' Reaction",
+        "Channel":  "AngelTalionMusicReactions",
+        "ChannelId":  "UCk7Ti2pq-srCWBdGh61aOsw",
+        "Url":  "https://youtu.be/eCdaRx1HzYo",
+        "Thumbnail":  "https://i.ytimg.com/vi/eCdaRx1HzYo/hqdefault.jpg",
+        "PublishedAt":  "2026-08-21T16:00:10.0000000Z",
+        "DiscoveredAt":  "2026-08-21T16:21:45.0593230Z",
+        "Duration":  "00:05:21",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KJdx1t-vCDs",
         "Title":  "Another BAND-MAID, 13th Anniversary PhotoTribute",
         "Channel":  "Dorian",
