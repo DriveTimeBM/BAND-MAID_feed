@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HBhi_zhAbjI",
+        "Title":  "Reacting to Band-Maid ft The Warning - Show Them JAPAN MEETS MEXICO AND IT'S FIRE!",
+        "Channel":  "Alan Eternal",
+        "ChannelId":  "UCW3gFs3qFiZOdAI90rkpLDQ",
+        "Url":  "https://youtu.be/HBhi_zhAbjI",
+        "Thumbnail":  "https://i.ytimg.com/vi/HBhi_zhAbjI/hqdefault.jpg",
+        "PublishedAt":  "2026-08-21T12:21:59.0000000Z",
+        "DiscoveredAt":  "2026-08-21T12:46:10.0697208Z",
+        "Duration":  "00:06:53",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gLGtDpzo_AM",
         "Title":  "SUPER SUGOI!❤️‍🔥🎀BAND-MAID - Special Intro & Toi et Moi ‘25 Tour Final LIVE | Music Reaction🔥",
         "Channel":  "Mighty_Avenger: The Multitasker",
