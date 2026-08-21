@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 22:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 00:51:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Either Band-Maid or Love Psychedelico</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mtkh5t6xxc26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mtkh5t6xxc26</guid>
+      <pubDate>Thu, 20 Aug 2026 23:57:16 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Either Band-Maid or Love Psychedelico</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 👍, but my fav rock-ish guys are Steve Harris (iron maiden), Joe Lally (fugaz...</title>
       <link>https://bsky.app/profile/did:plc:ygf2szzwyelxazh4v2biaugv/post/3mtk7aden4k24</link>
@@ -899,15 +908,6 @@
       <dc:creator>Chris『ScaryYandere』@ Art and Merch grind again (scaryyandere.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I booked my flights for the BAND MAID concert in October, it was cheaper than expected, and I basically have a 5-day weekend lol<br/><br/>Putting a concert on a Monday is vile placement, but I might as well take two days off</p><p><em>BlueSky &middot; scaryyandere.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: BLACK HOLE</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3msmw77mc4y2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3msmw77mc4y2b</guid>
-      <pubDate>Sun, 09 Aug 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: BLACK HOLE<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
