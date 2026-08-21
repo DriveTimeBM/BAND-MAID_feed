@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 19:56:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 23:34:51 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Describe your music taste using only three artists, no genres allowed.</title>
+      <link>https://bsky.app/profile/did:plc:mgzrjfnehlkquy5tgr3twq7h/post/3mtmuax4jrs2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mgzrjfnehlkquy5tgr3twq7h/post/3mtmuax4jrs2j</guid>
+      <pubDate>Fri, 21 Aug 2026 22:56:59 GMT</pubDate>
+      <dc:creator>Hannah (miqomiqomi.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Describe your music taste using only three artists, no genres allowed.<br/><br/>1. Shirokuro Alice<br/>2. BAND-MAID<br/>3. Bloodywood</p><p><em>BlueSky &middot; miqomiqomi.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Happy Dany Day! #DanyDay #TheBestDay #DanyVillarreal #DanielaVillarreal #TheW...</title>
       <link>https://bsky.app/profile/did:plc:2rsp4ez356ctqrqlrxcprljr/post/3mtmgp5cfcs2v</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] The first Kanami composition to make it on to a Band Maid album. Still one of...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3msphjl4fcc2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3msphjl4fcc2h</guid>
-      <pubDate>Mon, 10 Aug 2026 06:21:57 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>The first Kanami composition to make it on to a Band Maid album. Still one of their best, IMO, that guitar solo remains one of my favourites too.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
