@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6ygcpqI1tUo",
+        "Title":  "BAND-MAID - First Reaction to \"Hate?\"",
+        "Channel":  "Burn The Breeze",
+        "ChannelId":  "UCWnDOQoH17R2vDNxiFP-bPg",
+        "Url":  "https://youtu.be/6ygcpqI1tUo",
+        "Thumbnail":  "https://i.ytimg.com/vi/6ygcpqI1tUo/hqdefault.jpg",
+        "PublishedAt":  "2026-08-22T14:59:40.0000000Z",
+        "DiscoveredAt":  "2026-08-22T15:01:53.3962137Z",
+        "Duration":  "00:08:32",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Scrt3tfzERY",
+        "Title":  "First Time Hearing BAND-MAID - Domination (Live) | REACTION",
+        "Channel":  "Jonesey TV",
+        "ChannelId":  "UCKX4ukuuqGZpKN4aoUKVq4w",
+        "Url":  "https://youtu.be/Scrt3tfzERY",
+        "Thumbnail":  "https://i.ytimg.com/vi/Scrt3tfzERY/hqdefault.jpg",
+        "PublishedAt":  "2026-08-22T14:31:11.0000000Z",
+        "DiscoveredAt":  "2026-08-22T15:01:52.6006247Z",
+        "Duration":  "00:10:02",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Fv9QSQlNyMc",
         "Title":  "METAL HEAD REACTS to BAND-MAID / the non-fiction days (Official Music Video)",
         "Channel":  "Zenith Darksky",
