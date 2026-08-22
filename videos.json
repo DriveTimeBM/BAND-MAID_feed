@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Fv9QSQlNyMc",
+        "Title":  "METAL HEAD REACTS to BAND-MAID / the non-fiction days (Official Music Video)",
+        "Channel":  "Zenith Darksky",
+        "ChannelId":  "UCOtLfnmrnWXQHJk6MOYFBiQ",
+        "Url":  "https://youtu.be/Fv9QSQlNyMc",
+        "Thumbnail":  "https://i.ytimg.com/vi/Fv9QSQlNyMc/hqdefault.jpg",
+        "PublishedAt":  "2026-08-22T11:00:38.0000000Z",
+        "DiscoveredAt":  "2026-08-22T11:23:00.0715159Z",
+        "Duration":  "00:13:44",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NyQ6dDbaWoA",
         "Title":  "【世界騒然】BAND-MAID「WILD BUNCH FEST. 2026」圧巻ステージ終了！🔥そして日本武道館2daysへ…11月の“特別な瞬間”にファン騒然！",
         "Channel":  "りずむはうす (Rhythm House)",
