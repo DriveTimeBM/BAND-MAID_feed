@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cliTpXSLuHk",
+        "Title":  "Reacting to Hate? Live Performance by Band-Maid Was Unapologetic",
+        "Channel":  "The Smith House Reactions",
+        "ChannelId":  "UCfQeTYw5jS1UryRg8GN3_PQ",
+        "Url":  "https://youtu.be/cliTpXSLuHk",
+        "Thumbnail":  "https://i.ytimg.com/vi/cliTpXSLuHk/hqdefault.jpg",
+        "PublishedAt":  "2026-08-22T05:00:20.0000000Z",
+        "DiscoveredAt":  "2026-08-22T05:13:03.1518804Z",
+        "Duration":  "00:12:11",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6sTdP7KW2T8",
         "Title":  "Murderous Bass | BAND-MAID / ENERGETIC (First Listen Reaction)",
         "Channel":  "Lune-atic Reactions",
