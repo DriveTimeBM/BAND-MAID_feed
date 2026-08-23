@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "k_LfZQYlu7A",
+        "Title":  "Thrill - Band-Maid (This Is Music 25 Recs)",
+        "Channel":  "Garage Geek",
+        "ChannelId":  "UC0QdbziloVeN12RhoUSCAlA",
+        "Url":  "https://youtu.be/k_LfZQYlu7A",
+        "Thumbnail":  "https://i.ytimg.com/vi/k_LfZQYlu7A/hqdefault.jpg",
+        "PublishedAt":  "2026-08-23T18:23:37.0000000Z",
+        "DiscoveredAt":  "2026-08-23T18:51:41.4078178Z",
+        "Duration":  "00:02:00",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "u650FWJekQQ",
         "Title":  "BAND-MAID - YOLO (Official Music Video) | REACTION!",
         "Channel":  "The Overreacters",
