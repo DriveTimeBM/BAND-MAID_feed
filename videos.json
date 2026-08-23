@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "PIA0LI2MEgU",
+        "Title":  "【疾走ベース】BAND-MAID Choose Me(Bass Cover)ベースカバー#bandmaid   #basscover  #bass  #弾いてみた #chooseme",
+        "Channel":  "てつギター",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/PIA0LI2MEgU",
+        "Thumbnail":  "https://i.ytimg.com/vi/PIA0LI2MEgU/hqdefault.jpg",
+        "PublishedAt":  "2026-08-23T08:20:23.0000000Z",
+        "DiscoveredAt":  "2026-08-23T08:34:20.6170853Z",
+        "Duration":  "00:03:48",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9ysHZ7zSnW4",
         "Title":  "【疾走ベース】BAND-MAID Choose Me(Bass Cover)ベースカバー#bandmaid  #basscover #bass #弾いてみた #chooseme",
         "Channel":  "てつギター",
