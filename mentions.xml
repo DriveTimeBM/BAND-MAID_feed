@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 16:51:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:37:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] The thing aside from it being a great song, From Now On, Band-Maid. The video...</title>
+      <link>https://bsky.app/profile/did:plc:4x4j6goow5nmbezuodxjguiz/post/3mtufq57rrc2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4x4j6goow5nmbezuodxjguiz/post/3mtufq57rrc2h</guid>
+      <pubDate>Mon, 24 Aug 2026 22:58:21 GMT</pubDate>
+      <dc:creator>Deadling (deadling.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>The thing aside from it being a great song, From Now On, Band-Maid. The video has the 4 instrument playing members. The lead singer is not in the video as there are no lyrics. But as far as I can tell, she&#39;s still there. You can hear her, playing a keyboard or piano. She is a pianist.</p><p><em>BlueSky &middot; deadling.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] And wouldn't you know it, not long after I post this, SCANDAL announces the e...</title>
+      <link>https://bsky.app/profile/did:plc:35b33lthdi45ky4sibpxxwjn/post/3mtuf6tggr22v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:35b33lthdi45ky4sibpxxwjn/post/3mtuf6tggr22v</guid>
+      <pubDate>Mon, 24 Aug 2026 22:48:40 GMT</pubDate>
+      <dc:creator>Shelbie 💓💛 (theshiz147.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>And wouldn&#39;t you know it, not long after I post this, SCANDAL announces the end of their group activities next year. I was supposed to see them last year, but ended up not being able to. Now I&#39;ll never see them. And BAND-MAID is going on hiatus next year. At least they&#39;ll be back, but... Man...</p><p><em>BlueSky &middot; theshiz147.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] This covers it nicely, Band-Maid "Just Bring It" A 100% match to my earball d...</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mttorwzrw22l</link>
@@ -890,24 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>A beautiful version of Daydreaming from Band Maid&#39;s 2025 acoustic gig.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Smile</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3msuhluchd32d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3msuhluchd32d</guid>
-      <pubDate>Wed, 12 Aug 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Smile<br/>Album: Bubble<br/>Release: 1/15/2019<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:3/8/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played 6 songs at B.9 V1 in Kumamoto JP on 2016/8/12. ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3msuh7saf7f2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3msuh7saf7f2g</guid>
-      <pubDate>Wed, 12 Aug 2026 05:59:47 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played 6 songs at B.9 V1 in Kumamoto JP on 2016/8/12. The opening song was FREEDOM.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
