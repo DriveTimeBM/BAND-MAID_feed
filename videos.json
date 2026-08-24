@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rowNWgNC9qE",
+        "Title":  "Musicians REACT to Band-Maid: Daydreaming (2025 Billboard Acoustic Live, Tokyo)",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/rowNWgNC9qE",
+        "Thumbnail":  "https://i.ytimg.com/vi/rowNWgNC9qE/hqdefault.jpg",
+        "PublishedAt":  "2026-08-24T10:00:05.0000000Z",
+        "DiscoveredAt":  "2026-08-24T10:12:56.4195243Z",
+        "Duration":  "00:10:43",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NmGBoUjrCW0",
         "Title":  "BAND-MAID - you. (Live at Zepp Tokyo 2018) - Dave M",
         "Channel":  "Dave M Channel",
