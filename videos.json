@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NmGBoUjrCW0",
+        "Title":  "BAND-MAID - you. (Live at Zepp Tokyo 2018) - Dave M",
+        "Channel":  "Dave M Channel",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/NmGBoUjrCW0",
+        "Thumbnail":  "https://i.ytimg.com/vi/NmGBoUjrCW0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-24T04:00:35.0000000Z",
+        "DiscoveredAt":  "2026-08-24T04:27:14.5104951Z",
+        "Duration":  "00:13:06",
+        "ViewsAtDiscovery":  19,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YP_8cLd1HsY",
         "Title":  "Vocal Strength Coach Reacts to BAND-MAID - DOMINATION | FIRST TIME",
         "Channel":  "RedlineReactions",
