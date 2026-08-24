@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 16:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 08:00:22 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Ai to Jonetsu no Matador [Love, Passion, Matador]</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtsn72bgeq2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtsn72bgeq2y</guid>
+      <pubDate>Mon, 24 Aug 2026 06:06:35 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Ai to Jonetsu no Matador [Love, Passion, Matador]<br/>Album: Love, Passion, Matador<br/>Release: 8/12/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:4/26/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 2026-08-16 @ Summer Sonic, Tokyo, Japan</title>
       <link>https://bsky.app/profile/did:plc:kgrtq6ncvxowrdqaeltlz5c2/post/3mtr3pw7u3k2h</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 7 songs at Tarukawa Dock Open-Air Special Stages in Ishikari JP on 2017/8/12. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 20 songs at Bing Crosby Theater in Spokane US on...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3msuh7pajsu26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3msuh7pajsu26</guid>
-      <pubDate>Wed, 12 Aug 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 20 songs at Bing Crosby Theater in Spokane US on 2023/8/12. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
