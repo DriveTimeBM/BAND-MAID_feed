@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 15:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:51:50 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band Maid You Reaction</title>
+      <link>https://youtu.be/XGiyqcKONq4</link>
+      <guid isPermaLink="false">yt:video:XGiyqcKONq4</guid>
+      <pubDate>Mon, 24 Aug 2026 16:21:43 GMT</pubDate>
+      <dc:creator>jmnassar</dc:creator>
+      <category>jmnassar</category>
+      <description><![CDATA[<p><a href="https://youtu.be/XGiyqcKONq4"><img src="https://i.ytimg.com/vi/XGiyqcKONq4/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: jmnassar<br/>Duration: 00:03:55<br/>Views at discovery: 0</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/XGiyqcKONq4/hqdefault.jpg" />
+    </item>
     <item>
       <title>MISA ON FIRE! | Band Maid - I Still Seek Revenge (TGT Okyuji 2023) | REACTION</title>
       <link>https://youtu.be/2OAQd2riUyA</link>
