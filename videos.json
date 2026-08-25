@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vCYbyI3Y9w0",
+        "Title":  "First Time Hearing BAND-MAID - Toi et moi! Japanese Hard Rock Groove! | Reaction",
+        "Channel":  "DevelopeReaction",
+        "ChannelId":  "UCHKivAu2YBYV-jb51udLH-A",
+        "Url":  "https://youtu.be/vCYbyI3Y9w0",
+        "Thumbnail":  "https://i.ytimg.com/vi/vCYbyI3Y9w0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-25T12:00:06.0000000Z",
+        "DiscoveredAt":  "2026-08-25T12:27:52.0125412Z",
+        "Duration":  "00:10:05",
+        "ViewsAtDiscovery":  23,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZV6grrbFE1g",
         "Title":  "Vocal Strength Coach Reacts to BAND-MAID x The Warning | Show Them | FIRST TIME",
         "Channel":  "RedlineReactions",
