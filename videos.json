@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "1yU1FkCliz0",
+        "Title":  "Band-Maid SCOOOOOP",
+        "Channel":  "Digitized Chaos",
+        "ChannelId":  "UCdqcYwSg4R74P0yRPmR1-oQ",
+        "Url":  "https://youtu.be/1yU1FkCliz0",
+        "Thumbnail":  "https://i.ytimg.com/vi/1yU1FkCliz0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-25T16:59:56.0000000Z",
+        "DiscoveredAt":  "2026-08-25T17:54:19.5347211Z",
+        "Duration":  "00:01:26",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "67mcIymTh7c",
+        "Title":  "Band Maid - Energetic Music Video Reaction!",
+        "Channel":  "Lil mann™ Reacts",
+        "ChannelId":  "UCSlY9oi5Ra_poD3D3gK2I0A",
+        "Url":  "https://youtu.be/67mcIymTh7c",
+        "Thumbnail":  "https://i.ytimg.com/vi/67mcIymTh7c/hqdefault.jpg",
+        "PublishedAt":  "2026-08-25T16:15:38.0000000Z",
+        "DiscoveredAt":  "2026-08-25T17:54:18.7378646Z",
+        "Duration":  "00:05:44",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XZVhPtIZMxk",
         "Title":  "BAND-MAID World Tour 2026 in Japan at BLUE LIVE HIROSHIMA (Fan Edition)",
         "Channel":  "shin.ultra8",
