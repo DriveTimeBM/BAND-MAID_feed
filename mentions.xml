@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 23:37:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:08:07 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mtugb4yfyo2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mtugb4yfyo2r</guid>
+      <pubDate>Mon, 24 Aug 2026 23:07:50 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] The thing aside from it being a great song, From Now On, Band-Maid. The video...</title>
       <link>https://bsky.app/profile/did:plc:4x4j6goow5nmbezuodxjguiz/post/3mtufq57rrc2h</link>
@@ -899,15 +908,6 @@
       <dc:creator>Bishop (spiceweasel0x86.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I&#39;ve been into Band Maid for a few years now. They are more rock than jazz though.</p><p><em>BlueSky &middot; spiceweasel0x86.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] A beautiful version of Daydreaming from Band Maid's 2025 acoustic gig.</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3msuqgv6ixc2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3msuqgv6ixc2o</guid>
-      <pubDate>Wed, 12 Aug 2026 08:44:50 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>A beautiful version of Daydreaming from Band Maid&#39;s 2025 acoustic gig.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
