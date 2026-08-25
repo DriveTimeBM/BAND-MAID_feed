@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XZVhPtIZMxk",
+        "Title":  "BAND-MAID World Tour 2026 in Japan at BLUE LIVE HIROSHIMA (Fan Edition)",
+        "Channel":  "shin.ultra8",
+        "ChannelId":  "UCGlVqoo8AeLf-3oAmEFuNTA",
+        "Url":  "https://youtu.be/XZVhPtIZMxk",
+        "Thumbnail":  "https://i.ytimg.com/vi/XZVhPtIZMxk/hqdefault.jpg",
+        "PublishedAt":  "2026-08-25T12:45:33.0000000Z",
+        "DiscoveredAt":  "2026-08-25T12:58:36.0338932Z",
+        "Duration":  "01:23:41",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vCYbyI3Y9w0",
         "Title":  "First Time Hearing BAND-MAID - Toi et moi! Japanese Hard Rock Groove! | Reaction",
         "Channel":  "DevelopeReaction",
