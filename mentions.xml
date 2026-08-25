@@ -7,8 +7,44 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 00:08:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:12:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: FORWARD</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtv5nulywz2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtv5nulywz2n</guid>
+      <pubDate>Tue, 25 Aug 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: FORWARD<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID 阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:12/26/2013<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 10 years ago Band-Maid played 7 songs at Soul Power in Toyama JP on 2016/8/25...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtv5bnslke2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtv5bnslke2w</guid>
+      <pubDate>Tue, 25 Aug 2026 05:59:44 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>10 years ago Band-Maid played 7 songs at Soul Power in Toyama JP on 2016/8/25. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 7 years ago Band-Maid played 5 songs at Sanuki Man-nou Kouen in Man-nou JP on...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtv5bn5xjz2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtv5bn5xjz2y</guid>
+      <pubDate>Tue, 25 Aug 2026 05:59:43 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>7 years ago Band-Maid played 5 songs at Sanuki Man-nou Kouen in Man-nou JP on 2019/8/25. The opening song was alone.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 4 years ago Band-Maid played 20 songs at Diamond Hall in Nagoya JP on 2022/8/...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtv5bmed3m2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtv5bmed3m2w</guid>
+      <pubDate>Tue, 25 Aug 2026 05:59:42 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>4 years ago Band-Maid played 20 songs at Diamond Hall in Nagoya JP on 2022/8/25. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mtugb4yfyo2r</link>
@@ -872,42 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>13 years ago Band-Maid played at Shibuya Milkyway in Tokyo JP on 2013/8/13. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played 7 songs at WOW! in Kita-Kyuushuu JP on 2016/8/1...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mswxolel4l2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mswxolel4l2v</guid>
-      <pubDate>Thu, 13 Aug 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played 7 songs at WOW! in Kita-Kyuushuu JP on 2016/8/13. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mswu3phla52f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mswu3phla52f</guid>
-      <pubDate>Thu, 13 Aug 2026 04:55:28 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago<br/>Love, Passion, Matador<br/>single<br/>released<br/>2014/8/13<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] I have a favorite band for each decade (in case of long-running bands, the de...</title>
-      <link>https://mastodon.social/@ChrisJagged/117085494550514737</link>
-      <guid isPermaLink="true">https://mastodon.social/@ChrisJagged/117085494550514737</guid>
-      <pubDate>Thu, 13 Aug 2026 01:01:03 GMT</pubDate>
-      <dc:creator>Chris Jags (ChrisJagged)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>I have a favorite band for each decade (in case of long-running bands, the decade I most associate them with):<br/><br/>70s = Rush<br/>80s = The Cure<br/>90s = Tristania<br/>2000s = Nightwish<br/>2010s = Band-Maid<br/>2020s = ...pending...<br/><br/>Would happily see yours!<br/><br/>https://mastodon.social/tags/Music https://mastodon.social/tags/Rush https://mastodon.social/tags/TheCure https://mastodon.social/tags/Tristania https://mastodon.social/tags/Nightwish https://mastodon.social/tags/BandMaid https://mastodon.social/tags/rock <br/> https://mastodon.social/tags/metal https://mastodon.social/tags/mastoMusic https://mastodon.social/tags/Fediverse</p><p><em>Mastodon &middot; ChrisJagged</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I've been into Band Maid for a few years now. They are more rock than jazz th...</title>
-      <link>https://bsky.app/profile/did:plc:f4vqrv2wwknwouuroa65n3b7/post/3msw6ceauqs2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:f4vqrv2wwknwouuroa65n3b7/post/3msw6ceauqs2j</guid>
-      <pubDate>Wed, 12 Aug 2026 22:25:30 GMT</pubDate>
-      <dc:creator>Bishop (spiceweasel0x86.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I&#39;ve been into Band Maid for a few years now. They are more rock than jazz though.</p><p><em>BlueSky &middot; spiceweasel0x86.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
