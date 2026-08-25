@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZV6grrbFE1g",
+        "Title":  "Vocal Strength Coach Reacts to BAND-MAID x The Warning | Show Them | FIRST TIME",
+        "Channel":  "RedlineReactions",
+        "ChannelId":  "UCU9Bx1sRYYJq2oczh9mkA8Q",
+        "Url":  "https://youtu.be/ZV6grrbFE1g",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZV6grrbFE1g/hqdefault.jpg",
+        "PublishedAt":  "2026-08-25T02:45:01.0000000Z",
+        "DiscoveredAt":  "2026-08-25T11:26:23.2610807Z",
+        "Duration":  "00:10:00",
+        "ViewsAtDiscovery":  2066,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "WK-UgppFDAw",
         "Title":  "BAND-MAID Make A Cat Sound",
         "Channel":  "The Band of Maids Channel.",
