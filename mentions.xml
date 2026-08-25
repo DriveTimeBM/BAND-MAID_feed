@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 12:58:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:00:24 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Do I get a maid outfit for the bandmaid show</title>
+      <link>https://bsky.app/profile/did:plc:be4brlzshs2n3jsf6cgnmfci/post/3mtvusw4dgc2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:be4brlzshs2n3jsf6cgnmfci/post/3mtvusw4dgc2i</guid>
+      <pubDate>Tue, 25 Aug 2026 13:01:00 GMT</pubDate>
+      <dc:creator>Shoe🇲🇽 (shoetheweeb.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Do I get a maid outfit for the bandmaid show</p><p><em>BlueSky &middot; shoetheweeb.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] These days it would be Band-Maid, even across multiple different sets of spea...</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mtvsjxib7s2h</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid fans).</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mswy2uws4r22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mswy2uws4r22</guid>
-      <pubDate>Thu, 13 Aug 2026 06:06:36 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid fans).<br/><br/>— BTW, the manga has not completed yet. The song ends with &quot;I will not go back&quot;, it sounds like a positive outlook. Do you know how the story ends?<br/><br/>Kobato: Don&#39;t know po. But ending the song on a dark note didn&#39;t seem good.<br/><br/>Saiki: In the manga, there are parts in the middle where</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
