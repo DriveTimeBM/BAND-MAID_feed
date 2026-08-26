@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 08:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:23:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://loops.video/tag/BandMaid https://loops.video/tag/Kanami https://loops...</title>
+      <link>https://loops.video/v/hK9Ly3gJeA</link>
+      <guid isPermaLink="true">https://loops.video/v/hK9Ly3gJeA</guid>
+      <pubDate>Wed, 26 Aug 2026 09:29:40 GMT</pubDate>
+      <dc:creator>Kingu (Kingu@loops.video)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://loops.video/tag/BandMaid https://loops.video/tag/Kanami https://loops.video/tag/Rock https://loops.video/tag/Jrock https://loops.video/tag/Music</p><p><em>Mastodon &middot; Kingu@loops.video</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I wouldn't usually suggest following a bot, but I make an exception here. A g...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mtxoxtq3222y</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: BLACK HOLE<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 3 songs at Tower Records Shibuya in Tokyo JP on...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mszi5sqbtv2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mszi5sqbtv2h</guid>
-      <pubDate>Fri, 14 Aug 2026 05:59:53 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 3 songs at Tower Records Shibuya in Tokyo JP on 2014/8/14. The opening song was Ai to Jonetsu no Matador.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
