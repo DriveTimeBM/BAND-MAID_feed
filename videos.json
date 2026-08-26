@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CJYoIObRics",
+        "Title":  "BAND-MAID con Dany de The Warning — SHOW THEM en Tokio | Reacción",
+        "Channel":  "Rockeando con Fernando",
+        "ChannelId":  "UCQKr4MnGQ260vL52eAJGqOA",
+        "Url":  "https://youtu.be/CJYoIObRics",
+        "Thumbnail":  "https://i.ytimg.com/vi/CJYoIObRics/hqdefault.jpg",
+        "PublishedAt":  "2026-08-26T17:45:19.0000000Z",
+        "DiscoveredAt":  "2026-08-26T18:10:39.0562376Z",
+        "Duration":  "00:11:00",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-CdKC2iq0IU",
         "Title":  "BAND-MAID - Sense (bass backing track)",
         "Channel":  "Bass Cascade Solo Tracks",
