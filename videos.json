@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-CdKC2iq0IU",
+        "Title":  "BAND-MAID - Sense (bass backing track)",
+        "Channel":  "Bass Cascade Solo Tracks",
+        "ChannelId":  "UCRZEhx0XGnb9Vzm-a7UU5mQ",
+        "Url":  "https://youtu.be/-CdKC2iq0IU",
+        "Thumbnail":  "https://i.ytimg.com/vi/-CdKC2iq0IU/hqdefault.jpg",
+        "PublishedAt":  "2026-08-26T07:02:28.0000000Z",
+        "DiscoveredAt":  "2026-08-26T07:47:26.7829884Z",
+        "Duration":  "00:03:31",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "eFTYRMNylgk",
         "Title":  "10-Year-Old TROLLI WILD Reacts to BAND-MAID “Manners” 🤯🎸 HE COULDN’T STOP AIR GUITARING!",
         "Channel":  "TROLLI WILD",
