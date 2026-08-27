@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 03:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:54:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Ordered immediately</title>
+      <link>https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3mtzypiatkk2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3mtzypiatkk2c</guid>
+      <pubDate>Thu, 27 Aug 2026 04:21:18 GMT</pubDate>
+      <dc:creator>dazedandconfused51 (dazedandconfused51.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Ordered immediately<br/>#BandMaid</p><p><em>BlueSky &middot; dazedandconfused51.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAIDが新シングル「SPIN」発売</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mtzu7xvmhx2v</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Describe your music taste in 3 artists, no genres.<br/><br/>Band Maid<br/>The Knife<br/>Tori Amos<br/><br/>That definitely covers a lot of it.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] LoveBites &amp; Bandmaid...sind bisschen älter als Babymetal.</title>
-      <link>https://bsky.app/profile/did:plc:wsea6k2fjhexbdgbn2iaakvs/post/3mt2klogncs2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wsea6k2fjhexbdgbn2iaakvs/post/3mt2klogncs2z</guid>
-      <pubDate>Fri, 14 Aug 2026 16:16:06 GMT</pubDate>
-      <dc:creator>HANIBAL THE SMART (hjanedvin.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>LoveBites &amp; Bandmaid...sind bisschen &#228;lter als Babymetal.<br/>Die sind ja jetzt total angesagt. LoveBites waren anf&#228;nglich eher ein Geheimtip.<br/>Aber spielen k&#246;nnen sie alle!😂</p><p><em>BlueSky &middot; hjanedvin.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
