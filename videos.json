@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cbnxuVnPtOY",
+        "Title":  "The Energy in This is CRAZY! | BAND-MAID - DICE Reaction",
+        "Channel":  "Fabio - Vocal Coach Reacts",
+        "ChannelId":  "UCV26W2Vgll8ekdqpatJSGPA",
+        "Url":  "https://youtu.be/cbnxuVnPtOY",
+        "Thumbnail":  "https://i.ytimg.com/vi/cbnxuVnPtOY/hqdefault.jpg",
+        "PublishedAt":  "2026-08-27T03:30:30.0000000Z",
+        "DiscoveredAt":  "2026-08-27T03:46:10.3168601Z",
+        "Duration":  "00:07:27",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "G6sDMa6M6tQ",
         "Title":  "Band-Maid Plane Ride. Flying To My House - Maybe.",
         "Channel":  "The Band of Maids Channel.",
