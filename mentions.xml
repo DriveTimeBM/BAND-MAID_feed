@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 10:33:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:41:20 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Hard rock band BAND-MAID will release their second new single of 2026, "SPIN"...</title>
+      <link>https://bsky.app/profile/did:plc:46oe4e4l4bpfsqg22aidsadq/post/3mu3424qmqs2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:46oe4e4l4bpfsqg22aidsadq/post/3mu3424qmqs2a</guid>
+      <pubDate>Thu, 27 Aug 2026 14:53:36 GMT</pubDate>
+      <dc:creator>JaME (English Version) (jameworld.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Hard rock band BAND-MAID will release their second new single of 2026, &quot;SPIN&quot;, on October 28th.<br/><br/>#BANDMAID #jrock #jmetal<br/><br/>www.jame-world.com/en/news/1722...</p><p><em>BlueSky &middot; jameworld.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 2026/10/28発売 BAND-MAID「SPIN」特典まとめ</title>
       <link>https://bsky.app/profile/did:plc:itajckz2hscqplpijhvjcak4/post/3mu2lnmiucc2o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago<br/>Hibana<br/>live debut<br/>Namba Hatch, Osaka, Japan<br/>2022/8/17<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] サマソニでHALCALIとBAND-MAIDみて、「女の人生」にそんなに絶望しなくてもいいかもなって思い始めた。</title>
-      <link>https://bsky.app/profile/did:plc:yhq6z5iva7rwixzx2dy7qz5m/post/3mtarkzpvdc2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:yhq6z5iva7rwixzx2dy7qz5m/post/3mtarkzpvdc2m</guid>
-      <pubDate>Mon, 17 Aug 2026 03:36:59 GMT</pubDate>
-      <dc:creator>けっけ Kéké(she/they)🏳️‍🌈🏳️‍⚧️ (donotkickme.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>サマソニでHALCALIとBAND-MAIDみて、「女の人生」にそんなに絶望しなくてもいいかもなって思い始めた。</p><p><em>BlueSky &middot; donotkickme.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
