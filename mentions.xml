@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 07:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:33:36 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 2026/10/28発売 BAND-MAID「SPIN」特典まとめ</title>
+      <link>https://bsky.app/profile/did:plc:itajckz2hscqplpijhvjcak4/post/3mu2lnmiucc2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:itajckz2hscqplpijhvjcak4/post/3mu2lnmiucc2o</guid>
+      <pubDate>Thu, 27 Aug 2026 10:00:17 GMT</pubDate>
+      <dc:creator>7neko (7nekonet.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2026/10/28発売 BAND-MAID「SPIN」特典まとめ<br/><br/>7neko.net/bandmaid-tok...</p><p><em>BlueSky &middot; 7nekonet.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] This track has grown on me with every play since its release, to the point th...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mu27czrnp22g</link>
@@ -899,15 +908,6 @@
       <dc:creator>けっけ Kéké(she/they)🏳️‍🌈🏳️‍⚧️ (donotkickme.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>サマソニでHALCALIとBAND-MAIDみて、「女の人生」にそんなに絶望しなくてもいいかもなって思い始めた。</p><p><em>BlueSky &middot; donotkickme.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid</title>
-      <link>https://bsky.app/profile/did:plc:53verixueu3wcygykliiqkdi/post/3mtahydd6x22m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:53verixueu3wcygykliiqkdi/post/3mtahydd6x22m</guid>
-      <pubDate>Mon, 17 Aug 2026 00:45:28 GMT</pubDate>
-      <dc:creator>Brian (bwnash.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid<br/>Rush<br/>King Crimson</p><p><em>BlueSky &middot; bwnash.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
