@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 15:41:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 23:26:13 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 🌀 BAND-MAID anuncia o single “SPIN”!</title>
+      <link>https://bsky.app/profile/did:plc:s3fz3schntxmeoqvoqaqtqtp/post/3mu3vyttlo22b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:s3fz3schntxmeoqvoqaqtqtp/post/3mu3vyttlo22b</guid>
+      <pubDate>Thu, 27 Aug 2026 22:38:11 GMT</pubDate>
+      <dc:creator>JaME Brasil + KoME Brasil (jamebr.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>🌀 BAND-MAID anuncia o single “SPIN”! <br/><br/>A banda lan&#231;a o trabalho em 28 de outubro com tr&#234;s faixas: “SPIN”, “ENTROPY” e “Spring ephemeral”, logo ap&#243;s encerrar a etapa norte-americana da turn&#234; mundial.<br/><br/>#BANDMAID #SPIN #JRock #HardRock<br/><br/>🔗 Saiba mais: www.jame-world.com/br/news/1722...</p><p><em>BlueSky &middot; jamebr.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Hard rock band BAND-MAID will release their second new single of 2026, "SPIN"...</title>
       <link>https://bsky.app/profile/did:plc:46oe4e4l4bpfsqg22aidsadq/post/3mu3424qmqs2a</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago<br/>Unleash!!!!!<br/>live debut<br/>Namba Hatch, Osaka, Japan<br/>2022/8/17<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mtavxf67kp2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mtavxf67kp2p</guid>
-      <pubDate>Mon, 17 Aug 2026 04:55:28 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago<br/>Hibana<br/>live debut<br/>Namba Hatch, Osaka, Japan<br/>2022/8/17<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
