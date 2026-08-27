@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "sgrSNLrxZY8",
+        "Title":  "Composer Reacts to BAND-MAID / Toi et moi (Official Live Video)",
+        "Channel":  "Peace Beats with Dan Blackwell",
+        "ChannelId":  "UClegyeZzlSHbcw5vyAv9OxQ",
+        "Url":  "https://youtu.be/sgrSNLrxZY8",
+        "Thumbnail":  "https://i.ytimg.com/vi/sgrSNLrxZY8/hqdefault.jpg",
+        "PublishedAt":  "2026-08-27T18:00:33.0000000Z",
+        "DiscoveredAt":  "2026-08-27T18:16:55.4952833Z",
+        "Duration":  "00:08:01",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ytHQwZ59ihU",
         "Title":  "Band-Maid® - Alone (drums backing track)",
         "Channel":  "Drum Fusion Solo Tracks",
