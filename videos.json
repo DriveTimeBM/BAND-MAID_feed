@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "wc3D_QATQgI",
+        "Title":  "⚡BAND-MAID「SPIN」に期待高まる！北米7公演から日本武道館2daysへ",
+        "Channel":  "Japan news",
+        "ChannelId":  "UCL6Ot6oqi8xmtnHQrSj7PXg",
+        "Url":  "https://youtu.be/wc3D_QATQgI",
+        "Thumbnail":  "https://i.ytimg.com/vi/wc3D_QATQgI/hqdefault.jpg",
+        "PublishedAt":  "2026-08-27T04:40:42.0000000Z",
+        "DiscoveredAt":  "2026-08-27T04:54:36.3044650Z",
+        "Duration":  "00:11:14",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cbnxuVnPtOY",
         "Title":  "The Energy in This is CRAZY! | BAND-MAID - DICE Reaction",
         "Channel":  "Fabio - Vocal Coach Reacts",
