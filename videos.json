@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gUhg3MxLQCs",
+        "Title":  "Reaction - BAND-MAID \"Forward\" Photo Collage",
+        "Channel":  "NAR_by_Marek",
+        "ChannelId":  "UC53wjwxrZyoG1w2S3R2PrZw",
+        "Url":  "https://youtu.be/gUhg3MxLQCs",
+        "Thumbnail":  "https://i.ytimg.com/vi/gUhg3MxLQCs/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T21:26:57.0000000Z",
+        "DiscoveredAt":  "2026-08-28T23:46:55.0510495Z",
+        "Duration":  "00:17:15",
+        "ViewsAtDiscovery":  32,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "bv6wJEakjIo",
+        "Title":  "I love this band! | *Band-Maid - Forbidden Tale* | Reaction",
+        "Channel":  "McFly JP",
+        "ChannelId":  "UCixS5LJfc-qzAZxzFAYLtwA",
+        "Url":  "https://youtu.be/bv6wJEakjIo",
+        "Thumbnail":  "https://i.ytimg.com/vi/bv6wJEakjIo/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T20:45:01.0000000Z",
+        "DiscoveredAt":  "2026-08-28T23:46:53.9912444Z",
+        "Duration":  "00:22:43",
+        "ViewsAtDiscovery":  284,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rcONCT_gbPI",
         "Title":  "BAND-MAID: Hate (Official Live) Reaction",
         "Channel":  "NeuroticVowsMusic",
