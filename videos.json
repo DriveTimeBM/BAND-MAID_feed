@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xasocXMa4rc",
+        "Title":  "DICE • BAND-MAID • Legendado [Português - Japonês - Romaji]",
+        "Channel":  "Kawame Subs",
+        "ChannelId":  "UCH7VWDQ6hmevtTCukpizScw",
+        "Url":  "https://youtu.be/xasocXMa4rc",
+        "Thumbnail":  "https://i.ytimg.com/vi/xasocXMa4rc/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T02:13:15.0000000Z",
+        "DiscoveredAt":  "2026-08-28T02:30:56.4844352Z",
+        "Duration":  "00:04:28",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2kxav9LWwis",
         "Title":  "THEY ARE UNSTOPPABLE! | BAND-MAID - Endless Story (LIVE) REACTION!",
         "Channel":  "Fabio - Vocal Coach Reacts",
