@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "4KQoSzEpSgM",
+        "Title":  "DOMINATION • BAND-MAID • Legendado (Português - Japonês - Romaji)",
+        "Channel":  "Kawame Subs",
+        "ChannelId":  "UCH7VWDQ6hmevtTCukpizScw",
+        "Url":  "https://youtu.be/4KQoSzEpSgM",
+        "Thumbnail":  "https://i.ytimg.com/vi/4KQoSzEpSgM/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T00:59:39.0000000Z",
+        "DiscoveredAt":  "2026-08-28T01:28:58.3607295Z",
+        "Duration":  "00:04:17",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7XxoyhK-jUA",
         "Title":  "Band-Maid Plane Ride. Crashing into Bob's House.",
         "Channel":  "The Band of Maids Channel.",
