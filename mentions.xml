@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 13:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 23:53:55 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 2026年10月28日 『【楽天ブックス限定同時購入特典】SPIN (初回生産限定盤(Blu-ray)＋初回生産限定盤(DVD)＋通常盤セット)(アクセサ...</title>
+      <link>https://bsky.app/profile/did:plc:smdkfx7db3pbvkdfwidns4rv/post/3mu6j3m2fks2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:smdkfx7db3pbvkdfwidns4rv/post/3mu6j3m2fks2q</guid>
+      <pubDate>Fri, 28 Aug 2026 23:25:02 GMT</pubDate>
+      <dc:creator>新刊発見bot (discover.sinkan.net)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2026年10月28日 『【楽天ブックス限定同時購入特典】SPIN (初回生産限定盤(Blu-ray)＋初回生産限定盤(DVD)＋通常盤セット)(アクセサリートレイ)』 BAND-MAID ((株)ポニーキャニオン) [Music] https://sinkan.net/?ean=2100015175460&amp;action_item=true #新刊情報 #sinkan</p><p><em>BlueSky &middot; discover.sinkan.net</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 08/28/2026 - Updates</title>
       <link>https://bsky.app/profile/did:plc:ayvqhrlstywie67k3324g54y/post/3mu5fa3s3hk2w</link>
@@ -899,15 +908,6 @@
       <dc:creator>Camarada Osgo🇮🇨🔻☭ (elosgo.eurosky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Gothic Metal: Paradise Lost - Isolate.<br/>Gothic Rock: Sisters of Mercy - The Temple of Love.<br/>Hard Rock: AC/DC - It&#39;s a Long Way to the Top (If You Wanna Rock &#39;N&#39; Roll).<br/>Industrial Metal: Zardonic &amp; Voicians - Bring Back the Glory. <br/>J-Pop: Yoasobi - Idol.<br/>J-Metal: Band-Maid - Ready to Rock.<br/>⬇️</p><p><em>BlueSky &middot; elosgo.eurosky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] わーお！！！</title>
-      <link>https://bsky.app/profile/did:plc:xadchjnbtfe27igf5nwfz6a3/post/3mtbxqk3bvc6r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xadchjnbtfe27igf5nwfz6a3/post/3mtbxqk3bvc6r</guid>
-      <pubDate>Mon, 17 Aug 2026 15:00:06 GMT</pubDate>
-      <dc:creator>atasinti🍺 (atasinti.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>わーお！！！<br/>https://x.com/bandmaid/status/2089306974634836008<br/><br/>#BABYMETAL #BANDMAID #METALVERSE </p><p><em>BlueSky &middot; atasinti.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
