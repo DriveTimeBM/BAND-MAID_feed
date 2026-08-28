@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SZnVaG54PnE",
+        "Title":  "BAND-MAID、新曲「SPIN」10日リリース決定！北米ツアー新ビジュアル公開でファン注目、次なる展開に期待高まる",
+        "Channel":  "Ohtani News 24_7",
+        "ChannelId":  "UCgLiR4KjX20cG2scP8HNCDA",
+        "Url":  "https://youtu.be/SZnVaG54PnE",
+        "Thumbnail":  "https://i.ytimg.com/vi/SZnVaG54PnE/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T05:40:16.0000000Z",
+        "DiscoveredAt":  "2026-08-28T06:03:28.0949350Z",
+        "Duration":  "00:01:35",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Z001AeGRXEo",
         "Title":  "BAND-MAID - Present Perfect / 奈良育英軽音楽部cover 【sneaker ages2026 関西大会】#軽音 #高校生 #live #スニーカーエイジ #band",
         "Channel":  "Naraikuei Light music Club",
