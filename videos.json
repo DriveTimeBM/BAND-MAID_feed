@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rcONCT_gbPI",
+        "Title":  "BAND-MAID: Hate (Official Live) Reaction",
+        "Channel":  "NeuroticVowsMusic",
+        "ChannelId":  "UCTnGd-ZCNO-qqlfVRWxdaRg",
+        "Url":  "https://youtu.be/rcONCT_gbPI",
+        "Thumbnail":  "https://i.ytimg.com/vi/rcONCT_gbPI/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T19:45:17.0000000Z",
+        "DiscoveredAt":  "2026-08-28T19:47:42.7294624Z",
+        "Duration":  "00:09:42",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ONLXdb6d_OY",
+        "Title":  "Band maid energetic reaction",
+        "Channel":  "T-Amigos",
+        "ChannelId":  "UCR21QgjPH0iudTheDSrr1cw",
+        "Url":  "https://youtu.be/ONLXdb6d_OY",
+        "Thumbnail":  "https://i.ytimg.com/vi/ONLXdb6d_OY/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T19:20:07.0000000Z",
+        "DiscoveredAt":  "2026-08-28T19:47:41.9089710Z",
+        "Duration":  "00:08:43",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6IMkaClJ0l0",
         "Title":  "BAND-MAID – Manners (Acoustic Version) | Classical Guitarist Reacts",
         "Channel":  "Jone Ruiz Guitar",
