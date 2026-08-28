@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZB9u3Te-5NU",
+        "Title":  "BAND-MAID x The Warning – ‘SHOW THEM’ REACTION | THIS COLLAB IS INSANE! 🤯",
+        "Channel":  "Jeanette Music",
+        "ChannelId":  "UCNFfh0zk_jvV4_IPNExuLeA",
+        "Url":  "https://youtu.be/ZB9u3Te-5NU",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZB9u3Te-5NU/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T10:39:41.0000000Z",
+        "DiscoveredAt":  "2026-08-28T12:22:21.4995517Z",
+        "Duration":  "00:10:41",
+        "ViewsAtDiscovery":  351,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "OpvM2FcjZCM",
+        "Title":  "THAT’S HOW YOU START A ROCK SONG! | BAND-MAID – Play Live Reaction",
+        "Channel":  "Riffs and Reactions With Berry",
+        "ChannelId":  "UCwHEceu0iJDIvhDy6hd0FfQ",
+        "Url":  "https://youtu.be/OpvM2FcjZCM",
+        "Thumbnail":  "https://i.ytimg.com/vi/OpvM2FcjZCM/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T09:30:17.0000000Z",
+        "DiscoveredAt":  "2026-08-28T12:22:20.5491970Z",
+        "Duration":  "00:09:43",
+        "ViewsAtDiscovery":  502,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "f1LAPpKghZA",
         "Title":  "So Much Fun!  Band Maid With Dani of The Warning - Show Them (Live)",
         "Channel":  "Shirin Reacts",
