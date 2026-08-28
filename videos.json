@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6IMkaClJ0l0",
+        "Title":  "BAND-MAID – Manners (Acoustic Version) | Classical Guitarist Reacts",
+        "Channel":  "Jone Ruiz Guitar",
+        "ChannelId":  "UCIB9yrPidvZhW8uf_PT5AtA",
+        "Url":  "https://youtu.be/6IMkaClJ0l0",
+        "Thumbnail":  "https://i.ytimg.com/vi/6IMkaClJ0l0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T15:21:38.0000000Z",
+        "DiscoveredAt":  "2026-08-28T15:46:14.1741142Z",
+        "Duration":  "00:18:38",
+        "ViewsAtDiscovery":  48,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "rgWwNszqAQ8",
+        "Title":  "Choose me • BAND-MAID • Tradução [Português • Japonês • Romaji]",
+        "Channel":  "Kawame Subs",
+        "ChannelId":  "UCH7VWDQ6hmevtTCukpizScw",
+        "Url":  "https://youtu.be/rgWwNszqAQ8",
+        "Thumbnail":  "https://i.ytimg.com/vi/rgWwNszqAQ8/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T14:55:43.0000000Z",
+        "DiscoveredAt":  "2026-08-28T15:46:13.3076056Z",
+        "Duration":  "00:04:03",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7-Seh5QsWW0",
         "Title":  "BAND-MAID – Thrill | THESE GIRLS NEVER MISS! 🔥",
         "Channel":  "Gigi Reacts | Lithuanian in the UK",
