@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 12:22:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:56:10 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 08/28/2026 - Updates</title>
+      <link>https://bsky.app/profile/did:plc:ayvqhrlstywie67k3324g54y/post/3mu5fa3s3hk2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ayvqhrlstywie67k3324g54y/post/3mu5fa3s3hk2w</guid>
+      <pubDate>Fri, 28 Aug 2026 12:43:20 GMT</pubDate>
+      <dc:creator>RPM (raccoonpiratemom.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>08/28/2026 - Updates</p><p><em>BlueSky &middot; raccoonpiratemom.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Why Why Why</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mu4p2nsrds2e</link>
@@ -899,15 +908,6 @@
       <dc:creator>atasinti🍺 (atasinti.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>わーお！！！<br/>https://x.com/bandmaid/status/2089306974634836008<br/><br/>#BABYMETAL #BANDMAID #METALVERSE </p><p><em>BlueSky &middot; atasinti.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Really enjoyed #サマソニ this year, my first time there! Positively surprised by ...</title>
-      <link>https://bsky.app/profile/did:plc:2zziubqb5v7bdw2ahteej7wr/post/3mtb2z2riou2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2zziubqb5v7bdw2ahteej7wr/post/3mtb2z2riou2a</guid>
-      <pubDate>Mon, 17 Aug 2026 06:25:46 GMT</pubDate>
-      <dc:creator>Konrad ‘ktoso’ Malawski (kto.so)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Really enjoyed #サマソニ this year, my first time there! Positively surprised by @TheWarningBand2, great energy! Also saw BandMaid and Jamiroquai and Suchmos and Bini. All fun in their own ways. Hope to come back next year. Missed L&#39;arc tho, next time :) #music </p><p><em>BlueSky &middot; kto.so</em></p>]]></description>
     </item>
   </channel>
 </rss>
