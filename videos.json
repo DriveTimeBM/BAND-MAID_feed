@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "f1LAPpKghZA",
+        "Title":  "So Much Fun!  Band Maid With Dani of The Warning - Show Them (Live)",
+        "Channel":  "Shirin Reacts",
+        "ChannelId":  "UCKl8gsoikwaVY8MwERSy8yg",
+        "Url":  "https://youtu.be/f1LAPpKghZA",
+        "Thumbnail":  "https://i.ytimg.com/vi/f1LAPpKghZA/hqdefault.jpg",
+        "PublishedAt":  "2026-08-28T07:01:32.0000000Z",
+        "DiscoveredAt":  "2026-08-28T07:47:07.0866291Z",
+        "Duration":  "00:08:08",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SZnVaG54PnE",
         "Title":  "BAND-MAID、新曲「SPIN」10日リリース決定！北米ツアー新ビジュアル公開でファン注目、次なる展開に期待高まる",
         "Channel":  "Ohtani News 24_7",
