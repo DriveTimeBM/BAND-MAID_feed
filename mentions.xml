@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 28 Aug 2026 04:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 12:22:31 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Why Why Why</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mu4p2nsrds2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mu4p2nsrds2e</guid>
+      <pubDate>Fri, 28 Aug 2026 06:06:34 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Why Why Why<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 10 years ago Band-Maid played 7 songs at Blue in Moriyama JP on 2016/8/28. Th...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mu4oofllgi2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mu4oofllgi2l</guid>
+      <pubDate>Fri, 28 Aug 2026 05:59:43 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>10 years ago Band-Maid played 7 songs at Blue in Moriyama JP on 2016/8/28. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mu4hobf67f2d</link>
@@ -890,24 +908,6 @@
       <dc:creator>Konrad ‘ktoso’ Malawski (kto.so)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Really enjoyed #サマソニ this year, my first time there! Positively surprised by @TheWarningBand2, great energy! Also saw BandMaid and Jamiroquai and Suchmos and Bini. All fun in their own ways. Hope to come back next year. Missed L&#39;arc tho, next time :) #music </p><p><em>BlueSky &middot; kto.so</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: onset</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtazwii4422y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtazwii4422y</guid>
-      <pubDate>Mon, 17 Aug 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: onset<br/>Album: <br/>Release: 1/15/2019<br/>Music: BAND-MAID<br/>Lyrics: <br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played at ASOBITCITY in Tokyo JP on 2014/8/17. The set...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtazkham7x26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtazkham7x26</guid>
-      <pubDate>Mon, 17 Aug 2026 05:59:49 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played at ASOBITCITY in Tokyo JP on 2014/8/17. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
