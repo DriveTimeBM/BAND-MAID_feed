@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "VLtx-YBQNd4",
+        "Title":  "Unleash!!!!! • BAND-MAID • Legendado [Português - Japonês - Romaji]",
+        "Channel":  "Kawame Subs",
+        "ChannelId":  "UCH7VWDQ6hmevtTCukpizScw",
+        "Url":  "https://youtu.be/VLtx-YBQNd4",
+        "Thumbnail":  "https://i.ytimg.com/vi/VLtx-YBQNd4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-29T16:13:25.0000000Z",
+        "DiscoveredAt":  "2026-08-29T16:23:41.9785598Z",
+        "Duration":  "00:04:44",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BHNAst6A1ek",
         "Title":  "Sense • BAND-MAID • Legendado [Português - Japonês - Romaji]",
         "Channel":  "Kawame Subs",
