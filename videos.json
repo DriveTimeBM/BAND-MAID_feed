@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7sGMkKLeQdA",
+        "Title":  "🇯🇵 BAND-MAID –「REAL EXISTENCE (LIVE)」| アメリカ人ドラマー初見リアクション 🖤",
+        "Channel":  "Rea Reacts JP",
+        "ChannelId":  "UCJw7aqL3uWdG3lO7cmr8jcw",
+        "Url":  "https://youtu.be/7sGMkKLeQdA",
+        "Thumbnail":  "https://i.ytimg.com/vi/7sGMkKLeQdA/hqdefault.jpg",
+        "PublishedAt":  "2026-08-29T09:00:31.0000000Z",
+        "DiscoveredAt":  "2026-08-29T10:07:57.6416660Z",
+        "Duration":  "00:12:22",
+        "ViewsAtDiscovery":  90,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "EeN0XBwRJVU",
+        "Title":  "【BAND-MAID】DICE Bass Cover #bandmaid    #basscover   #bass   #弾いてみた #dice #basssolo",
+        "Channel":  "てつギター",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/EeN0XBwRJVU",
+        "Thumbnail":  "https://i.ytimg.com/vi/EeN0XBwRJVU/hqdefault.jpg",
+        "PublishedAt":  "2026-08-29T08:57:03.0000000Z",
+        "DiscoveredAt":  "2026-08-29T10:07:57.0321154Z",
+        "Duration":  "00:04:14",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "LaVsu2p4ins",
         "Title":  "glory • BAND-MAID • Legendado [Português • Japonês • Romaji]",
         "Channel":  "Kawame Subs",
