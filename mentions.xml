@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 15:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 19:54:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] no band-maid in florida for giacomo?</title>
+      <link>https://bsky.app/profile/did:plc:3jcig4lj6ilnzvvzbgv3kqag/post/3muabcwmng22r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3jcig4lj6ilnzvvzbgv3kqag/post/3muabcwmng22r</guid>
+      <pubDate>Sat, 29 Aug 2026 16:11:19 GMT</pubDate>
+      <dc:creator>🍰cake (typhlosions.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>no band-maid in florida for giacomo?</p><p><em>BlueSky &middot; typhlosions.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://m...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mua6sx3b5e2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>t the lyrics will remain in your ears, until now we haven’t written songs for BAND-MAID like that.<br/><br/>— The word &quot;secret&quot; comes out, is secret love is the theme?<br/><br/>Saiki: I agree. The content is pretty deep. A woman with a really condescending attitude is the protagonist (laughs).<br/><br/>Miku: It is the very</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Don't you tell ME</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtdkfgvyfy2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtdkfgvyfy2t</guid>
-      <pubDate>Tue, 18 Aug 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Don&#39;t you tell ME<br/>Album: Just Bring It<br/>Release: 1/10/2017<br/>Music: BAND-MAID<br/>Lyrics: 	小鳩ミク [Kobato, Miku] 彩姫 [Saiki]<br/>Arrangement: BAND-MAID<br/>1st Live:12/23/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
