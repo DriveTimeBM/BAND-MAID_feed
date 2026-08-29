@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AUXr-d_9huE",
+        "Title":  "Gen X Reacts & Relates I Band Maid \"Domination Live\" I How Are You Dominating Your World Today?",
+        "Channel":  "Initial Music & Adventure Studios",
+        "ChannelId":  "UCcdhlVjoir4bgyk7ILXL0tA",
+        "Url":  "https://youtu.be/AUXr-d_9huE",
+        "Thumbnail":  "https://i.ytimg.com/vi/AUXr-d_9huE/hqdefault.jpg",
+        "PublishedAt":  "2026-08-29T21:19:08.0000000Z",
+        "DiscoveredAt":  "2026-08-29T23:47:06.1723350Z",
+        "Duration":  "00:10:05",
+        "ViewsAtDiscovery":  67,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "GPfk5idlbp4",
+        "Title":  "Band-Maid Spin CD Where to Buy #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/GPfk5idlbp4",
+        "Thumbnail":  "https://i.ytimg.com/vi/GPfk5idlbp4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-29T20:45:45.0000000Z",
+        "DiscoveredAt":  "2026-08-29T23:47:05.4990338Z",
+        "Duration":  "00:14:43",
+        "ViewsAtDiscovery":  165,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "RRAn1SxQFyg",
         "Title":  "BAND-MAID “you.” LIVE REACTION | First Time Hearing This Side of BAND-MAID!",
         "Channel":  "Ginger T Reacts",
