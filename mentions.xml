@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 07:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 15:51:52 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://m...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mua6sx3b5e2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mua6sx3b5e2n</guid>
+      <pubDate>Sat, 29 Aug 2026 15:26:35 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] ポニーキャニオン様からBAND-MAID"ENERGETIC"リリース記念応募抽選キャンペーンのC賞当選のENERGETIC TOWELが届きました！</title>
+      <link>https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3mu7zjxjhts2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3mu7zjxjhts2n</guid>
+      <pubDate>Sat, 29 Aug 2026 13:52:05 GMT</pubDate>
+      <dc:creator>くぼんヌ。@ジミコスキー (kubonnu.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>ポニーキャニオン様からBAND-MAID&quot;ENERGETIC&quot;リリース記念応募抽選キャンペーンのC賞当選のENERGETIC TOWELが届きました！<br/>武道館に持って行くか！<br/> #bandmaid</p><p><em>BlueSky &middot; kubonnu.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Why Why Why</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mu77jjgld22e</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Don&#39;t you tell ME<br/>Album: Just Bring It<br/>Release: 1/10/2017<br/>Music: BAND-MAID<br/>Lyrics: 	小鳩ミク [Kobato, Miku] 彩姫 [Saiki]<br/>Arrangement: BAND-MAID<br/>1st Live:12/23/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 20 songs at PabellÃ³n Oeste del Palacio de los D...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtdjzgczri2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtdjzgczri2h</guid>
-      <pubDate>Tue, 18 Aug 2026 05:59:48 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 20 songs at Pabell&#195;&#179;n Oeste del Palacio de los Deportes in Mexico City MX on 2023/8/18. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] MONDAYS CAN SUCK! YOUR MUSIC DOESN'T HAVE TO. MAKE MONDAYS MEATY AGAIN - BAND...</title>
-      <link>https://bsky.app/profile/did:plc:3tglkt6d6l4jjqdz6bdjyk7k/post/3mtda6m6m6k2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3tglkt6d6l4jjqdz6bdjyk7k/post/3mtda6m6m6k2j</guid>
-      <pubDate>Tue, 18 Aug 2026 03:03:48 GMT</pubDate>
-      <dc:creator>alanlechusza.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>MONDAYS CAN SUCK! YOUR MUSIC DOESN&#39;T HAVE TO. MAKE MONDAYS MEATY AGAIN - BAND MAID, &quot;THRILL,&quot; youtu.be/Uds7g3M-4lQ?...<br/>follow/subscribe/share/comment<br/>#japanesemetal #culture #meat #popculture #feminism</p><p><em>BlueSky &middot; alanlechusza.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
