@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "t2-9kj9ldjM",
+        "Title":  "osu! Rizer · BAND-MAID CROSS 6.3★ [AIR'S EXPERT] HDHR FC",
+        "Channel":  "A Major Score",
+        "ChannelId":  "UCdPe0uC0WYrgaKyiDDcDFfw",
+        "Url":  "https://youtu.be/t2-9kj9ldjM",
+        "Thumbnail":  "https://i.ytimg.com/vi/t2-9kj9ldjM/hqdefault.jpg",
+        "PublishedAt":  "2026-08-30T18:00:07.0000000Z",
+        "DiscoveredAt":  "2026-08-30T18:06:57.6800142Z",
+        "Duration":  "00:03:59",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "2Lo61OVwtIo",
+        "Title":  "MIKU CREATED BAND-MAID?! 🤯 The Origin Story I Never Knew | INT Reacts I DONO POWERED POLSKA BOB!!",
+        "Channel":  "Underground Hustlin'",
+        "ChannelId":  "UCr7h__vd8nVUX02BkplGxKw",
+        "Url":  "https://youtu.be/2Lo61OVwtIo",
+        "Thumbnail":  "https://i.ytimg.com/vi/2Lo61OVwtIo/hqdefault.jpg",
+        "PublishedAt":  "2026-08-30T17:11:39.0000000Z",
+        "DiscoveredAt":  "2026-08-30T18:06:56.6293642Z",
+        "Duration":  "00:44:06",
+        "ViewsAtDiscovery":  19,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "EOwKEgyI-X0",
         "Title":  "SUPER SUNSHINE - BAND-MAID(Guitar Cover)",
         "Channel":  "준캐슬",
