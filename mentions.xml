@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 30 Aug 2026 10:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:58:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Introduce yourself with 10 acts or bands you've seen live.</title>
+      <link>https://bsky.app/profile/did:plc:jo4icfzlda3zi6eq5fs27pur/post/3much5mbn4c2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jo4icfzlda3zi6eq5fs27pur/post/3much5mbn4c2i</guid>
+      <pubDate>Sun, 30 Aug 2026 13:01:03 GMT</pubDate>
+      <dc:creator>Wenzao (liwenzao.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Introduce yourself with 10 acts or bands you&#39;ve seen live.<br/><br/>BAND-MAID<br/>Billie Eilish <br/>Chloe Qisha<br/>HAIM<br/>Halsey<br/>Keane<br/>Muse<br/>Renee Rapp<br/>ROSALIA<br/>Soccer Mommy</p><p><em>BlueSky &middot; liwenzao.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Apologies for Myspacing up your timelines, but...</title>
+      <link>https://bsky.app/profile/did:plc:h4lr4u4vc5k23v3bukb7qmr2/post/3mucgev6h6c2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:h4lr4u4vc5k23v3bukb7qmr2/post/3mucgev6h6c2t</guid>
+      <pubDate>Sun, 30 Aug 2026 12:47:13 GMT</pubDate>
+      <dc:creator>O.D. Smith (odsmithwriter.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Apologies for Myspacing up your timelines, but...<br/><br/>Introduce yourself with 10 acts or bands you&#39;ve seen live<br/>Nine Inch Nails<br/>Deftones<br/>Incubus<br/>A Perfect Circle<br/>BAND-MAID<br/>Sunna<br/>Pitchshifter<br/>Tool<br/>The Wildhearts<br/>Korn</p><p><em>BlueSky &middot; odsmithwriter.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Went to do the "10 live acts you've seen" post going around, and realised I o...</title>
       <link>https://bsky.app/profile/did:plc:ia7qtmh33vram75i5xovblrw/post/3muc3cvqags2d</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago Band-Maid played 6 songs at Shibuya Milkyway in Tokyo JP on 2015/8/19. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 7 songs at Maishima in Osaka JP on 2017/8/19. Th...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtg2i7crpe2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtg2i7crpe2h</guid>
-      <pubDate>Wed, 19 Aug 2026 05:59:46 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 7 songs at Maishima in Osaka JP on 2017/8/19. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago Band-Maid played 7 songs at Makuhari Messe Kokusai Tenjijou Hall ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtg2i5u7hw2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtg2i5u7hw2m</guid>
-      <pubDate>Wed, 19 Aug 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago Band-Maid played 7 songs at Makuhari Messe Kokusai Tenjijou Hall 8 in Chiba JP on 2018/8/19. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
