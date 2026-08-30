@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "I0HjGdVLDuU",
+        "Title":  "Band Maid - Toi Et Mio Special Intro Reaction!",
+        "Channel":  "Lil mann™ Reacts",
+        "ChannelId":  "UCSlY9oi5Ra_poD3D3gK2I0A",
+        "Url":  "https://youtu.be/I0HjGdVLDuU",
+        "Thumbnail":  "https://i.ytimg.com/vi/I0HjGdVLDuU/hqdefault.jpg",
+        "PublishedAt":  "2026-08-30T00:27:56.0000000Z",
+        "DiscoveredAt":  "2026-08-30T00:31:31.8993640Z",
+        "Duration":  "00:10:26",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "AUXr-d_9huE",
         "Title":  "Gen X Reacts & Relates I Band Maid \"Domination Live\" I How Are You Dominating Your World Today?",
         "Channel":  "Initial Music & Adventure Studios",
