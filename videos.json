@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dSNnUfWEPy0",
+        "Title":  "High Energy Breakfast I Band Maid \"Domination Live\" I Have an Awesome Day!",
+        "Channel":  "Initial Music & Adventure Studios",
+        "ChannelId":  "UCcdhlVjoir4bgyk7ILXL0tA",
+        "Url":  "https://youtu.be/dSNnUfWEPy0",
+        "Thumbnail":  "https://i.ytimg.com/vi/dSNnUfWEPy0/hqdefault.jpg",
+        "PublishedAt":  "2026-08-30T12:20:18.0000000Z",
+        "DiscoveredAt":  "2026-08-30T12:31:27.1360876Z",
+        "Duration":  "00:01:12",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "5l_L91vfPd4",
+        "Title":  "外国人が反応 | She Does THIS At Every Live Show?! | BAND-MAID Miku Kobato Docuseries Parts 2 & 3 Reaction",
+        "Channel":  "Overthinking with Dennis",
+        "ChannelId":  "UCvk87FOUye_htA5xMl3GtIQ",
+        "Url":  "https://youtu.be/5l_L91vfPd4",
+        "Thumbnail":  "https://i.ytimg.com/vi/5l_L91vfPd4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-30T12:00:25.0000000Z",
+        "DiscoveredAt":  "2026-08-30T12:31:26.3536658Z",
+        "Duration":  "01:35:43",
+        "ViewsAtDiscovery":  67,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1QyD4i0-56E",
         "Title":  "BAND-MAID - ENERGETIC - Unboxing Music CDs - Episode 7",
         "Channel":  "Leo Chillout Spot",
