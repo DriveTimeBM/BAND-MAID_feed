@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 30 Aug 2026 08:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 10:46:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Went to do the "10 live acts you've seen" post going around, and realised I o...</title>
+      <link>https://bsky.app/profile/did:plc:ia7qtmh33vram75i5xovblrw/post/3muc3cvqags2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ia7qtmh33vram75i5xovblrw/post/3muc3cvqags2d</guid>
+      <pubDate>Sun, 30 Aug 2026 09:29:15 GMT</pubDate>
+      <dc:creator>Lavender Courage (lavendercourage.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Went to do the &quot;10 live acts you&#39;ve seen&quot; post going around, and realised I only had 6... whoops, lmao. I gotta work on that!!<br/><br/>Mine are:<br/><br/>- My Chemical Romance<br/>- Phantom Siita<br/>- BAND-MAID<br/>- Kyary Pamyu Pamyu (before the controversy)<br/>- Frank Turner<br/>- Seasick Steve</p><p><em>BlueSky &middot; lavendercourage.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Balance</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mubpylg6tc2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago Band-Maid played 7 songs at Makuhari Messe Kokusai Tenjijou Hall 8 in Chiba JP on 2018/8/19. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 6 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mtfwvae2ie2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mtfwvae2ie2v</guid>
-      <pubDate>Wed, 19 Aug 2026 04:55:28 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>6 years ago<br/>Thrill MV<br/>milestone<br/>surpassed 13 million views<br/>2020/8/19<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
