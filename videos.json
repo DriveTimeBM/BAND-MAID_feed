@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "X9SYezVCk5g",
+        "Title":  "BAND-MAID WILD BUNCH Fest. 2026 Day2参戦レポート (Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/X9SYezVCk5g",
+        "Thumbnail":  "https://i.ytimg.com/vi/X9SYezVCk5g/hqdefault.jpg",
+        "PublishedAt":  "2026-08-31T03:45:34.0000000Z",
+        "DiscoveredAt":  "2026-08-31T03:45:53.8320313Z",
+        "Duration":  "00:36:40",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-MQ0ShruUMQ",
         "Title":  "Band-Maid Plane Ride. Crashing into Bob's House.",
         "Channel":  "The Band of Maids Channel.",
