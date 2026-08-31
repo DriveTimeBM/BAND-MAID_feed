@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 13:47:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:18:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3muezs2mq7g2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3muezs2mq7g2m</guid>
+      <pubDate>Mon, 31 Aug 2026 13:39:55 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Guess it's now my head cannon that Band Maid is the Japanese branch of magica...</title>
       <link>https://bsky.app/profile/did:plc:qpgxr2s2asiottdkcv5sia4m/post/3mueyb2i32s2u</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>guitar solo and double bass drumming. Also, we put out “Japaneseness” in the MV so that you can clearly see we are from Japan. Above all, the song allowed us to express our direction different from pop and to change where to go.<br/><br/>Miku: We Band-Maid&#174; were originally conscious of approaching people ov</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] — After deciding to go in the direction of loud rock through Thrill, you Band...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtildainv22w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtildainv22w</guid>
-      <pubDate>Thu, 20 Aug 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>— After deciding to go in the direction of loud rock through Thrill, you Band-Maid&#174; further refined your direction through the following song REAL EXISTENCE (more than 770,000 views on YouTube).<br/><br/>Akane: We really showed which direction we want to go in as Band-Maid&#174;, by making it heavy with a shred </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
