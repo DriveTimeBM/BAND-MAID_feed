@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 22:49:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:51:37 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] https://loops.video/tag/BandMaid https://loops.video/tag/Rock https://loops.v...</title>
+      <link>https://loops.video/v/hRmQd9SLU9</link>
+      <guid isPermaLink="true">https://loops.video/v/hRmQd9SLU9</guid>
+      <pubDate>Mon, 31 Aug 2026 23:47:30 GMT</pubDate>
+      <dc:creator>Kingu (Kingu@loops.video)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>https://loops.video/tag/BandMaid https://loops.video/tag/Rock https://loops.video/tag/Jrock https://loops.video/tag/Music</p><p><em>Mastodon &middot; Kingu@loops.video</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID Announces New Single “SPIN” Ahead of North American Tour</title>
       <link>https://bsky.app/profile/did:plc:ilpkzfoiapzmxtibnk3fz7td/post/3muftt4fgvs2y</link>
@@ -899,15 +908,6 @@
       <dc:creator>EfectoParallax/Replicante (efectoparallax.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID presenta “SHOW THEM” con The Warning en el festival Summer Sonic www.parallaxradio.net/post/band-ma... @TheWarningBand2 @TheWarningArg @bandmaid @miku_bandmaid #monterrey #felizs&#225;bado #LaCasaDeLosFamososM&#233;xico #cdmx #cuu #BuenosD&#237;as</p><p><em>BlueSky &middot; efectoparallax.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] since i've discovered BAND-MAID ii realized that a LOT of the "big" albums of...</title>
-      <link>https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3mtjgh6k6d22e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3mtjgh6k6d22e</guid>
-      <pubDate>Thu, 20 Aug 2026 14:11:57 GMT</pubDate>
-      <dc:creator>smiley (smiley.codes)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>since i&#39;ve discovered BAND-MAID ii realized that a LOT of the &quot;big&quot; albums of the past 50-60 years had only a handful of great songs on them and often the rest was mediocre at best. yes, some invented entire genres, but that didn&#39;t stop them from releasing b-side material and leftovers on albums.</p><p><em>BlueSky &middot; smiley.codes</em></p>]]></description>
     </item>
   </channel>
 </rss>
