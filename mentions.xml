@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 14:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 21:29:50 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mufrbl4blp2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mufrbl4blp2n</guid>
+      <pubDate>Mon, 31 Aug 2026 20:40:12 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3muezs2mq7g2m</link>
@@ -899,15 +908,6 @@
       <dc:creator>smiley (smiley.codes)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>tbh &quot;can listen to with no skips&quot; is a low bar. i&#39;m raising you &quot;3 albums with ALL HITS NO SKIPS&quot;<br/><br/>The Warning - ERROR<br/>BAND-MAID - WORLD DOMINATION (and literally everything else ever since they&#39;ve started writing their own songs)<br/>Wolf Alice - Visions of a Life</p><p><em>BlueSky &middot; smiley.codes</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] guitar solo and double bass drumming. Also, we put out “Japaneseness” in the ...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtildaurat2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtildaurat2e</guid>
-      <pubDate>Thu, 20 Aug 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>guitar solo and double bass drumming. Also, we put out “Japaneseness” in the MV so that you can clearly see we are from Japan. Above all, the song allowed us to express our direction different from pop and to change where to go.<br/><br/>Miku: We Band-Maid&#174; were originally conscious of approaching people ov</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
