@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 08:08:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 13:47:50 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Guess it's now my head cannon that Band Maid is the Japanese branch of magica...</title>
+      <link>https://bsky.app/profile/did:plc:qpgxr2s2asiottdkcv5sia4m/post/3mueyb2i32s2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qpgxr2s2asiottdkcv5sia4m/post/3mueyb2i32s2u</guid>
+      <pubDate>Mon, 31 Aug 2026 13:12:31 GMT</pubDate>
+      <dc:creator>Eliana Delune (eliana-delune.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Guess it&#39;s now my head cannon that Band Maid is the Japanese branch of magical girls.</p><p><em>BlueSky &middot; eliana-delune.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Kanami: I was pretty conscious of newness when I wrote it. It’s based on the ...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mueaherv2t22</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>— After deciding to go in the direction of loud rock through Thrill, you Band-Maid&#174; further refined your direction through the following song REAL EXISTENCE (more than 770,000 views on YouTube).<br/><br/>Akane: We really showed which direction we want to go in as Band-Maid&#174;, by making it heavy with a shred </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: REAL EXISTENCE</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtildadmpx2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtildadmpx2w</guid>
-      <pubDate>Thu, 20 Aug 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: REAL EXISTENCE<br/>Album: New Beginning<br/>Release: 11/17/2015<br/>Music: 後藤康二 [Goto, Koji]<br/>Lyrics: 佐々木美和 [Sasaki, Miwa]<br/>Arrangement: 後藤康二 [Goto, Koji]<br/>1st Live:3/6/2015<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
