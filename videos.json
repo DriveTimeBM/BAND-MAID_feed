@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-TjQ7gszaO4",
+        "Title":  "Reacting to Choose Me by Band-Maid Was Both Powerful and Vulnerable",
+        "Channel":  "The Smith House Reactions",
+        "ChannelId":  "UCfQeTYw5jS1UryRg8GN3_PQ",
+        "Url":  "https://youtu.be/-TjQ7gszaO4",
+        "Thumbnail":  "https://i.ytimg.com/vi/-TjQ7gszaO4/hqdefault.jpg",
+        "PublishedAt":  "2026-08-31T05:00:32.0000000Z",
+        "DiscoveredAt":  "2026-08-31T05:25:29.7960930Z",
+        "Duration":  "00:12:40",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "X9SYezVCk5g",
         "Title":  "BAND-MAID WILD BUNCH Fest. 2026 Day2参戦レポート (Live Report)",
         "Channel":  "いちお盟主のつぶやき",
