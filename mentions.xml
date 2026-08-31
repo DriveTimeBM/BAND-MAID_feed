@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 21:29:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:49:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID Announces New Single “SPIN” Ahead of North American Tour</title>
+      <link>https://bsky.app/profile/did:plc:ilpkzfoiapzmxtibnk3fz7td/post/3muftt4fgvs2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ilpkzfoiapzmxtibnk3fz7td/post/3muftt4fgvs2y</guid>
+      <pubDate>Mon, 31 Aug 2026 21:25:48 GMT</pubDate>
+      <dc:creator>Outburn Magazine (outburnmag.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID Announces New Single “SPIN” Ahead of North American Tour<br/>Japanese rock band BAND-MAID will release the new single “SPIN” on October 28, 2026. The announcement lands as #bandmaid prepares to bring their WORLD TOUR 2026 to North America this October. #ponycanyon<br/>outburn.com/news/band-ma...</p><p><em>BlueSky &middot; outburnmag.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mufrbl4blp2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>smiley (smiley.codes)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>since i&#39;ve discovered BAND-MAID ii realized that a LOT of the &quot;big&quot; albums of the past 50-60 years had only a handful of great songs on them and often the rest was mediocre at best. yes, some invented entire genres, but that didn&#39;t stop them from releasing b-side material and leftovers on albums.</p><p><em>BlueSky &middot; smiley.codes</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] tbh "can listen to with no skips" is a low bar. i'm raising you "3 albums wit...</title>
-      <link>https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3mtjgapfads2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3mtjgapfads2e</guid>
-      <pubDate>Thu, 20 Aug 2026 14:08:19 GMT</pubDate>
-      <dc:creator>smiley (smiley.codes)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>tbh &quot;can listen to with no skips&quot; is a low bar. i&#39;m raising you &quot;3 albums with ALL HITS NO SKIPS&quot;<br/><br/>The Warning - ERROR<br/>BAND-MAID - WORLD DOMINATION (and literally everything else ever since they&#39;ve started writing their own songs)<br/>Wolf Alice - Visions of a Life</p><p><em>BlueSky &middot; smiley.codes</em></p>]]></description>
     </item>
   </channel>
 </rss>
