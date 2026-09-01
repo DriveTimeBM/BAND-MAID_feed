@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HX7U5cFTwig",
+        "Title":  "#103 BAND-MAID / HATE? + LIVE - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/HX7U5cFTwig",
+        "Thumbnail":  "https://i.ytimg.com/vi/HX7U5cFTwig/hqdefault.jpg",
+        "PublishedAt":  "2026-09-01T19:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-01T19:45:20.8373814Z",
+        "Duration":  "00:27:15",
+        "ViewsAtDiscovery":  21,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "COyz4ZiDPVs",
         "Title":  "徳永暁人 (Akihito Tokunaga) / Don’t let me down  (BAND-MAID self-cover)",
         "Channel":  "生きた証を残す旅 2",
