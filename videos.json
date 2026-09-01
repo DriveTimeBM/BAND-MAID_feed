@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "COyz4ZiDPVs",
+        "Title":  "徳永暁人 (Akihito Tokunaga) / Don’t let me down  (BAND-MAID self-cover)",
+        "Channel":  "生きた証を残す旅 2",
+        "ChannelId":  "UCo57puZ6964Slfmd8-R7B8w",
+        "Url":  "https://youtu.be/COyz4ZiDPVs",
+        "Thumbnail":  "https://i.ytimg.com/vi/COyz4ZiDPVs/hqdefault.jpg",
+        "PublishedAt":  "2026-09-01T19:00:32.0000000Z",
+        "DiscoveredAt":  "2026-09-01T19:14:35.0050904Z",
+        "Duration":  "00:02:57",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MnjcI053sDw",
         "Title":  "Band-Maid - Toi et Moi | Reaction | Well, well well .....",
         "Channel":  "Battoosh & Nonna",
