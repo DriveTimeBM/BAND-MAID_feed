@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 07:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:42:48 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Downloaded this and immediately discovered BAND-MAID is playing down the stre...</title>
+      <link>https://bsky.app/profile/did:plc:tuijmy3dsc4ajiy6vo3i76pc/post/3muhvc6huts2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuijmy3dsc4ajiy6vo3i76pc/post/3muhvc6huts2b</guid>
+      <pubDate>Tue, 01 Sep 2026 16:57:27 GMT</pubDate>
+      <dc:creator>Laur Uy (laurbits.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Downloaded this and immediately discovered BAND-MAID is playing down the street from me! FANTASTIC FEATURE!</p><p><em>BlueSky &middot; laurbits.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Youth</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mugqwbc5fh2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: alone<br/>Album: Brand New MAID<br/>Release: 5/17/2016<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku] 彩姫 [Saiki]<br/>Arrangement: BAND-MAID<br/>1st Live:9/30/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 11 years ago Band-Maid played 5 songs at Shinjuku ANTIKNOCK in Tokyo JP on 20...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtl3fyqvhi2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtl3fyqvhi2y</guid>
-      <pubDate>Fri, 21 Aug 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>11 years ago Band-Maid played 5 songs at Shinjuku ANTIKNOCK in Tokyo JP on 2015/8/21. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
