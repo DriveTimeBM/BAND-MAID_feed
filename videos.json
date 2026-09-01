@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "F3W2noCYTx0",
+        "Title":  "I Can't Get Enough Of This Band BAND MAID RINNE",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/F3W2noCYTx0",
+        "Thumbnail":  "https://i.ytimg.com/vi/F3W2noCYTx0/hqdefault.jpg",
+        "PublishedAt":  "2026-09-01T09:45:45.0000000Z",
+        "DiscoveredAt":  "2026-09-01T10:01:17.2597915Z",
+        "Duration":  "00:07:20",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "rzDdBS7ZgOQ",
+        "Title":  "BAND-MAID - Dilly-Dally (bass backing track)",
+        "Channel":  "Solo Melody Bass Tracks",
+        "ChannelId":  "UCDYvRzz4EcZ5-Sd4QhZuQag",
+        "Url":  "https://youtu.be/rzDdBS7ZgOQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/rzDdBS7ZgOQ/hqdefault.jpg",
+        "PublishedAt":  "2026-09-01T09:17:06.0000000Z",
+        "DiscoveredAt":  "2026-09-01T10:01:16.5208903Z",
+        "Duration":  "00:02:53",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ICfrpVXXopg",
         "Title":  "Band Maid - Clang (Live)",
         "Channel":  "Shirin Reacts",
