@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ICfrpVXXopg",
+        "Title":  "Band Maid - Clang (Live)",
+        "Channel":  "Shirin Reacts",
+        "ChannelId":  "UCKl8gsoikwaVY8MwERSy8yg",
+        "Url":  "https://youtu.be/ICfrpVXXopg",
+        "Thumbnail":  "https://i.ytimg.com/vi/ICfrpVXXopg/hqdefault.jpg",
+        "PublishedAt":  "2026-09-01T07:00:36.0000000Z",
+        "DiscoveredAt":  "2026-09-01T07:46:49.7385088Z",
+        "Duration":  "00:05:13",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "2heW6ehplCA",
+        "Title":  "August Highlights - BAND-MAID, Hanabie, and More!!",
+        "Channel":  "Adventura",
+        "ChannelId":  "UCkJkuW8Cqs0Ceifr24KrTmA",
+        "Url":  "https://youtu.be/2heW6ehplCA",
+        "Thumbnail":  "https://i.ytimg.com/vi/2heW6ehplCA/hqdefault.jpg",
+        "PublishedAt":  "2026-09-01T07:00:23.0000000Z",
+        "DiscoveredAt":  "2026-09-01T07:46:48.9599227Z",
+        "Duration":  "00:08:36",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "F9Ij1T71iaU",
         "Title":  "BAND-MAIKO - GION-CHO [祇園町] (OMV) reaction by Indie Filmmakers #geisha #wagakki #banger 🔥🔥🔥🤘😁🤘🔥🔥🔥",
         "Channel":  "MyIndie Productions",
