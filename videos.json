@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "R34Qn9t7UOw",
+        "Title":  "Grim Reacts | BAND-MAID - Toi Et Moi (Live) | Another Recommendation Bonus!",
+        "Channel":  "Grim Reactions",
+        "ChannelId":  "UCr1qe4LNHZrxTtZkUSHBcDg",
+        "Url":  "https://youtu.be/R34Qn9t7UOw",
+        "Thumbnail":  "https://i.ytimg.com/vi/R34Qn9t7UOw/hqdefault.jpg",
+        "PublishedAt":  "2026-09-02T02:45:06.0000000Z",
+        "DiscoveredAt":  "2026-09-02T02:55:36.0239073Z",
+        "Duration":  "00:16:22",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "R08BQZlD7kc",
+        "Title":  "Vocal Strength Coach Reacts to BAND-MAID - Hate? | FIRST TIME",
+        "Channel":  "RedlineReactions",
+        "ChannelId":  "UCU9Bx1sRYYJq2oczh9mkA8Q",
+        "Url":  "https://youtu.be/R08BQZlD7kc",
+        "Thumbnail":  "https://i.ytimg.com/vi/R08BQZlD7kc/hqdefault.jpg",
+        "PublishedAt":  "2026-09-02T02:40:04.0000000Z",
+        "DiscoveredAt":  "2026-09-02T02:55:35.2862459Z",
+        "Duration":  "00:12:03",
+        "ViewsAtDiscovery":  29,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "sSPNyLuFOzQ",
         "Title":  "What is Justice? • BAND-MAID • Legendado [Português - Japonês - Romaji]",
         "Channel":  "Kawame Subs",
