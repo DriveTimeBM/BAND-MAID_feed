@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CSKO1_kF8uE",
+        "Title":  "BAND-MAID REACTION: Freedom Live, Alone MV/Live, Dilly Dally Live, &MORE | Random Reaction Wednesday",
+        "Channel":  "Talking About Nothing",
+        "ChannelId":  "UCtgHTzI2TM4WpNBpOJ-Q1zQ",
+        "Url":  "https://youtu.be/CSKO1_kF8uE",
+        "Thumbnail":  "https://i.ytimg.com/vi/CSKO1_kF8uE/hqdefault.jpg",
+        "PublishedAt":  "2026-09-02T16:30:24.0000000Z",
+        "DiscoveredAt":  "2026-09-02T16:54:48.7399581Z",
+        "Duration":  "00:39:15",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1UH_pnI8afk",
         "Title":  "Domination - BAND-MAID ((band cover))",
         "Channel":  "KoNoEE Band",
