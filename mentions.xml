@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 07:55:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 23:33:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] BAND-MAID ANNOUNCES NEW SINGLE “SPIN” AHEAD OF NORTH AMERICAN TOUR. https://m...</title>
+      <link>https://mastodon.social/@slrmagazine/117204043500617237</link>
+      <guid isPermaLink="true">https://mastodon.social/@slrmagazine/117204043500617237</guid>
+      <pubDate>Wed, 02 Sep 2026 23:29:37 GMT</pubDate>
+      <dc:creator>S.L.R. Magazine (slrmagazine)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>BAND-MAID ANNOUNCES NEW SINGLE “SPIN” AHEAD OF NORTH AMERICAN TOUR. https://mastodon.social/tags/bandmaid @bandmaid<br/><br/>https://slrmagazine.com/2026/09/02/band-maid-announces-new-single-spin-ahead-of-north-american-tour/</p><p><em>Mastodon &middot; slrmagazine</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I REALLY hope the online ticket for Band Maid's Budokan show (assuming they s...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mujgbey7vc24</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>13 years ago<br/>Be OK<br/>live debut<br/>Shibuya-AX, Tokyo, Japan<br/>2013/8/22<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 13 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mtnibybgwe26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mtnibybgwe26</guid>
-      <pubDate>Sat, 22 Aug 2026 04:55:28 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>13 years ago<br/>** 1st event with Saiki **<br/>live debut<br/>P Festival 2013 SHIBUYA-AX<br/>2013/8/22<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
