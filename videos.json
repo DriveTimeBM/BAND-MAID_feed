@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "n8u8Co18a1A",
+        "Title":  "Musicians REACT to Band-Maid: No God (2023 Official Live Video, Tokyo Garden Theater)",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/n8u8Co18a1A",
+        "Thumbnail":  "https://i.ytimg.com/vi/n8u8Co18a1A/hqdefault.jpg",
+        "PublishedAt":  "2026-09-02T10:00:32.0000000Z",
+        "DiscoveredAt":  "2026-09-02T10:38:08.8482014Z",
+        "Duration":  "00:11:04",
+        "ViewsAtDiscovery":  58,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "R34Qn9t7UOw",
         "Title":  "Grim Reacts | BAND-MAID - Toi Et Moi (Live) | Another Recommendation Bonus!",
         "Channel":  "Grim Reactions",
