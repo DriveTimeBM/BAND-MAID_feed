@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BpdtYSzu-m0",
+        "Title":  "Dethfender Reacts: Band Maid-\"Dice & Hate\"- (Live Lollapalooza 2023)",
+        "Channel":  "Guitarist Reacts TV",
+        "ChannelId":  "UCn3wcz9YEoqHYVxnBIHvANg",
+        "Url":  "https://youtu.be/BpdtYSzu-m0",
+        "Thumbnail":  "https://i.ytimg.com/vi/BpdtYSzu-m0/hqdefault.jpg",
+        "PublishedAt":  "2026-09-03T17:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-03T17:49:36.2648729Z",
+        "Duration":  "00:34:29",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wn1MMDJZOwc",
         "Title":  "First Time Reacting Band Maid - Dilly Dally | LIVE PERFORMANCE",
         "Channel":  "ItsAliesReacts",
