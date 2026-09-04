@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DC48hxxS2w4",
+        "Title":  "WHY ARE THESE SO GOOD!! - Why Why Why Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/DC48hxxS2w4",
+        "Thumbnail":  "https://i.ytimg.com/vi/DC48hxxS2w4/hqdefault.jpg",
+        "PublishedAt":  "2026-09-04T21:00:18.0000000Z",
+        "DiscoveredAt":  "2026-09-04T23:05:17.9745289Z",
+        "Duration":  "00:04:06",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qAed_RKxUuU",
         "Title":  "Reaction - BAND-MAID - Ai to Jonetsu no Matador ACOUSTIC - P in D Photo Collage",
         "Channel":  "NAR_by_Marek",
