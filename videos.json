@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "I7yovfnFpdg",
+        "Title":  "First Time Hearing BAND-MAID - Lock and Load",
+        "Channel":  "Jonesey TV",
+        "ChannelId":  "UCKX4ukuuqGZpKN4aoUKVq4w",
+        "Url":  "https://youtu.be/I7yovfnFpdg",
+        "Thumbnail":  "https://i.ytimg.com/vi/I7yovfnFpdg/hqdefault.jpg",
+        "PublishedAt":  "2026-09-04T00:50:53.0000000Z",
+        "DiscoveredAt":  "2026-09-04T01:07:56.2456223Z",
+        "Duration":  "00:07:11",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BpdtYSzu-m0",
         "Title":  "Dethfender Reacts: Band Maid-\"Dice & Hate\"- (Live Lollapalooza 2023)",
         "Channel":  "Guitarist Reacts TV",
