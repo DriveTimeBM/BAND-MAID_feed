@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 13:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:44:33 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3muo2frt33a2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3muo2frt33a2l</guid>
+      <pubDate>Fri, 04 Sep 2026 03:44:55 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] El día que decida no ir a la Japan:</title>
       <link>https://bsky.app/profile/did:plc:rs4lajwlb2sqgakfqeqbxcf5/post/3mumguib32k2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>Keith Sowerby (jamesksowerby.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>www.youtube.com/watch?v=M2kf... Your Sunday Brekkie Tune is from Saiki and Kanami of Band-Maid</p><p><em>BlueSky &middot; jamesksowerby.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: from now on</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtq4pzo6iz2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtq4pzo6iz2e</guid>
-      <pubDate>Sun, 23 Aug 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: from now on<br/>Album: Unleash<br/>Release: 9/20/2022<br/>Music: BAND-MAID<br/>Lyrics: <br/>Arrangement: BAND-MAID<br/>1st Live:8/13/2022<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
