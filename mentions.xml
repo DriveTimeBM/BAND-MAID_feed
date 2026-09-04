@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 08:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:17:25 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] He vuelto a descender por el pozo de Youtube, buscando videos de Nemophilia p...</title>
+      <link>https://bsky.app/profile/did:plc:hs7fmx7elwn4ypmluln52mw5/post/3muorgmwfmk2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hs7fmx7elwn4ypmluln52mw5/post/3muorgmwfmk2s</guid>
+      <pubDate>Fri, 04 Sep 2026 10:37:00 GMT</pubDate>
+      <dc:creator>Breo/Hugo (hugoelbreo.eurosky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>He vuelto a descender por el pozo de Youtube, buscando videos de Nemophilia por lo mucho que me fascina la Ibanez HZK1, y acabar enganchado a Band Maid, que han de ser un grupo m&#225;s prefabricado que los phoskitos, pero mirar tr3mend&#233;rrimus solo de guitarra<br/><br/>www.youtube.com/watch?v=uUt_...</p><p><em>BlueSky &middot; hugoelbreo.eurosky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Woo Hoo!".</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muocd3cepp2a</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>This covers it nicely, Band-Maid &quot;Just Bring It&quot; A 100% match to my earball dopamine receptors.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Ai to Jonetsu no Matador [Love, Passion, Matador]</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtsn72bgeq2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mtsn72bgeq2y</guid>
-      <pubDate>Mon, 24 Aug 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Ai to Jonetsu no Matador [Love, Passion, Matador]<br/>Album: Love, Passion, Matador<br/>Release: 8/12/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:4/26/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
