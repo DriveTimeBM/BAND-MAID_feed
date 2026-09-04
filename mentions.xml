@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 11:17:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:18:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
+      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3muotyxukby2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3muotyxukby2m</guid>
+      <pubDate>Fri, 04 Sep 2026 11:22:58 GMT</pubDate>
+      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] He vuelto a descender por el pozo de Youtube, buscando videos de Nemophilia p...</title>
       <link>https://bsky.app/profile/did:plc:hs7fmx7elwn4ypmluln52mw5/post/3muorgmwfmk2s</link>
@@ -899,15 +908,6 @@
       <dc:creator>Shelbie 💓💛 (theshiz147.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>And wouldn&#39;t you know it, not long after I post this, SCANDAL announces the end of their group activities next year. I was supposed to see them last year, but ended up not being able to. Now I&#39;ll never see them. And BAND-MAID is going on hiatus next year. At least they&#39;ll be back, but... Man...</p><p><em>BlueSky &middot; theshiz147.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] This covers it nicely, Band-Maid "Just Bring It" A 100% match to my earball d...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mttorwzrw22l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mttorwzrw22l</guid>
-      <pubDate>Mon, 24 Aug 2026 16:07:45 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>This covers it nicely, Band-Maid &quot;Just Bring It&quot; A 100% match to my earball dopamine receptors.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
