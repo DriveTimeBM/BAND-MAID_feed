@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3qzce7UhaRU",
+        "Title":  "BAND-MAID THE GREATEST ROCK FUKUOKA （FUKUROCK）参戦レポート  (Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/3qzce7UhaRU",
+        "Thumbnail":  "https://i.ytimg.com/vi/3qzce7UhaRU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-04T10:15:37.0000000Z",
+        "DiscoveredAt":  "2026-09-04T10:15:55.6125551Z",
+        "Duration":  "00:42:24",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "F33p6GyH3SY",
         "Title":  "ABSOLUTELY EPIC JAPANESE SONGS?? - Epic Narratives Band Maid Album Music Reactions 228 ft. Jesse",
         "Channel":  "TheLuigiReactor",
