@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 04:44:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:02:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Woo Hoo!".</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muocd3cepp2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muocd3cepp2a</guid>
+      <pubDate>Fri, 04 Sep 2026 06:06:34 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Woo Hoo!&quot;.<br/><br/>Kobato: The way the tension rises when I say the title or play the intro before the performance is amazing. It&#39;s a slow song which is unusual for BAND-MAID but overseas, the audience just goes wild.</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Song: Arcadia Girl</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muocd2tek52j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muocd2tek52j</guid>
+      <pubDate>Fri, 04 Sep 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Arcadia Girl<br/>Album: New Beginning<br/>Release: 11/17/2015<br/>Music: 小澤正澄 [Ozawa, Masazumi]<br/>Lyrics: 山下慎一狼 [Yamashita, Shinichiro]<br/>Arrangement: spinstealthspike<br/>1st Live:5/3/2015<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3muo2frt33a2l</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Ai to Jonetsu no Matador [Love, Passion, Matador]<br/>Album: Love, Passion, Matador<br/>Release: 8/12/2014<br/>Music: 阿久津健太郎 [Akutsu, Kentaro]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>阿久津健太郎 [Akutsu, Kentaro]<br/>1st Live:4/26/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2026-08-16 @ Summer Sonic, Tokyo, Japan</title>
-      <link>https://bsky.app/profile/did:plc:kgrtq6ncvxowrdqaeltlz5c2/post/3mtr3pw7u3k2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kgrtq6ncvxowrdqaeltlz5c2/post/3mtr3pw7u3k2h</guid>
-      <pubDate>Sun, 23 Aug 2026 15:21:17 GMT</pubDate>
-      <dc:creator>The Warning Tour Database (thewarningtourdb.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2026-08-16 @ Summer Sonic, Tokyo, Japan<br/>Show #3. Final show of this short visit to Korea and Japan.<br/>Second Summer Sonic show. Now in Tokyo.<br/>We got a nice bonus later in the day when Dany joined Band-Maid and we got to hear her sing &#39;Show Them&#39; live for a second time.<br/>#thewarning #thewarningrockband</p><p><em>BlueSky &middot; thewarningtourdb.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] www.youtube.com/watch?v=M2kf... Your Sunday Brekkie Tune is from Saiki and Ka...</title>
-      <link>https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mtq7bv5y7s2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mtq7bv5y7s2h</guid>
-      <pubDate>Sun, 23 Aug 2026 06:52:21 GMT</pubDate>
-      <dc:creator>Keith Sowerby (jamesksowerby.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>www.youtube.com/watch?v=M2kf... Your Sunday Brekkie Tune is from Saiki and Kanami of Band-Maid</p><p><em>BlueSky &middot; jamesksowerby.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
