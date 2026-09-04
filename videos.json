@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "U9bMgGEUd_Y",
+        "Title":  "Nothing \"Awkward\" About BAND-MAID | Reaction",
+        "Channel":  "Hello Brewtiful",
+        "ChannelId":  "UCgPEmAm-Vse8CDkdRRu71HA",
+        "Url":  "https://youtu.be/U9bMgGEUd_Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/U9bMgGEUd_Y/hqdefault.jpg",
+        "PublishedAt":  "2026-09-04T16:00:37.0000000Z",
+        "DiscoveredAt":  "2026-09-04T16:25:30.4793874Z",
+        "Duration":  "00:09:50",
+        "ViewsAtDiscovery":  17,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xDjYldtUzCA",
         "Title":  "First Time Reaction - Band-Maid - Shambles | Official Live Video",
         "Channel":  "Tristan Reacts",
