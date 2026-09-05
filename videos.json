@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Ae6jBoKhYuA",
+        "Title":  "BAND-MAID - SUPER SUNSHINE (vocals backing track)",
+        "Channel":  "Voice Solo Tracks",
+        "ChannelId":  "UCeccQ_oZbWGUDHT73SZYMTw",
+        "Url":  "https://youtu.be/Ae6jBoKhYuA",
+        "Thumbnail":  "https://i.ytimg.com/vi/Ae6jBoKhYuA/hqdefault.jpg",
+        "PublishedAt":  "2026-09-05T04:29:01.0000000Z",
+        "DiscoveredAt":  "2026-09-05T04:44:53.4272274Z",
+        "Duration":  "00:03:55",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "kVH4NAOJpTI",
         "Title":  "Zen • BAND-MAID • Legendado [Português - Japonês - Romaji]",
         "Channel":  "Kawame Subs",
