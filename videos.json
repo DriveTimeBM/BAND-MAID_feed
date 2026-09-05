@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LBrI1510A3s",
+        "Title":  "BAND MAID  The Dragon Cries Purple Reaction",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/LBrI1510A3s",
+        "Thumbnail":  "https://i.ytimg.com/vi/LBrI1510A3s/hqdefault.jpg",
+        "PublishedAt":  "2026-09-05T20:02:50.0000000Z",
+        "DiscoveredAt":  "2026-09-05T20:09:34.7481194Z",
+        "Duration":  "00:08:17",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "yxXC1HyupmI",
+        "Title":  "BAND-MAID「TREASURE05X 2026」出演終了！次なる舞台は日本武道館2DAYSへ！期待高まる最新ライブ情報",
+        "Channel":  "音楽ジャパン Pulse",
+        "ChannelId":  "UCzcbPViA32ts81PkWzBRilg",
+        "Url":  "https://youtu.be/yxXC1HyupmI",
+        "Thumbnail":  "https://i.ytimg.com/vi/yxXC1HyupmI/hqdefault.jpg",
+        "PublishedAt":  "2026-09-05T13:30:09.0000000Z",
+        "DiscoveredAt":  "2026-09-05T20:09:25.2487152Z",
+        "Duration":  "00:08:35",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "A1p6JZQ38mU",
         "Title":  "EARS TO THE EAST | Band-Maid in 2027 | NEK! release BINARY | J-Metal Future Stars | and more...",
         "Channel":  "Ears To The East",
