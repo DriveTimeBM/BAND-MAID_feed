@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 06:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:59:17 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #TREASURE05X</title>
+      <link>https://bsky.app/profile/did:plc:z3jntd6dvxehc3zaaqiymtkw/post/3murngotuq42s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z3jntd6dvxehc3zaaqiymtkw/post/3murngotuq42s</guid>
+      <pubDate>Sat, 05 Sep 2026 14:03:16 GMT</pubDate>
+      <dc:creator>わかめパパ (raranaped.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#TREASURE05X<br/>#bandmaid<br/>#マキシマムザホルモン<br/>#heysmith<br/>#Alexandros<br/>最高の最高だった。BAND-MAIDの初体験が余りに衝撃。一曲目から「Ready To Rock」やられたらそらノンドラッグで飛べてまうて笑<br/>ラグーナビーチの環境が想像以上に快適だったのも印象深い。<br/>砂浜にシートや荷物を置いておけるし、フェス飯だけでなく隣りのフェスティバルマーケットで海鮮丼や寿司を買うこともできたりとにかく施設が充実している。今年でラグーナ最後なのが余計に残念だけど来年からも楽しみにしてる。</p><p><em>BlueSky &middot; raranaped.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] of BAND-MAID’s songs. Guitar heroes cannot resist a seeming guitar heroine (l...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muqsrzwwpu2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played 7 songs at Soul Power in Toyama JP on 2016/8/25. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 7 years ago Band-Maid played 5 songs at Sanuki Man-nou Kouen in Man-nou JP on...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtv5bn5xjz2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mtv5bn5xjz2y</guid>
-      <pubDate>Tue, 25 Aug 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>7 years ago Band-Maid played 5 songs at Sanuki Man-nou Kouen in Man-nou JP on 2019/8/25. The opening song was alone.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
