@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "p8XgHu4kGVE",
+        "Title":  "BAND-MAID、世界征服へ本格加速！最新ライブ映像がヤバすぎる⚡🎸",
+        "Channel":  "Japan news",
+        "ChannelId":  "UCL6Ot6oqi8xmtnHQrSj7PXg",
+        "Url":  "https://youtu.be/p8XgHu4kGVE",
+        "Thumbnail":  "https://i.ytimg.com/vi/p8XgHu4kGVE/hqdefault.jpg",
+        "PublishedAt":  "2026-09-05T01:31:14.0000000Z",
+        "DiscoveredAt":  "2026-09-05T01:40:27.5166647Z",
+        "Duration":  "00:17:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "nQ0JXYZ7VDQ",
         "Title":  "I Finally FC'd Choose Me By BAND-MAID | Clone Hero",
         "Channel":  "DKONLY",
