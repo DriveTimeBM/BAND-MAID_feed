@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lnvLpHb3AtY",
+        "Title":  "METAL HEAD REACTS to BAND-MAID / Shambles (Official Live Video)",
+        "Channel":  "Zenith Darksky",
+        "ChannelId":  "UCOtLfnmrnWXQHJk6MOYFBiQ",
+        "Url":  "https://youtu.be/lnvLpHb3AtY",
+        "Thumbnail":  "https://i.ytimg.com/vi/lnvLpHb3AtY/hqdefault.jpg",
+        "PublishedAt":  "2026-09-05T11:00:20.0000000Z",
+        "DiscoveredAt":  "2026-09-05T11:24:14.3313659Z",
+        "Duration":  "00:09:52",
+        "ViewsAtDiscovery":  22,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "kQuiKOOtqLs",
         "Title":  "【MASHUP】BAND MAID  start over vs The Temptations   Papa Was A Rollin' Stone   RemiX",
         "Channel":  "@ おみそ",
