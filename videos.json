@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "GTZ9B_yUpHM",
+        "Title":  "AEW Dynamite Highlights from this week to BAND-MAID music #AEW #Dynamite #Bandmaid #Wrestling #trend",
+        "Channel":  "Adventura",
+        "ChannelId":  "UCkJkuW8Cqs0Ceifr24KrTmA",
+        "Url":  "https://youtu.be/GTZ9B_yUpHM",
+        "Thumbnail":  "https://i.ytimg.com/vi/GTZ9B_yUpHM/hqdefault.jpg",
+        "PublishedAt":  "2026-09-05T07:00:29.0000000Z",
+        "DiscoveredAt":  "2026-09-05T07:18:18.1874104Z",
+        "Duration":  "00:01:11",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Ae6jBoKhYuA",
         "Title":  "BAND-MAID - SUPER SUNSHINE (vocals backing track)",
         "Channel":  "Voice Solo Tracks",
