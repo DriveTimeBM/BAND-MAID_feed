@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3iQw2QwF8ok",
+        "Title":  "BAND-MAID “Mirage” FIRST TIME REACTION | The ACOUSTIC Version Beautiful ❤️",
+        "Channel":  "Ginger T Reacts",
+        "ChannelId":  "UCZWOGhnKe5lh_KnpNaWRtQg",
+        "Url":  "https://youtu.be/3iQw2QwF8ok",
+        "Thumbnail":  "https://i.ytimg.com/vi/3iQw2QwF8ok/hqdefault.jpg",
+        "PublishedAt":  "2026-09-05T19:00:21.0000000Z",
+        "DiscoveredAt":  "2026-09-05T19:05:55.3084413Z",
+        "Duration":  "00:20:44",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JnuPKqC_keI",
         "Title":  "Band-Maid Dice Jam & Kanami Solo Nashville #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
