@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "A1p6JZQ38mU",
+        "Title":  "EARS TO THE EAST | Band-Maid in 2027 | NEK! release BINARY | J-Metal Future Stars | and more...",
+        "Channel":  "Ears To The East",
+        "ChannelId":  "UCv9f-JJy6z3E_zs6x1CshXw",
+        "Url":  "https://youtu.be/A1p6JZQ38mU",
+        "Thumbnail":  "https://i.ytimg.com/vi/A1p6JZQ38mU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-05T16:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-05T19:36:31.7543086Z",
+        "Duration":  "03:10:39",
+        "ViewsAtDiscovery":  138,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3iQw2QwF8ok",
         "Title":  "BAND-MAID “Mirage” FIRST TIME REACTION | The ACOUSTIC Version Beautiful ❤️",
         "Channel":  "Ginger T Reacts",
