@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dRhZJHFEp14",
+        "Title":  "BAND-MAID - What is justice? / Bass Cover",
+        "Channel":  "nohkyn",
+        "ChannelId":  "UCyUDnz1EsCHy3IjR2ivj_Mw",
+        "Url":  "https://youtu.be/dRhZJHFEp14",
+        "Thumbnail":  "https://i.ytimg.com/vi/dRhZJHFEp14/hqdefault.jpg",
+        "PublishedAt":  "2026-09-06T11:13:19.0000000Z",
+        "DiscoveredAt":  "2026-09-06T11:33:38.0320924Z",
+        "Duration":  "00:03:22",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yy5vpqQsbuI",
         "Title":  "The future of BAND-MAID, from SPIN to 2027 & beyond ...(w/ @Ohrenje & @Shreddawg )",
         "Channel":  "Ears To The East",
