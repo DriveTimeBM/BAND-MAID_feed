@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mAK-5LE6ZPM",
+        "Title":  "Show Them + TW vlog- Band-Maid with The Warning | Analysis/Commentary from Tokyo rooftop",
+        "Channel":  "New Clear Reactor",
+        "ChannelId":  "UCxw-VYYVtEnJhP25YHtdbsw",
+        "Url":  "https://youtu.be/mAK-5LE6ZPM",
+        "Thumbnail":  "https://i.ytimg.com/vi/mAK-5LE6ZPM/hqdefault.jpg",
+        "PublishedAt":  "2026-09-06T19:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-06T19:38:36.1727338Z",
+        "Duration":  "00:34:07",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bAYkQ8aq9eo",
         "Title":  "BAND-MAID - ENERGETIC | REACTION",
         "Channel":  "Lestat Reax",
