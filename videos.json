@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yy5vpqQsbuI",
+        "Title":  "The future of BAND-MAID, from SPIN to 2027 & beyond ...(w/ @Ohrenje & @Shreddawg )",
+        "Channel":  "Ears To The East",
+        "ChannelId":  "UCv9f-JJy6z3E_zs6x1CshXw",
+        "Url":  "https://youtu.be/yy5vpqQsbuI",
+        "Thumbnail":  "https://i.ytimg.com/vi/yy5vpqQsbuI/hqdefault.jpg",
+        "PublishedAt":  "2026-09-06T09:00:03.0000000Z",
+        "DiscoveredAt":  "2026-09-06T10:00:54.4507534Z",
+        "Duration":  "00:31:45",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2gREBXJV94o",
         "Title":  "Band Maid - Without Holding Back (Live)",
         "Channel":  "Shirin Reacts",
