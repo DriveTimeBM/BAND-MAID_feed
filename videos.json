@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bAYkQ8aq9eo",
+        "Title":  "BAND-MAID - ENERGETIC | REACTION",
+        "Channel":  "Lestat Reax",
+        "ChannelId":  "UC45t3GiSIMH-IJkK9plYRvQ",
+        "Url":  "https://youtu.be/bAYkQ8aq9eo",
+        "Thumbnail":  "https://i.ytimg.com/vi/bAYkQ8aq9eo/hqdefault.jpg",
+        "PublishedAt":  "2026-09-06T18:00:38.0000000Z",
+        "DiscoveredAt":  "2026-09-06T18:05:32.8903906Z",
+        "Duration":  "00:04:59",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "INzP3EK88tg",
         "Title":  "Reacting to BAND-MAID Ready to Rock — Rock Is a Lady's Modesty OP",
         "Channel":  "WHAT IT DO DAVE",
