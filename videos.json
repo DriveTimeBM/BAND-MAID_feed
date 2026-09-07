@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bD5W_v16ORE",
+        "Title":  "American Reacts To BAND-MAID / FREEDOM (Official Live Video) For The First Time.",
+        "Channel":  "BakedFreshXC",
+        "ChannelId":  "UCMBQiEBMfYhZMGNTOkRCmbQ",
+        "Url":  "https://youtu.be/bD5W_v16ORE",
+        "Thumbnail":  "https://i.ytimg.com/vi/bD5W_v16ORE/hqdefault.jpg",
+        "PublishedAt":  "2026-09-07T04:24:28.0000000Z",
+        "DiscoveredAt":  "2026-09-07T04:51:21.2307065Z",
+        "Duration":  "00:08:59",
+        "ViewsAtDiscovery":  15,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1kmrzFpmn_Y",
         "Title":  "Band-Maid - Puzzle (instrumental backing track)",
         "Channel":  "Instrumental Soundscape Minus Tracks",
