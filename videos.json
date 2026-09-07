@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "oyo4WPZh1p0",
+        "Title":  "BAND-MAID「ZEN」ライブ反応｜5人の銃士、ひとつの家族🔥！BAND-MAID – ZEN LIVE Reaction | 5 Musketeers, One Family! 🔥",
+        "Channel":  "Coffee Guy reacts",
+        "ChannelId":  "UCb40WR2QgE9r2TTYWkZcgeg",
+        "Url":  "https://youtu.be/oyo4WPZh1p0",
+        "Thumbnail":  "https://i.ytimg.com/vi/oyo4WPZh1p0/hqdefault.jpg",
+        "PublishedAt":  "2026-09-07T10:15:06.0000000Z",
+        "DiscoveredAt":  "2026-09-07T10:35:39.8790338Z",
+        "Duration":  "00:06:11",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "u4pg9ll4FGQ",
         "Title":  "Reacting to Choose Me Live Performance by Band-Maid and It’s Astonishingly Good",
         "Channel":  "The Smith House Reactions",
