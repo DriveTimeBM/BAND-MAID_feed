@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "EjhtzMJRnpI",
+        "Title":  "BAND-MAID “ENERGETIC” REACTION | Powered Entirely by BAND-MAID Energy 🔥",
+        "Channel":  "The Gringa",
+        "ChannelId":  "UCkRVcVJTypU020sTrjiiL6g",
+        "Url":  "https://youtu.be/EjhtzMJRnpI",
+        "Thumbnail":  "https://i.ytimg.com/vi/EjhtzMJRnpI/hqdefault.jpg",
+        "PublishedAt":  "2026-09-07T15:22:26.0000000Z",
+        "DiscoveredAt":  "2026-09-07T15:42:27.8702014Z",
+        "Duration":  "00:12:13",
+        "ViewsAtDiscovery":  23,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VIpadCNkk9o",
         "Title":  "Band Maid Toi Et Moi (live, Misa bass Intro) Reaction",
         "Channel":  "jmnassar",
