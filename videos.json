@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xWRs79qxfVU",
+        "Title":  "Band-Maid - Toi et moi ( Official Music Video ) Reaction on Daniel Crane reacts ",
+        "Channel":  "Daniel Crane reacts",
+        "ChannelId":  "UCmneSAJcGuFoIRTtsu9F2ww",
+        "Url":  "https://youtu.be/xWRs79qxfVU",
+        "Thumbnail":  "https://i.ytimg.com/vi/xWRs79qxfVU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-07T20:57:09.0000000Z",
+        "DiscoveredAt":  "2026-09-07T21:14:11.1121235Z",
+        "Duration":  "00:08:34",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "eMymb-j70oU",
         "Title":  "This Song ABSOLUTELY Lives Up to the Title! - BAND-MAID - ENERGETIC - Reaction!",
         "Channel":  "JVF Talks Music",
