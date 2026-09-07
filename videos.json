@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "u4pg9ll4FGQ",
+        "Title":  "Reacting to Choose Me Live Performance by Band-Maid and It’s Astonishingly Good",
+        "Channel":  "The Smith House Reactions",
+        "ChannelId":  "UCfQeTYw5jS1UryRg8GN3_PQ",
+        "Url":  "https://youtu.be/u4pg9ll4FGQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/u4pg9ll4FGQ/hqdefault.jpg",
+        "PublishedAt":  "2026-09-07T05:00:19.0000000Z",
+        "DiscoveredAt":  "2026-09-07T07:47:05.2342191Z",
+        "Duration":  "00:05:51",
+        "ViewsAtDiscovery":  40,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bD5W_v16ORE",
         "Title":  "American Reacts To BAND-MAID / FREEDOM (Official Live Video) For The First Time.",
         "Channel":  "BakedFreshXC",
