@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 07:52:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:04:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #Jrock #BANDMAID</title>
+      <link>https://bsky.app/profile/did:plc:6sihfl3lwu5qkbjw4rfyt5m4/post/3muw34l7s2s2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6sihfl3lwu5qkbjw4rfyt5m4/post/3muw34l7s2s2m</guid>
+      <pubDate>Mon, 07 Sep 2026 08:18:58 GMT</pubDate>
+      <dc:creator>JaME France (jameworldfr.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#Jrock #BANDMAID<br/><br/>C&#39;est officiel : au mois d&#39;octobre, le rock de BAND-MAID nous fera tourner la t&#234;te avec son nouveau single &quot;SPIN&quot; !<br/><br/>www.jame-world.com/fr/news/1722...</p><p><em>BlueSky &middot; jameworldfr.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] — The plentiful ideas on the chorus and the ability to adapt on the scene, go...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muvtpt5exw2c</link>
@@ -899,15 +908,6 @@
       <dc:creator>Kingu (Kingu@loops.video)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>https://loops.video/tag/BandMaid https://loops.video/tag/Kanami https://loops.video/tag/Rock https://loops.video/tag/Jrock https://loops.video/tag/Music</p><p><em>Mastodon &middot; Kingu@loops.video</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I wouldn't usually suggest following a bot, but I make an exception here. A g...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mtxoxtq3222y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mtxoxtq3222y</guid>
-      <pubDate>Wed, 26 Aug 2026 06:21:42 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I wouldn&#39;t usually suggest following a bot, but I make an exception here. A great song every day, and the threads tend to have some good insight into Band Maid&#39;s process.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
