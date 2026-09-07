@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 01:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 02:17:19 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band-Maid - Puzzle (instrumental backing track)</title>
+      <link>https://youtu.be/1kmrzFpmn_Y</link>
+      <guid isPermaLink="false">yt:video:1kmrzFpmn_Y</guid>
+      <pubDate>Mon, 07 Sep 2026 02:05:37 GMT</pubDate>
+      <dc:creator>Instrumental Soundscape Minus Tracks</dc:creator>
+      <category>Instrumental Soundscape Minus Tracks</category>
+      <description><![CDATA[<p><a href="https://youtu.be/1kmrzFpmn_Y"><img src="https://i.ytimg.com/vi/1kmrzFpmn_Y/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Instrumental Soundscape Minus Tracks<br/>Duration: 00:04:23<br/>Views at discovery: 0</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/1kmrzFpmn_Y/hqdefault.jpg" />
+    </item>
     <item>
       <title>BAND-MAID - SION (vocals backing track)</title>
       <link>https://youtu.be/3MinCbD5ocU</link>
