@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zO6h5az2y9M",
+        "Title":  "Band Maid Go Easy (live) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/zO6h5az2y9M",
+        "Thumbnail":  "https://i.ytimg.com/vi/zO6h5az2y9M/hqdefault.jpg",
+        "PublishedAt":  "2026-09-07T16:29:48.0000000Z",
+        "DiscoveredAt":  "2026-09-07T16:44:01.3618149Z",
+        "Duration":  "00:03:00",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9kACxoQsgXU",
         "Title":  "BAND MAID MONDAY!! We Finally Get Round To Hearing \" TAMAYA\" - Live Reaction!! + 1 MILL VIEWS!",
         "Channel":  "WavesAcrossTheWater",
