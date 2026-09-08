@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jYfe5uoO4aU",
+        "Title":  "Band-Maid :: Shambles (Extended Intro (Clip)) :: Frankfurt, Germany 05 JUN 2026",
+        "Channel":  "Arick McNiel-Cho",
+        "ChannelId":  "UCJrQLjz__iBiWVJCSU_5t0Q",
+        "Url":  "https://youtu.be/jYfe5uoO4aU",
+        "Thumbnail":  "https://i.ytimg.com/vi/jYfe5uoO4aU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-08T19:39:17.0000000Z",
+        "DiscoveredAt":  "2026-09-08T19:45:30.3121009Z",
+        "Duration":  "00:01:25",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "sTvyEpB2D0E",
         "Title":  "#104 BAND-MAID / Shambles + LIVE - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
         "Channel":  "K-Ross Reacts",
