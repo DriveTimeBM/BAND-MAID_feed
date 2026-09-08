@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "JDFMBjFGlLE",
+        "Title":  "BAND-MAID... FREEDOM | These Guitar Solos Are INSANE… | First Reaction",
+        "Channel":  "Melodic Logic",
+        "ChannelId":  "UCBt8z4eHlqhrysdHgRSmiVA",
+        "Url":  "https://youtu.be/JDFMBjFGlLE",
+        "Thumbnail":  "https://i.ytimg.com/vi/JDFMBjFGlLE/hqdefault.jpg",
+        "PublishedAt":  "2026-09-08T15:30:03.0000000Z",
+        "DiscoveredAt":  "2026-09-08T15:46:07.8344164Z",
+        "Duration":  "00:12:17",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "K_wjxsv6rww",
         "Title":  "外国人が反応 | BAND-MAID - \"Play\" (Official Live Video) Reaction",
         "Channel":  "Overthinking with Dennis",
