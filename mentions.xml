@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 02:28:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 04:30:52 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mv2n7njnta2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mv2n7njnta2q</guid>
+      <pubDate>Wed, 09 Sep 2026 03:53:27 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://m...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mv2fttv73i2e</link>
@@ -899,15 +908,6 @@
       <dc:creator>JaME Brasil + KoME Brasil (jamebr.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>🌀 BAND-MAID anuncia o single “SPIN”! <br/><br/>A banda lan&#231;a o trabalho em 28 de outubro com tr&#234;s faixas: “SPIN”, “ENTROPY” e “Spring ephemeral”, logo ap&#243;s encerrar a etapa norte-americana da turn&#234; mundial.<br/><br/>#BANDMAID #SPIN #JRock #HardRock<br/><br/>🔗 Saiba mais: www.jame-world.com/br/news/1722...</p><p><em>BlueSky &middot; jamebr.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Hard rock band BAND-MAID will release their second new single of 2026, "SPIN"...</title>
-      <link>https://bsky.app/profile/did:plc:46oe4e4l4bpfsqg22aidsadq/post/3mu3424qmqs2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:46oe4e4l4bpfsqg22aidsadq/post/3mu3424qmqs2a</guid>
-      <pubDate>Thu, 27 Aug 2026 14:53:36 GMT</pubDate>
-      <dc:creator>JaME (English Version) (jameworld.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Hard rock band BAND-MAID will release their second new single of 2026, &quot;SPIN&quot;, on October 28th.<br/><br/>#BANDMAID #jrock #jmetal<br/><br/>www.jame-world.com/en/news/1722...</p><p><em>BlueSky &middot; jameworld.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
