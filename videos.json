@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "F4gl0d7FW0g",
+        "Title":  "Show them (Band maid feat. The warning) guitar cover ",
+        "Channel":  "Los covers de Uriel ",
+        "ChannelId":  "UCrW0PhRd2VjoJ3pNk582OYw",
+        "Url":  "https://youtu.be/F4gl0d7FW0g",
+        "Thumbnail":  "https://i.ytimg.com/vi/F4gl0d7FW0g/hqdefault.jpg",
+        "PublishedAt":  "2026-09-09T19:04:10.0000000Z",
+        "DiscoveredAt":  "2026-09-09T19:46:01.8707245Z",
+        "Duration":  "00:03:12",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "eRzuPUU-634",
         "Title":  "BAND-MAID & The Warning - Show Them (Live - Tokyo) | This Collab Goes HARD! First Reaction",
         "Channel":  "Zack Reacts",
