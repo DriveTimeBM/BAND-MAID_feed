@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 07:54:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:25:25 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] vacation itinerary: ska festival, cake, booze, more cake, more booze, shojo m...</title>
+      <link>https://bsky.app/profile/did:plc:fyru2bazyqgozsbbj6yvglhv/post/3mv27p3j54s2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fyru2bazyqgozsbbj6yvglhv/post/3mv27p3j54s2c</guid>
+      <pubDate>Tue, 08 Sep 2026 23:51:33 GMT</pubDate>
+      <dc:creator>raiderdrjones.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>vacation itinerary: ska festival, cake, booze, more cake, more booze, shojo manga infinity, band-maid, more booze, more cake, a haircut, afternoon tea at the waldorf-astoria, maybe a jacket, maybe some pants, a new zippo, cookie tins, more booze, basically gonna try to be drunk as much as possible.</p><p><em>BlueSky &middot; raiderdrjones.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] een having more songs like that since Secret My lips, right?</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muye6xain62z</link>
@@ -899,15 +908,6 @@
       <dc:creator>7neko (7nekonet.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2026/10/28発売 BAND-MAID「SPIN」特典まとめ<br/><br/>7neko.net/bandmaid-tok...</p><p><em>BlueSky &middot; 7nekonet.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] This track has grown on me with every play since its release, to the point th...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mu27czrnp22g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mu27czrnp22g</guid>
-      <pubDate>Thu, 27 Aug 2026 06:19:37 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>This track has grown on me with every play since its release, to the point that it may now be my absolute favourite Band Maid song.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
