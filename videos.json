@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "IjOExy4QfuE",
+        "Title":  "Band-Maid - Ready to Rock (drums backing track)",
+        "Channel":  "Drum Momentum Solo Tracks",
+        "ChannelId":  "UCMidG-3-rfsiGMa1eUVnkiA",
+        "Url":  "https://youtu.be/IjOExy4QfuE",
+        "Thumbnail":  "https://i.ytimg.com/vi/IjOExy4QfuE/hqdefault.jpg",
+        "PublishedAt":  "2026-09-08T23:55:24.0000000Z",
+        "DiscoveredAt":  "2026-09-09T00:25:14.3512918Z",
+        "Duration":  "00:03:43",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bzkUsPNpvTc",
         "Title":  "Band-Maid :: Toi Et Moi (Clip) :: Frankfurt Germany June 5 2026",
         "Channel":  "Arick McNiel-Cho",
