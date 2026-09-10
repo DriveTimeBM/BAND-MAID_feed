@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7mU6dBuwhMw",
+        "Title":  "【ロック談義】福岡PayPayドーム「The Greatest Rock Fukuoka」を語り尽くす！【BAND-MAID / Night Ranger / Journey / LOUDNESS他】",
+        "Channel":  "AXLチャンネル",
+        "ChannelId":  "UCM1UysgMexzLwIBCNeI_Ktw",
+        "Url":  "https://youtu.be/7mU6dBuwhMw",
+        "Thumbnail":  "https://i.ytimg.com/vi/7mU6dBuwhMw/hqdefault.jpg",
+        "PublishedAt":  "2026-09-10T11:05:23.0000000Z",
+        "DiscoveredAt":  "2026-09-10T12:46:44.6082748Z",
+        "Duration":  "00:40:44",
+        "ViewsAtDiscovery":  48,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "pqhHV8YN1xo",
         "Title":  "BAND MAID – FORWARD LIVE AT YOKOHAMA ARENA Purple Reaction",
         "Channel":  "Purple unicorn reaction's",
