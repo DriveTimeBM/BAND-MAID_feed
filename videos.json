@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BzT4_YyWo74",
+        "Title":  "BAND-MAID: DAYDREAMING at Billboard Acoustic Live, Tokyo, 2025 - Dave M",
+        "Channel":  "Dave M Channel",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/BzT4_YyWo74",
+        "Thumbnail":  "https://i.ytimg.com/vi/BzT4_YyWo74/hqdefault.jpg",
+        "PublishedAt":  "2026-09-10T04:00:12.0000000Z",
+        "DiscoveredAt":  "2026-09-10T04:15:45.2710825Z",
+        "Duration":  "00:16:31",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DeL-6pzgk7w",
         "Title":  "Band-Maid Plane Ride. I Am Expert Plane Driver Po.",
         "Channel":  "The Band of Maids Channel.",
