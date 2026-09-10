@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mM_LTwfYHcU",
+        "Title":  "【BAND-MAID】Ready to Rock - バンドカバー #ドラム #ギター #ベース #bandmaid",
+        "Channel":  "リハーサル・ルーム",
+        "ChannelId":  "UCDTLuqTuonaFR-TOVAZSO2Q",
+        "Url":  "https://youtu.be/mM_LTwfYHcU",
+        "Thumbnail":  "https://i.ytimg.com/vi/mM_LTwfYHcU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-10T10:05:12.0000000Z",
+        "DiscoveredAt":  "2026-09-10T10:12:58.0904362Z",
+        "Duration":  "00:03:38",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "h7EVnvrQdKM",
         "Title":  "BAND-MAID - Manners Tab (Full Band Tab)",
         "Channel":  "Frostic Tabs",
