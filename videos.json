@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "pqhHV8YN1xo",
+        "Title":  "BAND MAID – FORWARD LIVE AT YOKOHAMA ARENA Purple Reaction",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/pqhHV8YN1xo",
+        "Thumbnail":  "https://i.ytimg.com/vi/pqhHV8YN1xo/hqdefault.jpg",
+        "PublishedAt":  "2026-09-10T10:38:36.0000000Z",
+        "DiscoveredAt":  "2026-09-10T10:44:04.2722374Z",
+        "Duration":  "00:09:22",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mM_LTwfYHcU",
         "Title":  "【BAND-MAID】Ready to Rock - バンドカバー #ドラム #ギター #ベース #bandmaid",
         "Channel":  "リハーサル・ルーム",
