@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 14:50:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:25:06 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 🎥 Our REACTION is live! BAND-MAID’s “Daydreaming” brings a softer, emotional...</title>
+      <link>https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mv6i6sribh23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mv6i6sribh23</guid>
+      <pubDate>Thu, 10 Sep 2026 16:34:08 GMT</pubDate>
+      <dc:creator>AngelTalion (angeltalion.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>🎥 Our REACTION is live! BAND-MAID’s “Daydreaming” brings a softer, emotional side that still carries so much power.<br/><br/>What part caught you off guard in the best way?<br/><br/>https://www.youtube.com/watch?v=RjPYGkO0j9s&amp;list=PL7MzXPGtHwvCpOtbZmSz5FAt_oLkjooMn</p><p><em>BlueSky &middot; angeltalion.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mv6amap65g23</link>
@@ -899,15 +908,6 @@
       <dc:creator>🍰cake (typhlosions.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>no band-maid in florida for giacomo?</p><p><em>BlueSky &middot; typhlosions.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://m...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mua6sx3b5e2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mua6sx3b5e2n</guid>
-      <pubDate>Sat, 29 Aug 2026 15:26:35 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
