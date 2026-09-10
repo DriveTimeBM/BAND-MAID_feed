@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "WEVD4IdXyc0",
+        "Title":  "JRock. Band-Maid: After Life #music #jrock",
+        "Channel":  "British Dad Reacts",
+        "ChannelId":  "UCDwWbpYtEzI10LU0jik5BeA",
+        "Url":  "https://youtu.be/WEVD4IdXyc0",
+        "Thumbnail":  "https://i.ytimg.com/vi/WEVD4IdXyc0/hqdefault.jpg",
+        "PublishedAt":  "2026-09-10T16:00:21.0000000Z",
+        "DiscoveredAt":  "2026-09-10T16:23:23.6734610Z",
+        "Duration":  "00:11:04",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7mU6dBuwhMw",
         "Title":  "【ロック談義】福岡PayPayドーム「The Greatest Rock Fukuoka」を語り尽くす！【BAND-MAID / Night Ranger / Journey / LOUDNESS他】",
         "Channel":  "AXLチャンネル",
