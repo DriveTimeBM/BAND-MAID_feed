@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 08:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:50:31 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mv6amap65g23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mv6amap65g23</guid>
+      <pubDate>Thu, 10 Sep 2026 14:18:30 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] to [Daydreaming], it was like "This was what I was waiting for". It was a bal...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mv5f4oczw32z</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ポニーキャニオン様からBAND-MAID"ENERGETIC"リリース記念応募抽選キャンペーンのC賞当選のENERGETIC TOWELが届きました！</title>
-      <link>https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3mu7zjxjhts2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3mu7zjxjhts2n</guid>
-      <pubDate>Sat, 29 Aug 2026 13:52:05 GMT</pubDate>
-      <dc:creator>くぼんヌ。@ジミコスキー (kubonnu.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>ポニーキャニオン様からBAND-MAID&quot;ENERGETIC&quot;リリース記念応募抽選キャンペーンのC賞当選のENERGETIC TOWELが届きました！<br/>武道館に持って行くか！<br/> #bandmaid</p><p><em>BlueSky &middot; kubonnu.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
