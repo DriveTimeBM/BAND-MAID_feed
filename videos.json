@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "iZYZ2QfFb1s",
+        "Title":  "BAND MAID IS THE GREATEST!! - BLACK HOLE Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/iZYZ2QfFb1s",
+        "Thumbnail":  "https://i.ytimg.com/vi/iZYZ2QfFb1s/hqdefault.jpg",
+        "PublishedAt":  "2026-09-11T21:00:16.0000000Z",
+        "DiscoveredAt":  "2026-09-11T21:06:36.4850403Z",
+        "Duration":  "00:04:13",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SONkSWSe8RU",
         "Title":  "Pro Vocal Coach Reacts to BAND-MAID - 'Thrill' & 'HATE?' (DOMINATION on Patreon)",
         "Channel":  "Tim Welch Vocal Studio",
