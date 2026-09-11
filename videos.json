@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mnQb5ajJ6iE",
+        "Title":  "I Don't Understand the Words… AND I DON'T CARE! | BAND-MAID “I'll” Reaction",
+        "Channel":  "Riffs and Reactions With Berry",
+        "ChannelId":  "UCwHEceu0iJDIvhDy6hd0FfQ",
+        "Url":  "https://youtu.be/mnQb5ajJ6iE",
+        "Thumbnail":  "https://i.ytimg.com/vi/mnQb5ajJ6iE/hqdefault.jpg",
+        "PublishedAt":  "2026-09-11T08:00:28.0000000Z",
+        "DiscoveredAt":  "2026-09-11T08:11:04.9184448Z",
+        "Duration":  "00:09:07",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "a0Edv_NbtAo",
+        "Title":  "BAND-MAID - Warning! Tab (Full Band Tab)",
+        "Channel":  "Frostic Tabs",
+        "ChannelId":  "UCJgjHK1zDcpm0hiSpMqkPGw",
+        "Url":  "https://youtu.be/a0Edv_NbtAo",
+        "Thumbnail":  "https://i.ytimg.com/vi/a0Edv_NbtAo/hqdefault.jpg",
+        "PublishedAt":  "2026-09-11T08:00:26.0000000Z",
+        "DiscoveredAt":  "2026-09-11T08:11:04.2438296Z",
+        "Duration":  "00:03:59",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cH1hNJbdQIU",
         "Title":  "Band Maid - Carry On Living (Live)",
         "Channel":  "Shirin Reacts",
