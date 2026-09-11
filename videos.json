@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "sMhiWTJDHAM",
+        "Title":  "BAND-MAID 'Freedom' Reaction — I Did NOT Expect This",
+        "Channel":  "Jeanette Music",
+        "ChannelId":  "UCNFfh0zk_jvV4_IPNExuLeA",
+        "Url":  "https://youtu.be/sMhiWTJDHAM",
+        "Thumbnail":  "https://i.ytimg.com/vi/sMhiWTJDHAM/hqdefault.jpg",
+        "PublishedAt":  "2026-09-11T10:00:26.0000000Z",
+        "DiscoveredAt":  "2026-09-11T10:14:51.6805998Z",
+        "Duration":  "00:09:11",
+        "ViewsAtDiscovery":  34,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mnQb5ajJ6iE",
         "Title":  "I Don't Understand the Words… AND I DON'T CARE! | BAND-MAID “I'll” Reaction",
         "Channel":  "Riffs and Reactions With Berry",
