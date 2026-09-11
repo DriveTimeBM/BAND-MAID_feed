@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BJw4UcwZ39Y",
+        "Title":  "BAND-MAID Page Acoustic REACTION",
+        "Channel":  "Alexa Takes A Look",
+        "ChannelId":  "UCnZtYNtVW9aFc66sxoOQ0RA",
+        "Url":  "https://youtu.be/BJw4UcwZ39Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/BJw4UcwZ39Y/hqdefault.jpg",
+        "PublishedAt":  "2026-09-11T13:00:07.0000000Z",
+        "DiscoveredAt":  "2026-09-11T13:18:52.6283744Z",
+        "Duration":  "00:11:00",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "sMhiWTJDHAM",
         "Title":  "BAND-MAID 'Freedom' Reaction — I Did NOT Expect This",
         "Channel":  "Jeanette Music",
