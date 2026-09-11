@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 20:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:06:44 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Started watching Rock is a Lady's Modesty.</title>
+      <link>https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvbfyonpbc2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvbfyonpbc2g</guid>
+      <pubDate>Fri, 11 Sep 2026 20:32:55 GMT</pubDate>
+      <dc:creator>Argor (argor57.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Started watching Rock is a Lady&#39;s Modesty.<br/>The only reason being that my favorite Band (Band Maid) has done the Soundtrack and the actual Motion Capturing with their Instruments.<br/>My expectations in that regard are high, don&#39;t know if I will like the plot but episode 1 seemed interesting enough...</p><p><em>BlueSky &middot; argor57.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID with your host, The future ...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvbcl24kmt2c</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Balance<br/>Album: Unleash<br/>Release: 9/20/2022<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:1/8/2023<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 7 songs at BAYSIS in Yokohama JP on 2014/8/30. ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mubpmfli5l2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mubpmfli5l2e</guid>
-      <pubDate>Sun, 30 Aug 2026 05:59:48 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 7 songs at BAYSIS in Yokohama JP on 2014/8/30. The opening song was Ai to Jonetsu no Matador.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
