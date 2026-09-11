@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 08:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:00:21 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid. 15 albums, every track a banger in some way.</title>
+      <link>https://bsky.app/profile/did:plc:53verixueu3wcygykliiqkdi/post/3mvawi4mmqc2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:53verixueu3wcygykliiqkdi/post/3mvawi4mmqc2q</guid>
+      <pubDate>Fri, 11 Sep 2026 15:55:14 GMT</pubDate>
+      <dc:creator>Brian (bwnash.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid. 15 albums, every track a banger in some way.</p><p><em>BlueSky &middot; bwnash.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] MISA: As my tension rises while playing myself I think all the songs are tens...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mv7vlj6rc22g</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 7 songs at SHIBUYA CYCLONE in Tokyo JP on 2017/8/30. The opening song was Daydreaming.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago Band-Maid played 22 songs at Spotify O-EAST in Tokyo JP on 2024/8...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mubpmc7k6w24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mubpmc7k6w24</guid>
-      <pubDate>Sun, 30 Aug 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago Band-Maid played 22 songs at Spotify O-EAST in Tokyo JP on 2024/8/30. The opening song was Awkward.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
