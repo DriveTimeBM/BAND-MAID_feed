@@ -1,21 +1,6 @@
 [
     {
         "schema_version":  1,
-        "VideoId":  "wh4dKOw2fZU",
-        "Title":  "BAND MAID - Live 2024 - Manners",
-        "Channel":  "REALLY GOOD STUFF",
-        "ChannelId":  "UCqfxnfUoNqS8FpxStbzG9WA",
-        "Url":  "https://youtu.be/wh4dKOw2fZU",
-        "Thumbnail":  "https://i.ytimg.com/vi/wh4dKOw2fZU/hqdefault.jpg",
-        "PublishedAt":  "2026-09-11T18:14:28.0000000Z",
-        "DiscoveredAt":  "2026-09-11T18:32:34.9588033Z",
-        "Duration":  "00:04:01",
-        "ViewsAtDiscovery":  0,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
         "VideoId":  "SONkSWSe8RU",
         "Title":  "Pro Vocal Coach Reacts to BAND-MAID - 'Thrill' & 'HATE?' (DOMINATION on Patreon)",
         "Channel":  "Tim Welch Vocal Studio",
@@ -130,21 +115,6 @@
         "PublishedAt":  "2026-09-11T02:49:28.0000000Z",
         "DiscoveredAt":  "2026-09-11T03:07:50.8075205Z",
         "Duration":  "00:03:54",
-        "ViewsAtDiscovery":  1,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
-        "VideoId":  "vmklAQjzr2s",
-        "Title":  "Band Maid - Live 2024 - Balance",
-        "Channel":  "REALLY GOOD STUFF",
-        "ChannelId":  "UCqfxnfUoNqS8FpxStbzG9WA",
-        "Url":  "https://youtu.be/vmklAQjzr2s",
-        "Thumbnail":  "https://i.ytimg.com/vi/vmklAQjzr2s/hqdefault.jpg",
-        "PublishedAt":  "2026-09-11T01:28:14.0000000Z",
-        "DiscoveredAt":  "2026-09-11T01:36:01.9462159Z",
-        "Duration":  "00:03:21",
         "ViewsAtDiscovery":  1,
         "Live":  "none",
         "Status":  "active"
