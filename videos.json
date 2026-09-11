@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cH1hNJbdQIU",
+        "Title":  "Band Maid - Carry On Living (Live)",
+        "Channel":  "Shirin Reacts",
+        "ChannelId":  "UCKl8gsoikwaVY8MwERSy8yg",
+        "Url":  "https://youtu.be/cH1hNJbdQIU",
+        "Thumbnail":  "https://i.ytimg.com/vi/cH1hNJbdQIU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-11T07:00:28.0000000Z",
+        "DiscoveredAt":  "2026-09-11T07:47:56.3434424Z",
+        "Duration":  "00:04:16",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "sXYTShtzPZc",
+        "Title":  "Ready to Rock • BAND-MAID • Legendado [Português - Japonês - Romaji]",
+        "Channel":  "Kawame Subs",
+        "ChannelId":  "UCH7VWDQ6hmevtTCukpizScw",
+        "Url":  "https://youtu.be/sXYTShtzPZc",
+        "Thumbnail":  "https://i.ytimg.com/vi/sXYTShtzPZc/hqdefault.jpg",
+        "PublishedAt":  "2026-09-11T05:30:08.0000000Z",
+        "DiscoveredAt":  "2026-09-11T07:47:54.1478257Z",
+        "Duration":  "00:04:27",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rDiU2CMVNAI",
         "Title":  "Band Maid Screaming (live) Reaction",
         "Channel":  "jmnassar",
