@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rDiU2CMVNAI",
+        "Title":  "Band Maid Screaming (live) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/rDiU2CMVNAI",
+        "Thumbnail":  "https://i.ytimg.com/vi/rDiU2CMVNAI/hqdefault.jpg",
+        "PublishedAt":  "2026-09-11T02:49:28.0000000Z",
+        "DiscoveredAt":  "2026-09-11T03:07:50.8075205Z",
+        "Duration":  "00:03:54",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vmklAQjzr2s",
         "Title":  "Band Maid - Live 2024 - Balance",
         "Channel":  "REALLY GOOD STUFF",
