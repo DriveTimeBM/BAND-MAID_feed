@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XmzMWP_w06g",
+        "Title":  "Akane STOLE The Show! | BAND-MAID - Freedom (Live) Reaction",
+        "Channel":  "Matty Ice Reacts",
+        "ChannelId":  "UC7hBLHPm0SMPiRSk09Kn5vQ",
+        "Url":  "https://youtu.be/XmzMWP_w06g",
+        "Thumbnail":  "https://i.ytimg.com/vi/XmzMWP_w06g/hqdefault.jpg",
+        "PublishedAt":  "2026-09-11T22:15:38.0000000Z",
+        "DiscoveredAt":  "2026-09-11T22:38:24.3644958Z",
+        "Duration":  "00:06:38",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "iZYZ2QfFb1s",
         "Title":  "BAND MAID IS THE GREATEST!! - BLACK HOLE Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
