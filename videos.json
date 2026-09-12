@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Kp9E1t6tL3s",
+        "Title":  "BAND-MAID – HATE? REACTION | That Bassist Blew My Mind! #musicreaction",
+        "Channel":  "EdPhonez Media",
+        "ChannelId":  "UC3B7ARYdVrQ1edlJc9GAwwQ",
+        "Url":  "https://youtu.be/Kp9E1t6tL3s",
+        "Thumbnail":  "https://i.ytimg.com/vi/Kp9E1t6tL3s/hqdefault.jpg",
+        "PublishedAt":  "2026-09-12T03:24:41.0000000Z",
+        "DiscoveredAt":  "2026-09-12T03:45:29.5382162Z",
+        "Duration":  "00:09:43",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XmzMWP_w06g",
         "Title":  "Akane STOLE The Show! | BAND-MAID - Freedom (Live) Reaction",
         "Channel":  "Matty Ice Reacts",
