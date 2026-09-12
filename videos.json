@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "4NMw-EalKvA",
+        "Title":  "Band-Maid - Hate? ( Reaction ) OFFICIAL LIVE VIDEO",
+        "Channel":  "Local Band Smokeout",
+        "ChannelId":  "UC_OwIfvGco2rDw8kX8NKg8A",
+        "Url":  "https://youtu.be/4NMw-EalKvA",
+        "Thumbnail":  "https://i.ytimg.com/vi/4NMw-EalKvA/hqdefault.jpg",
+        "PublishedAt":  "2026-09-12T16:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-12T16:28:27.4060801Z",
+        "Duration":  "00:07:47",
+        "ViewsAtDiscovery":  29,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "PTGizjv6M0w",
+        "Title":  "INT REACTS – BAND-MAID “Giovanni” SAIKI CAM ONLY?! 🤯 ORGANIZED CHAOS! | Sponsored by Peter",
+        "Channel":  "Underground Hustlin'",
+        "ChannelId":  "UCr7h__vd8nVUX02BkplGxKw",
+        "Url":  "https://youtu.be/PTGizjv6M0w",
+        "Thumbnail":  "https://i.ytimg.com/vi/PTGizjv6M0w/hqdefault.jpg",
+        "PublishedAt":  "2026-09-12T15:58:55.0000000Z",
+        "DiscoveredAt":  "2026-09-12T16:28:26.6182370Z",
+        "Duration":  "00:10:02",
+        "ViewsAtDiscovery":  33,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "880gAEusdnM",
         "Title":  "First Time Hearing | BAND-MAID REAL EXISTENCE (Official Live Video) #bandmaid #reactions",
         "Channel":  "New Clear Reactor",
