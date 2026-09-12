@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 18:00:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:34:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Go and listen to Band Maid, they're great!</title>
+      <link>https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvdudnsyqs2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvdudnsyqs2j</guid>
+      <pubDate>Sat, 12 Sep 2026 19:54:56 GMT</pubDate>
+      <dc:creator>Argor (argor57.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Go and listen to Band Maid, they&#39;re great!<br/>youtu.be/FHpuEqMAcDg</p><p><em>BlueSky &middot; argor57.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Finished.</title>
+      <link>https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvdtdqc3tc2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvdtdqc3tc2m</guid>
+      <pubDate>Sat, 12 Sep 2026 19:37:04 GMT</pubDate>
+      <dc:creator>Argor (argor57.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Finished. <br/>I was grinning from ear to ear during the performance on the last episode.<br/>The Plot is still okayish, but the characters and their dynamics are a lot of fun. <br/>And the Music from Band Maid is just the best. <br/>It almost feels like this show was made to show them off.</p><p><em>BlueSky &middot; argor57.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvdkhgxtk423</link>
@@ -890,24 +908,6 @@
       <dc:creator>denkraumverzerrung (denkraumverzerrung.de)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Und ich h&#246;re deutlich Inspiration aus diesem Lied <br/><br/>#BandMaid<br/>#TheWarning<br/>#ShowThem</p><p><em>BlueSky &middot; denkraumverzerrung.de</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mugixm5vq22s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mugixm5vq22s</guid>
-      <pubDate>Tue, 01 Sep 2026 03:44:07 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] https://loops.video/tag/BandMaid https://loops.video/tag/Rock https://loops.v...</title>
-      <link>https://loops.video/v/hRmQd9SLU9</link>
-      <guid isPermaLink="true">https://loops.video/v/hRmQd9SLU9</guid>
-      <pubDate>Mon, 31 Aug 2026 23:47:30 GMT</pubDate>
-      <dc:creator>Kingu (Kingu@loops.video)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>https://loops.video/tag/BandMaid https://loops.video/tag/Rock https://loops.video/tag/Jrock https://loops.video/tag/Music</p><p><em>Mastodon &middot; Kingu@loops.video</em></p>]]></description>
     </item>
   </channel>
 </rss>
