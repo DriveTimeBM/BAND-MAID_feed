@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bW4RFGSnkd8",
+        "Title":  "BAND-MAID - I Can't Live Without You. | FIRST TIME REACTION! 😱🔥",
+        "Channel":  "Ginger T Reacts",
+        "ChannelId":  "UCZWOGhnKe5lh_KnpNaWRtQg",
+        "Url":  "https://youtu.be/bW4RFGSnkd8",
+        "Thumbnail":  "https://i.ytimg.com/vi/bW4RFGSnkd8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-12T19:00:31.0000000Z",
+        "DiscoveredAt":  "2026-09-12T19:32:28.6813080Z",
+        "Duration":  "00:19:05",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1LHt28VzeGU",
         "Title":  "NEK! - Message // Right up there with Daydreaming by BAND-MAID",
         "Channel":  "Ryan Mear",
