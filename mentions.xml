@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 20:34:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 22:36:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Woohoo future looking good</title>
+      <link>https://bsky.app/profile/did:plc:dx2enwtdcpf62zr3pobetmx3/post/3mve2b77qjk2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dx2enwtdcpf62zr3pobetmx3/post/3mve2b77qjk2k</guid>
+      <pubDate>Sat, 12 Sep 2026 21:40:56 GMT</pubDate>
+      <dc:creator>clashctyrkr.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Woohoo future looking good</p><p><em>BlueSky &middot; clashctyrkr.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Go and listen to Band Maid, they're great!</title>
       <link>https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvdudnsyqs2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago Band-Maid played 10 songs at Indonesia Convention Exhibition in Tangerang ID on 2018/9/1. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Und ich höre deutlich Inspiration aus diesem Lied</title>
-      <link>https://bsky.app/profile/did:plc:2udnye66a3a7ljku52wug7df/post/3mugoyzcmxc2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2udnye66a3a7ljku52wug7df/post/3mugoyzcmxc2d</guid>
-      <pubDate>Tue, 01 Sep 2026 05:32:17 GMT</pubDate>
-      <dc:creator>denkraumverzerrung (denkraumverzerrung.de)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Und ich h&#246;re deutlich Inspiration aus diesem Lied <br/><br/>#BandMaid<br/>#TheWarning<br/>#ShowThem</p><p><em>BlueSky &middot; denkraumverzerrung.de</em></p>]]></description>
     </item>
   </channel>
 </rss>
