@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 08:16:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:19:36 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Probably because it's a rip from the "Medium in Summer" show from Aug 30, 202...</title>
+      <link>https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mvcxjzlc2s24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mvcxjzlc2s24</guid>
+      <pubDate>Sat, 12 Sep 2026 11:19:31 GMT</pubDate>
+      <dc:creator>Acer Rubrum (d-t-39810.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Probably because it&#39;s a rip from the &quot;Medium in Summer&quot; show from Aug 30, 2024 at Spotify O-EAST that was streamed in August of 2025. bandmaid.tokyo/contents/967...</p><p><em>BlueSky &middot; d-t-39810.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I've not seen this performance of Manners, probably one of my Top 10 Band Mai...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mvcjlr5unk2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3muezs2mq7g2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3muezs2mq7g2m</guid>
-      <pubDate>Mon, 31 Aug 2026 13:39:55 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
