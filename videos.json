@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "EHrJSDGByl8",
+        "Title":  "Band Maid Balance Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/EHrJSDGByl8",
+        "Thumbnail":  "https://i.ytimg.com/vi/EHrJSDGByl8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-12T09:36:18.0000000Z",
+        "DiscoveredAt":  "2026-09-12T09:46:14.5496161Z",
+        "Duration":  "00:03:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "AIeD9XBLvK4",
+        "Title":  "Band Maid Freezer (Audio) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/AIeD9XBLvK4",
+        "Thumbnail":  "https://i.ytimg.com/vi/AIeD9XBLvK4/hqdefault.jpg",
+        "PublishedAt":  "2026-09-12T08:56:22.0000000Z",
+        "DiscoveredAt":  "2026-09-12T09:46:13.3538825Z",
+        "Duration":  "00:03:18",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9WV9MCcPnGw",
         "Title":  "BAND MAID - TOI ET MOI - DRUMMER REACTS",
         "Channel":  "DRUM NERD",
