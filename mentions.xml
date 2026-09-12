@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 02:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 04:46:37 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] TRIVIA: In addition to providing two songs to the 'Kate' soundtrack, the musi...</title>
+      <link>https://bsky.app/profile/did:plc:cow4rmn6zswxrqognhixciax/post/3mvc765gxzs2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:cow4rmn6zswxrqognhixciax/post/3mvc765gxzs2t</guid>
+      <pubDate>Sat, 12 Sep 2026 04:03:22 GMT</pubDate>
+      <dc:creator>𝚂𝚎𝚌𝚘𝚗𝚍𝚊𝚛𝚢 𝙿𝚛𝚘𝚝𝚘𝚌𝚘𝚕 (2ndaryprotocol.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>TRIVIA: In addition to providing two songs to the &#39;Kate&#39; soundtrack, the musical group Band-Maid appear as themselves, performing at one of the clubs in the film. (IMDB) 🖤</p><p><em>BlueSky &middot; 2ndaryprotocol.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Why am I watching so many shows that I actually really enjoy? 😭</title>
       <link>https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvby6syee22g</link>
@@ -899,15 +908,6 @@
       <dc:creator>Violet Velvet (violet-velvet.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Hazel&#39;s Band Maid outfit is a 10/10 reference</p><p><em>BlueSky &middot; violet-velvet.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Ive only now noticed the band-maid shirt, hell yea</title>
-      <link>https://bsky.app/profile/did:plc:2ktxv4wqxlmxlwsii2swl4mw/post/3mud67kgvfs2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2ktxv4wqxlmxlwsii2swl4mw/post/3mud67kgvfs2v</guid>
-      <pubDate>Sun, 30 Aug 2026 19:53:44 GMT</pubDate>
-      <dc:creator>gameipedia 📕👁️ is a book and writing one (gameipedia.itch.io)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Ive only now noticed the band-maid shirt, hell yea</p><p><em>BlueSky &middot; gameipedia.itch.io</em></p>]]></description>
     </item>
   </channel>
 </rss>
