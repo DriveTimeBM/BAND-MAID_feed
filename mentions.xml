@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 12:19:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:50:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 才剛發完文晚上出門買晚餐就遇到ㄌ</title>
+      <link>https://bsky.app/profile/did:plc:vijgopklpr3m3er5stcloh23/post/3mvd24jrllk22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vijgopklpr3m3er5stcloh23/post/3mvd24jrllk22</guid>
+      <pubDate>Sat, 12 Sep 2026 12:05:39 GMT</pubDate>
+      <dc:creator>夏ちゃん( •8• ) (natttr10969.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>才剛發完文晚上出門買晚餐就遇到ㄌ<br/>去萊爾富取下週要去看BAND-MAID的門票<br/>機車停在外面就休旅車被欸倒<br/>我就不懂現在開車的自己不在外面找停車位就算了<br/>連倒車都會欸到路邊機車開什麼車...🫩</p><p><em>BlueSky &middot; natttr10969.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Probably because it's a rip from the "Medium in Summer" show from Aug 30, 202...</title>
       <link>https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mvcxjzlc2s24</link>
@@ -899,15 +908,6 @@
       <dc:creator>Outburn Magazine (outburnmag.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID Announces New Single “SPIN” Ahead of North American Tour<br/>Japanese rock band BAND-MAID will release the new single “SPIN” on October 28, 2026. The announcement lands as #bandmaid prepares to bring their WORLD TOUR 2026 to North America this October. #ponycanyon<br/>outburn.com/news/band-ma...</p><p><em>BlueSky &middot; outburnmag.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mufrbl4blp2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mufrbl4blp2n</guid>
-      <pubDate>Mon, 31 Aug 2026 20:40:12 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
