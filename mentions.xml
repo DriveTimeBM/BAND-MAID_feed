@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 02:13:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 02:44:13 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Why am I watching so many shows that I actually really enjoy? 😭</title>
+      <link>https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvby6syee22g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvby6syee22g</guid>
+      <pubDate>Sat, 12 Sep 2026 01:58:29 GMT</pubDate>
+      <dc:creator>Argor (argor57.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Why am I watching so many shows that I actually really enjoy? 😭<br/>Episode 9 was such a banger, unmistakably Kanami, Akane and Misa(Bassist from Band Maid) on those instruments. <br/>I was able to go to one of their concerts a few months ago, and I got flashbacks to them clashing on stage.</p><p><em>BlueSky &middot; argor57.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mvbwrtsc2c2y</link>
@@ -899,15 +908,6 @@
       <dc:creator>gameipedia 📕👁️ is a book and writing one (gameipedia.itch.io)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Ive only now noticed the band-maid shirt, hell yea</p><p><em>BlueSky &middot; gameipedia.itch.io</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Introduce yourself with 10 acts or bands you've seen live.</title>
-      <link>https://bsky.app/profile/did:plc:jo4icfzlda3zi6eq5fs27pur/post/3much5mbn4c2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jo4icfzlda3zi6eq5fs27pur/post/3much5mbn4c2i</guid>
-      <pubDate>Sun, 30 Aug 2026 13:01:03 GMT</pubDate>
-      <dc:creator>Wenzao (liwenzao.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Introduce yourself with 10 acts or bands you&#39;ve seen live.<br/><br/>BAND-MAID<br/>Billie Eilish <br/>Chloe Qisha<br/>HAIM<br/>Halsey<br/>Keane<br/>Muse<br/>Renee Rapp<br/>ROSALIA<br/>Soccer Mommy</p><p><em>BlueSky &middot; liwenzao.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
