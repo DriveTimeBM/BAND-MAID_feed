@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 15:46:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:15:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAND-MAID / B-Sides</title>
+      <link>https://youtu.be/UM7WTfAFIeY</link>
+      <guid isPermaLink="false">yt:video:UM7WTfAFIeY</guid>
+      <pubDate>Sun, 13 Sep 2026 21:00:05 GMT</pubDate>
+      <dc:creator>Ohrenje</dc:creator>
+      <category>Ohrenje</category>
+      <description><![CDATA[<p><a href="https://youtu.be/UM7WTfAFIeY"><img src="https://i.ytimg.com/vi/UM7WTfAFIeY/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Ohrenje<br/>Duration: 00:17:51<br/>Views at discovery: 48</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/UM7WTfAFIeY/hqdefault.jpg" />
+    </item>
     <item>
       <title>The8BitDrummer covers Ready to Rock by BAND-MAID (Rock Is a Lady’s Modesty OP) on drums...</title>
       <link>https://youtu.be/DgvWlPDYKNU</link>
