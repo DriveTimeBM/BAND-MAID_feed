@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DgvWlPDYKNU",
+        "Title":  "The8BitDrummer covers Ready to Rock by BAND-MAID (Rock Is a Lady’s Modesty OP) on drums...",
+        "Channel":  "JustAHoloFan",
+        "ChannelId":  "UCyaR-oKAmuMaUhIS-nXNLgQ",
+        "Url":  "https://youtu.be/DgvWlPDYKNU",
+        "Thumbnail":  "https://i.ytimg.com/vi/DgvWlPDYKNU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-13T14:00:13.0000000Z",
+        "DiscoveredAt":  "2026-09-13T15:46:00.5815216Z",
+        "Duration":  "00:05:36",
+        "ViewsAtDiscovery":  57,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "GRofTDbO7Oc",
         "Title":  "BAND-MAID TREASURE05X 2026 LAGUNA BEACH Day1 参戦レポート (Live Report)",
         "Channel":  "いちお盟主のつぶやき",
