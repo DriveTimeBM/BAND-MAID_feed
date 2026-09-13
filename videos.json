@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "h9YMJilC2j4",
+        "Title":  "Reacting to Bubble by Band-Maid Had Me…",
+        "Channel":  "The Smith House Reactions",
+        "ChannelId":  "UCfQeTYw5jS1UryRg8GN3_PQ",
+        "Url":  "https://youtu.be/h9YMJilC2j4",
+        "Thumbnail":  "https://i.ytimg.com/vi/h9YMJilC2j4/hqdefault.jpg",
+        "PublishedAt":  "2026-09-13T05:00:22.0000000Z",
+        "DiscoveredAt":  "2026-09-13T05:15:28.8545396Z",
+        "Duration":  "00:11:00",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dlws9VLI4ho",
         "Title":  "Song Review #1784: Band-Maid - Shambles",
         "Channel":  "SBK Reactor",
