@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dlws9VLI4ho",
+        "Title":  "Song Review #1784: Band-Maid - Shambles",
+        "Channel":  "SBK Reactor",
+        "ChannelId":  "UClJxQkSuZ9HYoPwPWIhlpaA",
+        "Url":  "https://youtu.be/dlws9VLI4ho",
+        "Thumbnail":  "https://i.ytimg.com/vi/dlws9VLI4ho/hqdefault.jpg",
+        "PublishedAt":  "2026-09-13T04:00:28.0000000Z",
+        "DiscoveredAt":  "2026-09-13T04:14:05.5573616Z",
+        "Duration":  "00:07:27",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "J9YymuXjJIU",
         "Title":  "BAND-MAID（コピーバンド）【神田外語大学】",
         "Channel":  "音響演奏技術青年会",
