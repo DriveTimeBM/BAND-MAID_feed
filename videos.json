@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "GRofTDbO7Oc",
+        "Title":  "BAND-MAID TREASURE05X 2026 LAGUNA BEACH Day1 参戦レポート (Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/GRofTDbO7Oc",
+        "Thumbnail":  "https://i.ytimg.com/vi/GRofTDbO7Oc/hqdefault.jpg",
+        "PublishedAt":  "2026-09-13T10:15:10.0000000Z",
+        "DiscoveredAt":  "2026-09-13T10:45:53.5870815Z",
+        "Duration":  "00:33:02",
+        "ViewsAtDiscovery":  51,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "h9YMJilC2j4",
         "Title":  "Reacting to Bubble by Band-Maid Had Me…",
         "Channel":  "The Smith House Reactions",
