@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "W6OR_5cdDbw",
+        "Title":  "BAND-MAID Saiki & Kanami Shambles Acoustic.",
+        "Channel":  "The Band of Maids Channel.",
+        "ChannelId":  "UCkpa_0n2becVM4xp_JkRrsA",
+        "Url":  "https://youtu.be/W6OR_5cdDbw",
+        "Thumbnail":  "https://i.ytimg.com/vi/W6OR_5cdDbw/hqdefault.jpg",
+        "PublishedAt":  "2026-09-13T13:07:38.0000000Z",
+        "DiscoveredAt":  "2026-09-13T13:24:16.5359418Z",
+        "Duration":  "00:04:20",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "GRofTDbO7Oc",
         "Title":  "BAND-MAID TREASURE05X 2026 LAGUNA BEACH Day1 参戦レポート (Live Report)",
         "Channel":  "いちお盟主のつぶやき",
