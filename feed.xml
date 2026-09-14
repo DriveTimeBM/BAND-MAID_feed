@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 07:47:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 10:08:52 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band Maid TAMAYA! Reaction</title>
+      <link>https://youtu.be/Emr5tWh8YMM</link>
+      <guid isPermaLink="false">yt:video:Emr5tWh8YMM</guid>
+      <pubDate>Mon, 14 Sep 2026 08:58:09 GMT</pubDate>
+      <dc:creator>jmnassar</dc:creator>
+      <category>jmnassar</category>
+      <description><![CDATA[<p><a href="https://youtu.be/Emr5tWh8YMM"><img src="https://i.ytimg.com/vi/Emr5tWh8YMM/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: jmnassar<br/>Duration: 00:03:16<br/>Views at discovery: 0</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/Emr5tWh8YMM/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band Maid Be Ok Reaction</title>
       <link>https://youtu.be/3e0MbT8joVw</link>
