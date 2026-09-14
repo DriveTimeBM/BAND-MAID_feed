@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 07:55:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:44:44 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #NowPlaying DICE - BAND-MAID (WORLD DOMINATION)</title>
+      <link>https://bsky.app/profile/did:plc:56nicjkd7pmy774luyko5o6t/post/3mviavqrd6c2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:56nicjkd7pmy774luyko5o6t/post/3mviavqrd6c2u</guid>
+      <pubDate>Mon, 14 Sep 2026 13:50:26 GMT</pubDate>
+      <dc:creator>DARKSIDE-METAL (darkside-metal.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#NowPlaying DICE - BAND-MAID (WORLD DOMINATION)</p><p><em>BlueSky &middot; darkside-metal.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Unfair game</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvhgybuq3p24</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>6 years ago<br/>DICE MV<br/>milestone<br/>surpassed 5 million views<br/>2020/9/3<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] BAND-MAID ANNOUNCES NEW SINGLE “SPIN” AHEAD OF NORTH AMERICAN TOUR. https://m...</title>
-      <link>https://mastodon.social/@slrmagazine/117204043500617237</link>
-      <guid isPermaLink="true">https://mastodon.social/@slrmagazine/117204043500617237</guid>
-      <pubDate>Wed, 02 Sep 2026 23:29:37 GMT</pubDate>
-      <dc:creator>S.L.R. Magazine (slrmagazine)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>BAND-MAID ANNOUNCES NEW SINGLE “SPIN” AHEAD OF NORTH AMERICAN TOUR. https://mastodon.social/tags/bandmaid @bandmaid<br/><br/>https://slrmagazine.com/2026/09/02/band-maid-announces-new-single-spin-ahead-of-north-american-tour/</p><p><em>Mastodon &middot; slrmagazine</em></p>]]></description>
     </item>
   </channel>
 </rss>
