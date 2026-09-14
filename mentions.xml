@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 16:04:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:23:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvh74r6pcj2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvh74r6pcj2g</guid>
+      <pubDate>Mon, 14 Sep 2026 03:45:54 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I'm #now_listening_to "Days" by BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:65zidnthweatp2drx5nfqnew/post/3mvfvakqcc22x</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I REALLY hope the online ticket for Band Maid&#39;s Budokan show (assuming they stream it) includes NEK!&#39;s support set. What a great band.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] NEK! continue to be the most exciting and fun new band in JRock. This, their ...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mujf6mbwjk24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mujf6mbwjk24</guid>
-      <pubDate>Wed, 02 Sep 2026 07:14:27 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>NEK! continue to be the most exciting and fun new band in JRock. This, their first EP for Pony Canyon, is all killer, no filler, including a very good ballad that really shows off Hika&#39;s vocals.<br/><br/>HIGHLY recommended to fans of (particularly early) Band Maid.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
