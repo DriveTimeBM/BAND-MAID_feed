@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 04:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:55:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Unfair game</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvhgybuq3p24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvhgybuq3p24</guid>
+      <pubDate>Mon, 14 Sep 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Unfair game<br/>Album: YOLO<br/>Release: 11/15/2016<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:12/6/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvh74r6pcj2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>S.L.R. Magazine (slrmagazine)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>BAND-MAID ANNOUNCES NEW SINGLE “SPIN” AHEAD OF NORTH AMERICAN TOUR. https://mastodon.social/tags/bandmaid @bandmaid<br/><br/>https://slrmagazine.com/2026/09/02/band-maid-announces-new-single-spin-ahead-of-north-american-tour/</p><p><em>Mastodon &middot; slrmagazine</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I REALLY hope the online ticket for Band Maid's Budokan show (assuming they s...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mujgbey7vc24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mujgbey7vc24</guid>
-      <pubDate>Wed, 02 Sep 2026 07:33:54 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I REALLY hope the online ticket for Band Maid&#39;s Budokan show (assuming they stream it) includes NEK!&#39;s support set. What a great band.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
