@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 14:44:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:44:12 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID with your host, Dimensió...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvidoxwy6c2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvidoxwy6c2e</guid>
+      <pubDate>Mon, 14 Sep 2026 14:40:20 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID with your host, Dimensi&#243;n Arkadia! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvidoxsfqu2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvidoxsfqu2t</guid>
+      <pubDate>Mon, 14 Sep 2026 14:40:20 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] #NowPlaying DICE - BAND-MAID (WORLD DOMINATION)</title>
       <link>https://bsky.app/profile/did:plc:56nicjkd7pmy774luyko5o6t/post/3mviavqrd6c2u</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at EIGHT HALL in Kanazawa JP on 2023/9/3. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mulnv4gycr2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mulnv4gycr2v</guid>
-      <pubDate>Thu, 03 Sep 2026 04:55:31 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago<br/>SHOW THEM w/ The Warning MV<br/>milestone<br/>surpassed 1 million views<br/>2024/9/3<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 6 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mulnv36jgt2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mulnv36jgt2g</guid>
-      <pubDate>Thu, 03 Sep 2026 04:55:29 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>6 years ago<br/>DICE MV<br/>milestone<br/>surpassed 5 million views<br/>2020/9/3<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
