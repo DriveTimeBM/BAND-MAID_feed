@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "wif8bJNmAQM",
+        "Title":  "First Time Reaction - Band-Maid - Don't You Tell Me | Official Live Video",
+        "Channel":  "Tristan Reacts",
+        "ChannelId":  "UCucnXR4qmpfnEsPUMSnE_Gw",
+        "Url":  "https://youtu.be/wif8bJNmAQM",
+        "Thumbnail":  "https://i.ytimg.com/vi/wif8bJNmAQM/hqdefault.jpg",
+        "PublishedAt":  "2026-09-14T23:00:31.0000000Z",
+        "DiscoveredAt":  "2026-09-14T23:29:51.6177241Z",
+        "Duration":  "00:14:13",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "FJZrv53zphc",
         "Title":  "Pro Guitar Teacher Reacts to BAND-MAID — These Girls Can PLAY! 🔥",
         "Channel":  "Robbie Guitar Channel",
