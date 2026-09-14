@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FJZrv53zphc",
+        "Title":  "Pro Guitar Teacher Reacts to BAND-MAID — These Girls Can PLAY! 🔥",
+        "Channel":  "Robbie Guitar Channel",
+        "ChannelId":  "UCug11JLneDcL4NvJdK-3xrg",
+        "Url":  "https://youtu.be/FJZrv53zphc",
+        "Thumbnail":  "https://i.ytimg.com/vi/FJZrv53zphc/hqdefault.jpg",
+        "PublishedAt":  "2026-09-14T19:46:13.0000000Z",
+        "DiscoveredAt":  "2026-09-14T19:50:55.7024759Z",
+        "Duration":  "00:09:16",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "69FPrQf_q94",
         "Title":  "BAND-MAID Documentary / Saiki (REACTION)",
         "Channel":  "Angelo's World",
