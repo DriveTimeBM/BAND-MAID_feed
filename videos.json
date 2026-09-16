@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FZSgmpdCQKo",
+        "Title":  "Mini-Maids of Band-Maid",
+        "Channel":  "Roch's Rock Radio",
+        "ChannelId":  "UC_PqjeilG8e1jmEkKs38Brg",
+        "Url":  "https://youtu.be/FZSgmpdCQKo",
+        "Thumbnail":  "https://i.ytimg.com/vi/FZSgmpdCQKo/hqdefault.jpg",
+        "PublishedAt":  "2026-09-16T17:37:08.0000000Z",
+        "DiscoveredAt":  "2026-09-16T17:51:45.9700706Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bAF_a3NdCtc",
         "Title":  "Band Maid - Matchless Gum (Live)",
         "Channel":  "Shirin Reacts",

@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 07:47:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:51:46 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mini-Maids of Band-Maid</title>
+      <link>https://youtu.be/FZSgmpdCQKo</link>
+      <guid isPermaLink="false">yt:video:FZSgmpdCQKo</guid>
+      <pubDate>Wed, 16 Sep 2026 17:37:08 GMT</pubDate>
+      <dc:creator>Roch's Rock Radio</dc:creator>
+      <category>Roch's Rock Radio</category>
+      <description><![CDATA[<p><a href="https://youtu.be/FZSgmpdCQKo"><img src="https://i.ytimg.com/vi/FZSgmpdCQKo/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Roch's Rock Radio<br/>Duration: 00:01:01<br/>Views at discovery: 6</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/FZSgmpdCQKo/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band Maid - Matchless Gum (Live)</title>
       <link>https://youtu.be/bAF_a3NdCtc</link>
