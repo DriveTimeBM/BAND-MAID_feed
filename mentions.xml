@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 19:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:15:14 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] This Band-Maid 10th anniversary live concert at Yokohama Arena in 2023 that w...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mvlsdebnxc2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mvlsdebnxc2k</guid>
+      <pubDate>Tue, 15 Sep 2026 23:40:16 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>This Band-Maid 10th anniversary live concert at Yokohama Arena in 2023 that was streamed live and then available as an archive for a month, and then released on DVD, over 3 hours of amazing performances, I watched the stream several times and bought the DVD. www.youtube.com/watch?v=SOj3...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] el. However, even though I said so, the melody-packed vibe is one of Band-Mai...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvjxhbw6k523</link>
@@ -899,15 +908,6 @@
       <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] He vuelto a descender por el pozo de Youtube, buscando videos de Nemophilia p...</title>
-      <link>https://bsky.app/profile/did:plc:hs7fmx7elwn4ypmluln52mw5/post/3muorgmwfmk2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hs7fmx7elwn4ypmluln52mw5/post/3muorgmwfmk2s</guid>
-      <pubDate>Fri, 04 Sep 2026 10:37:00 GMT</pubDate>
-      <dc:creator>Breo/Hugo (hugoelbreo.eurosky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>He vuelto a descender por el pozo de Youtube, buscando videos de Nemophilia por lo mucho que me fascina la Ibanez HZK1, y acabar enganchado a Band Maid, que han de ser un grupo m&#225;s prefabricado que los phoskitos, pero mirar tr3mend&#233;rrimus solo de guitarra<br/><br/>www.youtube.com/watch?v=uUt_...</p><p><em>BlueSky &middot; hugoelbreo.eurosky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
