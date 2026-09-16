@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 07:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:57:04 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Roxanne: Adious - We Are</title>
+      <link>https://bsky.app/profile/did:plc:4pskxdma6ryfgkrk7dnxiijk/post/3mvo3gezpzk2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4pskxdma6ryfgkrk7dnxiijk/post/3mvo3gezpzk2q</guid>
+      <pubDate>Wed, 16 Sep 2026 21:28:21 GMT</pubDate>
+      <dc:creator>ForteSP89 (fortesp89.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Roxanne: Adious - We Are<br/>Oydis: BAND-MAID - Different, Sense<br/>Worxan: Metallica - Ride the Lightning <br/>Takume: Polkadot Stingray - Keshin <br/>Oliver Doberquinn: Moody Blues - I’m Just a Singer (In a Rock and Roll Band)<br/>Hi’gana: Donna Burke - Sound of the Wind <br/>Gideron: Tears for Fears - Shout</p><p><em>BlueSky &middot; fortesp89.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] www.youtube.com/watch?v=R3AI... Your Wednesday Brekkie Tune comes from an aco...</title>
       <link>https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mvmiw2fra22d</link>
@@ -899,15 +908,6 @@
       <dc:creator>わかめパパ (raranaped.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>#TREASURE05X<br/>#bandmaid<br/>#マキシマムザホルモン<br/>#heysmith<br/>#Alexandros<br/>最高の最高だった。BAND-MAIDの初体験が余りに衝撃。一曲目から「Ready To Rock」やられたらそらノンドラッグで飛べてまうて笑<br/>ラグーナビーチの環境が想像以上に快適だったのも印象深い。<br/>砂浜にシートや荷物を置いておけるし、フェス飯だけでなく隣りのフェスティバルマーケットで海鮮丼や寿司を買うこともできたりとにかく施設が充実している。今年でラグーナ最後なのが余計に残念だけど来年からも楽しみにしてる。</p><p><em>BlueSky &middot; raranaped.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] of BAND-MAID’s songs. Guitar heroes cannot resist a seeming guitar heroine (l...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muqsrzwwpu2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muqsrzwwpu2g</guid>
-      <pubDate>Sat, 05 Sep 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>of BAND-MAID’s songs. Guitar heroes cannot resist a seeming guitar heroine (laughs).<br/><br/>Kanami: Boss (Saiki) will say &quot;Putting more solos in is good&quot; (laughs). I also received advice on guitar tech side and playing method whilst playing myself, but I think that I could still level up as a guitarist to</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
