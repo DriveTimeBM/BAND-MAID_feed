@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gu0EO8WpfZs",
+        "Title":  "🎸 BAND-MAID、待望の最新ライブ映像がついに公開！圧巻のステージに世界が熱狂🔥",
+        "Channel":  "Japan news",
+        "ChannelId":  "UCL6Ot6oqi8xmtnHQrSj7PXg",
+        "Url":  "https://youtu.be/gu0EO8WpfZs",
+        "Thumbnail":  "https://i.ytimg.com/vi/gu0EO8WpfZs/hqdefault.jpg",
+        "PublishedAt":  "2026-09-16T01:05:34.0000000Z",
+        "DiscoveredAt":  "2026-09-16T01:18:54.6144667Z",
+        "Duration":  "00:10:03",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7wZaJJwVPng",
         "Title":  "#105 BAND-MAID / Memorable - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
         "Channel":  "K-Ross Reacts",
