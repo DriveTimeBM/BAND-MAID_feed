@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 08:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:43:15 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] アニメ「BEYBLADE X」新章「ベイキングダム編」、10月9日に配信開始　OPは&amp;TEAM、EDはBAND-MAID（動画あり / コメントあり）</title>
+      <link>https://bsky.app/profile/did:plc:5ttg43yfww3kidboxtclpxct/post/3mvpfken7nd2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5ttg43yfww3kidboxtclpxct/post/3mvpfken7nd2t</guid>
+      <pubDate>Thu, 17 Sep 2026 10:02:09 GMT</pubDate>
+      <dc:creator>コミックナタリー (comic.natalie.mu)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>アニメ「BEYBLADE X」新章「ベイキングダム編」、10月9日に配信開始　OPは&amp;TEAM、EDはBAND-MAID（動画あり / コメントあり）<br/>https://natalie.mu/comic/news/689994?utm_source=bluesky&amp;utm_medium=social<br/><br/>新キャラクター役で宮﨑雅也が出演<br/><br/>#BEYBLADEX #ベイブレードX</p><p><em>BlueSky &middot; comic.natalie.mu</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: TIME</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvoyf2dgxf2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sed Ti Kets (geariod.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Saiki has talked for a couple of years now about her ambition to organise a Band Maid festival. 2028 would be an ideal time to have and she has a year without touring in which to organise it.</p><p><em>BlueSky &middot; geariod.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] We know that Kanami has lots of music composed which Band Maid haven't record...</title>
-      <link>https://bsky.app/profile/did:plc:6wwcbpk2sz2p2ghjsbe745m3/post/3muugizpy2m2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6wwcbpk2sz2p2ghjsbe745m3/post/3muugizpy2m2m</guid>
-      <pubDate>Sun, 06 Sep 2026 16:37:27 GMT</pubDate>
-      <dc:creator>Sed Ti Kets (geariod.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>We know that Kanami has lots of music composed which Band Maid haven&#39;t recorded yet, some of which is not suitable for the band like the songs from her singer-songwriter days. She might be planning to record a solo album, possibly an acoustic one with Saiki on vocals.</p><p><em>BlueSky &middot; geariod.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
