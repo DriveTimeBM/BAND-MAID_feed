@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 10:43:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:13:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] これは関係ある？</title>
+      <link>https://bsky.app/profile/did:plc:ctmb6f4mbfgy67pm3bfjb3o7/post/3mvph6gnx4k25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ctmb6f4mbfgy67pm3bfjb3o7/post/3mvph6gnx4k25</guid>
+      <pubDate>Thu, 17 Sep 2026 10:31:18 GMT</pubDate>
+      <dc:creator>塩麹。 (siokojio4o.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>これは関係ある？<br/>x.com/bandmaid/sta...</p><p><em>BlueSky &middot; siokojio4o.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] アニメ「BEYBLADE X」新章「ベイキングダム編」、10月9日に配信開始　OPは&amp;TEAM、EDはBAND-MAID（動画あり / コメントあり）</title>
       <link>https://bsky.app/profile/did:plc:5ttg43yfww3kidboxtclpxct/post/3mvpfken7nd2t</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>3 years ago<br/>Blooming MV<br/>milestone<br/>surpassed 3 million views<br/>2023/9/7<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Saiki has talked for a couple of years now about her ambition to organise a B...</title>
-      <link>https://bsky.app/profile/did:plc:6wwcbpk2sz2p2ghjsbe745m3/post/3muugizpzz42m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6wwcbpk2sz2p2ghjsbe745m3/post/3muugizpzz42m</guid>
-      <pubDate>Sun, 06 Sep 2026 16:37:27 GMT</pubDate>
-      <dc:creator>Sed Ti Kets (geariod.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Saiki has talked for a couple of years now about her ambition to organise a Band Maid festival. 2028 would be an ideal time to have and she has a year without touring in which to organise it.</p><p><em>BlueSky &middot; geariod.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
