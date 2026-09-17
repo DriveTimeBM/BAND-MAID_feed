@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 12:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 14:18:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 「BEYBLADE X」新章テーマ曲は</title>
+      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mvpraa4icp2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mvpraa4icp2c</guid>
+      <pubDate>Thu, 17 Sep 2026 13:31:11 GMT</pubDate>
+      <dc:creator>音楽ナタリー (music.natalie.mu)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>「BEYBLADE X」新章テーマ曲は<br/>&amp;TEAM、BAND-MAIDが担当<br/><br/>🎥コメント動画<br/>https://natalie.mu/music/news/690041?utm_source=bluesky&amp;utm_medium=social<br/><br/>#BEYBLADEX #ベイブレードX</p><p><em>BlueSky &middot; music.natalie.mu</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Ontem eu tava cogitando entrar no mundinho das Beyblade, mas o preço do set d...</title>
       <link>https://bsky.app/profile/did:plc:utuetamaxcqrrpb5ytv4wndd/post/3mvplc2dpuc2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>11 years ago Band-Maid played 6 songs at TSUTAYA O-nest in Tokyo JP on 2015/9/7. The opening song was Don&#39;t let me down.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago Band-Maid played 21 songs at Zepp DiverCity (TOKYO) in Tokyo JP o...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3muvtdlylqp22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3muvtdlylqp22</guid>
-      <pubDate>Mon, 07 Sep 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago Band-Maid played 21 songs at Zepp DiverCity (TOKYO) in Tokyo JP on 2022/9/7. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
