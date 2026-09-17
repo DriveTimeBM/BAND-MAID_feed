@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FKh2zmUbR5Q",
+        "Title":  "&TEAM and BAND-MAID to perform theme songs for the new chapter of the anime *BEYBLADE X*.",
+        "Channel":  "K-pop Galaxy",
+        "ChannelId":  "UCsj9FF1WN6IpYO0h1GF0yjQ",
+        "Url":  "https://youtu.be/FKh2zmUbR5Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/FKh2zmUbR5Q/hqdefault.jpg",
+        "PublishedAt":  "2026-09-17T15:21:25.0000000Z",
+        "DiscoveredAt":  "2026-09-17T15:45:46.4250255Z",
+        "Duration":  "00:02:07",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NvqeGtNQZxM",
         "Title":  "MADBEATS & CURIOUS TUNES - Band-Maid EP, Scooooop review!",
         "Channel":  "Cake & Rabbit FM",
