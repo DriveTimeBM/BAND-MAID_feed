@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 11:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:46:27 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Ontem eu tava cogitando entrar no mundinho das Beyblade, mas o preço do set d...</title>
+      <link>https://bsky.app/profile/did:plc:utuetamaxcqrrpb5ytv4wndd/post/3mvplc2dpuc2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:utuetamaxcqrrpb5ytv4wndd/post/3mvplc2dpuc2d</guid>
+      <pubDate>Thu, 17 Sep 2026 11:44:55 GMT</pubDate>
+      <dc:creator>Hideaki "Maid in Brasil" Bitoru (hideakibitoru.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Ontem eu tava cogitando entrar no mundinho das Beyblade, mas o pre&#231;o do set do Eva me desanimou, por&#233;m hoje a Band Maid anunciou q vai fazer o encerramento do Beyblade X...<br/><br/>O universo t&#225; tentando me manipular</p><p><em>BlueSky &middot; hideakibitoru.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] でもBAND-MAIDさんってggってみたけどかっこよさそうな曲歌ってくれてそうで楽しみ</title>
       <link>https://bsky.app/profile/did:plc:odcxkwkhbp7qcmi2nzx5ouim/post/3mvpi6awl4s2t</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago Band-Maid played 21 songs at Zepp DiverCity (TOKYO) in Tokyo JP on 2022/9/7. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3muvpr7deui2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3muvpr7deui2i</guid>
-      <pubDate>Mon, 07 Sep 2026 04:55:42 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago<br/>influencer<br/>live debut<br/>Zepp Divercity, Tokyo, Japan<br/>2022/9/7<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
