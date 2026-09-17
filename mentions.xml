@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 11:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:45:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] でもBAND-MAIDさんってggってみたけどかっこよさそうな曲歌ってくれてそうで楽しみ</title>
+      <link>https://bsky.app/profile/did:plc:odcxkwkhbp7qcmi2nzx5ouim/post/3mvpi6awl4s2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:odcxkwkhbp7qcmi2nzx5ouim/post/3mvpi6awl4s2t</guid>
+      <pubDate>Thu, 17 Sep 2026 10:49:06 GMT</pubDate>
+      <dc:creator>みかん (mmmneko.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>でもBAND-MAIDさんってggってみたけどかっこよさそうな曲歌ってくれてそうで楽しみ<br/>メイドのバンドさんだからメイデンさんがEDで出てくるといいな(安直)</p><p><em>BlueSky &middot; mmmneko.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] これは関係ある？</title>
       <link>https://bsky.app/profile/did:plc:ctmb6f4mbfgy67pm3bfjb3o7/post/3mvph6gnx4k25</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago<br/>influencer<br/>live debut<br/>Zepp Divercity, Tokyo, Japan<br/>2022/9/7<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3muvpqzjlki2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3muvpqzjlki2i</guid>
-      <pubDate>Mon, 07 Sep 2026 04:55:36 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago<br/>Blooming MV<br/>milestone<br/>surpassed 3 million views<br/>2023/9/7<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
