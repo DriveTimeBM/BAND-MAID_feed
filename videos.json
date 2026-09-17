@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vw_7Xcsr7Eo",
+        "Title":  "JUST FOR GIRLS? | Rappers FIRST TIME REACTION To BAND-MAID \"Present Perfect\" (Official Live Video)",
+        "Channel":  "Street Champs",
+        "ChannelId":  "UC47fBj1FOPDdXf-HGKejtQg",
+        "Url":  "https://youtu.be/vw_7Xcsr7Eo",
+        "Thumbnail":  "https://i.ytimg.com/vi/vw_7Xcsr7Eo/hqdefault.jpg",
+        "PublishedAt":  "2026-09-17T17:00:39.0000000Z",
+        "DiscoveredAt":  "2026-09-17T17:22:23.6229755Z",
+        "Duration":  "00:12:34",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "FKh2zmUbR5Q",
         "Title":  "&TEAM and BAND-MAID to perform theme songs for the new chapter of the anime *BEYBLADE X*.",
         "Channel":  "K-pop Galaxy",
