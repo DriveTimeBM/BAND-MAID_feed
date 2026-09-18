@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0OMFm5jcsRQ",
+        "Title":  "BAND-MAID – “Thrill” REACTION | THEY HAD ME HOOKED IMMEDIATELY!",
+        "Channel":  "Jeanette Music",
+        "ChannelId":  "UCNFfh0zk_jvV4_IPNExuLeA",
+        "Url":  "https://youtu.be/0OMFm5jcsRQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/0OMFm5jcsRQ/hqdefault.jpg",
+        "PublishedAt":  "2026-09-18T10:00:29.0000000Z",
+        "DiscoveredAt":  "2026-09-18T10:06:48.9316015Z",
+        "Duration":  "00:15:21",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Yeho4zSGHJQ",
+        "Title":  "First Time Hearing | Hate? - BAND-MAID",
+        "Channel":  "New Clear Reactor",
+        "ChannelId":  "UCxw-VYYVtEnJhP25YHtdbsw",
+        "Url":  "https://youtu.be/Yeho4zSGHJQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/Yeho4zSGHJQ/hqdefault.jpg",
+        "PublishedAt":  "2026-09-18T08:57:54.0000000Z",
+        "DiscoveredAt":  "2026-09-18T10:06:46.8500771Z",
+        "Duration":  "00:11:28",
+        "ViewsAtDiscovery":  48,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cEWRvAX0Jco",
         "Title":  "BAND-MAID's New Song \"SPIN\" Selected as New BEYBLADE X Ending Theme! Budokan Day 2 Sold Out",
         "Channel":  "Japan Voice A7",
