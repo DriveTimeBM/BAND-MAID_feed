@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 20:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:45:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] band-maid e beyblade duas coisas que eu gosto muito</title>
+      <link>https://bsky.app/profile/did:plc:w35jlu6razub4lat3uhxo7vf/post/3mvsz6ibeos2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:w35jlu6razub4lat3uhxo7vf/post/3mvsz6ibeos2h</guid>
+      <pubDate>Fri, 18 Sep 2026 20:31:27 GMT</pubDate>
+      <dc:creator>m_chai 🪄 (majichai.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>band-maid e beyblade duas coisas que eu gosto muito </p><p><em>BlueSky &middot; majichai.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] BAND-MAID spins Beyblades and a new ending theme song for the Beykingdom Arc!</title>
+      <link>https://bsky.app/profile/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/post/3mvsz3x4grv23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/post/3mvsz3x4grv23</guid>
+      <pubDate>Fri, 18 Sep 2026 20:30:01 GMT</pubDate>
+      <dc:creator>Anime News Network (animenewsnetwork.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID spins Beyblades and a new ending theme song for the Beykingdom Arc!</p><p><em>BlueSky &middot; animenewsnetwork.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID-"About Us"</title>
       <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mvswkyf2wc26</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played 10 songs at Crazy Monkey in Sapporo JP on 2016/9/8. The opening song was LOOK AT ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 7 years ago Band-Maid played 13 songs at NHK Housou Center in Tokyo JP on 201...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3muydsmkyq222</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3muydsmkyq222</guid>
-      <pubDate>Tue, 08 Sep 2026 05:59:46 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>7 years ago Band-Maid played 13 songs at NHK Housou Center in Tokyo JP on 2019/9/8. The opening song was endless Story.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago Band-Maid played 7 songs at Laguna Beach in Gamagoori JP on 2024/...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3muydslnw2o2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3muydslnw2o2d</guid>
-      <pubDate>Tue, 08 Sep 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago Band-Maid played 7 songs at Laguna Beach in Gamagoori JP on 2024/9/8. The opening song was Shambles.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
