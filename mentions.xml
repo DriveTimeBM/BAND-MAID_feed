@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 01:02:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 02:24:48 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] The music of Band-Maid. www.youtube.com/watch?v=yTAQ...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mvqzeblpw22c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mvqzeblpw22c</guid>
+      <pubDate>Fri, 18 Sep 2026 01:29:22 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>The music of Band-Maid. www.youtube.com/watch?v=yTAQ...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] Exciting news! BAND-MAID will perform the ending theme for the anime BEYBLADE...</title>
       <link>https://mastodon.social/@jrock_blog/117289337710494938</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>— The plentiful ideas on the chorus and the ability to adapt on the scene, good indeed. Lets continue on talking about the other song &quot;Choose me&quot;.<br/><br/>Kanami: The theme of this song was Band-Maid ish. The characteristics of Band-Maid is rocking hard but easy to listen to, so I focused on these points. </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Choose me</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muvtpsv5yb2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muvtpsv5yb2z</guid>
-      <pubDate>Mon, 07 Sep 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Choose me<br/>Album: Daydreaming / Choose me<br/>Release: 7/18/2017<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:6/30/2017<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
