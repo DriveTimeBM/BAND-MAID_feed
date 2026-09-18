@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cEWRvAX0Jco",
+        "Title":  "BAND-MAID's New Song \"SPIN\" Selected as New BEYBLADE X Ending Theme! Budokan Day 2 Sold Out",
+        "Channel":  "Japan Voice A7",
+        "ChannelId":  "UCz9Lg--YllElKh2SCJWP6wg",
+        "Url":  "https://youtu.be/cEWRvAX0Jco",
+        "Thumbnail":  "https://i.ytimg.com/vi/cEWRvAX0Jco/hqdefault.jpg",
+        "PublishedAt":  "2026-09-18T06:54:02.0000000Z",
+        "DiscoveredAt":  "2026-09-18T07:50:17.8796014Z",
+        "Duration":  "00:07:14",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "z3qBJlg8ETA",
         "Title":  "QUEEN REACTS to BAND MAID – “MADE IN HEAVEN”  THIS LIVE PERFORMANCE! 🤯🔥",
         "Channel":  "QueenKafi",
