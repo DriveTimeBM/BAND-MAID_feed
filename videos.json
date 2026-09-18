@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "67_ZkACTFFw",
+        "Title":  "BAND-MAID、新曲「SPIN」が『BEYBLADE X』新EDテーマに決定！武道館Day2完売",
+        "Channel":  "Irshad Khan gurmani",
+        "ChannelId":  "UCbD6BfTL8rWkhyQKjCvEoag",
+        "Url":  "https://youtu.be/67_ZkACTFFw",
+        "Thumbnail":  "https://i.ytimg.com/vi/67_ZkACTFFw/hqdefault.jpg",
+        "PublishedAt":  "2026-09-18T11:39:15.0000000Z",
+        "DiscoveredAt":  "2026-09-18T11:45:49.7523450Z",
+        "Duration":  "00:02:55",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "CAZ12MzL0QY",
         "Title":  "BAND-MAID: SCREAMING 🤘 | The “B-Side” That Should NOT Have Been Left Behind! | Reaction",
         "Channel":  "Coffee Guy reacts",
