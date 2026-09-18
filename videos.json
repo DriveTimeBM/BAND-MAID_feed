@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dVzLEHZ0m5s",
+        "Title":  "BAND-MAID おぼろっく2026 TSURUGA MUSIC FESTIVAL Day1 参戦レポート (Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/dVzLEHZ0m5s",
+        "Thumbnail":  "https://i.ytimg.com/vi/dVzLEHZ0m5s/hqdefault.jpg",
+        "PublishedAt":  "2026-09-18T23:00:02.0000000Z",
+        "DiscoveredAt":  "2026-09-18T23:17:38.7777162Z",
+        "Duration":  "00:36:48",
+        "ViewsAtDiscovery":  15,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BCACa6tDmtY",
         "Title":  "Dethfender Reacts: Band Maid -\"Shambles\" (Live) | first time react",
         "Channel":  "Guitarist Reacts TV",
