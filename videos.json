@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZztUq6_UO-g",
+        "Title":  "BAND-MAID’s “SPIN” Chosen as BEYBLADE X Ending Theme! Budokan Day 2 Sells Out",
+        "Channel":  "Japan Spotlight Media",
+        "ChannelId":  "UCnCa-_UXzB4yw5LnVAg7GkQ",
+        "Url":  "https://youtu.be/ZztUq6_UO-g",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZztUq6_UO-g/hqdefault.jpg",
+        "PublishedAt":  "2026-09-18T11:50:45.0000000Z",
+        "DiscoveredAt":  "2026-09-18T12:14:55.1551447Z",
+        "Duration":  "00:01:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "sIbM8WMevvA",
+        "Title":  "WHO ARE THESE CHICKS?! | BAND-MAID \"Ready to Rock\" Anime OP Reaction",
+        "Channel":  "tobototoki",
+        "ChannelId":  "UCZSCxEPXi-3CGI4Jd2sT6og",
+        "Url":  "https://youtu.be/sIbM8WMevvA",
+        "Thumbnail":  "https://i.ytimg.com/vi/sIbM8WMevvA/hqdefault.jpg",
+        "PublishedAt":  "2026-09-18T04:00:34.0000000Z",
+        "DiscoveredAt":  "2026-09-18T12:14:54.4103083Z",
+        "Duration":  "00:05:10",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "67_ZkACTFFw",
         "Title":  "BAND-MAID、新曲「SPIN」が『BEYBLADE X』新EDテーマに決定！武道館Day2完売",
         "Channel":  "Irshad Khan gurmani",
