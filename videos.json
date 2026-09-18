@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BCACa6tDmtY",
+        "Title":  "Dethfender Reacts: Band Maid -\"Shambles\" (Live) | first time react",
+        "Channel":  "Guitarist Reacts TV",
+        "ChannelId":  "UCn3wcz9YEoqHYVxnBIHvANg",
+        "Url":  "https://youtu.be/BCACa6tDmtY",
+        "Thumbnail":  "https://i.ytimg.com/vi/BCACa6tDmtY/hqdefault.jpg",
+        "PublishedAt":  "2026-09-18T17:00:07.0000000Z",
+        "DiscoveredAt":  "2026-09-18T17:52:17.1759015Z",
+        "Duration":  "00:19:38",
+        "ViewsAtDiscovery":  26,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NWnEL-UVKEU",
         "Title":  "Bass Overload! | BAND-MAID x The Warning / SHOW THEM (OMV/live double reaction)",
         "Channel":  "Lune-atic Reactions",
