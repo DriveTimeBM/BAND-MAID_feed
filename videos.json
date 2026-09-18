@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CAZ12MzL0QY",
+        "Title":  "BAND-MAID: SCREAMING 🤘 | The “B-Side” That Should NOT Have Been Left Behind! | Reaction",
+        "Channel":  "Coffee Guy reacts",
+        "ChannelId":  "UCb40WR2QgE9r2TTYWkZcgeg",
+        "Url":  "https://youtu.be/CAZ12MzL0QY",
+        "Thumbnail":  "https://i.ytimg.com/vi/CAZ12MzL0QY/hqdefault.jpg",
+        "PublishedAt":  "2026-09-18T10:00:07.0000000Z",
+        "DiscoveredAt":  "2026-09-18T10:37:56.8494822Z",
+        "Duration":  "00:06:18",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0OMFm5jcsRQ",
         "Title":  "BAND-MAID – “Thrill” REACTION | THEY HAD ME HOOKED IMMEDIATELY!",
         "Channel":  "Jeanette Music",
