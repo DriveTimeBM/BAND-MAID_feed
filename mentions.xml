@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 07:52:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:49:46 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] And it happily plays music newer than the 1990's.</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mvsgtjij7k2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mvsgtjij7k2a</guid>
+      <pubDate>Fri, 18 Sep 2026 15:03:12 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>And it happily plays music newer than the 1990&#39;s.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Youth</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvritxmmg42c</link>
@@ -899,15 +908,6 @@
       <dc:creator>Obsidian Adventures (obsidianadventures.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Introduce yourself with 10 acts you&#39;ve seen live:<br/>The Angels<br/>Cheap Trick<br/>Clannad <br/>Steeleye Span<br/>Aerosmith<br/>Iron Maiden<br/>Lindsey Stirling<br/>Band Maid<br/>(I don’t go to live gigs much so the desperate 2:)<br/>Rick Price (partner took me)<br/>Brian Ferry (walked through his crowd to get somewhere)</p><p><em>BlueSky &middot; obsidianadventures.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3muy27pcffv24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3muy27pcffv24</guid>
-      <pubDate>Tue, 08 Sep 2026 03:08:08 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
