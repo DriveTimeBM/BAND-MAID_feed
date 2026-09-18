@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 21:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:16:13 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID Perform Ending Theme SPIN for Beyblade X Beykingdom Arc</title>
+      <link>https://bsky.app/profile/did:plc:vwt6opoyqeui2nnohjejp3ms/post/3mvt43xgdez2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vwt6opoyqeui2nnohjejp3ms/post/3mvt43xgdez2x</guid>
+      <pubDate>Fri, 18 Sep 2026 21:23:43 GMT</pubDate>
+      <dc:creator>yomimonoid.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID Perform Ending Theme SPIN for Beyblade X Beykingdom Arc<br/><br/>BAND-MAID&#39;s &quot;SPIN&quot; arrives October 28, nineteen days after the Beykingdom Arc premieres on the franchise&#39;s YouTube channel. The song outlives the arc&#39;s first three weeks.</p><p><em>BlueSky &middot; yomimonoid.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] band-maid e beyblade duas coisas que eu gosto muito</title>
       <link>https://bsky.app/profile/did:plc:w35jlu6razub4lat3uhxo7vf/post/3mvsz6ibeos2h</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>12 years ago Band-Maid played 4 songs at shibuya eggman in Tokyo JP on 2014/9/8. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played 10 songs at Crazy Monkey in Sapporo JP on 2016/...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3muydsnfm4r2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3muydsnfm4r2g</guid>
-      <pubDate>Tue, 08 Sep 2026 05:59:47 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played 10 songs at Crazy Monkey in Sapporo JP on 2016/9/8. The opening song was LOOK AT ME.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
