@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 15:49:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:25:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID-"About Us"</title>
+      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mvswkyf2wc26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mvswkyf2wc26</guid>
+      <pubDate>Fri, 18 Sep 2026 19:44:45 GMT</pubDate>
+      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID-&quot;About Us&quot;<br/>youtu.be/qicgVAxCYV8<br/><br/>Written during the height of COVID, it&#39;s a cathartic expression about separation from loved ones and existential grief of connection to the world</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] And it happily plays music newer than the 1990's.</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mvsgtjij7k2a</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2 years ago Band-Maid played 7 songs at Laguna Beach in Gamagoori JP on 2024/9/8. The opening song was Shambles.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Introduce yourself with 10 acts you've seen live:</title>
-      <link>https://bsky.app/profile/did:plc:ggcaaln6pt7xeechw42rnrs5/post/3muy7kijahc2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ggcaaln6pt7xeechw42rnrs5/post/3muy7kijahc2a</guid>
-      <pubDate>Tue, 08 Sep 2026 04:43:39 GMT</pubDate>
-      <dc:creator>Obsidian Adventures (obsidianadventures.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Introduce yourself with 10 acts you&#39;ve seen live:<br/>The Angels<br/>Cheap Trick<br/>Clannad <br/>Steeleye Span<br/>Aerosmith<br/>Iron Maiden<br/>Lindsey Stirling<br/>Band Maid<br/>(I don’t go to live gigs much so the desperate 2:)<br/>Rick Price (partner took me)<br/>Brian Ferry (walked through his crowd to get somewhere)</p><p><em>BlueSky &middot; obsidianadventures.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
