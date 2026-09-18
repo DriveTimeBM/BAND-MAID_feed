@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "teGX678sW4M",
+        "Title":  "MISA & KANAMI GO OFF! BAND-MAID - ENERGETIC 🇯🇵 REACTION! 🧠🤘",
+        "Channel":  "danebramage 🧠 ROCKS 🤘",
+        "ChannelId":  "UChsalzGhUr4efWHoJONnJ_g",
+        "Url":  "https://youtu.be/teGX678sW4M",
+        "Thumbnail":  "https://i.ytimg.com/vi/teGX678sW4M/hqdefault.jpg",
+        "PublishedAt":  "2026-09-18T13:45:09.0000000Z",
+        "DiscoveredAt":  "2026-09-18T13:46:44.1569360Z",
+        "Duration":  "00:12:28",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZztUq6_UO-g",
         "Title":  "BAND-MAID’s “SPIN” Chosen as BEYBLADE X Ending Theme! Budokan Day 2 Sells Out",
         "Channel":  "Japan Spotlight Media",
