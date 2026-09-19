@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 22:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 00:19:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] As vezes eu fico me perguntando como seria uma Review do Régis Tadeu de um sh...</title>
+      <link>https://bsky.app/profile/did:plc:2agy2fppx756epioqoikwyzp/post/3mvtdie3tok2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2agy2fppx756epioqoikwyzp/post/3mvtdie3tok2x</guid>
+      <pubDate>Fri, 18 Sep 2026 23:35:55 GMT</pubDate>
+      <dc:creator>bigxic36.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>As vezes eu fico me perguntando como seria uma Review do R&#233;gis Tadeu de um show do Band Maid (apesar de j&#225; ter uma suspeita do que ele falaria)<br/><br/>youtu.be/QbyQCJn6rYg?...</p><p><em>BlueSky &middot; bigxic36.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID Perform Ending Theme SPIN for Beyblade X Beykingdom Arc</title>
       <link>https://bsky.app/profile/did:plc:vwt6opoyqeui2nnohjejp3ms/post/3mvt43xgdez2x</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: H-G-K<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 4 songs at shibuya eggman in Tokyo JP on 2014/9...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3muydsnzvkf2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3muydsnzvkf2n</guid>
-      <pubDate>Tue, 08 Sep 2026 05:59:48 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 4 songs at shibuya eggman in Tokyo JP on 2014/9/8. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
