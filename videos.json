@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "q_6IOrkG_dU",
+        "Title":  "BAND-MAID “Sense” REACTION | Official MV + LIVE + Acoustic | First Time Reaction",
+        "Channel":  "Ginger T Reacts",
+        "ChannelId":  "UCZWOGhnKe5lh_KnpNaWRtQg",
+        "Url":  "https://youtu.be/q_6IOrkG_dU",
+        "Thumbnail":  "https://i.ytimg.com/vi/q_6IOrkG_dU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T19:00:30.0000000Z",
+        "DiscoveredAt":  "2026-09-19T19:25:55.7885053Z",
+        "Duration":  "00:25:18",
+        "ViewsAtDiscovery":  29,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "BaRdVCETEl4",
+        "Title":  "BAND-MAID - Glory | FIRST TIME HEARING | REACTION!⁠",
+        "Channel":  "The Overreacters",
+        "ChannelId":  "UCHTkIZsGGZ2wOjZH9yiocVA",
+        "Url":  "https://youtu.be/BaRdVCETEl4",
+        "Thumbnail":  "https://i.ytimg.com/vi/BaRdVCETEl4/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T19:00:20.0000000Z",
+        "DiscoveredAt":  "2026-09-19T19:25:54.8320471Z",
+        "Duration":  "00:05:43",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "w3SMJ42TUu0",
         "Title":  "EARS TO THE EAST | Does signing help? | ZILQY new single | BAND-MAID, HANABIE & KOIAI in 10 years?",
         "Channel":  "Ears To The East",
