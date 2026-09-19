@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2ZZ7XL13ybM",
+        "Title":  "🎸🔥【BAND-MAID】最新ライブ映像が凄すぎる！世界を熱狂させた圧巻ステージ、その瞬間に鳥肌…！",
+        "Channel":  "Japan news",
+        "ChannelId":  "UCL6Ot6oqi8xmtnHQrSj7PXg",
+        "Url":  "https://youtu.be/2ZZ7XL13ybM",
+        "Thumbnail":  "https://i.ytimg.com/vi/2ZZ7XL13ybM/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T04:27:47.0000000Z",
+        "DiscoveredAt":  "2026-09-19T04:56:54.9106610Z",
+        "Duration":  "00:15:19",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dVzLEHZ0m5s",
         "Title":  "BAND-MAID おぼろっく2026 TSURUGA MUSIC FESTIVAL Day1 参戦レポート (Live Report)",
         "Channel":  "いちお盟主のつぶやき",
