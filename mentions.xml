@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 00:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 04:57:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mvts5cltpq2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mvts5cltpq2q</guid>
+      <pubDate>Sat, 19 Sep 2026 03:58:11 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID to Perform Ending Theme Song for Beyblade X 'Beykingdom Arc'</title>
       <link>https://bsky.app/profile/did:plc:i3t5plujknxclpumc5d44pb7/post/3mvtfawn4sw2i</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>een having more songs like that since Secret My lips, right?<br/><br/>Kanami: Is that so? I don’t remember.<br/><br/>Kobato: We’ve been having more and more developments like that since then, po.<br/><br/>Kanami: I’m glad when I’m said “You Band-Maid have a lot of songs like that” because I like them quite a lot.<br/><br/>— I’m dr</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ut Band-Maid songs have such a cool development of the D-melody [note: differ...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muye6wjhgo2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3muye6wjhgo2g</guid>
-      <pubDate>Tue, 08 Sep 2026 06:06:40 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>ut Band-Maid songs have such a cool development of the D-melody [note: different verse] after the chorus.<br/><br/>Kobato: You love changing developments, right? [Note: said to Kanami.]<br/><br/>Kanami: Of course we have songs like A-melody, B-melody, chorus, interlude, guitar solo, final chorus, and that’s all, bu</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
