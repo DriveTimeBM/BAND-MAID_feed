@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "MVKCThixqxg",
+        "Title":  "【MASHUP】BAND MAID with The Warning   SHOW THEM vs OutRun Magical Sound Shower",
+        "Channel":  "@ おみそ",
+        "ChannelId":  "UC16D1ImkJsiwW7bhQiey6Yw",
+        "Url":  "https://youtu.be/MVKCThixqxg",
+        "Thumbnail":  "https://i.ytimg.com/vi/MVKCThixqxg/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T09:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-19T09:41:37.7203212Z",
+        "Duration":  "00:03:23",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "kJPiPjZtp8k",
+        "Title":  "NO GOD／BAND-MAID😃Kentの歌唱動画😃ガールズハードロックバンド💕 #nogod #bandmaid チャンネル登録お願いします😃",
+        "Channel":  "Kent〜Hard Rock Metal Visual系Band Lover〜",
+        "ChannelId":  "UCL0bDfuxhUaJPHl6uDYNoHA",
+        "Url":  "https://youtu.be/kJPiPjZtp8k",
+        "Thumbnail":  "https://i.ytimg.com/vi/kJPiPjZtp8k/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T08:18:20.0000000Z",
+        "DiscoveredAt":  "2026-09-19T09:41:36.2755352Z",
+        "Duration":  "00:04:12",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KXGrVF8Yuxg",
         "Title":  "Warning!／BAND-MAID😃Kentの歌唱動画😃ガールズハードロックバンド💕 #Warning! #bandmaid チャンネル登録お願いします😃",
         "Channel":  "Kent〜Hard Rock Metal Visual系Band Lover〜",
