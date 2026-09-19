@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BJMVT-Dh5yM",
+        "Title":  "Ready to Rock／BAND-MAID😃Kentの歌唱動画😃#ポケカラ🎤🎶ガールズハードロックバンド💕#readytorock #bandmaid チャンネル登録お願いします😃",
+        "Channel":  "Kent〜Hard Rock Metal Visual系Band Lover〜",
+        "ChannelId":  "UCL0bDfuxhUaJPHl6uDYNoHA",
+        "Url":  "https://youtu.be/BJMVT-Dh5yM",
+        "Thumbnail":  "https://i.ytimg.com/vi/BJMVT-Dh5yM/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T21:09:09.0000000Z",
+        "DiscoveredAt":  "2026-09-19T21:30:11.4757113Z",
+        "Duration":  "00:03:29",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "EkZrH21SkyE",
+        "Title":  "Thrill(スリル)／BAND-MAID😃Kentの歌唱動画😃#ポケカラ 🎤🎶ガールズハードロックバンド💕#thrill #bandmaid チャンネル登録お願いします😃",
+        "Channel":  "Kent〜Hard Rock Metal Visual系Band Lover〜",
+        "ChannelId":  "UCL0bDfuxhUaJPHl6uDYNoHA",
+        "Url":  "https://youtu.be/EkZrH21SkyE",
+        "Thumbnail":  "https://i.ytimg.com/vi/EkZrH21SkyE/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T20:56:35.0000000Z",
+        "DiscoveredAt":  "2026-09-19T21:30:10.4152545Z",
+        "Duration":  "00:04:24",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YdEhR0lxFfY",
         "Title":  "Band-Maid-Dilly Dally (LIVE)-Static Reaction #bandmaid #bandmaidreaction",
         "Channel":  "StaticAge Channel",
