@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ku__kzmAq1Y",
+        "Title":  "Band-Maid - I Still Seek Revenge | Reaction (Live+Studio) | TOP 5.... we think.",
+        "Channel":  "Battoosh & Nonna",
+        "ChannelId":  "UCqpXbKhNpin0c7hl1NvmoKw",
+        "Url":  "https://youtu.be/ku__kzmAq1Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/ku__kzmAq1Y/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T16:37:34.0000000Z",
+        "DiscoveredAt":  "2026-09-19T16:52:14.1926631Z",
+        "Duration":  "00:14:59",
+        "ViewsAtDiscovery":  33,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hSj7iyqpDY0",
         "Title":  "BAND-MAID】「Thrill」のベースがヤバい。実際に弾いて気づいたMISAの凄さを語らせて。",
         "Channel":  "tetsu_guitar",
