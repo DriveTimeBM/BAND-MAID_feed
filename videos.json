@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "w3SMJ42TUu0",
+        "Title":  "EARS TO THE EAST | Does signing help? | ZILQY new single | BAND-MAID, HANABIE & KOIAI in 10 years?",
+        "Channel":  "Ears To The East",
+        "ChannelId":  "UCv9f-JJy6z3E_zs6x1CshXw",
+        "Url":  "https://youtu.be/w3SMJ42TUu0",
+        "Thumbnail":  "https://i.ytimg.com/vi/w3SMJ42TUu0/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T16:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-19T18:24:16.3327117Z",
+        "Duration":  "02:19:55",
+        "ViewsAtDiscovery":  77,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ku__kzmAq1Y",
         "Title":  "Band-Maid - I Still Seek Revenge | Reaction (Live+Studio) | TOP 5.... we think.",
         "Channel":  "Battoosh & Nonna",
