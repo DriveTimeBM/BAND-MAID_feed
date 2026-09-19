@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 07:58:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:43:01 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] You may want to start with BAND-MAID instrumentals then.</title>
+      <link>https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mvugljbegc2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6kv7gofsm5zr5vrse6wvlnkj/post/3mvugljbegc2l</guid>
+      <pubDate>Sat, 19 Sep 2026 10:04:02 GMT</pubDate>
+      <dc:creator>Acer Rubrum (d-t-39810.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>You may want to start with BAND-MAID instrumentals then.<br/>onset (YT OLV)<br/>without holding back (YT OLV)<br/>from now on (YT OMV/streaming platforms)<br/>Lock and Load (streaming platforms)<br/>Get to the top (streaming platforms)<br/>YOLO (has vocals but there is an instrumental version on streaming platforms)</p><p><em>BlueSky &middot; d-t-39810.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] band maid is cool i like them a lot :)</title>
       <link>https://bsky.app/profile/did:plc:al2wtd6zk3zkdukhk2p2zty4/post/3mvu2tqmkac2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago Band-Maid played 22 songs at shibuya eggman in Tokyo JP on 2022/9/9. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mv2qokuxzo2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mv2qokuxzo2g</guid>
-      <pubDate>Wed, 09 Sep 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago<br/>Eggman Pre US Tour Okyu-ji<br/>recorded<br/>Shibuya Eggman, Tokyo, Japan<br/>2022/9/9<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
