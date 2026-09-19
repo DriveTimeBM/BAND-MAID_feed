@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hSj7iyqpDY0",
+        "Title":  "BAND-MAID】「Thrill」のベースがヤバい。実際に弾いて気づいたMISAの凄さを語らせて。",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/hSj7iyqpDY0",
+        "Thumbnail":  "https://i.ytimg.com/vi/hSj7iyqpDY0/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T14:37:06.0000000Z",
+        "DiscoveredAt":  "2026-09-19T14:48:14.3500993Z",
+        "Duration":  "00:09:00",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "x1TOGgB58b8",
+        "Title":  "BAND-MAID/THRILL. Bass Cover #bandmaid       #basscover      #bass      #basssolo",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/x1TOGgB58b8",
+        "Thumbnail":  "https://i.ytimg.com/vi/x1TOGgB58b8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-19T14:23:50.0000000Z",
+        "DiscoveredAt":  "2026-09-19T14:48:12.5715842Z",
+        "Duration":  "00:04:05",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cIyV99Rt7m8",
         "Title":  "Chose me／BAND-MAID😃Kentの歌唱動画😃#ポケカラ 🎤🎶ガールズハードロックバンド💕#choseme #bandmaid チャンネル登録お願いします😃",
         "Channel":  "Kent〜Hard Rock Metal Visual系Band Lover〜",
