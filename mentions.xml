@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 20 Sep 2026 16:57:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:41:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 🎶 #SONGOFTHEDAY 🎵</title>
+      <link>https://bsky.app/profile/did:plc:engpkwzoem26os6sl643fuww/post/3mvy2ibzn422j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:engpkwzoem26os6sl643fuww/post/3mvy2ibzn422j</guid>
+      <pubDate>Sun, 20 Sep 2026 20:38:08 GMT</pubDate>
+      <dc:creator>Zelbinian (zelbinian.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>🎶 #SONGOFTHEDAY 🎵<br/><br/>🎧 &quot;The One&quot; by BAND-MAID<br/>---<br/>💿 Epic Narratives<br/>🗓️ 2024<br/>📍 #Tokyo, #Japan</p><p><em>BlueSky &middot; zelbinian.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Last night I chose to go to sleep looping a BAND-MAID album and so every time...</title>
+      <link>https://bsky.app/profile/did:plc:kgki22cr3ws3xqegadeirzs5/post/3mvxwcq6o2s2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kgki22cr3ws3xqegadeirzs5/post/3mvxwcq6o2s2x</guid>
+      <pubDate>Sun, 20 Sep 2026 19:23:27 GMT</pubDate>
+      <dc:creator>Freesiappe 🎀 (sunfaded.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Last night I chose to go to sleep looping a BAND-MAID album and so every time I woke up in the middle of the night I would hear it which is making me realize there were times I woke up and either I was so mentally fatigued or I was somehow still dreaming and I couldn&#39;t hear the music. Scary.</p><p><em>BlueSky &middot; sunfaded.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] そういえばピースメーカーS1で一瞬BAND-MAID流れるよ</title>
       <link>https://bsky.app/profile/did:plc:wwk3qwjqdvyf4qh2qvmfk7ho/post/3mvxkzi3mxc2l</link>
@@ -890,24 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] to [Daydreaming], it was like "This was what I was waiting for". It was a bal...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mv5f4oczw32z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mv5f4oczw32z</guid>
-      <pubDate>Thu, 10 Sep 2026 06:06:37 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>to [Daydreaming], it was like &quot;This was what I was waiting for&quot;. It was a ballad which was very much like Band-Maid, So I told Kanami she is a genious.<br/><br/>Kanami: Hahahahaha.<br/><br/>Saiki: It was a melody I wanted to sing, and also I like songs starting with the vocals.(laughs) We had a lot of songs like th</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ked to implement elements of tropical house. Since I do not listen to tropica...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mv5f4nwee224</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mv5f4nwee224</guid>
-      <pubDate>Thu, 10 Sep 2026 06:06:36 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>ked to implement elements of tropical house. Since I do not listen to tropical house, I listened to popular artists such as Justin Bieber.<br/><br/>Saiki: Oversea artists implement such tastes, so I advised her on listening to Justin.<br/><br/>Kanami: But since this is a Band-Maid song, I arranged it like rock.<br/><br/>Mi</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
