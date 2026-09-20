@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "I4V43bDFZT8",
+        "Title":  "BAND-MAID - ENERGETIC - React",
+        "Channel":  "Canal do Chierati",
+        "ChannelId":  "UC75kOrJWOrAdE8MmvbfZFjg",
+        "Url":  "https://youtu.be/I4V43bDFZT8",
+        "Thumbnail":  "https://i.ytimg.com/vi/I4V43bDFZT8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-20T22:00:22.0000000Z",
+        "DiscoveredAt":  "2026-09-20T22:12:40.6507292Z",
+        "Duration":  "00:06:06",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "OMgMH-GmOPk",
         "Title":  "DILEMMA! IT'S TOO GOOD!! - Dilemma Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
