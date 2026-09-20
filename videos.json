@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cHqO9NgOHos",
+        "Title":  "The Maids That Mastered Rock : Band-Maid",
+        "Channel":  "Roch's Rock Radio",
+        "ChannelId":  "UC_PqjeilG8e1jmEkKs38Brg",
+        "Url":  "https://youtu.be/cHqO9NgOHos",
+        "Thumbnail":  "https://i.ytimg.com/vi/cHqO9NgOHos/hqdefault.jpg",
+        "PublishedAt":  "2026-09-20T17:28:12.0000000Z",
+        "DiscoveredAt":  "2026-09-20T17:59:14.9469946Z",
+        "Duration":  "00:18:36",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "K58qdyy5TNo",
         "Title":  "QUEEN REACTS to BAND MAID – “Thrill スリル”  THIS IS INSANE!",
         "Channel":  "QueenKafi",
