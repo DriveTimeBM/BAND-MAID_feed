@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "OMgMH-GmOPk",
+        "Title":  "DILEMMA! IT'S TOO GOOD!! - Dilemma Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/OMgMH-GmOPk",
+        "Thumbnail":  "https://i.ytimg.com/vi/OMgMH-GmOPk/hqdefault.jpg",
+        "PublishedAt":  "2026-09-20T21:00:26.0000000Z",
+        "DiscoveredAt":  "2026-09-20T21:11:33.4489716Z",
+        "Duration":  "00:04:12",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "PlTFpfbJFEU",
         "Title":  "BAND-MAID – Choose Me Live Reaction | NOW I See Why This Song Is So Popular!",
         "Channel":  "Chooperis",
