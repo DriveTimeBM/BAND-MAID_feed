@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "9hAK3aJqLaA",
+        "Title":  "Band-Maid Bonuses New Releases from Hanabie, NEKI & Zilqy",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/9hAK3aJqLaA",
+        "Thumbnail":  "https://i.ytimg.com/vi/9hAK3aJqLaA/hqdefault.jpg",
+        "PublishedAt":  "2026-09-20T00:44:26.0000000Z",
+        "DiscoveredAt":  "2026-09-20T00:46:46.1468499Z",
+        "Duration":  "00:12:07",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BJMVT-Dh5yM",
         "Title":  "Ready to Rock／BAND-MAID😃Kentの歌唱動画😃#ポケカラ🎤🎶ガールズハードロックバンド💕#readytorock #bandmaid チャンネル登録お願いします😃",
         "Channel":  "Kent〜Hard Rock Metal Visual系Band Lover〜",
