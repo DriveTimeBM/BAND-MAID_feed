@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "G6HSB82oa38",
+        "Title":  "Reacting to Band Maid | Zen | Tokyo Garden Theatre  2025",
+        "Channel":  "Kyros Reactions",
+        "ChannelId":  "UCo6VhAuklHvW8ZC35pIezXg",
+        "Url":  "https://youtu.be/G6HSB82oa38",
+        "Thumbnail":  "https://i.ytimg.com/vi/G6HSB82oa38/hqdefault.jpg",
+        "PublishedAt":  "2026-09-20T06:00:11.0000000Z",
+        "DiscoveredAt":  "2026-09-20T07:47:16.6283720Z",
+        "Duration":  "00:06:37",
+        "ViewsAtDiscovery":  64,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "l9mZgZ_zoPI",
         "Title":  "HAGLER vs HEARNS - Ringside With BAND-MAID",
         "Channel":  "tommy",
