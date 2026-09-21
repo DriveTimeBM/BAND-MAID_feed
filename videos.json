@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "r6AsI_LsNp4",
+        "Title":  "BAND-MAID「BUBBLE」— 5人の歌声が重なる瞬間！❤️ | Billboard Acoustic 2025.",
+        "Channel":  "Coffee Guy reacts",
+        "ChannelId":  "UCb40WR2QgE9r2TTYWkZcgeg",
+        "Url":  "https://youtu.be/r6AsI_LsNp4",
+        "Thumbnail":  "https://i.ytimg.com/vi/r6AsI_LsNp4/hqdefault.jpg",
+        "PublishedAt":  "2026-09-21T10:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-21T10:28:10.1549442Z",
+        "Duration":  "00:05:55",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2XNdhadFguY",
         "Title":  "【BAND-MAID】「Choose me」のベースがヤバい。実際に弾いて気づいたMISAの凄さを語らせて。",
         "Channel":  "tetsu_guitar",
