@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 06:53:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:28:22 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #中央社即時新聞 娛樂新聞 17:02</title>
+      <link>https://bsky.app/profile/did:plc:jlukm7bp4meyi2pd5gkh3nn6/post/3mvzgrbzdrgv2</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jlukm7bp4meyi2pd5gkh3nn6/post/3mvzgrbzdrgv2</guid>
+      <pubDate>Mon, 21 Sep 2026 09:50:30 GMT</pubDate>
+      <dc:creator>Taiwan Public Service (pbs.pbs.idv.tw.ap.brid.gy)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#中央社即時新聞 娛樂新聞 17:02<br/><br/>BAND-MAID將暫休團 MISA笑喊女僕裝比賽戰鬥陀螺<br/><br/>（中央社台北21日電）日本搖滾樂團BAND-MAID昨晚來台開唱，門票完售。她們開演前受訪表示，團隊明年開始暫時休團，成員MISA私下是戰鬥陀螺高手，想趁這段休團期間比賽，更想嘗試穿女僕裝上場。<br/><br/>https://www.cna.com.tw/news/amov/202609210189.aspx<br/><br/>#新聞</p><p><em>BlueSky &middot; pbs.pbs.idv.tw.ap.brid.gy</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: ansan</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvz2ap554j24</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: anemone<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] youtube.com/watch?v=wKPk... Your Friday Brekkie Tune comes from Band-Maid</title>
-      <link>https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mv7qjauxvk2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mv7qjauxvk2n</guid>
-      <pubDate>Fri, 11 Sep 2026 04:35:49 GMT</pubDate>
-      <dc:creator>Keith Sowerby (jamesksowerby.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>youtube.com/watch?v=wKPk... Your Friday Brekkie Tune comes from Band-Maid</p><p><em>BlueSky &middot; jamesksowerby.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
