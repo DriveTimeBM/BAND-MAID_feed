@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2XNdhadFguY",
+        "Title":  "【BAND-MAID】「Choose me」のベースがヤバい。実際に弾いて気づいたMISAの凄さを語らせて。",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/2XNdhadFguY",
+        "Thumbnail":  "https://i.ytimg.com/vi/2XNdhadFguY/hqdefault.jpg",
+        "PublishedAt":  "2026-09-21T09:25:31.0000000Z",
+        "DiscoveredAt":  "2026-09-21T09:26:42.5662139Z",
+        "Duration":  "00:09:36",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-8FZD8Lk_YA",
         "Title":  "Forbidden tale／BAND-MAID😃Kentの歌唱動画😃#ポケカラ🎤🎶ガールズハードロックバンド💕 #forbiddentale #bandmaid チャンネル登録お願いします😃",
         "Channel":  "Kent〜Hard Rock Metal Visual系Band Lover〜",
