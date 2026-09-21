@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "usJgW0Cp9tk",
+        "Title":  "BAND MAID MONDAY! We React To \"I'll\" (Live Version) #BandMaid #LiveReaction",
+        "Channel":  "WavesAcrossTheWater",
+        "ChannelId":  "UC8VWDy9uGVbgrBXwJlRwESQ",
+        "Url":  "https://youtu.be/usJgW0Cp9tk",
+        "Thumbnail":  "https://i.ytimg.com/vi/usJgW0Cp9tk/hqdefault.jpg",
+        "PublishedAt":  "2026-09-21T14:00:11.0000000Z",
+        "DiscoveredAt":  "2026-09-21T14:08:16.3317880Z",
+        "Duration":  "00:14:54",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "PcGNZHM-2CM",
+        "Title":  "We listen to Thrill (スリル) by BAND-MAID for the FIRST TIME! | (REACTION)",
+        "Channel":  "The Keep Up",
+        "ChannelId":  "UCLRUwERKaf97f6nfLsd3oTg",
+        "Url":  "https://youtu.be/PcGNZHM-2CM",
+        "Thumbnail":  "https://i.ytimg.com/vi/PcGNZHM-2CM/hqdefault.jpg",
+        "PublishedAt":  "2026-09-21T14:00:07.0000000Z",
+        "DiscoveredAt":  "2026-09-21T14:08:15.4362019Z",
+        "Duration":  "00:23:41",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7UAXz0h_dOY",
         "Title":  "BAND-MAID - Toi et moi | Reaction!",
         "Channel":  "Rockin' with Matt",
