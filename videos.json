@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8ziEcFq1W6A",
+        "Title":  "Pro Guitar Teacher Analyzes BAND-MAID “HATE?” | What’s Really Going On Musically",
+        "Channel":  "Robbie Guitar Channel",
+        "ChannelId":  "UCug11JLneDcL4NvJdK-3xrg",
+        "Url":  "https://youtu.be/8ziEcFq1W6A",
+        "Thumbnail":  "https://i.ytimg.com/vi/8ziEcFq1W6A/hqdefault.jpg",
+        "PublishedAt":  "2026-09-21T22:02:56.0000000Z",
+        "DiscoveredAt":  "2026-09-21T22:20:50.2865169Z",
+        "Duration":  "00:10:20",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1j6bD50qEuk",
         "Title":  "Why BAND-MAID Needed Miku to Learn Guitar",
         "Channel":  "Venus Gaijin",
