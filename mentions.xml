@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 02:49:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 05:52:33 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 4 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mvywblng2f2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mvywblng2f2g</guid>
+      <pubDate>Mon, 21 Sep 2026 04:55:28 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>4 years ago<br/>Unleash<br/>album<br/>released<br/>2022/9/21<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] ohhhh i thought you said band maids... hm... those adhesive bandages aren't r...</title>
       <link>https://bsky.app/profile/did:plc:2bqmi52igxhbggrav7eq2gnk/post/3mvymmysgt22o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 🎥 Our REACTION is live! BAND-MAID’s “Daydreaming” brings a softer, emotional...</title>
-      <link>https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mv6i6sribh23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3mv6i6sribh23</guid>
-      <pubDate>Thu, 10 Sep 2026 16:34:08 GMT</pubDate>
-      <dc:creator>AngelTalion (angeltalion.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>🎥 Our REACTION is live! BAND-MAID’s “Daydreaming” brings a softer, emotional side that still carries so much power.<br/><br/>What part caught you off guard in the best way?<br/><br/>https://www.youtube.com/watch?v=RjPYGkO0j9s&amp;list=PL7MzXPGtHwvCpOtbZmSz5FAt_oLkjooMn</p><p><em>BlueSky &middot; angeltalion.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
