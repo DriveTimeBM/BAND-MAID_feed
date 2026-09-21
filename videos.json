@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3i3QNHG-x5M",
+        "Title":  "Death Metal Singer Listens to \"BAND-MAID / ENERGETIC (OMV)\" First Time reaction #reaction #bandmaid",
+        "Channel":  "HatchetHead Reacts",
+        "ChannelId":  "UCqRW2_SAFhMop0QyMcAomFA",
+        "Url":  "https://youtu.be/3i3QNHG-x5M",
+        "Thumbnail":  "https://i.ytimg.com/vi/3i3QNHG-x5M/hqdefault.jpg",
+        "PublishedAt":  "2026-09-21T16:00:09.0000000Z",
+        "DiscoveredAt":  "2026-09-21T16:11:43.3441463Z",
+        "Duration":  "00:09:05",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "usJgW0Cp9tk",
         "Title":  "BAND MAID MONDAY! We React To \"I'll\" (Live Version) #BandMaid #LiveReaction",
         "Channel":  "WavesAcrossTheWater",
