@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 10:28:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:44:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] ⬆️</title>
+      <link>https://bsky.app/profile/did:plc:qotdzhpzcxtmxh5g4zeqslto/post/3mw25ziaguk27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qotdzhpzcxtmxh5g4zeqslto/post/3mw25ziaguk27</guid>
+      <pubDate>Mon, 21 Sep 2026 16:46:46 GMT</pubDate>
+      <dc:creator>Papy Ion (papyion.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>⬆️<br/><br/>J&#39;ai failli placer du Lovebites, BAND-MAID, Exit Eden (j&#39;ai un gros faible pour Cl&#233;mentine Delauney), The Big Moon et Softcult entre autres.<br/><br/>Je cite aussi The Small Ladies avec : www.youtube.com/watch?v=Xlmx...<br/>Mais il y a plusieurs hommes avec elles, donc, &#231;a ne colle peut-&#234;tre pas.<br/><br/>#BlueZicos</p><p><em>BlueSky &middot; papyion.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] #中央社即時新聞 娛樂新聞 17:02</title>
       <link>https://bsky.app/profile/did:plc:jlukm7bp4meyi2pd5gkh3nn6/post/3mvzgrbzdrgv2</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>MISA: As my tension rises while playing myself I think all the songs are tension rising. I especially like the ballad [anemone]. I love the melody and listen to it more than 5 times a day even now.<br/><br/>KANAMI: When I made the demo of [anemone], there was talk on this may not be a typical BAND-MAID tune</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: anemone</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mv7vliyvgt24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mv7vliyvgt24</guid>
-      <pubDate>Fri, 11 Sep 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: anemone<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
