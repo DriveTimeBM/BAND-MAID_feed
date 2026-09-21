@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DVJzlKAYGCk",
+        "Title":  "BAND-MAID – HATE Reaction | Wenn Wut die Verletzung übertönt? | Therapeutin analysiert (EN CC)",
+        "Channel":  "Heart & Mind Reactions",
+        "ChannelId":  "UCBNNpgV-2TqzBGZJgCuy87g",
+        "Url":  "https://youtu.be/DVJzlKAYGCk",
+        "Thumbnail":  "https://i.ytimg.com/vi/DVJzlKAYGCk/hqdefault.jpg",
+        "PublishedAt":  "2026-09-21T16:15:11.0000000Z",
+        "DiscoveredAt":  "2026-09-21T16:42:26.7950731Z",
+        "Duration":  "00:18:35",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3i3QNHG-x5M",
         "Title":  "Death Metal Singer Listens to \"BAND-MAID / ENERGETIC (OMV)\" First Time reaction #reaction #bandmaid",
         "Channel":  "HatchetHead Reacts",
