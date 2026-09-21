@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "1j6bD50qEuk",
+        "Title":  "Why BAND-MAID Needed Miku to Learn Guitar",
+        "Channel":  "Venus Gaijin",
+        "ChannelId":  "UCzXt_lAr9Nvi3-3RfaSmh_Q",
+        "Url":  "https://youtu.be/1j6bD50qEuk",
+        "Thumbnail":  "https://i.ytimg.com/vi/1j6bD50qEuk/hqdefault.jpg",
+        "PublishedAt":  "2026-09-21T21:10:06.0000000Z",
+        "DiscoveredAt":  "2026-09-21T21:49:52.4044645Z",
+        "Duration":  "00:09:05",
+        "ViewsAtDiscovery":  42,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Dip-6dq866M",
         "Title":  "BAND-MAID - the non-fiction days Reaction | Another Side of BAND-MAID 🔥",
         "Channel":  "Nia Reacts",
