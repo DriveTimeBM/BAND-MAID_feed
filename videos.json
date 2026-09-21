@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Dip-6dq866M",
+        "Title":  "BAND-MAID - the non-fiction days Reaction | Another Side of BAND-MAID 🔥",
+        "Channel":  "Nia Reacts",
+        "ChannelId":  "UCmn6WTi6i7QZLP7I-T5iGXA",
+        "Url":  "https://youtu.be/Dip-6dq866M",
+        "Thumbnail":  "https://i.ytimg.com/vi/Dip-6dq866M/hqdefault.jpg",
+        "PublishedAt":  "2026-09-21T21:12:05.0000000Z",
+        "DiscoveredAt":  "2026-09-21T21:19:13.0343272Z",
+        "Duration":  "00:07:18",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "LoZAmhivQGQ",
+        "Title":  "BAND-MAID / ENERGETIC (Official Music Video) - Reaction",
+        "Channel":  "Xsezz",
+        "ChannelId":  "UCAgT8Z5ThEyvpl58586myWA",
+        "Url":  "https://youtu.be/LoZAmhivQGQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/LoZAmhivQGQ/hqdefault.jpg",
+        "PublishedAt":  "2026-09-21T20:54:26.0000000Z",
+        "DiscoveredAt":  "2026-09-21T21:19:12.1899263Z",
+        "Duration":  "00:05:08",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DVJzlKAYGCk",
         "Title":  "BAND-MAID – HATE Reaction | Wenn Wut die Verletzung übertönt? | Therapeutin analysiert (EN CC)",
         "Channel":  "Heart & Mind Reactions",
