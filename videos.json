@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "u5CvRqrmwlQ",
+        "Title":  "Band Maid - Interview With Fox 5 (U.S)",
+        "Channel":  "Shirin Reacts",
+        "ChannelId":  "UCKl8gsoikwaVY8MwERSy8yg",
+        "Url":  "https://youtu.be/u5CvRqrmwlQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/u5CvRqrmwlQ/hqdefault.jpg",
+        "PublishedAt":  "2026-09-22T07:01:27.0000000Z",
+        "DiscoveredAt":  "2026-09-22T07:47:26.4618240Z",
+        "Duration":  "00:12:32",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "8ziEcFq1W6A",
         "Title":  "Pro Guitar Teacher Analyzes BAND-MAID “HATE?” | What’s Really Going On Musically",
         "Channel":  "Robbie Guitar Channel",
