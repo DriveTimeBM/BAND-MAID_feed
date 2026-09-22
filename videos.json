@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SwwIuxKJgG8",
+        "Title":  "Reactiob to Band Maid Real Existence",
+        "Channel":  "Everbright Rachel",
+        "ChannelId":  "UCPghnJ2QlwV1pR693q5F1-Q",
+        "Url":  "https://youtu.be/SwwIuxKJgG8",
+        "Thumbnail":  "https://i.ytimg.com/vi/SwwIuxKJgG8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-22T16:43:27.0000000Z",
+        "DiscoveredAt":  "2026-09-22T16:45:15.7126211Z",
+        "Duration":  "00:05:50",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "nCc_1x71ofI",
         "Title":  "【BAND-MAID】「DICE」のベースがヤバい。実際に弾いて気づいたMISAの凄さを語らせて。",
         "Channel":  "tetsu_guitar",
