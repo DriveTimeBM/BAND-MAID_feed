@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "nCc_1x71ofI",
+        "Title":  "【BAND-MAID】「DICE」のベースがヤバい。実際に弾いて気づいたMISAの凄さを語らせて。",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/nCc_1x71ofI",
+        "Thumbnail":  "https://i.ytimg.com/vi/nCc_1x71ofI/hqdefault.jpg",
+        "PublishedAt":  "2026-09-22T15:30:20.0000000Z",
+        "DiscoveredAt":  "2026-09-22T15:43:59.8113307Z",
+        "Duration":  "00:13:05",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "RRDfaWMgqD8",
         "Title":  "15 AMAZING GUITAR SOLOS IN 10 MINUTES - HAGANE, LOVEBITES, ALDIOUS, BAND-MAID AND MORE..",
         "Channel":  "Cake & Rabbit FM",
