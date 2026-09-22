@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 22:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 03:27:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID台北專場完售　聊大港開唱、〈SPIN〉戰鬥陀螺與2027停演計畫</title>
+      <link>https://bsky.app/profile/did:plc:sax6fvevg4sqa2gprt3j2ilg/post/3mw37ruvjvw2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sax6fvevg4sqa2gprt3j2ilg/post/3mw37ruvjvw2i</guid>
+      <pubDate>Tue, 22 Sep 2026 10:50:57 GMT</pubDate>
+      <dc:creator>kismetw.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID台北專場完售　聊大港開唱、〈SPIN〉戰鬥陀螺與2027停演計畫</p><p><em>BlueSky &middot; kismetw.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] My BAND MAID shirts (and beer mug) came in, I am hella ready for next month's...</title>
       <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mw2o5a7dg22i</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid. 15 albums, every track a banger in some way.</title>
-      <link>https://bsky.app/profile/did:plc:53verixueu3wcygykliiqkdi/post/3mvawi4mmqc2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:53verixueu3wcygykliiqkdi/post/3mvawi4mmqc2q</guid>
-      <pubDate>Fri, 11 Sep 2026 15:55:14 GMT</pubDate>
-      <dc:creator>Brian (bwnash.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid. 15 albums, every track a banger in some way.</p><p><em>BlueSky &middot; bwnash.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
