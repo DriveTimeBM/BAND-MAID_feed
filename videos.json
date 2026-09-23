@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AM8_Qxk_ins",
+        "Title":  "Band-Maid / Toi Et Moi (extended intro version) - The MIDI Sequence",
+        "Channel":  "Dean F",
+        "ChannelId":  "UCXaaXZk7hJieGIPh7I_MIhA",
+        "Url":  "https://youtu.be/AM8_Qxk_ins",
+        "Thumbnail":  "https://i.ytimg.com/vi/AM8_Qxk_ins/hqdefault.jpg",
+        "PublishedAt":  "2026-09-23T01:30:08.0000000Z",
+        "DiscoveredAt":  "2026-09-23T02:01:27.5558827Z",
+        "Duration":  "00:06:15",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VgJwn-ub_so",
         "Title":  "BAND-MAID / World Tour 2026 in Japan at Kumamoto B.9 V1 (Fan Edit)",
         "Channel":  "shin.ultra8",
