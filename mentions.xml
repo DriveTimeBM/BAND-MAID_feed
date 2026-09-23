@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 06:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:33:34 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 3 years ago Band-Maid played 23 songs at Hiroshima CLUB QUATTRO in Hiroshima ...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mw62sehtjd2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mw62sehtjd2j</guid>
+      <pubDate>Wed, 23 Sep 2026 05:59:44 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at Hiroshima CLUB QUATTRO in Hiroshima JP on 2023/9/23. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 2 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mw5x7gyzv52d</link>
@@ -899,15 +908,6 @@
       <dc:creator>𝚂𝚎𝚌𝚘𝚗𝚍𝚊𝚛𝚢 𝙿𝚛𝚘𝚝𝚘𝚌𝚘𝚕 (2ndaryprotocol.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>TRIVIA: In addition to providing two songs to the &#39;Kate&#39; soundtrack, the musical group Band-Maid appear as themselves, performing at one of the clubs in the film. (IMDB) 🖤</p><p><em>BlueSky &middot; 2ndaryprotocol.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Why am I watching so many shows that I actually really enjoy? 😭</title>
-      <link>https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvby6syee22g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rpok7n5yjrflg4ias6gvxkgo/post/3mvby6syee22g</guid>
-      <pubDate>Sat, 12 Sep 2026 01:58:29 GMT</pubDate>
-      <dc:creator>Argor (argor57.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Why am I watching so many shows that I actually really enjoy? 😭<br/>Episode 9 was such a banger, unmistakably Kanami, Akane and Misa(Bassist from Band Maid) on those instruments. <br/>I was able to go to one of their concerts a few months ago, and I got flashbacks to them clashing on stage.</p><p><em>BlueSky &middot; argor57.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
