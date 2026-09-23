@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AV010STmhUg",
+        "Title":  "BAND-MAID – DOMINATION Live REACTION | Okay… I Get It Now!",
+        "Channel":  "EdPhonez Media",
+        "ChannelId":  "UC3B7ARYdVrQ1edlJc9GAwwQ",
+        "Url":  "https://youtu.be/AV010STmhUg",
+        "Thumbnail":  "https://i.ytimg.com/vi/AV010STmhUg/hqdefault.jpg",
+        "PublishedAt":  "2026-09-23T21:00:16.0000000Z",
+        "DiscoveredAt":  "2026-09-23T21:22:21.6180560Z",
+        "Duration":  "00:08:15",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "b6jI2_Wbmvs",
+        "Title":  "REACTION TO BAND-MAID - WITHOUT HOLDING BACK - OFFICIAL LIVE VIDEO OF THEIR INSTRUMENTATION SKILLS",
+        "Channel":  "Cold Fire",
+        "ChannelId":  "UCKboltkZSCKZ0olDaaf9ECQ",
+        "Url":  "https://youtu.be/b6jI2_Wbmvs",
+        "Thumbnail":  "https://i.ytimg.com/vi/b6jI2_Wbmvs/hqdefault.jpg",
+        "PublishedAt":  "2026-09-23T21:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-23T21:22:20.8085725Z",
+        "Duration":  "00:08:47",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qC2_tmTqF2k",
         "Title":  "BAND-MAID - Thrill | At The AOS216 Reacts Drive-In",
         "Channel":  "AOS216Reacts",
