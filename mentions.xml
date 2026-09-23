@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 15:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:50:33 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mw7cz33xjl2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mw7cz33xjl2y</guid>
+      <pubDate>Wed, 23 Sep 2026 17:59:19 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID睽違7年台北專場 KANAMI落淚、小鳩MIKU中文約定2028再會</title>
       <link>https://bsky.app/profile/did:plc:sax6fvevg4sqa2gprt3j2ilg/post/3mw6is5xchp23</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>can hum along to, and at the same time I wanted to show technicality in a Band-Maid song, so I included it as well. That solo is actually pretty difficult. I worked hard on it because I believed that I would be able to level up myself by doing that. As a result, I think it turned out to be a pretty </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] they told us they wanted something with the ending-theme feel, so I made the ...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvcg2guyoq23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvcg2guyoq23</guid>
-      <pubDate>Sat, 12 Sep 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>they told us they wanted something with the ending-theme feel, so I made the anime version a little different in the first half. The released Band-Maid song is the same as the one we played at the serving, and the other is for the ending theme of the anime. We created the two versions so that you ca</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
