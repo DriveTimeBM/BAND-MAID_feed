@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hyLkoikSCtI",
+        "Title":  "Band-Maid Dilly Dally, Don't You Tell me Reaction",
+        "Channel":  "Pete Ne Mo Re",
+        "ChannelId":  "UC5JU81qAJKcvPM12Sklb8AQ",
+        "Url":  "https://youtu.be/hyLkoikSCtI",
+        "Thumbnail":  "https://i.ytimg.com/vi/hyLkoikSCtI/hqdefault.jpg",
+        "PublishedAt":  "2026-09-23T07:44:48.0000000Z",
+        "DiscoveredAt":  "2026-09-23T07:48:12.2086432Z",
+        "Duration":  "00:10:40",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "NjALLvbeF_c",
+        "Title":  "Is this the best rock band right now? Band-Maid Reaction",
+        "Channel":  "Azalama Reacts",
+        "ChannelId":  "UCHrmUeuPBU-EAg5uArALJeA",
+        "Url":  "https://youtu.be/NjALLvbeF_c",
+        "Thumbnail":  "https://i.ytimg.com/vi/NjALLvbeF_c/hqdefault.jpg",
+        "PublishedAt":  "2026-09-23T07:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-23T07:48:10.6312495Z",
+        "Duration":  "00:09:26",
+        "ViewsAtDiscovery":  48,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vt0DmHlTbDE",
         "Title":  "QUEEN REACTS to BAND MAID – “Bestie”  THIS PERFORMANCE IS INSANE!",
         "Channel":  "QueenKafi",
