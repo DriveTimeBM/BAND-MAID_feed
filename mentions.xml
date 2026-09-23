@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 01:30:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:03:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 2 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mw5x7gyzv52d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mw5x7gyzv52d</guid>
+      <pubDate>Wed, 23 Sep 2026 04:55:28 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2 years ago<br/>Brightest Star<br/>live debut<br/>Club Quattro, Hiroshima<br/>2024/9/23<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mw5ielwdsi2l</link>
@@ -899,15 +908,6 @@
       <dc:creator>Argor (argor57.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Why am I watching so many shows that I actually really enjoy? 😭<br/>Episode 9 was such a banger, unmistakably Kanami, Akane and Misa(Bassist from Band Maid) on those instruments. <br/>I was able to go to one of their concerts a few months ago, and I got flashbacks to them clashing on stage.</p><p><em>BlueSky &middot; argor57.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mvbwrtsc2c2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mvbwrtsc2c2y</guid>
-      <pubDate>Sat, 12 Sep 2026 01:33:19 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
