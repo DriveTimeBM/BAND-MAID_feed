@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zfjS8N3Bx9Q",
+        "Title":  "BAND-MAID Did It Again… Shambles LIVE | First Reaction #bandmaidreaction #bandmaid",
+        "Channel":  "EdPhonez Media",
+        "ChannelId":  "UC3B7ARYdVrQ1edlJc9GAwwQ",
+        "Url":  "https://youtu.be/zfjS8N3Bx9Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/zfjS8N3Bx9Q/hqdefault.jpg",
+        "PublishedAt":  "2026-09-23T00:14:04.0000000Z",
+        "DiscoveredAt":  "2026-09-23T00:29:16.2711621Z",
+        "Duration":  "00:07:25",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "PFps76OjvIE",
         "Title":  "🔥🤘 **BAND-MAID – SPIRIT | LIVE IN TOKYO 2018 REACTION! 🎸🔥 MISA'S BASS JUST BLEW ME AWAY!**",
         "Channel":  "RJS_Reactions",
