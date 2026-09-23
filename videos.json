@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "EZaoCPWqLug",
+        "Title":  "QUEEN REACTS to BAND MAID – “Protect You”  THIS IS INSANE!",
+        "Channel":  "QueenKafi",
+        "ChannelId":  "UCZs-74rfK5XoS1J7b_6Jhlg",
+        "Url":  "https://youtu.be/EZaoCPWqLug",
+        "Thumbnail":  "https://i.ytimg.com/vi/EZaoCPWqLug/hqdefault.jpg",
+        "PublishedAt":  "2026-09-23T17:00:39.0000000Z",
+        "DiscoveredAt":  "2026-09-23T17:18:41.9318507Z",
+        "Duration":  "00:05:14",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vYAccsbPOeg",
         "Title":  "So Smooth!  Reaction to BAND-MAID - 'Daydreaming'",
         "Channel":  "CoachCastTV",
@@ -56,21 +71,6 @@
         "DiscoveredAt":  "2026-09-23T15:15:43.8077847Z",
         "Duration":  "00:01:22",
         "ViewsAtDiscovery":  6,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
-        "VideoId":  "PbNdIa8VBLU",
-        "Title":  "[미친 기타 리프 LIVE] NEW VISION/SCARLET CONCERT VER. #metal #BAND MAID #SCARLET",
-        "Channel":  "Girl Metal Scarlet",
-        "ChannelId":  "UCEQ2eaEIPsW7OnI-q3kaM5A",
-        "Url":  "https://youtu.be/PbNdIa8VBLU",
-        "Thumbnail":  "https://i.ytimg.com/vi/PbNdIa8VBLU/hqdefault.jpg",
-        "PublishedAt":  "2026-09-23T09:09:37.0000000Z",
-        "DiscoveredAt":  "2026-09-23T15:15:42.9718195Z",
-        "Duration":  "00:01:09",
-        "ViewsAtDiscovery":  58,
         "Live":  "none",
         "Status":  "active"
     },
