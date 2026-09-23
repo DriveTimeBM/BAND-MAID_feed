@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "VgJwn-ub_so",
+        "Title":  "BAND-MAID / World Tour 2026 in Japan at Kumamoto B.9 V1 (Fan Edit)",
+        "Channel":  "shin.ultra8",
+        "ChannelId":  "UCGlVqoo8AeLf-3oAmEFuNTA",
+        "Url":  "https://youtu.be/VgJwn-ub_so",
+        "Thumbnail":  "https://i.ytimg.com/vi/VgJwn-ub_so/hqdefault.jpg",
+        "PublishedAt":  "2026-09-23T01:00:02.0000000Z",
+        "DiscoveredAt":  "2026-09-23T01:30:38.1089135Z",
+        "Duration":  "01:16:53",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zfjS8N3Bx9Q",
         "Title":  "BAND-MAID Did It Again… Shambles LIVE | First Reaction #bandmaidreaction #bandmaid",
         "Channel":  "EdPhonez Media",
