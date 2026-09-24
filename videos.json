@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CoUaTpAy9R8",
+        "Title":  "BAND-MAID - Choose me (cover)",
+        "Channel":  "東京外国語大学ダルマダーツ",
+        "ChannelId":  "UCW_nfUWf7WSxWLuHCfQfHfA",
+        "Url":  "https://youtu.be/CoUaTpAy9R8",
+        "Thumbnail":  "https://i.ytimg.com/vi/CoUaTpAy9R8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-24T12:45:26.0000000Z",
+        "DiscoveredAt":  "2026-09-24T12:53:53.3005106Z",
+        "Duration":  "00:03:35",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "EJN1BalrV68",
+        "Title":  "BAND-MAID - FREEDOM (cover)",
+        "Channel":  "東京外国語大学ダルマダーツ",
+        "ChannelId":  "UCW_nfUWf7WSxWLuHCfQfHfA",
+        "Url":  "https://youtu.be/EJN1BalrV68",
+        "Thumbnail":  "https://i.ytimg.com/vi/EJN1BalrV68/hqdefault.jpg",
+        "PublishedAt":  "2026-09-24T12:45:05.0000000Z",
+        "DiscoveredAt":  "2026-09-24T12:53:52.5813159Z",
+        "Duration":  "00:03:45",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "z8xtyYFpSQk",
         "Title":  "BAND-MAID - DOMINATION | Bass Cover",
         "Channel":  "アルファード",
