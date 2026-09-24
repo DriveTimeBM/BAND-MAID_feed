@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xgxJYQozjhE",
+        "Title":  "[신나는 기타 리프 LIVE] NEW VISION/SCARLET CONCERT VER. #metal #BAND MAID #SCARLET",
+        "Channel":  "Girl Metal Scarlet",
+        "ChannelId":  "UCEQ2eaEIPsW7OnI-q3kaM5A",
+        "Url":  "https://youtu.be/xgxJYQozjhE",
+        "Thumbnail":  "https://i.ytimg.com/vi/xgxJYQozjhE/hqdefault.jpg",
+        "PublishedAt":  "2026-09-24T10:18:08.0000000Z",
+        "DiscoveredAt":  "2026-09-24T10:20:25.4037357Z",
+        "Duration":  "00:02:59",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "TBoCUsGGqEs",
         "Title":  "Kicking it Old School!! Reacting to Bye, My Tears by Band-Maid!",
         "Channel":  "Adventura",
