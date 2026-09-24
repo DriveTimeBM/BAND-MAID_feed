@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 13:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:00:17 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Enough crusty old Brits, here's Misa from Band-Maid. Regardless of the maid b...</title>
+      <link>https://bsky.app/profile/did:plc:4i43kumbxo6e7r7624d3zyco/post/3mwbqe27hjk2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4i43kumbxo6e7r7624d3zyco/post/3mwbqe27hjk2x</guid>
+      <pubDate>Thu, 24 Sep 2026 17:03:24 GMT</pubDate>
+      <dc:creator>Iain Coleman (iaincoleman.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Enough crusty old Brits, here&#39;s Misa from Band-Maid. Regardless of the maid bar schtick, these ladies are fine musicians, and it&#39;s clear from the progression of their music videos that Misa decided at an early stage that she was far too cool to wear that shit any more.</p><p><em>BlueSky &middot; iaincoleman.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 最近BAND-MAIDが自分の中で再熱してきてる</title>
       <link>https://bsky.app/profile/did:plc:5d7yvooyk2pgoscvsezmlqlw/post/3mwbbpgjsbs2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band Maid-&quot;I Still Seek Revenge&quot;<br/> youtu.be/XBYtMLEFehQ</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID-"Don't you tell ME"</title>
-      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mve3rv2eas2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mve3rv2eas2g</guid>
-      <pubDate>Sat, 12 Sep 2026 22:08:09 GMT</pubDate>
-      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID-&quot;Don&#39;t you tell ME&quot;<br/>youtu.be/SOj3qXBhiP4</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
