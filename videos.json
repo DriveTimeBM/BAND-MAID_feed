@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "S3RHShiMGI8",
+        "Title":  "🔥🤘 BAND-MAID feat. THE WARNING - Show Them (AUTHENTIC REACTION!!) ",
+        "Channel":  "51LOVE",
+        "ChannelId":  "UCyWph8om6HhVgbJau4kkHOQ",
+        "Url":  "https://youtu.be/S3RHShiMGI8",
+        "Thumbnail":  "https://i.ytimg.com/vi/S3RHShiMGI8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-24T16:00:18.0000000Z",
+        "DiscoveredAt":  "2026-09-24T16:28:23.8912584Z",
+        "Duration":  "00:13:38",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "UbTymJVE3pY",
         "Title":  "Band-Maid - Sayonakidori (guitar backing track)",
         "Channel":  "Solo Melody Guitar Tracks",
