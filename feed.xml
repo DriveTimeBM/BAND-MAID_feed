@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 12:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:55:16 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band-Maid - Sayonakidori (guitar backing track)</title>
+      <link>https://youtu.be/UbTymJVE3pY</link>
+      <guid isPermaLink="false">yt:video:UbTymJVE3pY</guid>
+      <pubDate>Thu, 24 Sep 2026 13:45:12 GMT</pubDate>
+      <dc:creator>Solo Melody Guitar Tracks</dc:creator>
+      <category>Solo Melody Guitar Tracks</category>
+      <description><![CDATA[<p><a href="https://youtu.be/UbTymJVE3pY"><img src="https://i.ytimg.com/vi/UbTymJVE3pY/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Solo Melody Guitar Tracks<br/>Duration: 00:04:37<br/>Views at discovery: 0</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/UbTymJVE3pY/hqdefault.jpg" />
+    </item>
     <item>
       <title>BAND-MAID - Choose me (cover)</title>
       <link>https://youtu.be/CoUaTpAy9R8</link>
