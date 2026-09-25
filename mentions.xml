@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 08:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 09:26:21 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Warning!</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwd44gdigm2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwd44gdigm2l</guid>
+      <pubDate>Fri, 25 Sep 2026 06:06:34 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Warning!<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 10 years ago Band-Maid played at club KNOT in Toyohashi JP on 2016/9/25. The ...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwd3q6nymi2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwd3q6nymi2y</guid>
+      <pubDate>Fri, 25 Sep 2026 05:59:43 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>10 years ago Band-Maid played at club KNOT in Toyohashi JP on 2016/9/25. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 8 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mwcy5gvm6v2p</link>
@@ -890,24 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] #NowPlaying DICE - BAND-MAID (WORLD DOMINATION)</title>
-      <link>https://bsky.app/profile/did:plc:56nicjkd7pmy774luyko5o6t/post/3mviavqrd6c2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:56nicjkd7pmy774luyko5o6t/post/3mviavqrd6c2u</guid>
-      <pubDate>Mon, 14 Sep 2026 13:50:26 GMT</pubDate>
-      <dc:creator>DARKSIDE-METAL (darkside-metal.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>#NowPlaying DICE - BAND-MAID (WORLD DOMINATION)</p><p><em>BlueSky &middot; darkside-metal.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Unfair game</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvhgybuq3p24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvhgybuq3p24</guid>
-      <pubDate>Mon, 14 Sep 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Unfair game<br/>Album: YOLO<br/>Release: 11/15/2016<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:12/6/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
