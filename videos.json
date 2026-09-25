@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "c78yxonItEs",
+        "Title":  "BAND-MAID / Toi et moi (Official Live Video) REACTION",
+        "Channel":  "Alexa Takes A Look",
+        "ChannelId":  "UCnZtYNtVW9aFc66sxoOQ0RA",
+        "Url":  "https://youtu.be/c78yxonItEs",
+        "Thumbnail":  "https://i.ytimg.com/vi/c78yxonItEs/hqdefault.jpg",
+        "PublishedAt":  "2026-09-25T13:00:07.0000000Z",
+        "DiscoveredAt":  "2026-09-25T13:05:58.1901491Z",
+        "Duration":  "00:07:20",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "fEgWqADafsA",
         "Title":  "First Time Reacting to Band Maid - Thrill",
         "Channel":  "Everbright Rachel",
