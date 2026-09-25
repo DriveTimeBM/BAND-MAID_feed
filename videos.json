@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "PYh5xoDgGMI",
+        "Title":  "Band-Maid :: Misa Bass Solo with Akane :: Frankfurt Germany  5 June 2026",
+        "Channel":  "Sonic Roost",
+        "ChannelId":  "UCuwVkzGH9d4VOSx4NhUqj9g",
+        "Url":  "https://youtu.be/PYh5xoDgGMI",
+        "Thumbnail":  "https://i.ytimg.com/vi/PYh5xoDgGMI/hqdefault.jpg",
+        "PublishedAt":  "2026-09-25T21:52:33.0000000Z",
+        "DiscoveredAt":  "2026-09-25T21:58:16.7454718Z",
+        "Duration":  "00:03:16",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "GtlTdiko8Rg",
+        "Title":  "Band Maid :: Choose Me :: Frankfurt June 5 2026",
+        "Channel":  "Sonic Roost",
+        "ChannelId":  "UCuwVkzGH9d4VOSx4NhUqj9g",
+        "Url":  "https://youtu.be/GtlTdiko8Rg",
+        "Thumbnail":  "https://i.ytimg.com/vi/GtlTdiko8Rg/hqdefault.jpg",
+        "PublishedAt":  "2026-09-25T21:27:24.0000000Z",
+        "DiscoveredAt":  "2026-09-25T21:58:15.1785849Z",
+        "Duration":  "00:05:12",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "brIGX_ekNw4",
         "Title":  "Reaction - BAND-MAID - CAGE",
         "Channel":  "NAR_by_Marek",
