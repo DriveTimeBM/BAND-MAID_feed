@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FpCv2PwyHZY",
+        "Title":  "BAND-MAID - Opening Act for The Last Rockstars - Full Performance",
+        "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
+        "ChannelId":  "UCIexUz_m-AJhaRGPtRKY3hw",
+        "Url":  "https://youtu.be/FpCv2PwyHZY",
+        "Thumbnail":  "https://i.ytimg.com/vi/FpCv2PwyHZY/hqdefault.jpg",
+        "PublishedAt":  "2026-09-25T09:11:08.0000000Z",
+        "DiscoveredAt":  "2026-09-25T09:26:13.0572648Z",
+        "Duration":  "00:20:28",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "nciUNQK_H8U",
+        "Title":  "Band-Maid - [FULL SET] @ Lollapalooza 2023",
+        "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
+        "ChannelId":  "UCIexUz_m-AJhaRGPtRKY3hw",
+        "Url":  "https://youtu.be/nciUNQK_H8U",
+        "Thumbnail":  "https://i.ytimg.com/vi/nciUNQK_H8U/hqdefault.jpg",
+        "PublishedAt":  "2026-09-25T09:10:51.0000000Z",
+        "DiscoveredAt":  "2026-09-25T09:26:11.7422000Z",
+        "Duration":  "01:01:38",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "o-8-JlIFlfA",
         "Title":  "BAND-MAID – DIFFERENT Reaction | THIS IS TOP-TIER BAND-MAID! 🔥 | First of Polska Bob Double Header!",
         "Channel":  "Underground Hustlin'",
