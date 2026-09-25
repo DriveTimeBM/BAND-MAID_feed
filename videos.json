@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "fEgWqADafsA",
+        "Title":  "First Time Reacting to Band Maid - Thrill",
+        "Channel":  "Everbright Rachel",
+        "ChannelId":  "UCPghnJ2QlwV1pR693q5F1-Q",
+        "Url":  "https://youtu.be/fEgWqADafsA",
+        "Thumbnail":  "https://i.ytimg.com/vi/fEgWqADafsA/hqdefault.jpg",
+        "PublishedAt":  "2026-09-25T11:32:09.0000000Z",
+        "DiscoveredAt":  "2026-09-25T11:33:48.0442662Z",
+        "Duration":  "00:06:43",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "VWeMg-clZ8U",
+        "Title":  "BAND-MAID – 'REAL EXISTENCE' REACTION | THIS BAND JUST KEEPS GETTING BETTER!",
+        "Channel":  "Jeanette Music",
+        "ChannelId":  "UCNFfh0zk_jvV4_IPNExuLeA",
+        "Url":  "https://youtu.be/VWeMg-clZ8U",
+        "Thumbnail":  "https://i.ytimg.com/vi/VWeMg-clZ8U/hqdefault.jpg",
+        "PublishedAt":  "2026-09-25T10:00:32.0000000Z",
+        "DiscoveredAt":  "2026-09-25T11:33:47.4017701Z",
+        "Duration":  "00:15:05",
+        "ViewsAtDiscovery":  208,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "FpCv2PwyHZY",
         "Title":  "BAND-MAID - Opening Act for The Last Rockstars - Full Performance",
         "Channel":  "Ball-G Channel【ボールジーちゃんねる】",
