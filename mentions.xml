@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 13:36:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 19:15:49 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Favourite bassist? Off the top of my head:</title>
+      <link>https://bsky.app/profile/did:plc:rmhzytlnf6u5t3ssmfvfuhxd/post/3mwefovbd6k2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rmhzytlnf6u5t3ssmfvfuhxd/post/3mwefovbd6k2q</guid>
+      <pubDate>Fri, 25 Sep 2026 18:30:38 GMT</pubDate>
+      <dc:creator>Richard Wakeling (richwakeling.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Favourite bassist? Off the top of my head:<br/><br/>Alejandra Villarreal<br/>MISA<br/>Eugene Abdukhanov<br/>Geezer Butler<br/>John Myung<br/>Cliff Burton<br/>Steve Harris<br/>Lemmy<br/>Tim Commerford<br/>David Ellefson<br/>Ryan Martinie<br/>Troy Sanders</p><p><em>BlueSky &middot; richwakeling.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mwds4kxkvo2x</link>
@@ -899,15 +908,6 @@
       <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAIDのこの曲好き(唐突)</title>
-      <link>https://bsky.app/profile/did:plc:5d7yvooyk2pgoscvsezmlqlw/post/3mvjvhfs4bs2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5d7yvooyk2pgoscvsezmlqlw/post/3mvjvhfs4bs2g</guid>
-      <pubDate>Tue, 15 Sep 2026 05:30:54 GMT</pubDate>
-      <dc:creator>ましろの部屋(白❄️ましろ) (siromashiro87.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAIDのこの曲好き(唐突)<br/>シンプルに曲とMVかっこいい。<br/>他の曲あんまり分からないけど、このMVは知ったきっかけだから定期的にたまに観たくなる。<br/>youtu.be/axF56i4spio?...</p><p><em>BlueSky &middot; siromashiro87.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
