@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 09:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:35:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid 'Conqueror' Japan, J-Rock, Hard Rock [CD]</title>
+      <link>https://bsky.app/profile/did:plc:4iffsjljhrpuv6kcenv4jdtq/post/3mwdozwrfyn2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4iffsjljhrpuv6kcenv4jdtq/post/3mwdozwrfyn2i</guid>
+      <pubDate>Fri, 25 Sep 2026 11:45:12 GMT</pubDate>
+      <dc:creator>STEM Records (stemrecords.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid &#39;Conqueror&#39; Japan, J-Rock, Hard Rock [CD]<br/>🔗 https://www.ebay.com/itm/407164497969<br/>#CDs #cdsky #CompactDisc #MusicSky #BandMaid #Conqueror #Music #Rock #HardRock</p><p><em>BlueSky &middot; stemrecords.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Warning!</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwd44gdigm2l</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID with your host, Dimensi&#243;n Arkadia! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvidoxsfqu2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mvidoxsfqu2t</guid>
-      <pubDate>Mon, 14 Sep 2026 14:40:20 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
