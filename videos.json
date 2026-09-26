@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "kPMAZOYyTzU",
+        "Title":  "EARS TO THE EAST | What do labels offer? | BAND-MAID business direction | Artist online stats + more",
+        "Channel":  "Ears To The East",
+        "ChannelId":  "UCv9f-JJy6z3E_zs6x1CshXw",
+        "Url":  "https://youtu.be/kPMAZOYyTzU",
+        "Thumbnail":  "https://i.ytimg.com/vi/kPMAZOYyTzU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-26T16:00:10.0000000Z",
+        "DiscoveredAt":  "2026-09-26T18:31:27.0176394Z",
+        "Duration":  "02:16:45",
+        "ViewsAtDiscovery":  89,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "21kEsN0YXi4",
         "Title":  "BAND-MAID \"DAYDREAMING\" REACTION!",
         "Channel":  "Hello Brewtiful",
