@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YS6vu__-plE",
+        "Title":  "Band-Maid :: Toi et moi (clip) :: Frankfurt DEU 2026-06-05",
+        "Channel":  "Sonic Roost",
+        "ChannelId":  "UCuwVkzGH9d4VOSx4NhUqj9g",
+        "Url":  "https://youtu.be/YS6vu__-plE",
+        "Thumbnail":  "https://i.ytimg.com/vi/YS6vu__-plE/hqdefault.jpg",
+        "PublishedAt":  "2026-09-26T22:42:29.0000000Z",
+        "DiscoveredAt":  "2026-09-26T23:06:35.7472025Z",
+        "Duration":  "00:03:10",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4tICDkdTqvU",
         "Title":  "BAND MAID – Thrill スリル | First Reaction | That Bass Deserves the Spotlight!",
         "Channel":  "Midlife Mixer Reacts",
