@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 08:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:22:49 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] No lie: I am so hyped for Band-Maid’s concert in Huntington, NY on 10/5! Even...</title>
+      <link>https://bsky.app/profile/did:plc:v4si4sfxvzxecwsqf3rlu5fr/post/3mwg3kmpfrs2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:v4si4sfxvzxecwsqf3rlu5fr/post/3mwg3kmpfrs2b</guid>
+      <pubDate>Sat, 26 Sep 2026 10:34:37 GMT</pubDate>
+      <dc:creator>jasconius.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>No lie: I am so hyped for Band-Maid’s concert in Huntington, NY on 10/5! Even over Weezer and The Pretty Reckless and AC/DC, and I really love The Pretty Reckless and Weezer!</p><p><em>BlueSky &middot; jasconius.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: YOLOSIOSU</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwfmldczdl2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>kane: Also, as you expect, we saw those who got to like us Band-Maid for this song on social media, thanks to the TV anime Platinum End. It already feels like our new signature song.<br/><br/>Miku Kobato: Also, the orchestral intro gives a strong impression, which may lead to its big name vibe, po.<br/><br/>Saiki: </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] That’s possible.</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvjxhadmg42c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvjxhadmg42c</guid>
-      <pubDate>Tue, 15 Sep 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>That’s possible.<br/><br/>Saiki: Sense is well received, thankfully. Many of them said “This is the Band-Maid song!” or “I’ve waited for a song like this!” We felt they had waited for it at the time of its release. We were so happy to see such reactions on social media back then, which is another reason.<br/><br/>A</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
