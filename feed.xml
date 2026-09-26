@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 00:31:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 02:34:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAND-MAID / Name That Song 7</title>
+      <link>https://youtu.be/4R2FWKwL3Qc</link>
+      <guid isPermaLink="false">yt:video:4R2FWKwL3Qc</guid>
+      <pubDate>Sat, 26 Sep 2026 02:25:54 GMT</pubDate>
+      <dc:creator>BM 4-Life</dc:creator>
+      <category>BM 4-Life</category>
+      <description><![CDATA[<p><a href="https://youtu.be/4R2FWKwL3Qc"><img src="https://i.ytimg.com/vi/4R2FWKwL3Qc/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: BM 4-Life<br/>Duration: 00:11:07<br/>Views at discovery: 3</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/4R2FWKwL3Qc/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band-Maid - Shambles (drums backing track)</title>
       <link>https://youtu.be/jRea1NE3HEw</link>
