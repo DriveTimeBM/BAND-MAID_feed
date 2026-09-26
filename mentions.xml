@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 23:06:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 23:37:17 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://m...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mwhe3ezddl2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mwhe3ezddl2g</guid>
+      <pubDate>Sat, 26 Sep 2026 22:39:48 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Oh yeah like I'm gonna be so for real, Rugular White Doods metal is getting i...</title>
       <link>https://bsky.app/profile/did:plc:h45kkzpub2m5gab4m5mii2gc/post/3mwhclpmugs2x</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>This Band-Maid 10th anniversary live concert at Yokohama Arena in 2023 that was streamed live and then available as an archive for a month, and then released on DVD, over 3 hours of amazing performances, I watched the stream several times and bought the DVD. www.youtube.com/watch?v=SOj3...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] el. However, even though I said so, the melody-packed vibe is one of Band-Mai...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvjxhbw6k523</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mvjxhbw6k523</guid>
-      <pubDate>Tue, 15 Sep 2026 06:06:37 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>el. However, even though I said so, the melody-packed vibe is one of Band-Maid’s unique qualities, you know. So, I noticed like “We haven’t had such a song recently, because I’m the one who doesn’t like it” (laughs) so I asked her for such a song.<br/><br/>Kanami: We changed some parts based on suggestions </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
