@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0ewZfwVhieY",
+        "Title":  "Band-Maid :: MIsa Bass Solo with Akane (HQ) :: Frankfurt, DEU 2026-06-05",
+        "Channel":  "Sonic Roost",
+        "ChannelId":  "UCuwVkzGH9d4VOSx4NhUqj9g",
+        "Url":  "https://youtu.be/0ewZfwVhieY",
+        "Thumbnail":  "https://i.ytimg.com/vi/0ewZfwVhieY/hqdefault.jpg",
+        "PublishedAt":  "2026-09-26T19:31:35.0000000Z",
+        "DiscoveredAt":  "2026-09-26T19:32:55.7582882Z",
+        "Duration":  "00:03:36",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "nABJ0QA0KyU",
         "Title":  "Band-Maid :: Choose Me :: Frankfurt, Germany 2026-06-05",
         "Channel":  "Sonic Roost",
