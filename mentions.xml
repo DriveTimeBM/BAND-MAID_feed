@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 19:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 03:35:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 5yrs ago, I think October🔟 I somehow reached</title>
+      <link>https://bsky.app/profile/did:plc:glu4ag55i72wio433x6vyrtg/post/3mwfarc64zs2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glu4ag55i72wio433x6vyrtg/post/3mwfarc64zs2j</guid>
+      <pubDate>Sat, 26 Sep 2026 02:35:09 GMT</pubDate>
+      <dc:creator>Yumio Katsumata(勝又弓雄)🤡 🤘 (yumiok76.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>5yrs ago, I think October🔟 I somehow reached <br/>BAND-MAID and instantly BUTTOBASARETA(ぶっ飛ばされた=blown away) through their consistent and GACHI(ガチ=dead f❌in&#39; serious) toward heavy metal🤘 through &quot;Unseen World&quot; especially the opening🎸<br/>#songykpicks<br/>www.youtube.com/watch?v=9yD3...</p><p><em>BlueSky &middot; yumiok76.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Favourite bassist? Off the top of my head:</title>
       <link>https://bsky.app/profile/did:plc:rmhzytlnf6u5t3ssmfvfuhxd/post/3mwefovbd6k2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago Band-Maid played 23 songs at EIGHT HALL in Kanazawa JP on 2018/9/15. The opening song was DICE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
-      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mvjvnmm27z2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mvjvnmm27z2s</guid>
-      <pubDate>Tue, 15 Sep 2026 05:34:21 GMT</pubDate>
-      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
     </item>
   </channel>
 </rss>
