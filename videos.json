@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AACAMqH8RNU",
+        "Title":  "Band Maid - Cross (Live)",
+        "Channel":  "Shirin Reacts",
+        "ChannelId":  "UCKl8gsoikwaVY8MwERSy8yg",
+        "Url":  "https://youtu.be/AACAMqH8RNU",
+        "Thumbnail":  "https://i.ytimg.com/vi/AACAMqH8RNU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-26T07:01:18.0000000Z",
+        "DiscoveredAt":  "2026-09-26T07:47:41.5531614Z",
+        "Duration":  "00:04:47",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "pDhFxkj5R2s",
+        "Title":  "Real Existence - Band-Maid & Sokoninaru - NeVre reacts",
+        "Channel":  "Pete Ne Vre",
+        "ChannelId":  "UC5JU81qAJKcvPM12Sklb8AQ",
+        "Url":  "https://youtu.be/pDhFxkj5R2s",
+        "Thumbnail":  "https://i.ytimg.com/vi/pDhFxkj5R2s/hqdefault.jpg",
+        "PublishedAt":  "2026-09-26T06:42:00.0000000Z",
+        "DiscoveredAt":  "2026-09-26T07:47:40.3569423Z",
+        "Duration":  "00:15:47",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SlUgCkQazvo",
         "Title":  "Reacting to Dice by Band-Maid Was All About Seizing The Moment",
         "Channel":  "The Smith House Reactions",
