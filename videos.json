@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "4tICDkdTqvU",
+        "Title":  "BAND MAID – Thrill スリル | First Reaction | That Bass Deserves the Spotlight!",
+        "Channel":  "Midlife Mixer Reacts",
+        "ChannelId":  "UC4vD3qPndLZtOx8Ht8XMLwQ",
+        "Url":  "https://youtu.be/4tICDkdTqvU",
+        "Thumbnail":  "https://i.ytimg.com/vi/4tICDkdTqvU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-26T20:00:28.0000000Z",
+        "DiscoveredAt":  "2026-09-26T20:03:42.1554438Z",
+        "Duration":  "00:09:47",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0ewZfwVhieY",
         "Title":  "Band-Maid :: MIsa Bass Solo with Akane (HQ) :: Frankfurt, DEU 2026-06-05",
         "Channel":  "Sonic Roost",
