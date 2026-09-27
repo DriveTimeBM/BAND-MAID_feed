@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 27 Sep 2026 07:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 15:55:11 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Happy birthday, KANAMI!</title>
+      <link>https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3mwj3oyaoe22j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3mwj3oyaoe22j</guid>
+      <pubDate>Sun, 27 Sep 2026 15:15:02 GMT</pubDate>
+      <dc:creator>bmcssu.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Happy birthday, KANAMI!<br/><br/>We want to hear your guitar!<br/><br/>Your great play!<br/><br/>Your beautiful smile!<br/><br/>Please enter &quot;ZONE&quot;!<br/><br/>Your &quot;TO&quot;!<br/><br/>Your passion and music soar higher and more beautifully into the sky. I pray that it will be a wonderful year and bring your happiness to the whole world.<br/><br/>#bandmaid</p><p><em>BlueSky &middot; bmcssu.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] ong, I was very conscious of our progress, and I really wanted to show anothe...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwi52a4pdo26</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>3 years ago<br/>REAL EXISTENCE MV<br/>milestone<br/>surpassed 15 million views<br/>2023/9/17<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mvopwenyt52l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mvopwenyt52l</guid>
-      <pubDate>Thu, 17 Sep 2026 03:35:12 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
