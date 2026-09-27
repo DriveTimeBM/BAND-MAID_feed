@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "B0TrttVisqk",
+        "Title":  "Band-Maid : Five Songs to Know",
+        "Channel":  "Roch's Rock Radio",
+        "ChannelId":  "UC_PqjeilG8e1jmEkKs38Brg",
+        "Url":  "https://youtu.be/B0TrttVisqk",
+        "Thumbnail":  "https://i.ytimg.com/vi/B0TrttVisqk/hqdefault.jpg",
+        "PublishedAt":  "2026-09-27T13:24:51.0000000Z",
+        "DiscoveredAt":  "2026-09-27T13:52:37.5600009Z",
+        "Duration":  "00:11:19",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SoMHeR_R2z8",
         "Title":  "BAND-MAID \"PUZZLE\" Live Performance and Acoustic Ver. - Reaction & Deep Lyrics Breakdown",
         "Channel":  "JapaGirl Reacts.",
