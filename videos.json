@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "eCtO3IGOddk",
+        "Title":  "BAND-MAID / FREEDOM - Guitar cover",
+        "Channel":  "Crow Scarecrow",
+        "ChannelId":  "UCDuUhaGwkTTi_lQyWYrKm1Q",
+        "Url":  "https://youtu.be/eCtO3IGOddk",
+        "Thumbnail":  "https://i.ytimg.com/vi/eCtO3IGOddk/hqdefault.jpg",
+        "PublishedAt":  "2026-09-27T23:25:23.0000000Z",
+        "DiscoveredAt":  "2026-09-27T23:46:15.0764332Z",
+        "Duration":  "00:04:09",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ybjwfEjwP5w",
         "Title":  "BAND-MAID /「ラスト！」(Last song)",
         "Channel":  "Ohrenje",
