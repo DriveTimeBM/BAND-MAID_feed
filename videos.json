@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0RrEeG2rY44",
+        "Title":  "COVER｜Saint Snow - Believe again｜Band Maid -  choose me｜大混醬｜@TastifyBand",
+        "Channel":  "Tastify Band",
+        "ChannelId":  "UCE5F7vr7701sC0aLQ6I4GBg",
+        "Url":  "https://youtu.be/0RrEeG2rY44",
+        "Thumbnail":  "https://i.ytimg.com/vi/0RrEeG2rY44/hqdefault.jpg",
+        "PublishedAt":  "2026-09-27T00:28:42.0000000Z",
+        "DiscoveredAt":  "2026-09-27T00:38:52.4305063Z",
+        "Duration":  "00:09:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "2j8oFes01jM",
+        "Title":  "BAND-MAID / ENERGETIC (LIVE 2026.08.02)",
+        "Channel":  "生きた証を残す旅 2",
+        "ChannelId":  "UCo57puZ6964Slfmd8-R7B8w",
+        "Url":  "https://youtu.be/2j8oFes01jM",
+        "Thumbnail":  "https://i.ytimg.com/vi/2j8oFes01jM/hqdefault.jpg",
+        "PublishedAt":  "2026-09-27T00:25:03.0000000Z",
+        "DiscoveredAt":  "2026-09-27T00:38:51.2307105Z",
+        "Duration":  "00:04:14",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YS6vu__-plE",
         "Title":  "Band-Maid :: Toi et moi (clip) :: Frankfurt DEU 2026-06-05",
         "Channel":  "Sonic Roost",
