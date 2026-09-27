@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 27 Sep 2026 15:55:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:10:19 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mwjjsgy5ok2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mwjjsgy5ok2k</guid>
+      <pubDate>Sun, 27 Sep 2026 19:27:30 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] #bandmaid #bandmaidreaction #honkai #intj #jmetal #jrock #japanesemetal #reac...</title>
+      <link>https://bsky.app/profile/did:plc:krvwgxmrn3om5ec2n4sa6kbp/post/3mwjh6bedsk27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:krvwgxmrn3om5ec2n4sa6kbp/post/3mwjh6bedsk27</guid>
+      <pubDate>Sun, 27 Sep 2026 18:40:26 GMT</pubDate>
+      <dc:creator>INTJreacts (intjreacts.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#bandmaid #bandmaidreaction #honkai #intj #jmetal #jrock #japanesemetal #reaction  youtu.be/CRf1efwmxm0?...</p><p><em>BlueSky &middot; intjreacts.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Happy birthday, KANAMI!</title>
       <link>https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3mwj3oyaoe22j</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago Band-Maid played 23 songs at NEXS in Niigata JP on 2018/9/17. The opening song was DICE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mvoufzdyjq2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mvoufzdyjq2g</guid>
-      <pubDate>Thu, 17 Sep 2026 04:55:31 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago<br/>the non-fiction days MV<br/>milestone<br/>surpassed 2 million views<br/>2017/9/17<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mvoufxlfr62f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mvoufxlfr62f</guid>
-      <pubDate>Thu, 17 Sep 2026 04:55:29 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago<br/>REAL EXISTENCE MV<br/>milestone<br/>surpassed 15 million views<br/>2023/9/17<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
