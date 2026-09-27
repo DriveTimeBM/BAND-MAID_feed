@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SoMHeR_R2z8",
+        "Title":  "BAND-MAID \"PUZZLE\" Live Performance and Acoustic Ver. - Reaction & Deep Lyrics Breakdown",
+        "Channel":  "JapaGirl Reacts.",
+        "ChannelId":  "UCEckk2nuN7w4NxlvsrnU0qg",
+        "Url":  "https://youtu.be/SoMHeR_R2z8",
+        "Thumbnail":  "https://i.ytimg.com/vi/SoMHeR_R2z8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-27T11:00:07.0000000Z",
+        "DiscoveredAt":  "2026-09-27T11:16:19.0084587Z",
+        "Duration":  "00:30:14",
+        "ViewsAtDiscovery":  23,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0RrEeG2rY44",
         "Title":  "COVER｜Saint Snow - Believe again｜Band Maid -  choose me｜大混醬｜@TastifyBand",
         "Channel":  "Tastify Band",
