@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3EsiT9sbDxU",
+        "Title":  "First time hearing | BAND-MAID Domination (Official Live)",
+        "Channel":  "New Clear Reactor",
+        "ChannelId":  "UCxw-VYYVtEnJhP25YHtdbsw",
+        "Url":  "https://youtu.be/3EsiT9sbDxU",
+        "Thumbnail":  "https://i.ytimg.com/vi/3EsiT9sbDxU/hqdefault.jpg",
+        "PublishedAt":  "2026-09-27T14:10:29.0000000Z",
+        "DiscoveredAt":  "2026-09-27T14:23:23.4292295Z",
+        "Duration":  "00:10:58",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "B0TrttVisqk",
         "Title":  "Band-Maid : Five Songs to Know",
         "Channel":  "Roch's Rock Radio",
