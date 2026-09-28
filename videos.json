@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ztzJrmGMyj8",
+        "Title":  "BAND-MAID「CORALLIUM」Billboard Acoustic 2025｜3人だけなのに、この美しさ！",
+        "Channel":  "Coffee Guy reacts",
+        "ChannelId":  "UCb40WR2QgE9r2TTYWkZcgeg",
+        "Url":  "https://youtu.be/ztzJrmGMyj8",
+        "Thumbnail":  "https://i.ytimg.com/vi/ztzJrmGMyj8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-28T09:30:06.0000000Z",
+        "DiscoveredAt":  "2026-09-28T09:55:10.3903175Z",
+        "Duration":  "00:07:24",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "NkJq_M5p3UA",
+        "Title":  "BAND MAID  Bestie Purple Reaction",
+        "Channel":  "Purple unicorn reaction's",
+        "ChannelId":  "UCN9Qdi_sGCIzMrMt9flBEFA",
+        "Url":  "https://youtu.be/NkJq_M5p3UA",
+        "Thumbnail":  "https://i.ytimg.com/vi/NkJq_M5p3UA/hqdefault.jpg",
+        "PublishedAt":  "2026-09-28T08:53:05.0000000Z",
+        "DiscoveredAt":  "2026-09-28T09:55:09.4672296Z",
+        "Duration":  "00:08:21",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0ELiEdXoPhU",
         "Title":  "BAND-MAID / \"Ready to Rock\" × Rock Is a Lady’s Modesty Special MUSIC VIDEO REACTION!",
         "Channel":  "TRM Reacts",
