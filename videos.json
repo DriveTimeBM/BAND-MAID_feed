@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lby45oglDhg",
+        "Title":  "BAND-MAID & The Warning - SHOW THEM Reaction | I Wanted More  #bandmaid #thewarning",
+        "Channel":  "EdPhonez Media",
+        "ChannelId":  "UC3B7ARYdVrQ1edlJc9GAwwQ",
+        "Url":  "https://youtu.be/lby45oglDhg",
+        "Thumbnail":  "https://i.ytimg.com/vi/lby45oglDhg/hqdefault.jpg",
+        "PublishedAt":  "2026-09-28T15:30:19.0000000Z",
+        "DiscoveredAt":  "2026-09-28T17:42:50.1988775Z",
+        "Duration":  "00:06:07",
+        "ViewsAtDiscovery":  68,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "FdCL2wn6SfM",
         "Title":  "Band Maid Monday! BLOWN AWAY With \"I Still Seek Revenge\" (Live) WOW!! #BandMaid #LiveReaction",
         "Channel":  "WavesAcrossTheWater",
