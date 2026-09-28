@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 07:49:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 09:55:19 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Happy Birthday to Band Maid's diminutive guitar goddess. Kanami Tono is 35 to...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mwkumx2sdk2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mwkumx2sdk2d</guid>
+      <pubDate>Mon, 28 Sep 2026 08:13:57 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Happy Birthday to Band Maid&#39;s diminutive guitar goddess. Kanami Tono is 35 today.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Knock'in on your heart</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwknj5k72o2l</link>
@@ -899,15 +908,6 @@
       <dc:creator>みかん (mmmneko.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>でもBAND-MAIDさんってggってみたけどかっこよさそうな曲歌ってくれてそうで楽しみ<br/>メイドのバンドさんだからメイデンさんがEDで出てくるといいな(安直)</p><p><em>BlueSky &middot; mmmneko.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] これは関係ある？</title>
-      <link>https://bsky.app/profile/did:plc:ctmb6f4mbfgy67pm3bfjb3o7/post/3mvph6gnx4k25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ctmb6f4mbfgy67pm3bfjb3o7/post/3mvph6gnx4k25</guid>
-      <pubDate>Thu, 17 Sep 2026 10:31:18 GMT</pubDate>
-      <dc:creator>塩麹。 (siokojio4o.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>これは関係ある？<br/>x.com/bandmaid/sta...</p><p><em>BlueSky &middot; siokojio4o.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
