@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "i2gbIsDsECc",
+        "Title":  "BAND-MAID - ZENSHU",
+        "Channel":  "Just Kells",
+        "ChannelId":  "UCDuoDsRxE8TlSA-5vZrFL5A",
+        "Url":  "https://youtu.be/i2gbIsDsECc",
+        "Thumbnail":  "https://i.ytimg.com/vi/i2gbIsDsECc/hqdefault.jpg",
+        "PublishedAt":  "2026-09-29T13:30:16.0000000Z",
+        "DiscoveredAt":  "2026-09-29T13:54:31.8582000Z",
+        "Duration":  "00:02:03",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Lh_DW2zrIe8",
         "Title":  "BAND-MAID WORLD TOUR 2026 台北 LegacyTERAお給仕レポート (Live Report)",
         "Channel":  "いちお盟主のつぶやき",
