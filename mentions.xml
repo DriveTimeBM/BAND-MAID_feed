@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 16:59:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 18:01:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Ich habe Band-Maid schonmal live spielen sehen. Die können das wirklich. 😯</title>
+      <link>https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3mwodbzbjcs2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3mwodbzbjcs2q</guid>
+      <pubDate>Tue, 29 Sep 2026 17:14:16 GMT</pubDate>
+      <dc:creator>Marc on Drums ← ZURÜCK in die ZUKUNFT ← den Backlash beenden! (marcondrums.eurosky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Ich habe Band-Maid schonmal live spielen sehen. Die k&#246;nnen das wirklich. 😯<br/><br/>Empfehlung ⬇️ 🎶🤘🔥</p><p><em>BlueSky &middot; marcondrums.eurosky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I know a lot of people have this down as one of Band Maid's best... This is E...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mwo7hzkoxs2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>bigxic36.bsky.social</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>As vezes eu fico me perguntando como seria uma Review do R&#233;gis Tadeu de um show do Band Maid (apesar de j&#225; ter uma suspeita do que ele falaria)<br/><br/>youtu.be/QbyQCJn6rYg?...</p><p><em>BlueSky &middot; bigxic36.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID Perform Ending Theme SPIN for Beyblade X Beykingdom Arc</title>
-      <link>https://bsky.app/profile/did:plc:vwt6opoyqeui2nnohjejp3ms/post/3mvt43xgdez2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:vwt6opoyqeui2nnohjejp3ms/post/3mvt43xgdez2x</guid>
-      <pubDate>Fri, 18 Sep 2026 21:23:43 GMT</pubDate>
-      <dc:creator>yomimonoid.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID Perform Ending Theme SPIN for Beyblade X Beykingdom Arc<br/><br/>BAND-MAID&#39;s &quot;SPIN&quot; arrives October 28, nineteen days after the Beykingdom Arc premieres on the franchise&#39;s YouTube channel. The song outlives the arc&#39;s first three weeks.</p><p><em>BlueSky &middot; yomimonoid.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
