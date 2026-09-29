@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8nYqcQaDa1I",
+        "Title":  "BAND-MAID / Present Perfect - Reaction",
+        "Channel":  "Redfield Universe",
+        "ChannelId":  "UC6wb85pJln9-IuJcaheBTIw",
+        "Url":  "https://youtu.be/8nYqcQaDa1I",
+        "Thumbnail":  "https://i.ytimg.com/vi/8nYqcQaDa1I/hqdefault.jpg",
+        "PublishedAt":  "2026-09-29T22:00:10.0000000Z",
+        "DiscoveredAt":  "2026-09-29T22:41:39.1619174Z",
+        "Duration":  "00:10:15",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "uQmuhUN0AGg",
+        "Title":  "BANDMAID - Choose Me (Reaction)",
+        "Channel":  "BadBird Reactions",
+        "ChannelId":  "UCofWn-j1U2gZHosTHH96pfQ",
+        "Url":  "https://youtu.be/uQmuhUN0AGg",
+        "Thumbnail":  "https://i.ytimg.com/vi/uQmuhUN0AGg/hqdefault.jpg",
+        "PublishedAt":  "2026-09-29T19:15:37.0000000Z",
+        "DiscoveredAt":  "2026-09-29T22:41:38.2296931Z",
+        "Duration":  "00:08:46",
+        "ViewsAtDiscovery":  54,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "pxM0yRVK3s8",
         "Title":  "Tougen Anki ED 1 - \"What is Justice\" Band-Maid (NAPISY PL)",
         "Channel":  "Viridian Valkyrie",
