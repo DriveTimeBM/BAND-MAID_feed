@@ -46,21 +46,6 @@
     },
     {
         "schema_version":  1,
-        "VideoId":  "esfeosQgL-M",
-        "Title":  "BAND MAID / I can't live without you. (Live)",
-        "Channel":  "Koko_Noodle",
-        "ChannelId":  "UC9XXJXMinzjSSqkDEFFUEug",
-        "Url":  "https://youtu.be/esfeosQgL-M",
-        "Thumbnail":  "https://i.ytimg.com/vi/esfeosQgL-M/hqdefault.jpg",
-        "PublishedAt":  "2026-09-29T12:39:31.0000000Z",
-        "DiscoveredAt":  "2026-09-29T12:52:32.0587985Z",
-        "Duration":  "00:03:58",
-        "ViewsAtDiscovery":  8,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
         "VideoId":  "hsIQfAxNLYk",
         "Title":  "BAND-MAID WHEEL OF JACKPOTS | EP. 7",
         "Channel":  "Another Perspective",
