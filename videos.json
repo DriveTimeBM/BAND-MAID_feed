@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "pxM0yRVK3s8",
+        "Title":  "Tougen Anki ED 1 - \"What is Justice\" Band-Maid (NAPISY PL)",
+        "Channel":  "Viridian Valkyrie",
+        "ChannelId":  "UCujZ95Y9gmZz8Jt6K0YRlWw",
+        "Url":  "https://youtu.be/pxM0yRVK3s8",
+        "Thumbnail":  "https://i.ytimg.com/vi/pxM0yRVK3s8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-29T22:00:13.0000000Z",
+        "DiscoveredAt":  "2026-09-29T22:10:55.1176216Z",
+        "Duration":  "00:03:23",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "n6Ajk3lTToY",
         "Title":  "#107 BAND-MAID / Protect You - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
         "Channel":  "K-Ross Reacts",
