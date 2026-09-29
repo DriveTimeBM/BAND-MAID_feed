@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 00:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 00:31:29 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I couldn't go back too far or it would be pre-Band-Maid.</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mwmi23j2h22k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mwmi23j2h22k</guid>
+      <pubDate>Mon, 28 Sep 2026 23:33:59 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I couldn&#39;t go back too far or it would be pre-Band-Maid.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] They remind me a little of Bandmaid, I like them a lot</title>
       <link>https://bsky.app/profile/did:plc:u2zjvwiyyiezc6hlxypomtj4/post/3mwmhd6neds2i</link>
@@ -899,15 +908,6 @@
       <dc:creator>音楽ナタリー (music.natalie.mu)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>「BEYBLADE X」新章テーマ曲は<br/>&amp;TEAM、BAND-MAIDが担当<br/><br/>🎥コメント動画<br/>https://natalie.mu/music/news/690041?utm_source=bluesky&amp;utm_medium=social<br/><br/>#BEYBLADEX #ベイブレードX</p><p><em>BlueSky &middot; music.natalie.mu</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Ontem eu tava cogitando entrar no mundinho das Beyblade, mas o preço do set d...</title>
-      <link>https://bsky.app/profile/did:plc:utuetamaxcqrrpb5ytv4wndd/post/3mvplc2dpuc2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:utuetamaxcqrrpb5ytv4wndd/post/3mvplc2dpuc2d</guid>
-      <pubDate>Thu, 17 Sep 2026 11:44:55 GMT</pubDate>
-      <dc:creator>Hideaki "Maid in Brasil" Bitoru (hideakibitoru.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Ontem eu tava cogitando entrar no mundinho das Beyblade, mas o pre&#231;o do set do Eva me desanimou, por&#233;m hoje a Band Maid anunciou q vai fazer o encerramento do Beyblade X...<br/><br/>O universo t&#225; tentando me manipular</p><p><em>BlueSky &middot; hideakibitoru.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
