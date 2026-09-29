@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 02:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:08:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I do love me some Bandmaid and Babymetal.</title>
+      <link>https://bsky.app/profile/did:plc:uck6uhm7j2day2tf7kdsi46b/post/3mwmu342aw22p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uck6uhm7j2day2tf7kdsi46b/post/3mwmu342aw22p</guid>
+      <pubDate>Tue, 29 Sep 2026 03:09:18 GMT</pubDate>
+      <dc:creator>Andre "Check Bio" Weast (formercymencry.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I do love me some Bandmaid and Babymetal.<br/><br/>You guys like Maximum The Hormone at all?</p><p><em>BlueSky &middot; formercymencry.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I'm finally getting to see #band-maid this saturday. At the #Victheater in #c...</title>
       <link>https://bsky.app/profile/did:plc:shsdmagrq3gtt4fdar3yrzjn/post/3mwmnbrz5bk25</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>The music of Band-Maid. www.youtube.com/watch?v=yTAQ...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] Exciting news! BAND-MAID will perform the ending theme for the anime BEYBLADE...</title>
-      <link>https://mastodon.social/@jrock_blog/117289337710494938</link>
-      <guid isPermaLink="true">https://mastodon.social/@jrock_blog/117289337710494938</guid>
-      <pubDate>Fri, 18 Sep 2026 01:01:03 GMT</pubDate>
-      <dc:creator>jrock_blog (jrock_blog)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>Exciting news! BAND-MAID will perform the ending theme for the anime BEYBLADE X Baking Kingdom Arc, as reported by Billboard JAPAN. 🎸✨<br/>https://www.billboard-japan.com/d_news/detail/165645<br/>https://mastodon.social/tags/JRock https://mastodon.social/tags/JapaneseMetal https://mastodon.social/tags/BANDMAID</p><p><em>Mastodon &middot; jrock_blog</em></p>]]></description>
     </item>
   </channel>
 </rss>
