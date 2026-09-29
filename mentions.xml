@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 14:26:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:27:48 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mwo2vmgxe22h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mwo2vmgxe22h</guid>
+      <pubDate>Tue, 29 Sep 2026 14:44:09 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - Ready to Rock / Live at CENTRAL26</title>
       <link>https://bsky.app/profile/did:plc:fqu2ug6b6hadxsxbvahus7jy/post/3mwnwnognak2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Anime News Network (animenewsnetwork.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID spins Beyblades and a new ending theme song for the Beykingdom Arc!</p><p><em>BlueSky &middot; animenewsnetwork.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID-"About Us"</title>
-      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mvswkyf2wc26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mvswkyf2wc26</guid>
-      <pubDate>Fri, 18 Sep 2026 19:44:45 GMT</pubDate>
-      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID-&quot;About Us&quot;<br/>youtu.be/qicgVAxCYV8<br/><br/>Written during the height of COVID, it&#39;s a cathartic expression about separation from loved ones and existential grief of connection to the world</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
