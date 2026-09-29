@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Lh_DW2zrIe8",
+        "Title":  "BAND-MAID WORLD TOUR 2026 台北 LegacyTERAお給仕レポート (Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/Lh_DW2zrIe8",
+        "Thumbnail":  "https://i.ytimg.com/vi/Lh_DW2zrIe8/hqdefault.jpg",
+        "PublishedAt":  "2026-09-29T13:00:06.0000000Z",
+        "DiscoveredAt":  "2026-09-29T13:23:14.0094978Z",
+        "Duration":  "01:11:10",
+        "ViewsAtDiscovery":  48,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "dHKn6y2a5tg",
+        "Title":  "BAND-MAID - Ready to Rock / Live at CENTRAL26",
+        "Channel":  "THE FIRST TAKE",
+        "ChannelId":  "UC9zY_E8mcAo_Oq772LEZq8Q",
+        "Url":  "https://youtu.be/dHKn6y2a5tg",
+        "Thumbnail":  "https://i.ytimg.com/vi/dHKn6y2a5tg/hqdefault.jpg",
+        "PublishedAt":  "2026-09-29T13:00:05.0000000Z",
+        "DiscoveredAt":  "2026-09-29T13:23:11.4938814Z",
+        "Duration":  "00:03:30",
+        "ViewsAtDiscovery":  1803,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "esfeosQgL-M",
         "Title":  "BAND MAID / I can't live without you. (Live)",
         "Channel":  "Koko_Noodle",
