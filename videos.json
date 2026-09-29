@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "esfeosQgL-M",
+        "Title":  "BAND MAID / I can't live without you. (Live)",
+        "Channel":  "Koko_Noodle",
+        "ChannelId":  "UC9XXJXMinzjSSqkDEFFUEug",
+        "Url":  "https://youtu.be/esfeosQgL-M",
+        "Thumbnail":  "https://i.ytimg.com/vi/esfeosQgL-M/hqdefault.jpg",
+        "PublishedAt":  "2026-09-29T12:39:31.0000000Z",
+        "DiscoveredAt":  "2026-09-29T12:52:32.0587985Z",
+        "Duration":  "00:03:58",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "hsIQfAxNLYk",
+        "Title":  "BAND-MAID WHEEL OF JACKPOTS | EP. 7",
+        "Channel":  "Another Perspective",
+        "ChannelId":  "UCR41xBLK6sk-1tItQmS2KWQ",
+        "Url":  "https://youtu.be/hsIQfAxNLYk",
+        "Thumbnail":  "https://i.ytimg.com/vi/hsIQfAxNLYk/hqdefault.jpg",
+        "PublishedAt":  "2026-09-29T12:35:00.0000000Z",
+        "DiscoveredAt":  "2026-09-29T12:52:31.3312100Z",
+        "Duration":  "00:09:04",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "c2Xb-bc4FhM",
         "Title":  "THIS IS MAID FOR ME!! - Brand New Maid Band Maid Album Music Reactions 233",
         "Channel":  "TheLuigiReactor",
