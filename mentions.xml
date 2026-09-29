@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 00:31:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:05:23 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'm finally getting to see #band-maid this saturday. At the #Victheater in #c...</title>
+      <link>https://bsky.app/profile/did:plc:shsdmagrq3gtt4fdar3yrzjn/post/3mwmnbrz5bk25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:shsdmagrq3gtt4fdar3yrzjn/post/3mwmnbrz5bk25</guid>
+      <pubDate>Tue, 29 Sep 2026 01:07:46 GMT</pubDate>
+      <dc:creator>Ken Cleanairsystem (jdog001.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;m finally getting to see #band-maid this saturday. At the #Victheater in #chicago</p><p><em>BlueSky &middot; jdog001.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I couldn't go back too far or it would be pre-Band-Maid.</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mwmi23j2h22k</link>
@@ -899,15 +908,6 @@
       <dc:creator>jrock_blog (jrock_blog)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>Exciting news! BAND-MAID will perform the ending theme for the anime BEYBLADE X Baking Kingdom Arc, as reported by Billboard JAPAN. 🎸✨<br/>https://www.billboard-japan.com/d_news/detail/165645<br/>https://mastodon.social/tags/JRock https://mastodon.social/tags/JapaneseMetal https://mastodon.social/tags/BANDMAID</p><p><em>Mastodon &middot; jrock_blog</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 「BEYBLADE X」新章テーマ曲は</title>
-      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mvpraa4icp2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mvpraa4icp2c</guid>
-      <pubDate>Thu, 17 Sep 2026 13:31:11 GMT</pubDate>
-      <dc:creator>音楽ナタリー (music.natalie.mu)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>「BEYBLADE X」新章テーマ曲は<br/>&amp;TEAM、BAND-MAIDが担当<br/><br/>🎥コメント動画<br/>https://natalie.mu/music/news/690041?utm_source=bluesky&amp;utm_medium=social<br/><br/>#BEYBLADEX #ベイブレードX</p><p><em>BlueSky &middot; music.natalie.mu</em></p>]]></description>
     </item>
   </channel>
 </rss>
