@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 15:27:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:59:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I know a lot of people have this down as one of Band Maid's best... This is E...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mwo7hzkoxs2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mwo7hzkoxs2j</guid>
+      <pubDate>Tue, 29 Sep 2026 16:06:02 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I know a lot of people have this down as one of Band Maid&#39;s best... This is EASILY the best version I&#39;ve heard, but I still don&#39;t love it. It just feels messy to me, like Kanami&#39;s scribbling, rather than drawing the pictures she usually does inn her compositions.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Impeccable live musicians, Band-Maid:</title>
+      <link>https://bsky.app/profile/did:plc:6atr7qgwbbx67qrkpnyiocdv/post/3mwo7fhxkdc22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6atr7qgwbbx67qrkpnyiocdv/post/3mwo7fhxkdc22</guid>
+      <pubDate>Tue, 29 Sep 2026 16:04:37 GMT</pubDate>
+      <dc:creator>Simeon K Rabbani (slkrr9.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Impeccable live musicians, Band-Maid:<br/><br/>youtu.be/oWQpbAmfZLE?...</p><p><em>BlueSky &middot; slkrr9.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mwo2vmgxe22h</link>
@@ -890,24 +908,6 @@
       <dc:creator>yomimonoid.bsky.social</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID Perform Ending Theme SPIN for Beyblade X Beykingdom Arc<br/><br/>BAND-MAID&#39;s &quot;SPIN&quot; arrives October 28, nineteen days after the Beykingdom Arc premieres on the franchise&#39;s YouTube channel. The song outlives the arc&#39;s first three weeks.</p><p><em>BlueSky &middot; yomimonoid.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] band-maid e beyblade duas coisas que eu gosto muito</title>
-      <link>https://bsky.app/profile/did:plc:w35jlu6razub4lat3uhxo7vf/post/3mvsz6ibeos2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:w35jlu6razub4lat3uhxo7vf/post/3mvsz6ibeos2h</guid>
-      <pubDate>Fri, 18 Sep 2026 20:31:27 GMT</pubDate>
-      <dc:creator>m_chai 🪄 (majichai.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>band-maid e beyblade duas coisas que eu gosto muito </p><p><em>BlueSky &middot; majichai.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID spins Beyblades and a new ending theme song for the Beykingdom Arc!</title>
-      <link>https://bsky.app/profile/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/post/3mvsz3x4grv23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:lxy2qcslv2mw5hlpwh7w5c2t/post/3mvsz3x4grv23</guid>
-      <pubDate>Fri, 18 Sep 2026 20:30:01 GMT</pubDate>
-      <dc:creator>Anime News Network (animenewsnetwork.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID spins Beyblades and a new ending theme song for the Beykingdom Arc!</p><p><em>BlueSky &middot; animenewsnetwork.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
