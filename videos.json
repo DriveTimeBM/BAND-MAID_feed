@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "VSv-GcmW_vI",
+        "Title":  "BAND-MAID、世界を震わせた圧巻ライブ！最新映像がついに公開🔥",
+        "Channel":  "Japan news",
+        "ChannelId":  "UCL6Ot6oqi8xmtnHQrSj7PXg",
+        "Url":  "https://youtu.be/VSv-GcmW_vI",
+        "Thumbnail":  "https://i.ytimg.com/vi/VSv-GcmW_vI/hqdefault.jpg",
+        "PublishedAt":  "2026-09-30T01:21:09.0000000Z",
+        "DiscoveredAt":  "2026-09-30T01:35:09.4193032Z",
+        "Duration":  "00:15:04",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JK9etne6J8A",
         "Title":  "BAND-MAID – “WITHOUT HOLDING BACK” 🤯 | My First Reaction!",
         "Channel":  "AA REACTS",
