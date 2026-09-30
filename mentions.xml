@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 07:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:37:41 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - Ready to Rock / Live at CENTRAL26 youtu.be/dHKn6y2a5tg?... @YouTu...</title>
+      <link>https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mwqgvo6yqc2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mwqgvo6yqc2f</guid>
+      <pubDate>Wed, 30 Sep 2026 13:24:16 GMT</pubDate>
+      <dc:creator>MUSIC PRしていくぜ🦦 (nonashi88.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - Ready to Rock / Live at CENTRAL26 youtu.be/dHKn6y2a5tg?... @YouTubeより</p><p><em>BlueSky &middot; nonashi88.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Gion-Cho</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwpogybicy2z</link>
@@ -899,15 +908,6 @@
       <dc:creator>S.L.R. Magazine (slrmagazine)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>BAND-MAID’S NEW SINGLE “SPIN” NAMED NEW ENDING THEME FOR BEYBLADE X. https://mastodon.social/tags/bandmaid @bandmaid<br/><br/>https://slrmagazine.com/2026/09/19/band-maids-new-single-spin-named-new-ending-theme-for-beyblade-x/</p><p><em>Mastodon &middot; slrmagazine</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID-"You"</title>
-      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mvuwrqzyp227</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mvuwrqzyp227</guid>
-      <pubDate>Sat, 19 Sep 2026 14:53:52 GMT</pubDate>
-      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID-&quot;You&quot;<br/>youtu.be/YpHNOj7_EH0</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
