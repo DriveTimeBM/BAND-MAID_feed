@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vdt_-RrvDW4",
+        "Title":  "BAND-MAID - Ready to Rock / Live at CENTRAL26 reaction",
+        "Channel":  "Aryas Katsu",
+        "ChannelId":  "UCQpZV9Bw3WZXXf4xdfCf4sQ",
+        "Url":  "https://youtu.be/vdt_-RrvDW4",
+        "Thumbnail":  "https://i.ytimg.com/vi/vdt_-RrvDW4/hqdefault.jpg",
+        "PublishedAt":  "2026-09-30T13:42:55.0000000Z",
+        "DiscoveredAt":  "2026-09-30T14:06:36.2575558Z",
+        "Duration":  "00:02:26",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "aZmrNByJcnA",
         "Title":  "The Warning x Band-Maid - SHOW THEM (drums backing track)",
         "Channel":  "Drum Solo Tracks",
