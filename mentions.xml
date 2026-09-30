@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 18:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:06:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - Ready to Rock / Live at CENTRAL26</title>
+      <link>https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mwp5n6apuk2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mwp5n6apuk2n</guid>
+      <pubDate>Wed, 30 Sep 2026 01:05:47 GMT</pubDate>
+      <dc:creator>佐藤英男 (sato-hideo.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - Ready to Rock / Live at CENTRAL26<br/>www.youtube.com/watch?v=dHKn...<br/>4月に横浜で行われた都市型音楽フェス「CENTRAL26」のパフォーマンス映像を期間限定で公開。<br/>2026.4.4(SAT) CENTRAL LAB.<br/>配信期間: 2027年4月まで<br/>#CENTRAL_FEST #THEFIRSTTAKE #BANDMAID</p><p><em>BlueSky &middot; sato-hideo.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Ich habe Band-Maid schonmal live spielen sehen. Die können das wirklich. 😯</title>
       <link>https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3mwodbzbjcs2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>Final Weapon (finalweapon.net)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID to Perform Ending Theme Song for Beyblade X &#39;Beykingdom Arc&#39;</p><p><em>BlueSky &middot; finalweapon.net</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] As vezes eu fico me perguntando como seria uma Review do Régis Tadeu de um sh...</title>
-      <link>https://bsky.app/profile/did:plc:2agy2fppx756epioqoikwyzp/post/3mvtdie3tok2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2agy2fppx756epioqoikwyzp/post/3mvtdie3tok2x</guid>
-      <pubDate>Fri, 18 Sep 2026 23:35:55 GMT</pubDate>
-      <dc:creator>bigxic36.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>As vezes eu fico me perguntando como seria uma Review do R&#233;gis Tadeu de um show do Band Maid (apesar de j&#225; ter uma suspeita do que ele falaria)<br/><br/>youtu.be/QbyQCJn6rYg?...</p><p><em>BlueSky &middot; bigxic36.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
