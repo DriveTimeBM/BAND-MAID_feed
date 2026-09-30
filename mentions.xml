@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 14:37:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:10:14 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID-"OOPARTS"</title>
+      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mwr5qmeexk2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mwr5qmeexk2i</guid>
+      <pubDate>Wed, 30 Sep 2026 20:13:02 GMT</pubDate>
+      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID-&quot;OOPARTS&quot;<br/><br/>&#39;OOPARTS&#39; means  &quot;Out-of-Place Artifact&quot; (archaeological items found in impossible historical contexts)<br/><br/>youtu.be/YFLsVQ4iPxw</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - Ready to Rock / Live at CENTRAL26 youtu.be/dHKn6y2a5tg?... @YouTu...</title>
       <link>https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mwqgvo6yqc2f</link>
@@ -899,15 +908,6 @@
       <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
       <category>Mastodon</category>
       <description><![CDATA[<p>Now listening to Band-Maid - No God<br/><br/>https://www.youtube.com/watch?v=iLF5zd0yl64<br/><br/>https://social.tchncs.de/tags/music https://social.tchncs.de/tags/bandmaid</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] BAND-MAID’S NEW SINGLE “SPIN” NAMED NEW ENDING THEME FOR BEYBLADE X. https://...</title>
-      <link>https://mastodon.social/@slrmagazine/117299744181381742</link>
-      <guid isPermaLink="true">https://mastodon.social/@slrmagazine/117299744181381742</guid>
-      <pubDate>Sat, 19 Sep 2026 21:07:33 GMT</pubDate>
-      <dc:creator>S.L.R. Magazine (slrmagazine)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>BAND-MAID’S NEW SINGLE “SPIN” NAMED NEW ENDING THEME FOR BEYBLADE X. https://mastodon.social/tags/bandmaid @bandmaid<br/><br/>https://slrmagazine.com/2026/09/19/band-maids-new-single-spin-named-new-ending-theme-for-beyblade-x/</p><p><em>Mastodon &middot; slrmagazine</em></p>]]></description>
     </item>
   </channel>
 </rss>
