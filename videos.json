@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "a0Ikd7aLF-g",
+        "Title":  "Tougen anki-[What is justice] By band-Maid",
+        "Channel":  "Icihgochillguyfr",
+        "ChannelId":  "UCEF1qiV_jSoL01GBcGxEx9g",
+        "Url":  "https://youtu.be/a0Ikd7aLF-g",
+        "Thumbnail":  "https://i.ytimg.com/vi/a0Ikd7aLF-g/hqdefault.jpg",
+        "PublishedAt":  "2026-09-30T01:49:53.0000000Z",
+        "DiscoveredAt":  "2026-09-30T02:05:53.2329171Z",
+        "Duration":  "00:03:19",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VSv-GcmW_vI",
         "Title":  "BAND-MAID、世界を震わせた圧巻ライブ！最新映像がついに公開🔥",
         "Channel":  "Japan news",
