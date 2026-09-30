@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 02:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 02:36:44 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Come to the aquarium, nature center, secret third place, or the band maid con...</title>
+      <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mwp6v4cjec25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3mwp6v4cjec25</guid>
+      <pubDate>Wed, 30 Sep 2026 01:28:07 GMT</pubDate>
+      <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Come to the aquarium, nature center, secret third place, or the band maid concert at the appropriate times and I&#39;ll buy you a coffee</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - Ready to Rock / Live at CENTRAL26</title>
       <link>https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3mwp5n6apuk2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID to Perform Ending Theme Song for Beyblade X 'Beykingdom Arc'</title>
-      <link>https://bsky.app/profile/did:plc:i3t5plujknxclpumc5d44pb7/post/3mvtfawn4sw2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:i3t5plujknxclpumc5d44pb7/post/3mvtfawn4sw2i</guid>
-      <pubDate>Sat, 19 Sep 2026 00:07:32 GMT</pubDate>
-      <dc:creator>Final Weapon (finalweapon.net)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID to Perform Ending Theme Song for Beyblade X &#39;Beykingdom Arc&#39;</p><p><em>BlueSky &middot; finalweapon.net</em></p>]]></description>
     </item>
   </channel>
 </rss>
