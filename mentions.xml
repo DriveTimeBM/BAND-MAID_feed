@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 21:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:40:55 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Fun little bug in Apple Music on macOS 27.0.1.</title>
+      <link>https://bsky.app/profile/did:plc:b2swerbblwsixfkogrcae3q6/post/3mwr7rm44ac22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:b2swerbblwsixfkogrcae3q6/post/3mwr7rm44ac22</guid>
+      <pubDate>Wed, 30 Sep 2026 20:49:23 GMT</pubDate>
+      <dc:creator>August Danzig (augustmusic.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Fun little bug in Apple Music on macOS 27.0.1.</p><p><em>BlueSky &middot; augustmusic.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID-"OOPARTS"</title>
       <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mwr5qmeexk2i</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid did a solo show at Yokohama Arena in November 2023 that was 3 hours and 40 minutes long and ended with this emotional song www.youtube.com/watch?v=Za1y...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] Now listening to Band-Maid - No God</title>
-      <link>https://social.tchncs.de/@dodger/117299982343956242</link>
-      <guid isPermaLink="true">https://social.tchncs.de/@dodger/117299982343956242</guid>
-      <pubDate>Sat, 19 Sep 2026 22:08:07 GMT</pubDate>
-      <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>Now listening to Band-Maid - No God<br/><br/>https://www.youtube.com/watch?v=iLF5zd0yl64<br/><br/>https://social.tchncs.de/tags/music https://social.tchncs.de/tags/bandmaid</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
     </item>
   </channel>
 </rss>
