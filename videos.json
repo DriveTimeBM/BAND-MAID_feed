@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jlJeox7K00Q",
+        "Title":  "I DID NOT THINK THEY CAN BE THIS CHILLED | BAND-MAID \"THRILL\" REACTION",
+        "Channel":  "MARSHA - THE NAI REACTOR ",
+        "ChannelId":  "UC910MzDzWPw0gZnaDF138BQ",
+        "Url":  "https://youtu.be/jlJeox7K00Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/jlJeox7K00Q/hqdefault.jpg",
+        "PublishedAt":  "2026-09-30T15:00:24.0000000Z",
+        "DiscoveredAt":  "2026-09-30T15:08:16.5998944Z",
+        "Duration":  "00:09:19",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "K63yLu6TWUs",
+        "Title":  "BAND-MAID / Name That Song 8 (North American Tour 2026)",
+        "Channel":  "BM 4-Life",
+        "ChannelId":  "UCpsg9_ZnO0UzA9hZO43deRA",
+        "Url":  "https://youtu.be/K63yLu6TWUs",
+        "Thumbnail":  "https://i.ytimg.com/vi/K63yLu6TWUs/hqdefault.jpg",
+        "PublishedAt":  "2026-09-30T14:56:55.0000000Z",
+        "DiscoveredAt":  "2026-09-30T15:08:15.9650832Z",
+        "Duration":  "00:09:58",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vdt_-RrvDW4",
         "Title":  "BAND-MAID - Ready to Rock / Live at CENTRAL26 reaction",
         "Channel":  "Aryas Katsu",
