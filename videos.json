@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "c_uk1EsCQ3Y",
+        "Title":  "BAND-MAID: Honkai [Live] reaction",
+        "Channel":  "NeuroticVowsMusic",
+        "ChannelId":  "UCTnGd-ZCNO-qqlfVRWxdaRg",
+        "Url":  "https://youtu.be/c_uk1EsCQ3Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/c_uk1EsCQ3Y/hqdefault.jpg",
+        "PublishedAt":  "2026-09-30T20:15:03.0000000Z",
+        "DiscoveredAt":  "2026-09-30T20:30:55.3164863Z",
+        "Duration":  "00:08:22",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "W67ORgfYpEI",
         "Title":  "BAND-MAID Documentary/ Kanami (REACTION)",
         "Channel":  "Angelo's World",
