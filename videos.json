@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2Nvmx14-aI0",
+        "Title":  "BAND-MAID – MAGIE 🔥 | REACTION | Japanese Rock & INSANE Guitar and Bass!",
+        "Channel":  "Rock and Reactions",
+        "ChannelId":  "UCqAy-EERjiQYNBVIOj3MY7A",
+        "Url":  "https://youtu.be/2Nvmx14-aI0",
+        "Thumbnail":  "https://i.ytimg.com/vi/2Nvmx14-aI0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-01T10:00:04.0000000Z",
+        "DiscoveredAt":  "2026-10-01T10:28:00.3576917Z",
+        "Duration":  "00:14:19",
+        "ViewsAtDiscovery":  28,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rfszi0mvZaU",
         "Title":  "Band-Maid - NO GOD (instrumental backing track)",
         "Channel":  "Instrumental Radiant Solo Tracks",
