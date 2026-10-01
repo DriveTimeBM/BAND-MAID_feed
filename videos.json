@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rfszi0mvZaU",
+        "Title":  "Band-Maid - NO GOD (instrumental backing track)",
+        "Channel":  "Instrumental Radiant Solo Tracks",
+        "ChannelId":  "UCD_ho70qg__lZtGIRcWn1AQ",
+        "Url":  "https://youtu.be/rfszi0mvZaU",
+        "Thumbnail":  "https://i.ytimg.com/vi/rfszi0mvZaU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-01T02:46:57.0000000Z",
+        "DiscoveredAt":  "2026-10-01T02:48:26.9139916Z",
+        "Duration":  "00:04:14",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-UUiqhadY50",
         "Title":  "NON-STOP ADRENALINE! BAND-MAID \"Protect You\" Reaction & Breakdown",
         "Channel":  "Headbangers Haven",
