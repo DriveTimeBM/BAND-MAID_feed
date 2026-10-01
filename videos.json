@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "s_vBp_w7Z4I",
+        "Title":  "BAND-MAID – Forbidden Tale | Wenn Licht auf Dunkelheit trifft…| Therapeutin Blind Reaction (EN CC)",
+        "Channel":  "Heart & Mind Reactions",
+        "ChannelId":  "UCBNNpgV-2TqzBGZJgCuy87g",
+        "Url":  "https://youtu.be/s_vBp_w7Z4I",
+        "Thumbnail":  "https://i.ytimg.com/vi/s_vBp_w7Z4I/hqdefault.jpg",
+        "PublishedAt":  "2026-10-01T16:15:13.0000000Z",
+        "DiscoveredAt":  "2026-10-01T16:37:28.4111028Z",
+        "Duration":  "00:34:50",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "8H2wZ7Xi8RU",
         "Title":  "【BAND-MAID】「Manners」のベースがヤバい。たった3コードで魅せる70年代ロックの匂い / Manners Bass Explanation",
         "Channel":  "tetsu_guitar",
