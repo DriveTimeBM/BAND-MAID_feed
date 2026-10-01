@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 06:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:26:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid's "From Now On", "Get to the Top", "Lock and Load", "Without Holdin...</title>
+      <link>https://bsky.app/profile/did:plc:fafgrurqauxlq7dijmdvfhdo/post/3mwshgtbgvk2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fafgrurqauxlq7dijmdvfhdo/post/3mwshgtbgvk2m</guid>
+      <pubDate>Thu, 01 Oct 2026 08:39:11 GMT</pubDate>
+      <dc:creator>bionicgrit.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid&#39;s &quot;From Now On&quot;, &quot;Get to the Top&quot;, &quot;Lock and Load&quot;, &quot;Without Holding Back&quot; and &quot;Onset&quot;, although they&#39;ve also made instrumental versions of other songs.<br/>www.youtube.com/watch?v=a6ZS...</p><p><em>BlueSky &middot; bionicgrit.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] This is the lead song of our first major-label single YOLO. It was originally...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mws6vxpxe42r</link>
@@ -899,15 +908,6 @@
       <dc:creator>kismetw.bsky.social</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID台北專場完售　聊大港開唱、〈SPIN〉戰鬥陀螺與2027停演計畫</p><p><em>BlueSky &middot; kismetw.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] My BAND MAID shirts (and beer mug) came in, I am hella ready for next month's...</title>
-      <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mw2o5a7dg22i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mw2o5a7dg22i</guid>
-      <pubDate>Mon, 21 Sep 2026 21:35:11 GMT</pubDate>
-      <dc:creator>Chris『ScaryYandere』@ Art and Merch grind again (scaryyandere.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>My BAND MAID shirts (and beer mug) came in, I am hella ready for next month&#39;s concert</p><p><em>BlueSky &middot; scaryyandere.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
