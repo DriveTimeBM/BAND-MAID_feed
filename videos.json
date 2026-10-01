@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XIzxBKxhim0",
+        "Title":  "PERFECT START!! - Present Perfect Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/XIzxBKxhim0",
+        "Thumbnail":  "https://i.ytimg.com/vi/XIzxBKxhim0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-01T20:00:08.0000000Z",
+        "DiscoveredAt":  "2026-10-01T20:16:17.1273941Z",
+        "Duration":  "00:04:26",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "s_vBp_w7Z4I",
         "Title":  "BAND-MAID – Forbidden Tale | Wenn Licht auf Dunkelheit trifft…| Therapeutin Blind Reaction (EN CC)",
         "Channel":  "Heart & Mind Reactions",
