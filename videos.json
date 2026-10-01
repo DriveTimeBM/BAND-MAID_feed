@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "aRBXbxII5k0",
+        "Title":  "BAND-MAID WHEEL OF JACKPOTS | EP. 8",
+        "Channel":  "Another Perspective",
+        "ChannelId":  "UCR41xBLK6sk-1tItQmS2KWQ",
+        "Url":  "https://youtu.be/aRBXbxII5k0",
+        "Thumbnail":  "https://i.ytimg.com/vi/aRBXbxII5k0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-01T13:22:30.0000000Z",
+        "DiscoveredAt":  "2026-10-01T13:32:32.4187335Z",
+        "Duration":  "00:08:26",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "aUbS50wQpfo",
         "Title":  "【練習切り抜き】Daydreaming / BAND-MAID 歌ってみた  【弾いてみた/ひで/個人VTuber】",
         "Channel":  "ひでの小部屋",
