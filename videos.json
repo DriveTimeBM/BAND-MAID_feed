@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "aUbS50wQpfo",
+        "Title":  "【練習切り抜き】Daydreaming / BAND-MAID 歌ってみた  【弾いてみた/ひで/個人VTuber】",
+        "Channel":  "ひでの小部屋",
+        "ChannelId":  "UCPl29b7nhFVJcEtqZ-p4b1w",
+        "Url":  "https://youtu.be/aUbS50wQpfo",
+        "Thumbnail":  "https://i.ytimg.com/vi/aUbS50wQpfo/hqdefault.jpg",
+        "PublishedAt":  "2026-10-01T12:51:08.0000000Z",
+        "DiscoveredAt":  "2026-10-01T13:01:47.6071346Z",
+        "Duration":  "00:04:05",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SU4MPumDUj0",
         "Title":  "【練習切り抜き】 CROSS / BAND-MAID 歌ってみた【弾いてみた/ひで/個人VTuber】",
         "Channel":  "ひでの小部屋",
