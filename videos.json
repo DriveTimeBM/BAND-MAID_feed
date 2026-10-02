@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZVMYsccMT74",
+        "Title":  "ROCKIN' OUT SO HARD!! - Ready to Rock Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/ZVMYsccMT74",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZVMYsccMT74/hqdefault.jpg",
+        "PublishedAt":  "2026-10-02T20:00:34.0000000Z",
+        "DiscoveredAt":  "2026-10-02T20:18:18.9469762Z",
+        "Duration":  "00:04:52",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Z-cTLpTdehk",
         "Title":  "BAND-MAIKO: Gion Cho reaction",
         "Channel":  "NeuroticVowsMusic",
