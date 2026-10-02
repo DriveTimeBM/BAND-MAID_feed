@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6SV9oeRnkvw",
+        "Title":  "「関内テレビ」— BAND-MAID「What Makes You So Special」",
+        "Channel":  "japan news",
+        "ChannelId":  "UCP9DUofQUXEWDnkFIcdGZmA",
+        "Url":  "https://youtu.be/6SV9oeRnkvw",
+        "Thumbnail":  "https://i.ytimg.com/vi/6SV9oeRnkvw/hqdefault.jpg",
+        "PublishedAt":  "2026-10-02T03:07:36.0000000Z",
+        "DiscoveredAt":  "2026-10-02T03:35:17.2309086Z",
+        "Duration":  "00:08:20",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0-QeJ60xpGM",
         "Title":  "SOO CATCHY!! BAND-MAID / Choose me (Official Music Video) Reaction",
         "Channel":  "SidequestswithKJ",
