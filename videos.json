@@ -1,21 +1,6 @@
 [
     {
         "schema_version":  1,
-        "VideoId":  "q9kcDplQHgA",
-        "Title":  "Why BAND-MAID Needed Miku to Learn Guitar?! 🤯🎸 | The Untold Story",
-        "Channel":  "japan news",
-        "ChannelId":  "UCP9DUofQUXEWDnkFIcdGZmA",
-        "Url":  "https://youtu.be/q9kcDplQHgA",
-        "Thumbnail":  "https://i.ytimg.com/vi/q9kcDplQHgA/hqdefault.jpg",
-        "PublishedAt":  "2026-10-02T13:59:36.0000000Z",
-        "DiscoveredAt":  "2026-10-02T14:20:43.8779532Z",
-        "Duration":  "00:09:05",
-        "ViewsAtDiscovery":  3,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
         "VideoId":  "S99rO2q4xH0",
         "Title":  "First time hearing | onset - Band-Maid (live)",
         "Channel":  "New Clear Reactor",
@@ -106,21 +91,6 @@
     },
     {
         "schema_version":  1,
-        "VideoId":  "Aj4PZ-swRoE",
-        "Title":  "BAND-MAID「Dilly-Dally」🎸🔥 | Official Live Performance | Japanese Rock",
-        "Channel":  "japan news",
-        "ChannelId":  "UCP9DUofQUXEWDnkFIcdGZmA",
-        "Url":  "https://youtu.be/Aj4PZ-swRoE",
-        "Thumbnail":  "https://i.ytimg.com/vi/Aj4PZ-swRoE/hqdefault.jpg",
-        "PublishedAt":  "2026-10-02T06:39:06.0000000Z",
-        "DiscoveredAt":  "2026-10-02T07:09:41.8515689Z",
-        "Duration":  "00:04:35",
-        "ViewsAtDiscovery":  1,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
         "VideoId":  "LUMTfWApI68",
         "Title":  "12 String Acoustic Cover of Daydreaming by Band-Maid",
         "Channel":  "Steve Sharish",
@@ -131,21 +101,6 @@
         "DiscoveredAt":  "2026-10-02T04:36:43.4895650Z",
         "Duration":  "00:02:02",
         "ViewsAtDiscovery":  18,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
-        "VideoId":  "6SV9oeRnkvw",
-        "Title":  "「関内テレビ」— BAND-MAID「What Makes You So Special」",
-        "Channel":  "japan news",
-        "ChannelId":  "UCP9DUofQUXEWDnkFIcdGZmA",
-        "Url":  "https://youtu.be/6SV9oeRnkvw",
-        "Thumbnail":  "https://i.ytimg.com/vi/6SV9oeRnkvw/hqdefault.jpg",
-        "PublishedAt":  "2026-10-02T03:07:36.0000000Z",
-        "DiscoveredAt":  "2026-10-02T03:35:17.2309086Z",
-        "Duration":  "00:08:20",
-        "ViewsAtDiscovery":  1,
         "Live":  "none",
         "Status":  "active"
     },
