@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "q9kcDplQHgA",
+        "Title":  "Why BAND-MAID Needed Miku to Learn Guitar?! 🤯🎸 | The Untold Story",
+        "Channel":  "japan news",
+        "ChannelId":  "UCP9DUofQUXEWDnkFIcdGZmA",
+        "Url":  "https://youtu.be/q9kcDplQHgA",
+        "Thumbnail":  "https://i.ytimg.com/vi/q9kcDplQHgA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-02T13:59:36.0000000Z",
+        "DiscoveredAt":  "2026-10-02T14:20:43.8779532Z",
+        "Duration":  "00:09:05",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "S99rO2q4xH0",
         "Title":  "First time hearing | onset - Band-Maid (live)",
         "Channel":  "New Clear Reactor",
