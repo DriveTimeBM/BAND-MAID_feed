@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 02 Oct 2026 06:39:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 23:22:26 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Oh it's killing me that I can't watch Wrestle Princess live tonight because I...</title>
+      <link>https://bsky.app/profile/did:plc:urjz7acvezrkeonji3cc66c5/post/3mwwgaixp3k2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:urjz7acvezrkeonji3cc66c5/post/3mwwgaixp3k2n</guid>
+      <pubDate>Fri, 02 Oct 2026 22:28:24 GMT</pubDate>
+      <dc:creator>John「ふりーWiFi」 (dk1105.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Oh it&#39;s killing me that I can&#39;t watch Wrestle Princess live tonight because I&#39;m driving to Chicago for Band Maid tomorrow. Zero planning beyond that so I might have a free Sunday in the city before heading back home.</p><p><em>BlueSky &middot; dk1105.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: DICE</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwupet6jax2x</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2014/9/22. The opening song was Summer Drive.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago Band-Maid played 23 songs at Hiroshima CLUB QUATTRO in Hiroshima ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mw3kdh26ws2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mw3kdh26ws2d</guid>
-      <pubDate>Tue, 22 Sep 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago Band-Maid played 23 songs at Hiroshima CLUB QUATTRO in Hiroshima JP on 2018/9/22. The opening song was DICE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
