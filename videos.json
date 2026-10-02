@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Aj4PZ-swRoE",
+        "Title":  "BAND-MAID「Dilly-Dally」🎸🔥 | Official Live Performance | Japanese Rock",
+        "Channel":  "japan news",
+        "ChannelId":  "UCP9DUofQUXEWDnkFIcdGZmA",
+        "Url":  "https://youtu.be/Aj4PZ-swRoE",
+        "Thumbnail":  "https://i.ytimg.com/vi/Aj4PZ-swRoE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-02T06:39:06.0000000Z",
+        "DiscoveredAt":  "2026-10-02T07:09:41.8515689Z",
+        "Duration":  "00:04:35",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "LUMTfWApI68",
         "Title":  "12 String Acoustic Cover of Daydreaming by Band-Maid",
         "Channel":  "Steve Sharish",
