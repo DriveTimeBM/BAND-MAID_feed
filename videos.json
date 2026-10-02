@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gZ4loDxNXEE",
+        "Title":  "My Son's FIRST Time Hearing BAND-MAID! | “REAL EXISTENCE” Reaction",
+        "Channel":  "Riffs and Reactions With Berry",
+        "ChannelId":  "UCwHEceu0iJDIvhDy6hd0FfQ",
+        "Url":  "https://youtu.be/gZ4loDxNXEE",
+        "Thumbnail":  "https://i.ytimg.com/vi/gZ4loDxNXEE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-02T08:30:12.0000000Z",
+        "DiscoveredAt":  "2026-10-02T08:42:07.6699476Z",
+        "Duration":  "00:09:10",
+        "ViewsAtDiscovery":  15,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Y7Uvrg_v6nU",
+        "Title":  "ENERGETIC / BAND-MAID 【歌ってみた】",
+        "Channel":  "かるび",
+        "ChannelId":  "UC_q-Ie4JKihZzTQ2KgvhBxw",
+        "Url":  "https://youtu.be/Y7Uvrg_v6nU",
+        "Thumbnail":  "https://i.ytimg.com/vi/Y7Uvrg_v6nU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-02T08:11:22.0000000Z",
+        "DiscoveredAt":  "2026-10-02T08:42:06.5788720Z",
+        "Duration":  "00:03:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Aj4PZ-swRoE",
         "Title":  "BAND-MAID「Dilly-Dally」🎸🔥 | Official Live Performance | Japanese Rock",
         "Channel":  "japan news",
