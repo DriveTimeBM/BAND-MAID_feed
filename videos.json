@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Z-cTLpTdehk",
+        "Title":  "BAND-MAIKO: Gion Cho reaction",
+        "Channel":  "NeuroticVowsMusic",
+        "ChannelId":  "UCTnGd-ZCNO-qqlfVRWxdaRg",
+        "Url":  "https://youtu.be/Z-cTLpTdehk",
+        "Thumbnail":  "https://i.ytimg.com/vi/Z-cTLpTdehk/hqdefault.jpg",
+        "PublishedAt":  "2026-10-02T19:45:36.0000000Z",
+        "DiscoveredAt":  "2026-10-02T19:47:00.1319711Z",
+        "Duration":  "00:06:46",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "S99rO2q4xH0",
         "Title":  "First time hearing | onset - Band-Maid (live)",
         "Channel":  "New Clear Reactor",
