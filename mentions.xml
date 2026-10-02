@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 09:26:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 05:37:55 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 2 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mwulfpz2pl2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mwulfpz2pl2c</guid>
+      <pubDate>Fri, 02 Oct 2026 04:55:28 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2 years ago<br/>DICE MV<br/>milestone<br/>surpassed 9 million views<br/>2024/10/2<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band-Maid's "From Now On", "Get to the Top", "Lock and Load", "Without Holdin...</title>
       <link>https://bsky.app/profile/did:plc:fafgrurqauxlq7dijmdvfhdo/post/3mwshgtbgvk2m</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at CRAZYMAMA KINGDOM in Okayama JP on 2023/9/22. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID台北專場完售　聊大港開唱、〈SPIN〉戰鬥陀螺與2027停演計畫</title>
-      <link>https://bsky.app/profile/did:plc:sax6fvevg4sqa2gprt3j2ilg/post/3mw37ruvjvw2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sax6fvevg4sqa2gprt3j2ilg/post/3mw37ruvjvw2i</guid>
-      <pubDate>Tue, 22 Sep 2026 10:50:57 GMT</pubDate>
-      <dc:creator>kismetw.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID台北專場完售　聊大港開唱、〈SPIN〉戰鬥陀螺與2027停演計畫</p><p><em>BlueSky &middot; kismetw.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
