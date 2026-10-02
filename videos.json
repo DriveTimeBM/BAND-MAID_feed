@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LUMTfWApI68",
+        "Title":  "12 String Acoustic Cover of Daydreaming by Band-Maid",
+        "Channel":  "Steve Sharish",
+        "ChannelId":  "UC7ve_OprckTgThv3WTpMHmQ",
+        "Url":  "https://youtu.be/LUMTfWApI68",
+        "Thumbnail":  "https://i.ytimg.com/vi/LUMTfWApI68/hqdefault.jpg",
+        "PublishedAt":  "2026-10-02T04:10:24.0000000Z",
+        "DiscoveredAt":  "2026-10-02T04:36:43.4895650Z",
+        "Duration":  "00:02:02",
+        "ViewsAtDiscovery":  18,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6SV9oeRnkvw",
         "Title":  "「関内テレビ」— BAND-MAID「What Makes You So Special」",
         "Channel":  "japan news",
