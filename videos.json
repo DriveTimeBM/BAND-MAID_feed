@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0-QeJ60xpGM",
+        "Title":  "SOO CATCHY!! BAND-MAID / Choose me (Official Music Video) Reaction",
+        "Channel":  "SidequestswithKJ",
+        "ChannelId":  "UCnGuG7yXZfLmMei0cCL7IxQ",
+        "Url":  "https://youtu.be/0-QeJ60xpGM",
+        "Thumbnail":  "https://i.ytimg.com/vi/0-QeJ60xpGM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-02T00:00:18.0000000Z",
+        "DiscoveredAt":  "2026-10-02T00:28:33.7787049Z",
+        "Duration":  "00:08:26",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XIzxBKxhim0",
         "Title":  "PERFECT START!! - Present Perfect Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
