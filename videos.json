@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yAoTkJsvQyQ",
+        "Title":  "Reacting to Dice by Band-Maid Live Performance Was Electrifying",
+        "Channel":  "The Smith House Reactions",
+        "ChannelId":  "UCfQeTYw5jS1UryRg8GN3_PQ",
+        "Url":  "https://youtu.be/yAoTkJsvQyQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/yAoTkJsvQyQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-03T05:00:13.0000000Z",
+        "DiscoveredAt":  "2026-10-03T05:01:35.1120650Z",
+        "Duration":  "00:07:19",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_U-ayE0Va-0",
         "Title":  "QUEEN REACTS to BAND MAID – “DICE”  THIS IS INSANE! 🤯🔥",
         "Channel":  "QueenKafi",
