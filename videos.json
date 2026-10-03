@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DkLQvmPgm5w",
+        "Title":  "Musicians REACT to Band-Maid: Forbidden Tale (2025 Billboard Acoustic Live, Tokyo)",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/DkLQvmPgm5w",
+        "Thumbnail":  "https://i.ytimg.com/vi/DkLQvmPgm5w/hqdefault.jpg",
+        "PublishedAt":  "2026-10-03T10:00:25.0000000Z",
+        "DiscoveredAt":  "2026-10-03T10:09:10.4809644Z",
+        "Duration":  "00:11:24",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Q_waDIN-n00",
+        "Title":  "「関内テレビ」— BAND-MAID「What Makes You So Special」",
+        "Channel":  "nippon news japan",
+        "ChannelId":  "UCCZz1v_yUb8B2ip6uk7vkUQ",
+        "Url":  "https://youtu.be/Q_waDIN-n00",
+        "Thumbnail":  "https://i.ytimg.com/vi/Q_waDIN-n00/hqdefault.jpg",
+        "PublishedAt":  "2026-10-03T09:47:17.0000000Z",
+        "DiscoveredAt":  "2026-10-03T10:09:08.3635489Z",
+        "Duration":  "00:08:20",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4M06UXA7kUs",
         "Title":  "ブラッククローバー  NO GOD【BAND-MAID】#shorts",
         "Channel":  "ひなRock",
