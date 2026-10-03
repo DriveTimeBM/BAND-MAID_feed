@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3pbWZyUg24s",
+        "Title":  "Reacting to Band Maid | Freedom Over The Years | A Compilation",
+        "Channel":  "Kyros Reactions",
+        "ChannelId":  "UCo6VhAuklHvW8ZC35pIezXg",
+        "Url":  "https://youtu.be/3pbWZyUg24s",
+        "Thumbnail":  "https://i.ytimg.com/vi/3pbWZyUg24s/hqdefault.jpg",
+        "PublishedAt":  "2026-10-03T06:00:06.0000000Z",
+        "DiscoveredAt":  "2026-10-03T06:02:53.7213708Z",
+        "Duration":  "00:10:40",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yAoTkJsvQyQ",
         "Title":  "Reacting to Dice by Band-Maid Live Performance Was Electrifying",
         "Channel":  "The Smith House Reactions",
