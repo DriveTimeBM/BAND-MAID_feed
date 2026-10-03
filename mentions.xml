@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 02 Oct 2026 23:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 07:04:24 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] not a single skip.</title>
+      <link>https://bsky.app/profile/did:plc:thabatsvjork2cgid67nnqe2/post/3mwxa2cgvmc2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:thabatsvjork2cgid67nnqe2/post/3mwxa2cgvmc2w</guid>
+      <pubDate>Sat, 03 Oct 2026 06:10:13 GMT</pubDate>
+      <dc:creator>𝗱𝗮𝗶𝘆𝗮 ୨୧ HALLOWEEN MONTH 🎃✨ (daiya-3710.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>not a single skip.<br/><br/>NOT. A. SINGLE. SKIP.<br/><br/>THIS ENTIRE ALBUM IS SO GOOD!!!!!!! I&#39;m so happy I found The Warning!!!!! I&#39;m a fan of BAND-MAID and the song they made with The Warning is what led me to their music!<br/><br/>youtube.com/playlist?lis...<br/><br/>(god I hope I posted the link correctly🫠)</p><p><em>BlueSky &middot; daiya-3710.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Song: Akasimahen</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwx7tqzxaj2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwx7tqzxaj2n</guid>
+      <pubDate>Sat, 03 Oct 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Akasimahen<br/>Album: BAND-MAIKO<br/>Release: 3/31/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:12/21/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Oh it's killing me that I can't watch Wrestle Princess live tonight because I...</title>
       <link>https://bsky.app/profile/did:plc:urjz7acvezrkeonji3cc66c5/post/3mwwgaixp3k2n</link>
@@ -890,24 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: I still seek revenge.</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mw3kpmuewl27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mw3kpmuewl27</guid>
-      <pubDate>Tue, 22 Sep 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: I still seek revenge.<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2014/9...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mw3kdi2qxe25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mw3kdi2qxe25</guid>
-      <pubDate>Tue, 22 Sep 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at shibuya eggman in Tokyo JP on 2014/9/22. The opening song was Summer Drive.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
