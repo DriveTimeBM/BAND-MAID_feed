@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LqZWGJEkRHc",
+        "Title":  "ALWAYS JUSTICE FOR BAND MAID!! - What is justice? Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/LqZWGJEkRHc",
+        "Thumbnail":  "https://i.ytimg.com/vi/LqZWGJEkRHc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-03T20:00:10.0000000Z",
+        "DiscoveredAt":  "2026-10-03T20:27:26.5938021Z",
+        "Duration":  "00:04:10",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "aX4NzhdntgE",
         "Title":  "BAND-MAID – DAYDREAMING | FIRST TIME REACTION to Their Acoustic Performance!",
         "Channel":  "Ginger T Reacts",
