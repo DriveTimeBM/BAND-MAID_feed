@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 15:35:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 17:38:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Of note: 8 and 9 should be Zeal and Ardor's Wake of a Nation and Band-Maid's ...</title>
+      <link>https://bsky.app/profile/did:plc:qik3cpc27f2sh7pjm6qo4ohe/post/3mx2trrf5mk23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qik3cpc27f2sh7pjm6qo4ohe/post/3mx2trrf5mk23</guid>
+      <pubDate>Sun, 04 Oct 2026 16:41:21 GMT</pubDate>
+      <dc:creator>Robert Beveridge (xterminalnoise.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Of note: 8 and 9 should be Zeal and Ardor&#39;s Wake of a Nation and Band-Maid&#39;s New Beginning, neither of which is in their database. Good thing I didn&#39;t try for anything actually obscure...<br/><br/>www.my9albums.com/s/q2RvB26Qak</p><p><em>BlueSky &middot; xterminalnoise.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Journeying back to NYC to see BAND-MAID in concert tomorrow night! First time...</title>
       <link>https://bsky.app/profile/did:plc:axqlanzdy2ndjml774duat7v/post/3mx2g6klgqk2s</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago Band-Maid played 23 songs at CRAZYMAMA KINGDOM in Okayama JP on 2018/9/24. The opening song was DICE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mwakemfa3n2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mwakemfa3n2y</guid>
-      <pubDate>Thu, 24 Sep 2026 05:43:42 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
