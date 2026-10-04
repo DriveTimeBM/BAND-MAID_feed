@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 20:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:44:07 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Specifically it's the BAND MAID World Tour concert with their stop in socal/L...</title>
+      <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mx354v2uzs2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mx354v2uzs2s</guid>
+      <pubDate>Sun, 04 Oct 2026 19:28:38 GMT</pubDate>
+      <dc:creator>Chris『ScaryYandere』@ Art and Merch grind again (scaryyandere.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Specifically it&#39;s the BAND MAID World Tour concert with their stop in socal/LA. I still don&#39;t understand concerts doing events on workdays/nights, but I def am taking a day(s) off from work to go to this, I ain&#39;t missing seeing them again</p><p><em>BlueSky &middot; scaryyandere.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Flying back home this upcoming weekend, I leave around Thursday after work. I...</title>
       <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mx34le5wt22s</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: endless Story<br/>Album: CONQUEROR<br/>Release: 12/10/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 22 songs at cube garden in Sapporo JP on 2017/9/...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwalbcdoki2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwalbcdoki2y</guid>
-      <pubDate>Thu, 24 Sep 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 22 songs at cube garden in Sapporo JP on 2017/9/24. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
