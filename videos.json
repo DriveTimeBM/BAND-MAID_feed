@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cd3AGp-XWmQ",
+        "Title":  "Band-Maid Chicago 10/3/26 Dilly Dally solos",
+        "Channel":  "AlSki*Indy",
+        "ChannelId":  "UCxiwuUIDl39Xfwf_Gm-rcgg",
+        "Url":  "https://youtu.be/cd3AGp-XWmQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/cd3AGp-XWmQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T21:25:39.0000000Z",
+        "DiscoveredAt":  "2026-10-04T21:45:17.1538360Z",
+        "Duration":  "00:01:39",
+        "ViewsAtDiscovery":  40,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NFjEiUyYfX8",
         "Title":  "BAND-MAID / SPIN (World Premiere)",
         "Channel":  "Ohrenje",
