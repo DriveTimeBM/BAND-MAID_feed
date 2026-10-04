@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_8KOPt3yGik",
+        "Title":  "Beyblade X: arco Bey Kingdom y opening SPIN de BAND-MAID #Shorts",
+        "Channel":  "DracoZY MUSIC",
+        "ChannelId":  "UCgRMVP2Zn4JofrC10O7sqIg",
+        "Url":  "https://youtu.be/_8KOPt3yGik",
+        "Thumbnail":  "https://i.ytimg.com/vi/_8KOPt3yGik/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T16:45:38.0000000Z",
+        "DiscoveredAt":  "2026-10-04T17:08:13.5474105Z",
+        "Duration":  "00:01:02",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "4ko0dSwkiwM",
+        "Title":  "BAND-MAID「SPIN」初ライブ披露！🤘｜10月28日の正式リリースを待てずに聴いてみた！",
+        "Channel":  "Coffee Guy reacts",
+        "ChannelId":  "UCb40WR2QgE9r2TTYWkZcgeg",
+        "Url":  "https://youtu.be/4ko0dSwkiwM",
+        "Thumbnail":  "https://i.ytimg.com/vi/4ko0dSwkiwM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T16:30:06.0000000Z",
+        "DiscoveredAt":  "2026-10-04T17:08:12.0770151Z",
+        "Duration":  "00:05:29",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0uMrz3gEsRw",
         "Title":  "Band Maid - Spin! - World Domination Tour 2026 (First ever performance!) #bandmaid ",
         "Channel":  "Braheem",
