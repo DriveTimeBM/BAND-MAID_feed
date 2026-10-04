@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 01:34:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 04:09:44 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] The other day I bought this keychain of MISA from BAND-MAID because she's so ...</title>
+      <link>https://bsky.app/profile/did:plc:dmmtd7f72yi4imncsg3kqfcv/post/3mwzjb5yjrk2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dmmtd7f72yi4imncsg3kqfcv/post/3mwzjb5yjrk2t</guid>
+      <pubDate>Sun, 04 Oct 2026 04:00:27 GMT</pubDate>
+      <dc:creator>angel manz [esp - eng] (angelmanz.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>The other day I bought this keychain of MISA from BAND-MAID because she&#39;s so cool and<br/>I discovered that I enjoy too much playing with it in my hand, I love the jiggle jiggle</p><p><em>BlueSky &middot; angelmanz.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] saw band-maid tonight 🤘</title>
+      <link>https://bsky.app/profile/did:plc:46evp3pxj5oepq6imk6yjkkf/post/3mwziorusdc2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:46evp3pxj5oepq6imk6yjkkf/post/3mwziorusdc2t</guid>
+      <pubDate>Sun, 04 Oct 2026 03:50:10 GMT</pubDate>
+      <dc:creator>Haunted! 💗 (2haunted4u.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>saw band-maid tonight 🤘</p><p><em>BlueSky &middot; 2haunted4u.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID-"Brand-New Road"</title>
       <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mwz6277jvs2m</link>
@@ -890,24 +908,6 @@
       <dc:creator>mktmt 🐹 (hamuketsu.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>i’m very tempted to make her music style more like band maid and hanabie. because a cute lalafell that can metal scream appeals to me on a foundational level</p><p><em>BlueSky &middot; hamuketsu.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] over, in this case, we wanted to make something that emphasized melody, and o...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mw636q5djx2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mw636q5djx2l</guid>
-      <pubDate>Wed, 23 Sep 2026 06:06:40 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>over, in this case, we wanted to make something that emphasized melody, and on top of that, we wanted the background sound to be playful, without being too technical, and we thought that by doing that, we could create something that was typical of BAND-MAID. We made it with the hope that it would li</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] akes it different from when we simply try to make a new song for BAND-MAID; r...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mw636pxssj27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mw636pxssj27</guid>
-      <pubDate>Wed, 23 Sep 2026 06:06:39 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>akes it different from when we simply try to make a new song for BAND-MAID; rather, our approach is &quot;Let&#39;s make a song that fits this anime, in a way that&#39;s typical of BAND-MAID.&quot; In that sense, the fundamental aspects of how we make the song change a bit, and something new is born as a result. More</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
