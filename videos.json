@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XLUwquhziZE",
+        "Title":  "SUPER DAMN GOOD!! - SUPER SUNSHINE Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/XLUwquhziZE",
+        "Thumbnail":  "https://i.ytimg.com/vi/XLUwquhziZE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T20:00:32.0000000Z",
+        "DiscoveredAt":  "2026-10-04T20:12:37.7499851Z",
+        "Duration":  "00:04:24",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ZNIClJxV3zE",
+        "Title":  "MIND BLOWING COLLAB! BAND-MAID with The Warning - \"SHOW THEM\" | Music Video Reaction",
+        "Channel":  "Headbangers Haven",
+        "ChannelId":  "UClolPUoD7UPJofC00g9MrMw",
+        "Url":  "https://youtu.be/ZNIClJxV3zE",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZNIClJxV3zE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T18:27:18.0000000Z",
+        "DiscoveredAt":  "2026-10-04T20:12:35.7954762Z",
+        "Duration":  "00:14:11",
+        "ViewsAtDiscovery":  15,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "RgMNXxZBu_M",
         "Title":  "Band-Maid - No God & Unleash - Chicago, October 3, 2026",
         "Channel":  "Tigh",
