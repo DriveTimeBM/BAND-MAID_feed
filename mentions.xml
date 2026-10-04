@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 17:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:12:45 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Flying back home this upcoming weekend, I leave around Thursday after work. I...</title>
+      <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mx34le5wt22s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mx34le5wt22s</guid>
+      <pubDate>Sun, 04 Oct 2026 19:18:49 GMT</pubDate>
+      <dc:creator>Chris『ScaryYandere』@ Art and Merch grind again (scaryyandere.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Flying back home this upcoming weekend, I leave around Thursday after work. I didn&#39;t think there&#39;d be such a big crowd for an Oktoberfest get-together that friend&#39;s sister and I planned, but I&#39;m buying a giant boot of beer lol<br/><br/>Also BAND MAID concert next week too...oh man I am excite</p><p><em>BlueSky &middot; scaryyandere.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Of note: 8 and 9 should be Zeal and Ardor's Wake of a Nation and Band-Maid's ...</title>
       <link>https://bsky.app/profile/did:plc:qik3cpc27f2sh7pjm6qo4ohe/post/3mx2trrf5mk23</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 22 songs at cube garden in Sapporo JP on 2017/9/24. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago Band-Maid played 23 songs at CRAZYMAMA KINGDOM in Okayama JP on 2...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwalbb75m62i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwalbb75m62i</guid>
-      <pubDate>Thu, 24 Sep 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago Band-Maid played 23 songs at CRAZYMAMA KINGDOM in Okayama JP on 2018/9/24. The opening song was DICE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
