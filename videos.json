@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SoqKubo_knw",
+        "Title":  "BAND MAID - DICE Reaction / Review",
+        "Channel":  "Refined Reviews",
+        "ChannelId":  "UCJhWNP4vsj_A89WV2pYqF6w",
+        "Url":  "https://youtu.be/SoqKubo_knw",
+        "Thumbnail":  "https://i.ytimg.com/vi/SoqKubo_knw/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T10:53:18.0000000Z",
+        "DiscoveredAt":  "2026-10-04T10:55:27.0439259Z",
+        "Duration":  "00:06:25",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VLbCvKc0CZY",
         "Title":  "03 OCT 2026 Band-Maid World Tour - Chicago - Hate?",
         "Channel":  "Jim",
