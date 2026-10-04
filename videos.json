@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DAwlZTw3BOo",
+        "Title":  "Band Maid - CAGE (Vic Theatre Chicago) #bandmaid ",
+        "Channel":  "Braheem",
+        "ChannelId":  "UCeQF5Zw9OPhz-OH_I8cnKMQ",
+        "Url":  "https://youtu.be/DAwlZTw3BOo",
+        "Thumbnail":  "https://i.ytimg.com/vi/DAwlZTw3BOo/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T18:19:18.0000000Z",
+        "DiscoveredAt":  "2026-10-04T18:40:16.5515792Z",
+        "Duration":  "00:03:20",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JHfgzRx1ebI",
         "Title":  "Band-Maid clip #1 The Vic Chicago",
         "Channel":  "Lez Rey",
