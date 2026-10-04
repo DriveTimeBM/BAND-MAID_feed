@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RgMNXxZBu_M",
+        "Title":  "Band-Maid - No God & Unleash - Chicago, October 3, 2026",
+        "Channel":  "Tigh",
+        "ChannelId":  "UCg2zpn3-XtqWM9hxhMNPpiQ",
+        "Url":  "https://youtu.be/RgMNXxZBu_M",
+        "Thumbnail":  "https://i.ytimg.com/vi/RgMNXxZBu_M/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T19:08:40.0000000Z",
+        "DiscoveredAt":  "2026-10-04T19:11:02.2043454Z",
+        "Duration":  "00:09:58",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "u1ORWQbkgvE",
+        "Title":  "Band-Maid - Hate? & Choose Me - Chicago, October 3, 2026",
+        "Channel":  "Tigh",
+        "ChannelId":  "UCg2zpn3-XtqWM9hxhMNPpiQ",
+        "Url":  "https://youtu.be/u1ORWQbkgvE",
+        "Thumbnail":  "https://i.ytimg.com/vi/u1ORWQbkgvE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T19:01:57.0000000Z",
+        "DiscoveredAt":  "2026-10-04T19:11:01.2852172Z",
+        "Duration":  "00:08:55",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DAwlZTw3BOo",
         "Title":  "Band Maid - CAGE (Vic Theatre Chicago) #bandmaid ",
         "Channel":  "Braheem",
