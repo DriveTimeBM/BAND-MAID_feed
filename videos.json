@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NFjEiUyYfX8",
+        "Title":  "BAND-MAID / SPIN (World Premiere)",
+        "Channel":  "Ohrenje",
+        "ChannelId":  "UCuuctf2ICSjbkuLHv87Uc8A",
+        "Url":  "https://youtu.be/NFjEiUyYfX8",
+        "Thumbnail":  "https://i.ytimg.com/vi/NFjEiUyYfX8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T21:00:33.0000000Z",
+        "DiscoveredAt":  "2026-10-04T21:14:38.5067044Z",
+        "Duration":  "00:04:11",
+        "ViewsAtDiscovery":  64,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "bFxDwbjmN30",
+        "Title":  "HOW IS THIS SO GOOD!! - After Life Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/bFxDwbjmN30",
+        "Thumbnail":  "https://i.ytimg.com/vi/bFxDwbjmN30/hqdefault.jpg",
+        "PublishedAt":  "2026-10-04T21:00:01.0000000Z",
+        "DiscoveredAt":  "2026-10-04T21:14:37.6202554Z",
+        "Duration":  "00:04:04",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XLUwquhziZE",
         "Title":  "SUPER DAMN GOOD!! - SUPER SUNSHINE Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
