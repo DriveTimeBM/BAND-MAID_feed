@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 20:44:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 05:56:11 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 2 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mx44sjtrv42h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mx44sjtrv42h</guid>
+      <pubDate>Mon, 05 Oct 2026 04:55:29 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2 years ago<br/>Get to the top<br/>live debut<br/>BEAT STATION, Fukuoka, Japan<br/>2024/10/5<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 2 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mx44shxlvt24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mx44shxlvt24</guid>
+      <pubDate>Mon, 05 Oct 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2 years ago<br/>Forbidden tale<br/>live debut<br/>Beat Station, Fukuoka<br/>2024/10/5<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Specifically it's the BAND MAID World Tour concert with their stop in socal/L...</title>
       <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mx354v2uzs2s</link>
@@ -890,24 +908,6 @@
       <dc:creator>Iain Coleman (iaincoleman.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Enough crusty old Brits, here&#39;s Misa from Band-Maid. Regardless of the maid bar schtick, these ladies are fine musicians, and it&#39;s clear from the progression of their music videos that Misa decided at an early stage that she was far too cool to wear that shit any more.</p><p><em>BlueSky &middot; iaincoleman.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 最近BAND-MAIDが自分の中で再熱してきてる</title>
-      <link>https://bsky.app/profile/did:plc:5d7yvooyk2pgoscvsezmlqlw/post/3mwbbpgjsbs2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5d7yvooyk2pgoscvsezmlqlw/post/3mwbbpgjsbs2j</guid>
-      <pubDate>Thu, 24 Sep 2026 12:41:22 GMT</pubDate>
-      <dc:creator>ましろの部屋(白❄️ましろ) (siromashiro87.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>最近BAND-MAIDが自分の中で再熱してきてる<br/>youtu.be/uUt_JBMocKM?...</p><p><em>BlueSky &middot; siromashiro87.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: endless Story</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwalnhnilc2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwalnhnilc2r</guid>
-      <pubDate>Thu, 24 Sep 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: endless Story<br/>Album: CONQUEROR<br/>Release: 12/10/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
