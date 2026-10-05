@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RYYdFv7GGrk",
+        "Title":  "BAND-MAID - onset - 2026 Paris",
+        "Channel":  "Shamri",
+        "ChannelId":  "UCGILMkgssPMIvZK3JrbNzbQ",
+        "Url":  "https://youtu.be/RYYdFv7GGrk",
+        "Thumbnail":  "https://i.ytimg.com/vi/RYYdFv7GGrk/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T19:12:32.0000000Z",
+        "DiscoveredAt":  "2026-10-05T19:28:37.6744284Z",
+        "Duration":  "00:01:23",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZaWDkCyXCYA",
         "Title":  "Band Maid - Hate? ( Chicago IL 2026 )",
         "Channel":  "Shamalama Dingdong",
