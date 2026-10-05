@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zQyUp1QVuwE",
+        "Title":  "BAND-MAID / Ready to Rock (Live Video) Anime \"Rock Is a Lady’s Modesty\" MUSIC VIDEO REACTION!",
+        "Channel":  "TRM Reacts",
+        "ChannelId":  "UC5TUY4JoUgoAyehqRFlFuAg",
+        "Url":  "https://youtu.be/zQyUp1QVuwE",
+        "Thumbnail":  "https://i.ytimg.com/vi/zQyUp1QVuwE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T04:15:08.0000000Z",
+        "DiscoveredAt":  "2026-10-05T04:23:51.8271686Z",
+        "Duration":  "00:09:27",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "K4hQJqMyeOI",
         "Title":  "Band Maid - Toi Et Moi (Extended MISA Bass Solo) - Vic Theatre Chicago Illinois 2026",
         "Channel":  "Braheem",
