@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5OJrQKf-5aA",
+        "Title":  "First Time Hearing BAND-MAID \"Domination\" Live And I'm Stunned! | REACTION",
+        "Channel":  "Drink The Kool Aid",
+        "ChannelId":  "UCkuGOvaCzmOUmAmP45_VA7A",
+        "Url":  "https://youtu.be/5OJrQKf-5aA",
+        "Thumbnail":  "https://i.ytimg.com/vi/5OJrQKf-5aA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T22:30:07.0000000Z",
+        "DiscoveredAt":  "2026-10-05T23:04:09.7650387Z",
+        "Duration":  "00:19:08",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yMxEiC5scDE",
         "Title":  "BAND MAID World Tour  Chicago 2026",
         "Channel":  "freewheeler2go",
