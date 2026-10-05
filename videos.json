@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BVAazrE6s5Q",
+        "Title":  "【BAND-MAID】シカゴ公演後の一枚に込められた想い…「ありがとう」の裏側と次なるNY公演への期待",
+        "Channel":  "音楽の今",
+        "ChannelId":  "UCJb8w5c9gqNzyKpQ9vri0RA",
+        "Url":  "https://youtu.be/BVAazrE6s5Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/BVAazrE6s5Q/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T14:33:03.0000000Z",
+        "DiscoveredAt":  "2026-10-05T14:48:23.4489778Z",
+        "Duration":  "00:04:47",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "AhFJhtarrDs",
         "Title":  "BAND MAID MONDAY! We Hear \"Arcadia Girl\" and Keith Gets EXCITED!! #BandMaid",
         "Channel":  "WavesAcrossTheWater",
