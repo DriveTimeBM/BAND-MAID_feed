@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7_f2-ZROewM",
+        "Title":  "BAND-MAID – Live Chicago 10/3/2026 [Full Show + SPIN Live Premiere] ",
+        "Channel":  "Gaijin in the Pit",
+        "ChannelId":  "UCaMDhEdszf_WklEYVsHLqaQ",
+        "Url":  "https://youtu.be/7_f2-ZROewM",
+        "Thumbnail":  "https://i.ytimg.com/vi/7_f2-ZROewM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T20:19:41.0000000Z",
+        "DiscoveredAt":  "2026-10-05T20:29:57.3078927Z",
+        "Duration":  "01:40:10",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "tbftoDthP28",
+        "Title":  "Gen Z First Time Hearing Band Maid - Choose Me - Reaction!",
+        "Channel":  "RMK Reactions",
+        "ChannelId":  "UCtzLYHCYb7444qqHwCJe85w",
+        "Url":  "https://youtu.be/tbftoDthP28",
+        "Thumbnail":  "https://i.ytimg.com/vi/tbftoDthP28/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T20:00:29.0000000Z",
+        "DiscoveredAt":  "2026-10-05T20:29:55.9433653Z",
+        "Duration":  "00:05:30",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "AOY3rQ3g_OE",
         "Title":  "BAND-MAID Documentary / Akane (REACTION)",
         "Channel":  "Angelo's World",
