@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 22:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:35:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Seeing Band-Maid with @giovedea.bsky.social tonight! VIP BABY!</title>
+      <link>https://bsky.app/profile/did:plc:5wdwsxrheguuqrdvn6aqonto/post/3mx5ylnaa322k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5wdwsxrheguuqrdvn6aqonto/post/3mx5ylnaa322k</guid>
+      <pubDate>Mon, 05 Oct 2026 22:45:23 GMT</pubDate>
+      <dc:creator>DJ Ranma S (djranmas.net)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Seeing Band-Maid with @giovedea.bsky.social tonight! VIP BABY!</p><p><em>BlueSky &middot; djranmas.net</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mx5t2htssv26</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played at club KNOT in Toyohashi JP on 2016/9/25. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mwcy5gvm6v2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mwcy5gvm6v2p</guid>
-      <pubDate>Fri, 25 Sep 2026 04:55:33 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago<br/>Thrill MV<br/>milestone<br/>surpassed 8 million views<br/>2018/9/25<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
