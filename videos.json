@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "R9MTjRqTTCc",
+        "Title":  "BAND-MAID WORLD TOUR 2026, Chicago fancam POV [4K][60FPS][HDR]",
+        "Channel":  "JVcasualgamer",
+        "ChannelId":  "UCz_RzIkjkAXmYXiPpaF8ylA",
+        "Url":  "https://youtu.be/R9MTjRqTTCc",
+        "Thumbnail":  "https://i.ytimg.com/vi/R9MTjRqTTCc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T05:00:14.0000000Z",
+        "DiscoveredAt":  "2026-10-05T05:25:23.9837767Z",
+        "Duration":  "01:39:59",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zQyUp1QVuwE",
         "Title":  "BAND-MAID / Ready to Rock (Live Video) Anime \"Rock Is a Lady’s Modesty\" MUSIC VIDEO REACTION!",
         "Channel":  "TRM Reacts",
