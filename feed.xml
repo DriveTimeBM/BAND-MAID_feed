@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 19:28:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:45:59 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAND-MAID Documentary / Akane (REACTION)</title>
+      <link>https://youtu.be/AOY3rQ3g_OE</link>
+      <guid isPermaLink="false">yt:video:AOY3rQ3g_OE</guid>
+      <pubDate>Mon, 05 Oct 2026 19:00:10 GMT</pubDate>
+      <dc:creator>Angelo's World</dc:creator>
+      <category>Angelo's World</category>
+      <description><![CDATA[<p><a href="https://youtu.be/AOY3rQ3g_OE"><img src="https://i.ytimg.com/vi/AOY3rQ3g_OE/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Angelo's World<br/>Duration: 00:32:51<br/>Views at discovery: 5</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/AOY3rQ3g_OE/hqdefault.jpg" />
+    </item>
     <item>
       <title>BAND-MAID - onset - 2026 Paris</title>
       <link>https://youtu.be/RYYdFv7GGrk</link>

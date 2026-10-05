@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AOY3rQ3g_OE",
+        "Title":  "BAND-MAID Documentary / Akane (REACTION)",
+        "Channel":  "Angelo's World",
+        "ChannelId":  "UCbnHnqTT_GDmFxFMJ75adog",
+        "Url":  "https://youtu.be/AOY3rQ3g_OE",
+        "Thumbnail":  "https://i.ytimg.com/vi/AOY3rQ3g_OE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T19:00:10.0000000Z",
+        "DiscoveredAt":  "2026-10-05T19:45:57.1341197Z",
+        "Duration":  "00:32:51",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "RYYdFv7GGrk",
         "Title":  "BAND-MAID - onset - 2026 Paris",
         "Channel":  "Shamri",
