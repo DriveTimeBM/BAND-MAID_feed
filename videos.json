@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yMxEiC5scDE",
+        "Title":  "BAND MAID World Tour  Chicago 2026",
+        "Channel":  "freewheeler2go",
+        "ChannelId":  "UC7KHJFepDS5PV0ddpTTBIyw",
+        "Url":  "https://youtu.be/yMxEiC5scDE",
+        "Thumbnail":  "https://i.ytimg.com/vi/yMxEiC5scDE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T21:47:22.0000000Z",
+        "DiscoveredAt":  "2026-10-05T22:02:37.5787883Z",
+        "Duration":  "00:04:16",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7_f2-ZROewM",
         "Title":  "BAND-MAID – Live Chicago 10/3/2026 [Full Show + SPIN Live Premiere] ",
         "Channel":  "Gaijin in the Pit",
