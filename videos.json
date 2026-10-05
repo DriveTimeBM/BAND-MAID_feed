@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AhFJhtarrDs",
+        "Title":  "BAND MAID MONDAY! We Hear \"Arcadia Girl\" and Keith Gets EXCITED!! #BandMaid",
+        "Channel":  "WavesAcrossTheWater",
+        "ChannelId":  "UC8VWDy9uGVbgrBXwJlRwESQ",
+        "Url":  "https://youtu.be/AhFJhtarrDs",
+        "Thumbnail":  "https://i.ytimg.com/vi/AhFJhtarrDs/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T13:55:08.0000000Z",
+        "DiscoveredAt":  "2026-10-05T14:17:35.8955983Z",
+        "Duration":  "00:16:19",
+        "ViewsAtDiscovery":  39,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mIW76UCT7bE",
         "Title":  "BAND-MAID - secret MY lips | Reaction!",
         "Channel":  "Rockin' with Matt",
