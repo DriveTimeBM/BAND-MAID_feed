@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "m6cHfZvPk-E",
+        "Title":  "BAND-MAID - Lock and Load - Live in Chicago 10/3/2026",
+        "Channel":  "Chris (Scruffy_619)",
+        "ChannelId":  "UCIVzq0QuzlaIp9sUK64jUCA",
+        "Url":  "https://youtu.be/m6cHfZvPk-E",
+        "Thumbnail":  "https://i.ytimg.com/vi/m6cHfZvPk-E/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T23:17:19.0000000Z",
+        "DiscoveredAt":  "2026-10-05T23:34:54.2101724Z",
+        "Duration":  "00:03:13",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "5OJrQKf-5aA",
         "Title":  "First Time Hearing BAND-MAID \"Domination\" Live And I'm Stunned! | REACTION",
         "Channel":  "Drink The Kool Aid",
