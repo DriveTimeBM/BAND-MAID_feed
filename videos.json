@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Fz6hHVzIoM8",
+        "Title":  "Pro Guitar Teacher Reacts to BAND-MAID “Dilly-Dally” | Musical Analysis",
+        "Channel":  "Robbie Guitar Channel",
+        "ChannelId":  "UCug11JLneDcL4NvJdK-3xrg",
+        "Url":  "https://youtu.be/Fz6hHVzIoM8",
+        "Thumbnail":  "https://i.ytimg.com/vi/Fz6hHVzIoM8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T18:24:48.0000000Z",
+        "DiscoveredAt":  "2026-10-05T18:26:16.1124193Z",
+        "Duration":  "00:07:40",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "lRFRa7HJ_o4",
+        "Title":  "BAND-MAID – “ENERGETIC” 🤯🔥 | My FIRST Reaction!",
+        "Channel":  "AA REACTS",
+        "ChannelId":  "UCblkLsRUYLGvIv8kyJsFWSw",
+        "Url":  "https://youtu.be/lRFRa7HJ_o4",
+        "Thumbnail":  "https://i.ytimg.com/vi/lRFRa7HJ_o4/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T09:05:41.0000000Z",
+        "DiscoveredAt":  "2026-10-05T18:26:14.9831834Z",
+        "Duration":  "00:03:48",
+        "ViewsAtDiscovery":  134,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Bp-QNwhQ7IE",
         "Title":  "BAND-MAID  カタルシス Catharsis Acoustic Ver. MUSIC REACTION",
         "Channel":  "Hood Digital Da Rock Reactor",
