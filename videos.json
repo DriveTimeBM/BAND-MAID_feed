@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "N3HI1tgul7I",
+        "Title":  "BAND-MAID is back in America after 3 years",
+        "Channel":  "The Solid Sound Podcast",
+        "ChannelId":  "UCcCkzg1QLY5nSt0GX1Mkq4w",
+        "Url":  "https://youtu.be/N3HI1tgul7I",
+        "Thumbnail":  "https://i.ytimg.com/vi/N3HI1tgul7I/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T03:37:13.0000000Z",
+        "DiscoveredAt":  "2026-10-06T03:43:25.4449605Z",
+        "Duration":  "00:12:48",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "NQuUwml_BHM",
+        "Title":  "BAND-MAID - guitar battle (hate?) LIVE @ Huntington NY 10-5-2026",
+        "Channel":  "Steve Pothos",
+        "ChannelId":  "UCxjBCgDcw3z021WQ428TsnA",
+        "Url":  "https://youtu.be/NQuUwml_BHM",
+        "Thumbnail":  "https://i.ytimg.com/vi/NQuUwml_BHM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T03:16:11.0000000Z",
+        "DiscoveredAt":  "2026-10-06T03:43:24.5948903Z",
+        "Duration":  "00:02:46",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "A-B8e0A7f3k",
         "Title":  "BAND-MAID - endless story LIVE @ Huntington NY 10-7-2026",
         "Channel":  "Steve Pothos",
