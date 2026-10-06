@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "A-B8e0A7f3k",
+        "Title":  "BAND-MAID - endless story LIVE @ Huntington NY 10-7-2026",
+        "Channel":  "Steve Pothos",
+        "ChannelId":  "UCxjBCgDcw3z021WQ428TsnA",
+        "Url":  "https://youtu.be/A-B8e0A7f3k",
+        "Thumbnail":  "https://i.ytimg.com/vi/A-B8e0A7f3k/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T02:56:14.0000000Z",
+        "DiscoveredAt":  "2026-10-06T03:11:42.3153068Z",
+        "Duration":  "00:03:54",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xC-lmHKe6Vw",
         "Title":  "Band maid- spin ny 10 5 26 ",
         "Channel":  "Andrew paul",
