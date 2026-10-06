@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xVh3m3qg-wM",
+        "Title":  "BAND-MAID / ENERGETIC  (Huntington NY 10.05.2026)",
+        "Channel":  "BM 4-Life",
+        "ChannelId":  "UCpsg9_ZnO0UzA9hZO43deRA",
+        "Url":  "https://youtu.be/xVh3m3qg-wM",
+        "Thumbnail":  "https://i.ytimg.com/vi/xVh3m3qg-wM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T05:00:03.0000000Z",
+        "DiscoveredAt":  "2026-10-06T05:16:03.4656858Z",
+        "Duration":  "00:03:33",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lpY-wiRRhgE",
         "Title":  "Band-Maid live @ Huntington NY October 5th 2026.  Incredible show! #bandmaid",
         "Channel":  "Golf 4 Life",
