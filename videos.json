@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "po-1380nDYg",
+        "Title":  "Band-Maid Paramount NY Full Concert 10-05-2026 #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/po-1380nDYg",
+        "Thumbnail":  "https://i.ytimg.com/vi/po-1380nDYg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T05:47:29.0000000Z",
+        "DiscoveredAt":  "2026-10-06T06:17:37.0071728Z",
+        "Duration":  "01:42:45",
+        "ViewsAtDiscovery":  61,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "uOWvlUhlXp8",
+        "Title":  "BAND-MAID WORLD TOUR: CHICAGO RECAP & 1ST TIME WITH KOIAI &SEZKO!",
+        "Channel":  "MAID NEWS NETWORK",
+        "ChannelId":  "UCoGH2sqzaxLjcWpkzn83cZg",
+        "Url":  "https://youtu.be/uOWvlUhlXp8",
+        "Thumbnail":  "https://i.ytimg.com/vi/uOWvlUhlXp8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T04:18:54.0000000Z",
+        "DiscoveredAt":  "2026-10-06T06:17:36.0930466Z",
+        "Duration":  "01:12:16",
+        "ViewsAtDiscovery":  1368,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xVh3m3qg-wM",
         "Title":  "BAND-MAID / ENERGETIC  (Huntington NY 10.05.2026)",
         "Channel":  "BM 4-Life",
