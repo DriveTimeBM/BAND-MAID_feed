@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ajfACD6Ytu4",
+        "Title":  "BABYMETAL Ends Its U.S. Tour + BAND-MAID returns to America",
+        "Channel":  "The Solid Sound Podcast",
+        "ChannelId":  "UCcCkzg1QLY5nSt0GX1Mkq4w",
+        "Url":  "https://youtu.be/ajfACD6Ytu4",
+        "Thumbnail":  "https://i.ytimg.com/vi/ajfACD6Ytu4/hqdefault.jpg",
+        "PublishedAt":  "2026-10-05T22:00:34.0000000Z",
+        "DiscoveredAt":  "2026-10-06T00:37:10.1387571Z",
+        "Duration":  "01:22:06",
+        "ViewsAtDiscovery":  247,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "m6cHfZvPk-E",
         "Title":  "BAND-MAID - Lock and Load - Live in Chicago 10/3/2026",
         "Channel":  "Chris (Scruffy_619)",
