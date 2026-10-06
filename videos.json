@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "WUB2yoUIQO8",
+        "Title":  "#108 BAND-MAID / Magie + LIVE - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/WUB2yoUIQO8",
+        "Thumbnail":  "https://i.ytimg.com/vi/WUB2yoUIQO8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T19:30:07.0000000Z",
+        "DiscoveredAt":  "2026-10-06T19:57:02.3012531Z",
+        "Duration":  "00:15:37",
+        "ViewsAtDiscovery":  23,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3eqk6uuTvBo",
         "Title":  "BAND-MAID, world premiere of SPIN. Chicago Oct. 3 ",
         "Channel":  "Gaijin in the Pit",
