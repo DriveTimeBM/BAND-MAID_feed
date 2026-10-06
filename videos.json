@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CXds_mJExws",
+        "Title":  "NO SHOCKER THIS ROCKS!! - SION Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/CXds_mJExws",
+        "Thumbnail":  "https://i.ytimg.com/vi/CXds_mJExws/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T20:00:26.0000000Z",
+        "DiscoveredAt":  "2026-10-06T20:27:38.9553409Z",
+        "Duration":  "00:04:39",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "WUB2yoUIQO8",
         "Title":  "#108 BAND-MAID / Magie + LIVE - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
         "Channel":  "K-Ross Reacts",
