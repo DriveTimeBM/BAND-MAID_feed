@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lpY-wiRRhgE",
+        "Title":  "Band-Maid live @ Huntington NY October 5th 2026.  Incredible show! #bandmaid",
+        "Channel":  "Golf 4 Life",
+        "ChannelId":  "UCGwWz6R1dIWl0TfAOfGbbbQ",
+        "Url":  "https://youtu.be/lpY-wiRRhgE",
+        "Thumbnail":  "https://i.ytimg.com/vi/lpY-wiRRhgE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T04:11:23.0000000Z",
+        "DiscoveredAt":  "2026-10-06T04:14:14.4253688Z",
+        "Duration":  "00:01:29",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "N3HI1tgul7I",
         "Title":  "BAND-MAID is back in America after 3 years",
         "Channel":  "The Solid Sound Podcast",
