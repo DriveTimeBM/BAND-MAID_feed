@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 07:46:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 07:49:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band-Maid / Dilly-Dally [LIVE]</title>
+      <link>https://youtu.be/dR16u3CrGa0</link>
+      <guid isPermaLink="false">yt:video:dR16u3CrGa0</guid>
+      <pubDate>Tue, 06 Oct 2026 07:46:15 GMT</pubDate>
+      <dc:creator>William McCormack</dc:creator>
+      <category>William McCormack</category>
+      <description><![CDATA[<p><a href="https://youtu.be/dR16u3CrGa0"><img src="https://i.ytimg.com/vi/dR16u3CrGa0/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: William McCormack<br/>Duration: 00:04:21<br/>Views at discovery: 0</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/dR16u3CrGa0/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band-Maid / Ready to Rock [LIVE]</title>
       <link>https://youtu.be/ZFKu1mns87g</link>

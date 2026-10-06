@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dR16u3CrGa0",
+        "Title":  "Band-Maid / Dilly-Dally [LIVE]",
+        "Channel":  "William McCormack",
+        "ChannelId":  "UCKOfmPfBGXqYJrTiFxm1auQ",
+        "Url":  "https://youtu.be/dR16u3CrGa0",
+        "Thumbnail":  "https://i.ytimg.com/vi/dR16u3CrGa0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T07:46:15.0000000Z",
+        "DiscoveredAt":  "2026-10-06T07:49:29.2278275Z",
+        "Duration":  "00:04:21",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZFKu1mns87g",
         "Title":  "Band-Maid / Ready to Rock [LIVE]",
         "Channel":  "William McCormack",
