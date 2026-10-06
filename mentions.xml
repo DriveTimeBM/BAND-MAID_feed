@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 03:11:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:14:25 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mx6intzztg23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mx6intzztg23</guid>
+      <pubDate>Tue, 06 Oct 2026 03:32:57 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Oh man, I think #Band-Maid might have been even better than the last time we ...</title>
       <link>https://bsky.app/profile/did:plc:mgzrjfnehlkquy5tgr3twq7h/post/3mx6fibmn222i</link>
@@ -899,15 +908,6 @@
       <dc:creator>The artist formerly known as Djvinniev77  (djvinniev77.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Oh yessss how could I forget our fave Band-Maid bassist MISA. She is a badass!!</p><p><em>BlueSky &middot; djvinniev77.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid 'Conqueror' Japan, J-Rock, Hard Rock [CD]</title>
-      <link>https://bsky.app/profile/did:plc:4iffsjljhrpuv6kcenv4jdtq/post/3mwdozwrfyn2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4iffsjljhrpuv6kcenv4jdtq/post/3mwdozwrfyn2i</guid>
-      <pubDate>Fri, 25 Sep 2026 11:45:12 GMT</pubDate>
-      <dc:creator>STEM Records (stemrecords.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid &#39;Conqueror&#39; Japan, J-Rock, Hard Rock [CD]<br/>🔗 https://www.ebay.com/itm/407164497969<br/>#CDs #cdsky #CompactDisc #MusicSky #BandMaid #Conqueror #Music #Rock #HardRock</p><p><em>BlueSky &middot; stemrecords.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
