@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 05 Oct 2026 23:35:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:11:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Oh man, I think #Band-Maid might have been even better than the last time we ...</title>
+      <link>https://bsky.app/profile/did:plc:mgzrjfnehlkquy5tgr3twq7h/post/3mx6fibmn222i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mgzrjfnehlkquy5tgr3twq7h/post/3mx6fibmn222i</guid>
+      <pubDate>Tue, 06 Oct 2026 02:36:09 GMT</pubDate>
+      <dc:creator>Hannah (miqomiqomi.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Oh man, I think #Band-Maid might have been even better than the last time we saw them live. They&#39;re so good T-T they played Spin and man it&#39;s such a great song, Ready to Rock!! Is also just as fun and awesome live as I thought it would be, tied with NO GOD as my favorite live song already.</p><p><em>BlueSky &middot; miqomiqomi.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] BAND-MAID-"Choose Me"</title>
+      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mx6erkso5s2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mx6erkso5s2a</guid>
+      <pubDate>Tue, 06 Oct 2026 02:23:27 GMT</pubDate>
+      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID-&quot;Choose Me&quot;<br/>youtu.be/MZIJ2vFxu9Y</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Seeing Band-Maid with @giovedea.bsky.social tonight! VIP BABY!</title>
       <link>https://bsky.app/profile/did:plc:5wdwsxrheguuqrdvn6aqonto/post/3mx5ylnaa322k</link>
@@ -890,24 +908,6 @@
       <dc:creator>STEM Records (stemrecords.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid &#39;Conqueror&#39; Japan, J-Rock, Hard Rock [CD]<br/>🔗 https://www.ebay.com/itm/407164497969<br/>#CDs #cdsky #CompactDisc #MusicSky #BandMaid #Conqueror #Music #Rock #HardRock</p><p><em>BlueSky &middot; stemrecords.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Warning!</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwd44gdigm2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwd44gdigm2l</guid>
-      <pubDate>Fri, 25 Sep 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Warning!<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played at club KNOT in Toyohashi JP on 2016/9/25. The ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwd3q6nymi2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwd3q6nymi2y</guid>
-      <pubDate>Fri, 25 Sep 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played at club KNOT in Toyohashi JP on 2016/9/25. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
