@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 15:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:01:37 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Tomorrow is Band-Maid day!</title>
+      <link>https://bsky.app/profile/did:plc:be4brlzshs2n3jsf6cgnmfci/post/3mx7s5qcksk2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:be4brlzshs2n3jsf6cgnmfci/post/3mx7s5qcksk2i</guid>
+      <pubDate>Tue, 06 Oct 2026 15:55:34 GMT</pubDate>
+      <dc:creator>Shoe🇲🇽 (shoetheweeb.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Tomorrow is Band-Maid day!</p><p><em>BlueSky &middot; shoetheweeb.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] So Divs came along to a Band Maid concert. We jumped into her car which she w...</title>
       <link>https://bsky.app/profile/did:plc:tzuznaw3b3om3avvj7pkthm5/post/3mx7qodunqn24</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: YOLOSIOSU<br/>Album: BAND-MAIKO<br/>Release: 3/31/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 7 years ago Band-Maid played 23 songs at The Gramercy Theatre in New York US ...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwfm74lfzd2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwfm74lfzd2i</guid>
-      <pubDate>Sat, 26 Sep 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>7 years ago Band-Maid played 23 songs at The Gramercy Theatre in New York US on 2019/9/26. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
