@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 04:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:16:14 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Photos I took from the Band-Maid concert in Chicago this past weekend. As exp...</title>
+      <link>https://bsky.app/profile/did:plc:lscgvrrma6iqfvq4yn5pofuw/post/3mx6l2fdyi22b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:lscgvrrma6iqfvq4yn5pofuw/post/3mx6l2fdyi22b</guid>
+      <pubDate>Tue, 06 Oct 2026 04:15:46 GMT</pubDate>
+      <dc:creator>JSB Arts Lab (jsbartslab.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Photos I took from the Band-Maid concert in Chicago this past weekend. As expected, the whole show was amazing. Think it took them a bit to warm up, but once they found their groove, they were on fire. Plenty more pics in the replies. #bandmaid</p><p><em>BlueSky &middot; jsbartslab.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mx6intzztg23</link>
@@ -899,15 +908,6 @@
       <dc:creator>Kate Armstrong (brainchain.ca)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I knew nothing about Band-Maid until today and wow do I want to learn more now <br/><br/>m.youtube.com/playlist?lis...</p><p><em>BlueSky &middot; brainchain.ca</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Oh yessss how could I forget our fave Band-Maid bassist MISA. She is a badass!!</title>
-      <link>https://bsky.app/profile/did:plc:szeoejyrs2rilyog56hvp5a2/post/3mwdqrv3io22c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:szeoejyrs2rilyog56hvp5a2/post/3mwdqrv3io22c</guid>
-      <pubDate>Fri, 25 Sep 2026 12:16:30 GMT</pubDate>
-      <dc:creator>The artist formerly known as Djvinniev77  (djvinniev77.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Oh yessss how could I forget our fave Band-Maid bassist MISA. She is a badass!!</p><p><em>BlueSky &middot; djvinniev77.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
