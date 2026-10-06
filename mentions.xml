@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 05:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:46:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID announced that their new song, "SPIN," will be the ending theme for...</title>
+      <link>https://bsky.app/profile/did:plc:xmlz3ovyv2axfp5khqe3yk6w/post/3mx6mopsd7c25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xmlz3ovyv2axfp5khqe3yk6w/post/3mx6mopsd7c25</guid>
+      <pubDate>Tue, 06 Oct 2026 04:45:01 GMT</pubDate>
+      <dc:creator>Anime Trending (anitrendz.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID announced that their new song, &quot;SPIN,&quot; will be the ending theme for The Beykingdom Arc of BEYBLADE X!<br/><br/>It&#39;s the title track of their upcoming three-song single, set for release on October 28, 2026.<br/><br/>✨More: atani.me/band-maid-spin</p><p><em>BlueSky &middot; anitrendz.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Photos I took from the Band-Maid concert in Chicago this past weekend. As exp...</title>
       <link>https://bsky.app/profile/did:plc:lscgvrrma6iqfvq4yn5pofuw/post/3mx6l2fdyi22b</link>
@@ -899,15 +908,6 @@
       <dc:creator>The artist formerly known as Djvinniev77  (djvinniev77.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Also someone reminded me of Band-Maid and I totally forgot BOH from Babymetal!!</p><p><em>BlueSky &middot; djvinniev77.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I knew nothing about Band-Maid until today and wow do I want to learn more now</title>
-      <link>https://bsky.app/profile/did:plc:tc64ppbzqxgyosog5dqutnkd/post/3mwdqugsq622j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tc64ppbzqxgyosog5dqutnkd/post/3mwdqugsq622j</guid>
-      <pubDate>Fri, 25 Sep 2026 12:17:55 GMT</pubDate>
-      <dc:creator>Kate Armstrong (brainchain.ca)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I knew nothing about Band-Maid until today and wow do I want to learn more now <br/><br/>m.youtube.com/playlist?lis...</p><p><em>BlueSky &middot; brainchain.ca</em></p>]]></description>
     </item>
   </channel>
 </rss>
