@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZFKu1mns87g",
+        "Title":  "Band-Maid / Ready to Rock [LIVE]",
+        "Channel":  "William McCormack",
+        "ChannelId":  "UCKOfmPfBGXqYJrTiFxm1auQ",
+        "Url":  "https://youtu.be/ZFKu1mns87g",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZFKu1mns87g/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T07:42:43.0000000Z",
+        "DiscoveredAt":  "2026-10-06T07:46:04.3366110Z",
+        "Duration":  "00:03:39",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "fc0Uwzup47E",
+        "Title":  "Band-Maid / NO GOD and Unleash!!!!! [LIVE]",
+        "Channel":  "William McCormack",
+        "ChannelId":  "UCKOfmPfBGXqYJrTiFxm1auQ",
+        "Url":  "https://youtu.be/fc0Uwzup47E",
+        "Thumbnail":  "https://i.ytimg.com/vi/fc0Uwzup47E/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T07:36:27.0000000Z",
+        "DiscoveredAt":  "2026-10-06T07:46:03.0005494Z",
+        "Duration":  "00:10:08",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "po-1380nDYg",
         "Title":  "Band-Maid Paramount NY Full Concert 10-05-2026 #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
