@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 05:46:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:48:19 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Beauty and the beast</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mx6rajy2kg24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mx6rajy2kg24</guid>
+      <pubDate>Tue, 06 Oct 2026 06:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Beauty and the beast<br/>Album: New Beginning<br/>Release: 11/17/2015<br/>Music: 川添広希 [Kawazoe, Hiroki]<br/>Lyrics: 川島だりあ [Kawashima, Daria]<br/>Arrangement: spinstealthspike<br/>1st Live:7/17/2015<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 9 years ago Band-Maid played 23 songs at darwin in Sendai JP on 2017/10/6. Th...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mx6quivbod2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mx6quivbod2v</guid>
+      <pubDate>Tue, 06 Oct 2026 05:59:48 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>9 years ago Band-Maid played 23 songs at darwin in Sendai JP on 2017/10/6. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID announced that their new song, "SPIN," will be the ending theme for...</title>
       <link>https://bsky.app/profile/did:plc:xmlz3ovyv2axfp5khqe3yk6w/post/3mx6mopsd7c25</link>
@@ -890,24 +908,6 @@
       <dc:creator>Richard Wakeling (richwakeling.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Favourite bassist? Off the top of my head:<br/><br/>Alejandra Villarreal<br/>MISA<br/>Eugene Abdukhanov<br/>Geezer Butler<br/>John Myung<br/>Cliff Burton<br/>Steve Harris<br/>Lemmy<br/>Tim Commerford<br/>David Ellefson<br/>Ryan Martinie<br/>Troy Sanders</p><p><em>BlueSky &middot; richwakeling.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mwds4kxkvo2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mwds4kxkvo2x</guid>
-      <pubDate>Fri, 25 Sep 2026 12:40:22 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Also someone reminded me of Band-Maid and I totally forgot BOH from Babymetal!!</title>
-      <link>https://bsky.app/profile/did:plc:szeoejyrs2rilyog56hvp5a2/post/3mwdqvuxups2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:szeoejyrs2rilyog56hvp5a2/post/3mwdqvuxups2c</guid>
-      <pubDate>Fri, 25 Sep 2026 12:18:44 GMT</pubDate>
-      <dc:creator>The artist formerly known as Djvinniev77  (djvinniev77.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Also someone reminded me of Band-Maid and I totally forgot BOH from Babymetal!!</p><p><em>BlueSky &middot; djvinniev77.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
