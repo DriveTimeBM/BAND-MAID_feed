@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "MLJiSegssH0",
+        "Title":  "Band-Maid - \"Shambles\" - Live in Chicago 2026",
+        "Channel":  "Reitam",
+        "ChannelId":  "UCKJf4yVFv7pYqWSTBkPzd2Q",
+        "Url":  "https://youtu.be/MLJiSegssH0",
+        "Thumbnail":  "https://i.ytimg.com/vi/MLJiSegssH0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-06T23:59:21.0000000Z",
+        "DiscoveredAt":  "2026-10-07T00:30:26.7380764Z",
+        "Duration":  "00:03:15",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "RWGuNzfeRfY",
         "Title":  "Band-Maid - \"ENERGETIC\" - Live in Chicago 2026",
         "Channel":  "Reitam",
