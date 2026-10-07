@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3lMCmhSjrO8",
+        "Title":  "ONE OF THE BEST BAND MAID SONGS!! - Dilly-Dally Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/3lMCmhSjrO8",
+        "Thumbnail":  "https://i.ytimg.com/vi/3lMCmhSjrO8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-07T20:00:03.0000000Z",
+        "DiscoveredAt":  "2026-10-07T20:02:57.2696773Z",
+        "Duration":  "00:03:43",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xyF86GL2UY0",
         "Title":  "BAND-MAID REACTION: Choose Me, Dice, The Non Fiction Days | Random Reaction Wednesday",
         "Channel":  "Talking About Nothing",
