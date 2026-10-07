@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mVQSWY1N_jU",
+        "Title":  "BAND-MAID - Influencer - 2026 Paris",
+        "Channel":  "Shamri",
+        "ChannelId":  "UCGILMkgssPMIvZK3JrbNzbQ",
+        "Url":  "https://youtu.be/mVQSWY1N_jU",
+        "Thumbnail":  "https://i.ytimg.com/vi/mVQSWY1N_jU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-07T20:08:31.0000000Z",
+        "DiscoveredAt":  "2026-10-07T20:33:35.5712071Z",
+        "Duration":  "00:03:00",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3lMCmhSjrO8",
         "Title":  "ONE OF THE BEST BAND MAID SONGS!! - Dilly-Dally Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
