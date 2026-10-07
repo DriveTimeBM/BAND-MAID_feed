@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "UP2l7UZJOYA",
+        "Title":  "More Early BAND-MAID!! Reacting to Freezer by Band-Maid!",
+        "Channel":  "Adventura",
+        "ChannelId":  "UCkJkuW8Cqs0Ceifr24KrTmA",
+        "Url":  "https://youtu.be/UP2l7UZJOYA",
+        "Thumbnail":  "https://i.ytimg.com/vi/UP2l7UZJOYA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-07T07:00:28.0000000Z",
+        "DiscoveredAt":  "2026-10-07T07:47:13.5853532Z",
+        "Duration":  "00:11:01",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "c3_jvjBXdvw",
         "Title":  "BAND-MAID Toi et moi (Live in NY 2026) 4K HDR | Paramount",
         "Channel":  "Metali_dad",
