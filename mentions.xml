@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 07 Oct 2026 16:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 20:03:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Friends and I went to see Band-Maid in Chicago over the weekend and it was so...</title>
+      <link>https://bsky.app/profile/did:plc:xfulhlg3bf7d6isof62seoz6/post/3mxcks7kwlk2s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xfulhlg3bf7d6isof62seoz6/post/3mxcks7kwlk2s</guid>
+      <pubDate>Wed, 07 Oct 2026 18:21:50 GMT</pubDate>
+      <dc:creator>Juliatchi 🌵 (shabon.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Friends and I went to see Band-Maid in Chicago over the weekend and it was so amazing and fun! We got to pack so many activities in the city, like shopping for bags and stationery, Hello Kitty Cafe, and super fancy afternoon tea! I got tavern-style pizza and it was amazing, wow.</p><p><em>BlueSky &middot; shabon.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Depending on my mood, my mindset, and my environment, even the same song can ...</title>
       <link>https://bsky.app/profile/did:plc:5xsqhcmxyebd3jiqkhln65cj/post/3mxccjcutq226</link>
@@ -899,15 +908,6 @@
       <dc:creator>INTJreacts (intjreacts.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>#bandmaid #bandmaidreaction #honkai #intj #jmetal #jrock #japanesemetal #reaction  youtu.be/CRf1efwmxm0?...</p><p><em>BlueSky &middot; intjreacts.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Happy birthday, KANAMI!</title>
-      <link>https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3mwj3oyaoe22j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3mwj3oyaoe22j</guid>
-      <pubDate>Sun, 27 Sep 2026 15:15:02 GMT</pubDate>
-      <dc:creator>bmcssu.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Happy birthday, KANAMI!<br/><br/>We want to hear your guitar!<br/><br/>Your great play!<br/><br/>Your beautiful smile!<br/><br/>Please enter &quot;ZONE&quot;!<br/><br/>Your &quot;TO&quot;!<br/><br/>Your passion and music soar higher and more beautifully into the sky. I pray that it will be a wonderful year and bring your happiness to the whole world.<br/><br/>#bandmaid</p><p><em>BlueSky &middot; bmcssu.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
