@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yPi016l_i1g",
+        "Title":  "BAND-MAID Live in Huntington, New York (2026 World Tour 9/5) Compilation",
+        "Channel":  "JaveLin ジャベリン",
+        "ChannelId":  "UCX__aprA4N1xVZCQrfROBjQ",
+        "Url":  "https://youtu.be/yPi016l_i1g",
+        "Thumbnail":  "https://i.ytimg.com/vi/yPi016l_i1g/hqdefault.jpg",
+        "PublishedAt":  "2026-10-07T15:54:41.0000000Z",
+        "DiscoveredAt":  "2026-10-07T16:01:52.6214197Z",
+        "Duration":  "00:22:36",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MZOsERDbGEU",
         "Title":  "BAND-MAID “DOMINATION”Live in Huntington, New York (2026 World Tour)",
         "Channel":  "JaveLin ジャベリン",
