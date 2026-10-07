@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "MZOsERDbGEU",
+        "Title":  "BAND-MAID “DOMINATION”Live in Huntington, New York (2026 World Tour)",
+        "Channel":  "JaveLin ジャベリン",
+        "ChannelId":  "UCX__aprA4N1xVZCQrfROBjQ",
+        "Url":  "https://youtu.be/MZOsERDbGEU",
+        "Thumbnail":  "https://i.ytimg.com/vi/MZOsERDbGEU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-07T15:42:18.0000000Z",
+        "DiscoveredAt":  "2026-10-07T15:47:58.7988463Z",
+        "Duration":  "00:01:13",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "fmFd7MeyRIk",
         "Title":  "Musicians REACT to Band-Maid - Smile (Acoustic) | Throwback!",
         "Channel":  "Dicodec",
