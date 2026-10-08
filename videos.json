@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XHo-wGCpbME",
+        "Title":  "Our First Concert as a Couple — BAND-MAID! 🇯🇵❤️ #BANDMAID  #bandmaidfans",
+        "Channel":  "Rooted Hearts with Scarlet ",
+        "ChannelId":  "UCQRgUloVPugnyPBh-yFpvxw",
+        "Url":  "https://youtu.be/XHo-wGCpbME",
+        "Thumbnail":  "https://i.ytimg.com/vi/XHo-wGCpbME/hqdefault.jpg",
+        "PublishedAt":  "2026-10-08T22:45:17.0000000Z",
+        "DiscoveredAt":  "2026-10-08T22:53:04.3670220Z",
+        "Duration":  "00:01:36",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yfYIY-MxYVg",
         "Title":  "I AM LEVITATING!! - Flying High Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
