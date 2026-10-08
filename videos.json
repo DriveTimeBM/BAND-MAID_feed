@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "r3cJ8B-FW2o",
+        "Title":  "【BAND-MAID】一日に3つの重大発表！新曲「SPIN」＆日本武道館…今、勢いが止まらない理由とは？",
+        "Channel":  "音楽の今",
+        "ChannelId":  "UCJb8w5c9gqNzyKpQ9vri0RA",
+        "Url":  "https://youtu.be/r3cJ8B-FW2o",
+        "Thumbnail":  "https://i.ytimg.com/vi/r3cJ8B-FW2o/hqdefault.jpg",
+        "PublishedAt":  "2026-10-08T04:25:37.0000000Z",
+        "DiscoveredAt":  "2026-10-08T04:37:49.8745910Z",
+        "Duration":  "00:06:11",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "PMU_IrNpZko",
         "Title":  "QUEEN REACTS to BAND-MAID – “Present Perfect”  THIS IS INSANE! 🤯🔥",
         "Channel":  "QueenKafi",
