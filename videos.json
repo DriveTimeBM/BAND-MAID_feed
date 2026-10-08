@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "fDbwK0Bdc3o",
+        "Title":  "Metal Singer Hears \"Band Maid - I Still Seek Revenge (TGT 2023)\" for First Time #bandmaid #reaction",
+        "Channel":  "HatchetHead Reacts",
+        "ChannelId":  "UCqRW2_SAFhMop0QyMcAomFA",
+        "Url":  "https://youtu.be/fDbwK0Bdc3o",
+        "Thumbnail":  "https://i.ytimg.com/vi/fDbwK0Bdc3o/hqdefault.jpg",
+        "PublishedAt":  "2026-10-08T16:00:16.0000000Z",
+        "DiscoveredAt":  "2026-10-08T16:03:49.8815034Z",
+        "Duration":  "00:10:07",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "faLgdInRBKY",
         "Title":  "Band-Maid Atlanta 2026 Okyu-Ji(part 3)",
         "Channel":  "ChefRobert Dammit",
