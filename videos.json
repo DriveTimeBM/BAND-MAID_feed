@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zEKSPSCZUtg",
+        "Title":  "BAND-MAID- \"Spin\" live 10/7/2026 Atlanta Georgia Buckhead Theater ",
+        "Channel":  "KeichiArena",
+        "ChannelId":  "UCaGrbB17xw0-x8Jh-1E7D0A",
+        "Url":  "https://youtu.be/zEKSPSCZUtg",
+        "Thumbnail":  "https://i.ytimg.com/vi/zEKSPSCZUtg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-08T23:53:59.0000000Z",
+        "DiscoveredAt":  "2026-10-08T23:55:35.6755299Z",
+        "Duration":  "00:04:13",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yi0zNTYZWxE",
         "Title":  "Band-Maid Atlanta 2026 Okyu-Ji (part 1)",
         "Channel":  "ChefRobert Dammit",
