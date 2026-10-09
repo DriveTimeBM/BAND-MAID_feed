@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "fxKLvhf3qto",
+        "Title":  "BAND-MAID 「SPIN」ノンクレジット映像 | アニメ『BEYBLADE X ベイキングダム編』エンディングテーマ",
+        "Channel":  "ベイチューブ | BEYBLADE Channel",
+        "ChannelId":  "UCuG_D_8QZmHTfbJfsz8-J_A",
+        "Url":  "https://youtu.be/fxKLvhf3qto",
+        "Thumbnail":  "https://i.ytimg.com/vi/fxKLvhf3qto/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T10:30:18.0000000Z",
+        "DiscoveredAt":  "2026-10-09T10:45:57.5427347Z",
+        "Duration":  "00:01:31",
+        "ViewsAtDiscovery":  747,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YC_mtZ3I9po",
         "Title":  "Band Maid - Energetic LIVE from Paramount NY - 10 05 2026 #bandmaid #バンドメイド - Dave M 🎀🎀🎀🎀🎀",
         "Channel":  "Dave M Channel",
