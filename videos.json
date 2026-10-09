@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "K7LJ3TiwXWg",
+        "Title":  "SPIN / BAND-MAID @ Buckhead Theatre Atlanta on Oct 7, 2026",
+        "Channel":  "TK",
+        "ChannelId":  "UCtw2yUGdvvFPDlzJgd3Lj7w",
+        "Url":  "https://youtu.be/K7LJ3TiwXWg",
+        "Thumbnail":  "https://i.ytimg.com/vi/K7LJ3TiwXWg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T01:04:24.0000000Z",
+        "DiscoveredAt":  "2026-10-09T01:28:55.9663040Z",
+        "Duration":  "00:04:00",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "biZpZ9tCdv4",
+        "Title":  "You've convinced me to collect Beyblade! - BAND-MAID World Tour: Atlanta, GA - October 7, 2026",
+        "Channel":  "breakpack",
+        "ChannelId":  "UC8fOqfB30FwvMDBsFcz9OOw",
+        "Url":  "https://youtu.be/biZpZ9tCdv4",
+        "Thumbnail":  "https://i.ytimg.com/vi/biZpZ9tCdv4/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T01:02:17.0000000Z",
+        "DiscoveredAt":  "2026-10-09T01:28:54.3655547Z",
+        "Duration":  "00:01:10",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mHHKhyySjp0",
         "Title":  "We could NEVER be mad at Akane! - BAND-MAID World Tour: Atlanta, GA - October 7, 2026",
         "Channel":  "breakpack",
