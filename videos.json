@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KFOf6ZJ1-gg",
+        "Title":  "Band-Maid :: Super Sunshine & Domination :: P1 :: Atlanta GA 2026-10-07",
+        "Channel":  "Sonic Roost",
+        "ChannelId":  "UCuwVkzGH9d4VOSx4NhUqj9g",
+        "Url":  "https://youtu.be/KFOf6ZJ1-gg",
+        "Thumbnail":  "https://i.ytimg.com/vi/KFOf6ZJ1-gg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T02:49:55.0000000Z",
+        "DiscoveredAt":  "2026-10-09T03:01:34.3389170Z",
+        "Duration":  "00:08:49",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "uX9y8Hcr4XM",
+        "Title":  "BAND-MAID WORLD TOUR 2026 - New York Recap Video",
+        "Channel":  "Nin puzzle",
+        "ChannelId":  "UCCZ3DnDT0dT1-5AuoEGN7GQ",
+        "Url":  "https://youtu.be/uX9y8Hcr4XM",
+        "Thumbnail":  "https://i.ytimg.com/vi/uX9y8Hcr4XM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T02:42:22.0000000Z",
+        "DiscoveredAt":  "2026-10-09T03:01:33.2108439Z",
+        "Duration":  "00:01:19",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "I84A7GUAYX0",
         "Title":  "Band-Maid - Ready to Rock (bass backing track)",
         "Channel":  "Bass Minus Tracks",
