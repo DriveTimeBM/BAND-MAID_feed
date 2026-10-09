@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mHHKhyySjp0",
+        "Title":  "We could NEVER be mad at Akane! - BAND-MAID World Tour: Atlanta, GA - October 7, 2026",
+        "Channel":  "breakpack",
+        "ChannelId":  "UC8fOqfB30FwvMDBsFcz9OOw",
+        "Url":  "https://youtu.be/mHHKhyySjp0",
+        "Thumbnail":  "https://i.ytimg.com/vi/mHHKhyySjp0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T00:40:25.0000000Z",
+        "DiscoveredAt":  "2026-10-09T00:57:57.8815902Z",
+        "Duration":  "00:01:30",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "CcwYpcQyg7o",
         "Title":  "MISA is back in Atlanta & still adorable! - BAND-MAID World Tour: Atlanta, GA - October 7, 2026",
         "Channel":  "breakpack",
