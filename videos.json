@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mLR4DAc9c7I",
+        "Title":  "Band-Maid Documentary - Miku Pt.1 | Reaction | Literally The Band That Almost Never Happened!",
+        "Channel":  "Battoosh & Nonna Watchlist",
+        "ChannelId":  "UC2wgwHqSIhEYX_-PlS5qBgA",
+        "Url":  "https://youtu.be/mLR4DAc9c7I",
+        "Thumbnail":  "https://i.ytimg.com/vi/mLR4DAc9c7I/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T23:25:20.0000000Z",
+        "DiscoveredAt":  "2026-10-09T23:28:15.5191278Z",
+        "Duration":  "00:44:58",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "h5LT16yEvSI",
         "Title":  "Band-Maid :: Hate, Choose me, Zen :: P2 :: Atlanta GA 2026-10-07",
         "Channel":  "Sonic Roost",
