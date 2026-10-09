@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KHbjWcLvR6I",
+        "Title":  "BEYOND EXPECTATIONS!! - Zen Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/KHbjWcLvR6I",
+        "Thumbnail":  "https://i.ytimg.com/vi/KHbjWcLvR6I/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T20:00:37.0000000Z",
+        "DiscoveredAt":  "2026-10-09T20:20:46.8131828Z",
+        "Duration":  "00:04:29",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "WWLjmwJ9eXo",
+        "Title":  "THIS INSTRUMENTAL IS LOADED!! - Lock and Load Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/WWLjmwJ9eXo",
+        "Thumbnail":  "https://i.ytimg.com/vi/WWLjmwJ9eXo/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T20:00:18.0000000Z",
+        "DiscoveredAt":  "2026-10-09T20:20:45.3314057Z",
+        "Duration":  "00:03:57",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "R98UsAU7_UE",
         "Title":  "Band-Maid Misa Solo Intro - Atlanta 10/7/26",
         "Channel":  "AlSki*Indy",
