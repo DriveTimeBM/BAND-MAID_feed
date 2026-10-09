@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YC_mtZ3I9po",
+        "Title":  "Band Maid - Energetic LIVE from Paramount NY - 10 05 2026 #bandmaid #バンドメイド - Dave M 🎀🎀🎀🎀🎀",
+        "Channel":  "Dave M Channel",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/YC_mtZ3I9po",
+        "Thumbnail":  "https://i.ytimg.com/vi/YC_mtZ3I9po/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T10:00:11.0000000Z",
+        "DiscoveredAt":  "2026-10-09T10:14:57.8736364Z",
+        "Duration":  "00:07:56",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "CEQh-Fw-5pc",
+        "Title":  "Musicians REACT to Band-Maid: Unleash! (2022 Official Music Video)",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/CEQh-Fw-5pc",
+        "Thumbnail":  "https://i.ytimg.com/vi/CEQh-Fw-5pc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T10:00:03.0000000Z",
+        "DiscoveredAt":  "2026-10-09T10:14:56.1659482Z",
+        "Duration":  "00:10:13",
+        "ViewsAtDiscovery":  23,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "saFPiFRka_Y",
         "Title":  "BABYMETAL vs BAND-MAID — My Experience at Their Concerts",
         "Channel":  "Shadic",
