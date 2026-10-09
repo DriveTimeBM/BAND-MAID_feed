@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hSSErcW-fr8",
+        "Title":  "band maid 🥰, j ai découvert ce groupe il y a quelques années,très belle découverte",
+        "Channel":  "Rockdrive",
+        "ChannelId":  "UCgFb0zGNJX6_YdUvrcvIiyQ",
+        "Url":  "https://youtu.be/hSSErcW-fr8",
+        "Thumbnail":  "https://i.ytimg.com/vi/hSSErcW-fr8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T21:04:31.0000000Z",
+        "DiscoveredAt":  "2026-10-09T21:23:25.2822351Z",
+        "Duration":  "00:01:10",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "gGfdGqMz79w",
+        "Title":  "Band Maid \"SPIN\" Live Debut Reaction - No Studio Version Yet!",
+        "Channel":  "Drink The Kool Aid",
+        "ChannelId":  "UCkuGOvaCzmOUmAmP45_VA7A",
+        "Url":  "https://youtu.be/gGfdGqMz79w",
+        "Thumbnail":  "https://i.ytimg.com/vi/gGfdGqMz79w/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T20:30:06.0000000Z",
+        "DiscoveredAt":  "2026-10-09T21:23:23.1304457Z",
+        "Duration":  "00:16:23",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6RhWI4pIwxs",
         "Title":  "Band-Maid Rocking Beginning To Atlanta Set 2026!",
         "Channel":  "Sean Keane",
