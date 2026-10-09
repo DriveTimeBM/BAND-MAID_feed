@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7IRgXEKZg1I",
+        "Title":  "BAND-MAID - THRILL (LIVE) 2015.05.11 - Club Crawl - Dave M 🎀🎀🎀🎀🎀",
+        "Channel":  "Dave M Channel",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/7IRgXEKZg1I",
+        "Thumbnail":  "https://i.ytimg.com/vi/7IRgXEKZg1I/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T15:00:05.0000000Z",
+        "DiscoveredAt":  "2026-10-09T15:30:27.4094032Z",
+        "Duration":  "00:08:22",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "CQhccRBuDdI",
         "Title":  "BAND-MAID - CORALLIUM (acoustic) - Dave M 🎀🎀🎀🎀🎀",
         "Channel":  "Dave M Channel",
