@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BngUUKILn98",
+        "Title":  "BAND-MAID - MC - Akane, Misa & Saiki- 2026 Paris",
+        "Channel":  "Shamri",
+        "ChannelId":  "UCGILMkgssPMIvZK3JrbNzbQ",
+        "Url":  "https://youtu.be/BngUUKILn98",
+        "Thumbnail":  "https://i.ytimg.com/vi/BngUUKILn98/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T18:45:32.0000000Z",
+        "DiscoveredAt":  "2026-10-09T18:45:56.6338296Z",
+        "Duration":  "00:03:51",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "IxbblRi0nco",
         "Title":  "ENERGETIC❗ (opening song) BAND-MAID ’26 LIVE IN NY #最高彩姫 #bandmaid #バンドメイド #bandmaidreaction ",
         "Channel":  "GARTZ30",
