@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "I84A7GUAYX0",
+        "Title":  "Band-Maid - Ready to Rock (bass backing track)",
+        "Channel":  "Bass Minus Tracks",
+        "ChannelId":  "UCMlp4LJeO1IZ7WW4Xuwcbkw",
+        "Url":  "https://youtu.be/I84A7GUAYX0",
+        "Thumbnail":  "https://i.ytimg.com/vi/I84A7GUAYX0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T01:29:22.0000000Z",
+        "DiscoveredAt":  "2026-10-09T01:59:51.8853234Z",
+        "Duration":  "00:03:43",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "K7LJ3TiwXWg",
         "Title":  "SPIN / BAND-MAID @ Buckhead Theatre Atlanta on Oct 7, 2026",
         "Channel":  "TK",
