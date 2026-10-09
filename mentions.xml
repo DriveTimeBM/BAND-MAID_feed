@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 08 Oct 2026 16:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:00:06 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 一時期はよく聴いてライブにも行ったBAND-MAIDですが、</title>
+      <link>https://bsky.app/profile/did:plc:bli6vjzxivlqvkdktm5bjzvz/post/3mxfrebdwy22z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bli6vjzxivlqvkdktm5bjzvz/post/3mxfrebdwy22z</guid>
+      <pubDate>Fri, 09 Oct 2026 00:57:18 GMT</pubDate>
+      <dc:creator>Sue Cat Boy (suecatboy.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>一時期はよく聴いてライブにも行ったBAND-MAIDですが、<br/>ある時期から急速に冷めてしまって、<br/>理由は<br/><br/>新アルバムが出るということで<br/>初回限定パッケージの方ではなく<br/>通常盤を買ったんですよね<br/><br/>で、それでも&#165;3,300するんですよ<br/>で、歌詞ブックレットが異様に薄くて造りがチャチいんですよ、、<br/><br/>通常とはいえ、3300円取るんだから<br/>ブックレットもう少ししっかり作ってくれないかなあ、、、<br/><br/>ガッカリしましてね。<br/>そこからBAND-MAID熱が急速に冷めました</p><p><em>BlueSky &middot; suecatboy.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Today's music:</title>
       <link>https://bsky.app/profile/did:plc:cbpcxfm7j4rybd7gwsuia34m/post/3mxeomwhngc2v</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I know a lot of people have this down as one of Band Maid&#39;s best... This is EASILY the best version I&#39;ve heard, but I still don&#39;t love it. It just feels messy to me, like Kanami&#39;s scribbling, rather than drawing the pictures she usually does inn her compositions.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Impeccable live musicians, Band-Maid:</title>
-      <link>https://bsky.app/profile/did:plc:6atr7qgwbbx67qrkpnyiocdv/post/3mwo7fhxkdc22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6atr7qgwbbx67qrkpnyiocdv/post/3mwo7fhxkdc22</guid>
-      <pubDate>Tue, 29 Sep 2026 16:04:37 GMT</pubDate>
-      <dc:creator>Simeon K Rabbani (slkrr9.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Impeccable live musicians, Band-Maid:<br/><br/>youtu.be/oWQpbAmfZLE?...</p><p><em>BlueSky &middot; slkrr9.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
