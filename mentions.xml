@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 02:00:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:33:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxg2kthart2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxg2kthart2p</guid>
+      <pubDate>Fri, 09 Oct 2026 03:42:01 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 一時期はよく聴いてライブにも行ったBAND-MAIDですが、</title>
       <link>https://bsky.app/profile/did:plc:bli6vjzxivlqvkdktm5bjzvz/post/3mxfrebdwy22z</link>
@@ -899,15 +908,6 @@
       <dc:creator>Marc on Drums ← ZURÜCK in die ZUKUNFT ← den Backlash beenden! (marcondrums.eurosky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Ich habe Band-Maid schonmal live spielen sehen. Die k&#246;nnen das wirklich. 😯<br/><br/>Empfehlung ⬇️ 🎶🤘🔥</p><p><em>BlueSky &middot; marcondrums.eurosky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I know a lot of people have this down as one of Band Maid's best... This is E...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mwo7hzkoxs2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mwo7hzkoxs2j</guid>
-      <pubDate>Tue, 29 Sep 2026 16:06:02 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I know a lot of people have this down as one of Band Maid&#39;s best... This is EASILY the best version I&#39;ve heard, but I still don&#39;t love it. It just feels messy to me, like Kanami&#39;s scribbling, rather than drawing the pictures she usually does inn her compositions.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
