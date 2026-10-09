@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "R98UsAU7_UE",
+        "Title":  "Band-Maid Misa Solo Intro - Atlanta 10/7/26",
+        "Channel":  "AlSki*Indy",
+        "ChannelId":  "UCxiwuUIDl39Xfwf_Gm-rcgg",
+        "Url":  "https://youtu.be/R98UsAU7_UE",
+        "Thumbnail":  "https://i.ytimg.com/vi/R98UsAU7_UE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T19:10:19.0000000Z",
+        "DiscoveredAt":  "2026-10-09T19:18:25.9843803Z",
+        "Duration":  "00:01:49",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BngUUKILn98",
         "Title":  "BAND-MAID - MC - Akane, Misa & Saiki- 2026 Paris",
         "Channel":  "Shamri",
