@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2sf7ZX2I2nU",
+        "Title":  "BAND-MAID: WHY, WHY, WHY? Day of Maid 10-5-24 - Dave M 🎀🎀🎀🎀🎀",
+        "Channel":  "Dave M Channel",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/2sf7ZX2I2nU",
+        "Thumbnail":  "https://i.ytimg.com/vi/2sf7ZX2I2nU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T04:00:34.0000000Z",
+        "DiscoveredAt":  "2026-10-09T04:02:55.9534741Z",
+        "Duration":  "00:10:43",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KFOf6ZJ1-gg",
         "Title":  "Band-Maid :: Super Sunshine & Domination :: P1 :: Atlanta GA 2026-10-07",
         "Channel":  "Sonic Roost",
