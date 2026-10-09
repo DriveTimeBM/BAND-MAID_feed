@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 15:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:42:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Looking down from the bluffs at Camusett State Historic Park Preserve last Mo...</title>
+      <link>https://bsky.app/profile/did:plc:dx3ay6rcqediw2gbhb4bp76l/post/3mxhhuzas632c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dx3ay6rcqediw2gbhb4bp76l/post/3mxhhuzas632c</guid>
+      <pubDate>Fri, 09 Oct 2026 17:13:02 GMT</pubDate>
+      <dc:creator>Paul Houle (up-8.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Looking down from the bluffs at Camusett State Historic Park Preserve last Monday Elliot and I went to Huntington, NY to catch BAND-MAID&#39;s world tour!<br/><br/>#photo #photography #beach #longisland #ocean #sand</p><p><em>BlueSky &middot; up-8.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID 「SPIN」ノンクレジット映像 | アニメ『BEYBLADE X ベイキングダム編』エンディングテーマ youtu.be/fxKLvh...</title>
       <link>https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mxh7rjdsx22v</link>
@@ -899,15 +908,6 @@
       <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID-&quot;OOPARTS&quot;<br/><br/>&#39;OOPARTS&#39; means  &quot;Out-of-Place Artifact&quot; (archaeological items found in impossible historical contexts)<br/><br/>youtu.be/YFLsVQ4iPxw</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID - Ready to Rock / Live at CENTRAL26 youtu.be/dHKn6y2a5tg?... @YouTu...</title>
-      <link>https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mwqgvo6yqc2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mwqgvo6yqc2f</guid>
-      <pubDate>Wed, 30 Sep 2026 13:24:16 GMT</pubDate>
-      <dc:creator>MUSIC PRしていくぜ🦦 (nonashi88.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID - Ready to Rock / Live at CENTRAL26 youtu.be/dHKn6y2a5tg?... @YouTubeより</p><p><em>BlueSky &middot; nonashi88.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
