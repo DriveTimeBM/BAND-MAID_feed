@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CcwYpcQyg7o",
+        "Title":  "MISA is back in Atlanta & still adorable! - BAND-MAID World Tour: Atlanta, GA - October 7, 2026",
+        "Channel":  "breakpack",
+        "ChannelId":  "UC8fOqfB30FwvMDBsFcz9OOw",
+        "Url":  "https://youtu.be/CcwYpcQyg7o",
+        "Thumbnail":  "https://i.ytimg.com/vi/CcwYpcQyg7o/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T00:23:40.0000000Z",
+        "DiscoveredAt":  "2026-10-09T00:26:53.8075001Z",
+        "Duration":  "00:02:21",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "II-L-LYRrXQ",
+        "Title":  "BAND-MAID- \"Hate\" live 10/7/2026 Atlanta Georgia Buckhead Theater ",
+        "Channel":  "KeichiArena",
+        "ChannelId":  "UCaGrbB17xw0-x8Jh-1E7D0A",
+        "Url":  "https://youtu.be/II-L-LYRrXQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/II-L-LYRrXQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T00:10:50.0000000Z",
+        "DiscoveredAt":  "2026-10-09T00:26:52.5712045Z",
+        "Duration":  "00:04:38",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zEKSPSCZUtg",
         "Title":  "BAND-MAID- \"Spin\" live 10/7/2026 Atlanta Georgia Buckhead Theater ",
         "Channel":  "KeichiArena",
