@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "x8YEsHORH-w",
+        "Title":  "Like BAND-MAID, LOVEBITES Won’t Perform Live in 2027!",
+        "Channel":  "Venus Gaijin",
+        "ChannelId":  "UCzXt_lAr9Nvi3-3RfaSmh_Q",
+        "Url":  "https://youtu.be/x8YEsHORH-w",
+        "Thumbnail":  "https://i.ytimg.com/vi/x8YEsHORH-w/hqdefault.jpg",
+        "PublishedAt":  "2026-10-09T15:20:35.0000000Z",
+        "DiscoveredAt":  "2026-10-09T16:32:45.1521046Z",
+        "Duration":  "00:08:42",
+        "ViewsAtDiscovery":  60,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7IRgXEKZg1I",
         "Title":  "BAND-MAID - THRILL (LIVE) 2015.05.11 - Club Crawl - Dave M 🎀🎀🎀🎀🎀",
         "Channel":  "Dave M Channel",
