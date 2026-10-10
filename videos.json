@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "eQdzn2i9x9M",
+        "Title":  "Band-Maid - mostly Misa clips - House of Blues, Dallas",
+        "Channel":  "Dave 4Reel",
+        "ChannelId":  "UCh2WK-cCtuubLWuuFZVhRpA",
+        "Url":  "https://youtu.be/eQdzn2i9x9M",
+        "Thumbnail":  "https://i.ytimg.com/vi/eQdzn2i9x9M/hqdefault.jpg",
+        "PublishedAt":  "2026-10-10T06:09:53.0000000Z",
+        "DiscoveredAt":  "2026-10-10T06:15:23.3096320Z",
+        "Duration":  "00:03:01",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "HXsqwk-kqPM",
+        "Title":  "BAND-MAID “CAGE” Live in Huntington, New York (2026 World Tour)",
+        "Channel":  "JaveLin ジャベリン",
+        "ChannelId":  "UCX__aprA4N1xVZCQrfROBjQ",
+        "Url":  "https://youtu.be/HXsqwk-kqPM",
+        "Thumbnail":  "https://i.ytimg.com/vi/HXsqwk-kqPM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-10T06:03:39.0000000Z",
+        "DiscoveredAt":  "2026-10-10T06:15:22.0885096Z",
+        "Duration":  "00:01:09",
+        "ViewsAtDiscovery":  22,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YRbL_R2eJtQ",
         "Title":  "Now This Is a Collaboration Band-Maid and The Warning Reacting to Show Them",
         "Channel":  "The Smith House Reactions",
