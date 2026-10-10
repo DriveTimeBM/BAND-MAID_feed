@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RpjGFXRLeuA",
+        "Title":  "1st Time Hearing ~ DILLY DALLY by BAND-MAID ~ Reaction",
+        "Channel":  "Play It Again, Sue!",
+        "ChannelId":  "UCm85IETDDHtV-ech-yFNBFg",
+        "Url":  "https://youtu.be/RpjGFXRLeuA",
+        "Thumbnail":  "https://i.ytimg.com/vi/RpjGFXRLeuA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-10T20:15:03.0000000Z",
+        "DiscoveredAt":  "2026-10-10T20:33:26.6730977Z",
+        "Duration":  "00:09:04",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "TSdIeSCz9cw",
+        "Title":  "OH FRICK YEAH!! - Balance Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/TSdIeSCz9cw",
+        "Thumbnail":  "https://i.ytimg.com/vi/TSdIeSCz9cw/hqdefault.jpg",
+        "PublishedAt":  "2026-10-10T20:00:37.0000000Z",
+        "DiscoveredAt":  "2026-10-10T20:33:23.1911787Z",
+        "Duration":  "00:03:49",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "tjIwmxYH5yc",
         "Title":  "BAND-MAID “SPIN” | FIRST TIME REACTION! 🔥 This Is INSANE!",
         "Channel":  "Ginger T Reacts",
