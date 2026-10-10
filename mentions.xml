@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 23:28:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:03:04 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID regresa a México: Todos los detalles de su World Tour 2026</title>
+      <link>https://bsky.app/profile/did:plc:3bz67gxghxhjctwwiokmz6nl/post/3mxi6qch3ml2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3bz67gxghxhjctwwiokmz6nl/post/3mxi6qch3ml2a</guid>
+      <pubDate>Sat, 10 Oct 2026 00:01:59 GMT</pubDate>
+      <dc:creator>roykhamus (roykhamus.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID regresa a M&#233;xico: Todos los detalles de su World Tour&#160;2026<br/><br/>Boletos: La aclamada banda japonesa de hard rock, BAND-MAID, confirma su regreso a los escenarios mexicanos como parte de su gira internacional Band-Maid World Tour 2026. El quinteto integrado por Miku Kobato, Saiki, Kanami, Misa…</p><p><em>BlueSky &middot; roykhamus.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] KROKUS-"Ready To Rock"</title>
       <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mxhzcf64ok2z</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Fun little bug in Apple Music on macOS 27.0.1.</title>
-      <link>https://bsky.app/profile/did:plc:b2swerbblwsixfkogrcae3q6/post/3mwr7rm44ac22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:b2swerbblwsixfkogrcae3q6/post/3mwr7rm44ac22</guid>
-      <pubDate>Wed, 30 Sep 2026 20:49:23 GMT</pubDate>
-      <dc:creator>August Danzig (augustmusic.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Fun little bug in Apple Music on macOS 27.0.1.</p><p><em>BlueSky &middot; augustmusic.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
