@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 18:57:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:42:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] In principle I agree, of course. It maybe works a little better for me becaus...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mxkefhrvas2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mxkefhrvas2h</guid>
+      <pubDate>Sat, 10 Oct 2026 20:48:38 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>In principle I agree, of course. It maybe works a little better for me because when I find something new that interests me, I tend to latch on to it pretty heavily, so since discovering Band Maid I&#39;ve gone down a huge J Rock rabbit hole.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] I'm mixed on this, in the pandemic I decided to listen to more guitar music a...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mxkdwlhig22h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mxkdwlhig22h</guid>
+      <pubDate>Sat, 10 Oct 2026 20:40:18 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;m mixed on this, in the pandemic I decided to listen to more guitar music again. I found some interesting things, but the (youtube) algorithm brought me to Band Maid, who are now my favourite band, so it can work, you just shouldn&#39;t ONLY rely on that.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mxk3yjk2ci26</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2 years ago<br/>DICE MV<br/>milestone<br/>surpassed 9 million views<br/>2024/10/2<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid's "From Now On", "Get to the Top", "Lock and Load", "Without Holdin...</title>
-      <link>https://bsky.app/profile/did:plc:fafgrurqauxlq7dijmdvfhdo/post/3mwshgtbgvk2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fafgrurqauxlq7dijmdvfhdo/post/3mwshgtbgvk2m</guid>
-      <pubDate>Thu, 01 Oct 2026 08:39:11 GMT</pubDate>
-      <dc:creator>bionicgrit.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid&#39;s &quot;From Now On&quot;, &quot;Get to the Top&quot;, &quot;Lock and Load&quot;, &quot;Without Holding Back&quot; and &quot;Onset&quot;, although they&#39;ve also made instrumental versions of other songs.<br/>www.youtube.com/watch?v=a6ZS...</p><p><em>BlueSky &middot; bionicgrit.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] This is the lead song of our first major-label single YOLO. It was originally...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mws6vxpxe42r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mws6vxpxe42r</guid>
-      <pubDate>Thu, 01 Oct 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>This is the lead song of our first major-label single YOLO. It was originally a song I wrote when I was a singer-songwriter, and I arranged it in the Band-Maid style. We have created a cool music video with “the light and the darkness”, making full use of spotlights. The lyrics have many words, as i</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
