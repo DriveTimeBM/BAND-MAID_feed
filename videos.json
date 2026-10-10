@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jWhDsOHAzQc",
+        "Title":  "FINALLY SEEING BAND-MAID LIVE! House of Blues Dallas - 10.9.2026",
+        "Channel":  "The AMP Theory",
+        "ChannelId":  "UCwHk6Z-w-ES4qutiPCDG1IA",
+        "Url":  "https://youtu.be/jWhDsOHAzQc",
+        "Thumbnail":  "https://i.ytimg.com/vi/jWhDsOHAzQc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-10T20:43:06.0000000Z",
+        "DiscoveredAt":  "2026-10-10T21:04:50.5797393Z",
+        "Duration":  "00:22:57",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "RpjGFXRLeuA",
         "Title":  "1st Time Hearing ~ DILLY DALLY by BAND-MAID ~ Reaction",
         "Channel":  "Play It Again, Sue!",
