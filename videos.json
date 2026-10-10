@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6h8zwE8l1Eg",
+        "Title":  "Band-Maid - \"SUPER SUNSHINE\" - Live in Chicago 2026",
+        "Channel":  "Reitam",
+        "ChannelId":  "UCKJf4yVFv7pYqWSTBkPzd2Q",
+        "Url":  "https://youtu.be/6h8zwE8l1Eg",
+        "Thumbnail":  "https://i.ytimg.com/vi/6h8zwE8l1Eg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-10T07:30:20.0000000Z",
+        "DiscoveredAt":  "2026-10-10T07:46:20.1768269Z",
+        "Duration":  "00:03:37",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "D8no4IHodGY",
         "Title":  "BAND-MAID “Unleash!!!!!” Live in Huntington, New York (2026 World Tour)",
         "Channel":  "JaveLin ジャベリン",
