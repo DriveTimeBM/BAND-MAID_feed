@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 01:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:41:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] whoever chooses the OP/EDs for Beyblade X is crazy lol.  band-maid is such a ...</title>
+      <link>https://bsky.app/profile/did:plc:6ta5p43oby2oat5f5kygelpn/post/3mxiiqq3kvk2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6ta5p43oby2oat5f5kygelpn/post/3mxiiqq3kvk2e</guid>
+      <pubDate>Sat, 10 Oct 2026 03:01:11 GMT</pubDate>
+      <dc:creator>Brandon Bovia (brandonbovia.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>whoever chooses the OP/EDs for Beyblade X is crazy lol.  band-maid is such a good get youtu.be/fxKLvhf3qto?...</p><p><em>BlueSky &middot; brandonbovia.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID regresa a México: Todos los detalles de su World Tour 2026</title>
       <link>https://bsky.app/profile/did:plc:3bz67gxghxhjctwwiokmz6nl/post/3mxi6qch3ml2a</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago<br/>alone<br/>live debut<br/>TSUTAYA O-West, Tokyo, Japan<br/>2016/10/1<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mwrwpeo3qp2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mwrwpeo3qp2e</guid>
-      <pubDate>Thu, 01 Oct 2026 03:39:44 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
