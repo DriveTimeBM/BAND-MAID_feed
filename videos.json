@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hyOMjWvATIg",
+        "Title":  "Band-Maid 2026 - Full Set Concert in UHD 4K (Dallas - Live at House of Blues Dallas",
+        "Channel":  "Louis Mills",
+        "ChannelId":  "UCI5MDj8aCBJzhFSYA_MtNNA",
+        "Url":  "https://youtu.be/hyOMjWvATIg",
+        "Thumbnail":  "https://i.ytimg.com/vi/hyOMjWvATIg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-10T17:00:25.0000000Z",
+        "DiscoveredAt":  "2026-10-10T17:23:23.1644120Z",
+        "Duration":  "01:48:15",
+        "ViewsAtDiscovery":  21,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "pwT6bdyNkpk",
         "Title":  "Band-Maid  - House of Blues - Dallas",
         "Channel":  "Dave 4Reel",
