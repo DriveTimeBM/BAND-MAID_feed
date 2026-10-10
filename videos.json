@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "b4qROzfAbXA",
+        "Title":  "Band Maid Concert Experience Chicago 2026 Vlog",
+        "Channel":  "Pitbull_sanch",
+        "ChannelId":  "UC4L6MOrn2J8Ilq0gfmxo0kQ",
+        "Url":  "https://youtu.be/b4qROzfAbXA",
+        "Thumbnail":  "https://i.ytimg.com/vi/b4qROzfAbXA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-10T17:54:22.0000000Z",
+        "DiscoveredAt":  "2026-10-10T18:25:44.6982625Z",
+        "Duration":  "00:07:15",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hyOMjWvATIg",
         "Title":  "Band-Maid 2026 - Full Set Concert in UHD 4K (Dallas - Live at House of Blues Dallas",
         "Channel":  "Louis Mills",
