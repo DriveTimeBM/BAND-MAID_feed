@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "S_a_OUbdxrA",
+        "Title":  "Band Maid - Lock And Load (Vic Theatre Chicago Illinois World Domination Tour 2026 🎀)",
+        "Channel":  "Braheem",
+        "ChannelId":  "UCeQF5Zw9OPhz-OH_I8cnKMQ",
+        "Url":  "https://youtu.be/S_a_OUbdxrA",
+        "Thumbnail":  "https://i.ytimg.com/vi/S_a_OUbdxrA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-11T19:02:40.0000000Z",
+        "DiscoveredAt":  "2026-10-11T19:29:46.6626935Z",
+        "Duration":  "00:03:25",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "10YWUGCtez0",
         "Title":  "Band-Maid :: 02 : Domination :: Atlanta 2026-10-07",
         "Channel":  "Sonic Roost",
