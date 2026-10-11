@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "9r4DcM1SQYk",
+        "Title":  "BAND-MAID, AG! & AiNA the END Launch Karaoke Night",
+        "Channel":  "Yakki Dachi",
+        "ChannelId":  "UCWhBMPix8WCp7XtKCFy4uRg",
+        "Url":  "https://youtu.be/9r4DcM1SQYk",
+        "Thumbnail":  "https://i.ytimg.com/vi/9r4DcM1SQYk/hqdefault.jpg",
+        "PublishedAt":  "2026-10-11T09:43:24.0000000Z",
+        "DiscoveredAt":  "2026-10-11T09:47:53.2773161Z",
+        "Duration":  "04:58:48",
+        "ViewsAtDiscovery":  81,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vLPGBvmeNKE",
         "Title":  "【BAND-MAID】新曲「SPIN」がベイブレードXに降臨！まさかのED起用…アニメと楽曲が生み出す衝撃とは？",
         "Channel":  "音楽の今",
