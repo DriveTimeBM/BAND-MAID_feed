@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vLPGBvmeNKE",
+        "Title":  "【BAND-MAID】新曲「SPIN」がベイブレードXに降臨！まさかのED起用…アニメと楽曲が生み出す衝撃とは？",
+        "Channel":  "音楽の今",
+        "ChannelId":  "UCJb8w5c9gqNzyKpQ9vri0RA",
+        "Url":  "https://youtu.be/vLPGBvmeNKE",
+        "Thumbnail":  "https://i.ytimg.com/vi/vLPGBvmeNKE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-11T06:06:06.0000000Z",
+        "DiscoveredAt":  "2026-10-11T06:13:23.5971418Z",
+        "Duration":  "00:07:35",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "MsN8QWhT2t4",
+        "Title":  "ENERGY! First Time Reaction to Band Maid - \"Domination\" - Therapist Reacts",
+        "Channel":  "Coping_Skillz",
+        "ChannelId":  "UChvWcfOMrKIFOfQSrK2ACaA",
+        "Url":  "https://youtu.be/MsN8QWhT2t4",
+        "Thumbnail":  "https://i.ytimg.com/vi/MsN8QWhT2t4/hqdefault.jpg",
+        "PublishedAt":  "2026-10-11T06:00:38.0000000Z",
+        "DiscoveredAt":  "2026-10-11T06:13:20.6072385Z",
+        "Duration":  "00:11:05",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "GWkB0Z0pFMc",
         "Title":  "Misa and Akane intermission (full) BAND-MAID Dallas 2026 fancam",
         "Channel":  "Jahoihoi",
