@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "10YWUGCtez0",
+        "Title":  "Band-Maid :: 02 : Domination :: Atlanta 2026-10-07",
+        "Channel":  "Sonic Roost",
+        "ChannelId":  "UCuwVkzGH9d4VOSx4NhUqj9g",
+        "Url":  "https://youtu.be/10YWUGCtez0",
+        "Thumbnail":  "https://i.ytimg.com/vi/10YWUGCtez0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-11T18:19:39.0000000Z",
+        "DiscoveredAt":  "2026-10-11T18:27:11.4177569Z",
+        "Duration":  "00:04:11",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "I2w5nWfAlpY",
+        "Title":  "Band-Maid :: 01 : Super Sunshine :: Atlanta 2026-10-07",
+        "Channel":  "Sonic Roost",
+        "ChannelId":  "UCuwVkzGH9d4VOSx4NhUqj9g",
+        "Url":  "https://youtu.be/I2w5nWfAlpY",
+        "Thumbnail":  "https://i.ytimg.com/vi/I2w5nWfAlpY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-11T18:06:08.0000000Z",
+        "DiscoveredAt":  "2026-10-11T18:27:10.1828150Z",
+        "Duration":  "00:04:06",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "OOi1N1rOm5s",
         "Title":  "Band-Maid - Alone (bass backing track)",
         "Channel":  "Solo Melody Bass Tracks",

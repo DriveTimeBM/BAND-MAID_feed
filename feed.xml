@@ -7,8 +7,28 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 13:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:27:13 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band-Maid :: 02 : Domination :: Atlanta 2026-10-07</title>
+      <link>https://youtu.be/10YWUGCtez0</link>
+      <guid isPermaLink="false">yt:video:10YWUGCtez0</guid>
+      <pubDate>Sun, 11 Oct 2026 18:19:39 GMT</pubDate>
+      <dc:creator>Sonic Roost</dc:creator>
+      <category>Sonic Roost</category>
+      <description><![CDATA[<p><a href="https://youtu.be/10YWUGCtez0"><img src="https://i.ytimg.com/vi/10YWUGCtez0/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Sonic Roost<br/>Duration: 00:04:11<br/>Views at discovery: 0</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/10YWUGCtez0/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>Band-Maid :: 01 : Super Sunshine :: Atlanta 2026-10-07</title>
+      <link>https://youtu.be/I2w5nWfAlpY</link>
+      <guid isPermaLink="false">yt:video:I2w5nWfAlpY</guid>
+      <pubDate>Sun, 11 Oct 2026 18:06:08 GMT</pubDate>
+      <dc:creator>Sonic Roost</dc:creator>
+      <category>Sonic Roost</category>
+      <description><![CDATA[<p><a href="https://youtu.be/I2w5nWfAlpY"><img src="https://i.ytimg.com/vi/I2w5nWfAlpY/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Sonic Roost<br/>Duration: 00:04:06<br/>Views at discovery: 1</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/I2w5nWfAlpY/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band-Maid - Alone (bass backing track)</title>
       <link>https://youtu.be/OOi1N1rOm5s</link>
