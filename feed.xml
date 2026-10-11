@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 12:22:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:37:44 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band-Maid - Alone (bass backing track)</title>
+      <link>https://youtu.be/OOi1N1rOm5s</link>
+      <guid isPermaLink="false">yt:video:OOi1N1rOm5s</guid>
+      <pubDate>Sun, 11 Oct 2026 13:33:18 GMT</pubDate>
+      <dc:creator>Solo Melody Bass Tracks</dc:creator>
+      <category>Solo Melody Bass Tracks</category>
+      <description><![CDATA[<p><a href="https://youtu.be/OOi1N1rOm5s"><img src="https://i.ytimg.com/vi/OOi1N1rOm5s/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Solo Melody Bass Tracks<br/>Duration: 00:03:33<br/>Views at discovery: 0</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/OOi1N1rOm5s/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band-Maid - you. (drums backing track)</title>
       <link>https://youtu.be/JAJQnRkIaEo</link>
