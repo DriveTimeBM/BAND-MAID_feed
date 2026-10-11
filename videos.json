@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "F-Xga7eVlM0",
+        "Title":  "Band-Maid :: 04 : Choose Me :: Atlanta 2026 10 07",
+        "Channel":  "Sonic Roost",
+        "ChannelId":  "UCuwVkzGH9d4VOSx4NhUqj9g",
+        "Url":  "https://youtu.be/F-Xga7eVlM0",
+        "Thumbnail":  "https://i.ytimg.com/vi/F-Xga7eVlM0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-11T21:13:05.0000000Z",
+        "DiscoveredAt":  "2026-10-11T21:36:07.6891602Z",
+        "Duration":  "00:03:50",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "GGOJWODfmU8",
         "Title":  "BAND MAID UNLEASHES PEAK!! - Unleash!!!!! Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
