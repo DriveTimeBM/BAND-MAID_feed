@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "TBSARKwR8eY",
+        "Title":  "BAND-MAID「SPIN」アニメ『BEYBLADE X ベイキングダム編』エンディングテーマ[guitar cover ]",
+        "Channel":  "健司山崎",
+        "ChannelId":  "UCxi7MJ_H2Jd73nqALLn71KQ",
+        "Url":  "https://youtu.be/TBSARKwR8eY",
+        "Thumbnail":  "https://i.ytimg.com/vi/TBSARKwR8eY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-11T02:25:58.0000000Z",
+        "DiscoveredAt":  "2026-10-11T02:37:35.7542848Z",
+        "Duration":  "00:01:32",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "HvOJ2OEFD54",
         "Title":  "BAND-MAID / Akane Instagram October 10, 2026",
         "Channel":  "Nin puzzle",
