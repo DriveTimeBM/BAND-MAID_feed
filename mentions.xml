@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 06:44:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 18:58:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Made our way down the hill and found these slices of Americana. Dumped onto I...</title>
+      <link>https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mxmljajy4s22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mxmljajy4s22</guid>
+      <pubDate>Sun, 11 Oct 2026 18:01:20 GMT</pubDate>
+      <dc:creator>Dustykatt (dustykatt.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Made our way down the hill and found these slices of Americana. Dumped onto I-5 at Tejon pass and made it to the hotel a block from the venue to see Band-Maid tomorrow night.</p><p><em>BlueSky &middot; dustykatt.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: YOLO (instrumental)</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mxldop2rsh24</link>
@@ -899,15 +908,6 @@
       <dc:creator>John「ふりーWiFi」 (dk1105.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid Let&#39;s Go! Last time I saw them it was my favorite live show ever. It&#39;s a very long list to top.</p><p><em>BlueSky &middot; dk1105.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band Maid Lets Go! Last time I saw them was my favorite live show</title>
-      <link>https://bsky.app/profile/did:plc:urjz7acvezrkeonji3cc66c5/post/3mwz3ylaaxc2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:urjz7acvezrkeonji3cc66c5/post/3mwz3ylaaxc2l</guid>
-      <pubDate>Sun, 04 Oct 2026 00:03:00 GMT</pubDate>
-      <dc:creator>John「ふりーWiFi」 (dk1105.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band Maid Lets Go! Last time I saw them was my favorite live show</p><p><em>BlueSky &middot; dk1105.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
