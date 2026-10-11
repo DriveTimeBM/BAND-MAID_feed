@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 00:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 03:39:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'd put Band-Maid's Kanami Tono name forward as a guitar player who has pure ...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mxkzb4kaus2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mxkzb4kaus2e</guid>
+      <pubDate>Sun, 11 Oct 2026 03:02:00 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;d put Band-Maid&#39;s Kanami Tono name forward as a guitar player who has pure musical joy flowing through her on stage.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Headed south today, will be in LA for a Band-Maid concert Monday night. But f...</title>
       <link>https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mxk2pvkmos24</link>
@@ -899,15 +908,6 @@
       <dc:creator>𝗱𝗮𝗶𝘆𝗮 ୨୧ HALLOWEEN MONTH 🎃✨ (daiya-3710.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>not a single skip.<br/><br/>NOT. A. SINGLE. SKIP.<br/><br/>THIS ENTIRE ALBUM IS SO GOOD!!!!!!! I&#39;m so happy I found The Warning!!!!! I&#39;m a fan of BAND-MAID and the song they made with The Warning is what led me to their music!<br/><br/>youtube.com/playlist?lis...<br/><br/>(god I hope I posted the link correctly🫠)</p><p><em>BlueSky &middot; daiya-3710.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Akasimahen</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwx7tqzxaj2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mwx7tqzxaj2n</guid>
-      <pubDate>Sat, 03 Oct 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Akasimahen<br/>Album: BAND-MAIKO<br/>Release: 3/31/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:12/21/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
