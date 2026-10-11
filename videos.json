@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ynXWS4sJb6k",
+        "Title":  "First Time Hearing | Band-Maid - Puzzle (Official Live Video)",
+        "Channel":  "New Clear Reactor",
+        "ChannelId":  "UCxw-VYYVtEnJhP25YHtdbsw",
+        "Url":  "https://youtu.be/ynXWS4sJb6k",
+        "Thumbnail":  "https://i.ytimg.com/vi/ynXWS4sJb6k/hqdefault.jpg",
+        "PublishedAt":  "2026-10-11T22:07:02.0000000Z",
+        "DiscoveredAt":  "2026-10-11T22:08:41.5135655Z",
+        "Duration":  "00:15:22",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "F-Xga7eVlM0",
         "Title":  "Band-Maid :: 04 : Choose Me :: Atlanta 2026 10 07",
         "Channel":  "Sonic Roost",
