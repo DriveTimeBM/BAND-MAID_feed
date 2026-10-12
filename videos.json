@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AGZCfnqa2JU",
+        "Title":  "Another discovery to Band Maid 🇯🇵 - Hate |REACTION",
+        "Channel":  "Emmanuel React",
+        "ChannelId":  "UCkNErUXDroPLxu88rM4vGsg",
+        "Url":  "https://youtu.be/AGZCfnqa2JU",
+        "Thumbnail":  "https://i.ytimg.com/vi/AGZCfnqa2JU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-12T13:56:24.0000000Z",
+        "DiscoveredAt":  "2026-10-12T14:10:05.0638756Z",
+        "Duration":  "00:06:39",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wR60_3QFbqk",
         "Title":  "THIS Is an Anime Opening?! | BAND-MAID – Ready to Rock Reaction",
         "Channel":  "EdPhonez Media",
