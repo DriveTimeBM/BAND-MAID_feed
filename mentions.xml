@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 18:24:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 21:58:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mxpftpea7j22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mxpftpea7j22</guid>
+      <pubDate>Mon, 12 Oct 2026 20:57:48 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID concert is today, I am LIVING</title>
       <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mxp23pgoxk2h</link>
@@ -899,15 +908,6 @@
       <dc:creator>Leigh / Spion 🏳️‍🌈🫀 (spionchen.anomaly.moe)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Journeying back to NYC to see BAND-MAID in concert tomorrow night! First time for me in 4 years! It’ll be so good to see them again! 🤘🏻🎶 #bandmaid #bandmaidUSTour</p><p><em>BlueSky &middot; spionchen.anomaly.moe</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 13 years ago Band-Maid played at Shibuya Milkyway in Tokyo JP on 2013/10/4. T...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwzpwh5dax2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mwzpwh5dax2g</guid>
-      <pubDate>Sun, 04 Oct 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>13 years ago Band-Maid played at Shibuya Milkyway in Tokyo JP on 2013/10/4. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
