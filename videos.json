@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "itSMD1kX7gY",
+        "Title":  "BAND-MAID / \"SPIN\"  Video for Exclusive store bonus items",
+        "Channel":  "Nin puzzle",
+        "ChannelId":  "UCCZ3DnDT0dT1-5AuoEGN7GQ",
+        "Url":  "https://youtu.be/itSMD1kX7gY",
+        "Thumbnail":  "https://i.ytimg.com/vi/itSMD1kX7gY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-12T03:51:16.0000000Z",
+        "DiscoveredAt":  "2026-10-12T03:52:13.5744793Z",
+        "Duration":  "00:03:20",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9kgqN0uFN0g",
         "Title":  "Band-Maid NY Okyuji Review 10-05-2026 #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
