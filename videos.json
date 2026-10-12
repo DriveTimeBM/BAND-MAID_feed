@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "syIdR1uD65A",
+        "Title":  "DOMINATION – BAND-MAID Live in Chicago (2026) [Fan Cam]",
+        "Channel":  "Gaijin in the Pit",
+        "ChannelId":  "UCaMDhEdszf_WklEYVsHLqaQ",
+        "Url":  "https://youtu.be/syIdR1uD65A",
+        "Thumbnail":  "https://i.ytimg.com/vi/syIdR1uD65A/hqdefault.jpg",
+        "PublishedAt":  "2026-10-12T15:39:45.0000000Z",
+        "DiscoveredAt":  "2026-10-12T15:46:20.2343239Z",
+        "Duration":  "00:04:18",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "IQUsJxUpriA",
         "Title":  "Band-Maid - Zen (Live in Atlanta) ",
         "Channel":  "Blueburry",
