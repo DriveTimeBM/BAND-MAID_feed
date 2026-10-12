@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "nw0jy2IM0OI",
+        "Title":  "103 Band-Maid shows: portraits outside the Buckhead Theatre",
+        "Channel":  "Ruskin Seabrook",
+        "ChannelId":  "UCoSj80Jky2TVE6oyJH8Zbnw",
+        "Url":  "https://youtu.be/nw0jy2IM0OI",
+        "Thumbnail":  "https://i.ytimg.com/vi/nw0jy2IM0OI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-12T23:06:58.0000000Z",
+        "DiscoveredAt":  "2026-10-12T23:31:08.6758131Z",
+        "Duration":  "00:01:58",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "7gloCOIEgWA",
+        "Title":  "BAND-MAID - Onset by Kanon Inazuki | Music Teacher Reacts | 10.12.26 Livestream",
+        "Channel":  "Wave Potter Live",
+        "ChannelId":  "UCwvCMfZvYhtN9M9Hi_4CTXQ",
+        "Url":  "https://youtu.be/7gloCOIEgWA",
+        "Thumbnail":  "https://i.ytimg.com/vi/7gloCOIEgWA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-12T14:09:23.0000000Z",
+        "DiscoveredAt":  "2026-10-12T23:31:07.3645485Z",
+        "Duration":  "00:24:24",
+        "ViewsAtDiscovery":  58,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "w_roxdqdGP0",
         "Title":  "3 Band-Maid Songs and Im COOKED",
         "Channel":  "Taylor John Hardin Reactions",
