@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "wR60_3QFbqk",
+        "Title":  "THIS Is an Anime Opening?! | BAND-MAID – Ready to Rock Reaction",
+        "Channel":  "EdPhonez Media",
+        "ChannelId":  "UC3B7ARYdVrQ1edlJc9GAwwQ",
+        "Url":  "https://youtu.be/wR60_3QFbqk",
+        "Thumbnail":  "https://i.ytimg.com/vi/wR60_3QFbqk/hqdefault.jpg",
+        "PublishedAt":  "2026-10-12T13:00:28.0000000Z",
+        "DiscoveredAt":  "2026-10-12T13:08:28.6927223Z",
+        "Duration":  "00:05:59",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ohMKZdeMQFk",
+        "Title":  "BAND-MAID - Ready To Rock | Reaction!",
+        "Channel":  "Rockin' with Matt",
+        "ChannelId":  "UCruBX3uPne2xBlLZOo950bA",
+        "Url":  "https://youtu.be/ohMKZdeMQFk",
+        "Thumbnail":  "https://i.ytimg.com/vi/ohMKZdeMQFk/hqdefault.jpg",
+        "PublishedAt":  "2026-10-12T13:00:23.0000000Z",
+        "DiscoveredAt":  "2026-10-12T13:08:22.3118290Z",
+        "Duration":  "00:25:52",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gG5GPIwVJaM",
         "Title":  "BAND MAID  Tamya ! Purple Reaction",
         "Channel":  "Purple unicorn reaction's",
