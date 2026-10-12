@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 18:58:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:25:04 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mxnrosthic2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mxnrosthic2n</guid>
+      <pubDate>Mon, 12 Oct 2026 05:24:29 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Made our way down the hill and found these slices of Americana. Dumped onto I...</title>
       <link>https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mxmljajy4s22</link>
@@ -899,15 +908,6 @@
       <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID-&quot;Brand-New Road&quot;<br/>youtu.be/_KVaSaQmb0k</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid Let's Go! Last time I saw them it was my favorite live show ever. I...</title>
-      <link>https://bsky.app/profile/did:plc:urjz7acvezrkeonji3cc66c5/post/3mwz4434u2k2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:urjz7acvezrkeonji3cc66c5/post/3mwz4434u2k2l</guid>
-      <pubDate>Sun, 04 Oct 2026 00:04:57 GMT</pubDate>
-      <dc:creator>John「ふりーWiFi」 (dk1105.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid Let&#39;s Go! Last time I saw them it was my favorite live show ever. It&#39;s a very long list to top.</p><p><em>BlueSky &middot; dk1105.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
