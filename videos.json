@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "9yH_xLwWguE",
+        "Title":  "Band-Maid Misa Bass rehearsal with Akane #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/9yH_xLwWguE",
+        "Thumbnail":  "https://i.ytimg.com/vi/9yH_xLwWguE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-12T05:33:12.0000000Z",
+        "DiscoveredAt":  "2026-10-12T05:54:24.7524626Z",
+        "Duration":  "00:01:47",
+        "ViewsAtDiscovery":  140,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "itSMD1kX7gY",
         "Title":  "BAND-MAID / \"SPIN\"  Video for Exclusive store bonus items",
         "Channel":  "Nin puzzle",
