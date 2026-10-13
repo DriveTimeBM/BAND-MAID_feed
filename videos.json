@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xRw99KRrRfs",
+        "Title":  "An Anime Opening?! | BAND-MAID — ZEN Reaction",
+        "Channel":  "EdPhonez Media",
+        "ChannelId":  "UC3B7ARYdVrQ1edlJc9GAwwQ",
+        "Url":  "https://youtu.be/xRw99KRrRfs",
+        "Thumbnail":  "https://i.ytimg.com/vi/xRw99KRrRfs/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T16:00:15.0000000Z",
+        "DiscoveredAt":  "2026-10-13T16:31:10.9963747Z",
+        "Duration":  "00:05:00",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "g8210AQvpX0",
         "Title":  "Band-Maid - The Wiltern - 10/12/2026",
         "Channel":  "Japanese Music (mostly) Fan",
