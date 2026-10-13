@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "izxXLWAU9oQ",
+        "Title":  "Band-Maid  - Choose Me - Zen - The Wiltern Theatre  10/12/26",
+        "Channel":  "AaronRokz",
+        "ChannelId":  "UCvD-19vS2C8N1jRQvoauBfg",
+        "Url":  "https://youtu.be/izxXLWAU9oQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/izxXLWAU9oQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T19:44:02.0000000Z",
+        "DiscoveredAt":  "2026-10-13T19:46:16.6658407Z",
+        "Duration":  "00:07:36",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "_WOUqV95txU",
+        "Title":  "Band-Maid - Live @ The Wiltern, LA 10-12-2026",
+        "Channel":  "g33man64",
+        "ChannelId":  "UCJgXkvV7nD0fIVvE0dqej0A",
+        "Url":  "https://youtu.be/_WOUqV95txU",
+        "Thumbnail":  "https://i.ytimg.com/vi/_WOUqV95txU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T19:36:46.0000000Z",
+        "DiscoveredAt":  "2026-10-13T19:46:15.1725866Z",
+        "Duration":  "01:50:47",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "CvWGVrmur40",
         "Title":  "Band-Maid - Sunshine - Domination - The Wiltern Theatre 10/12/26",
         "Channel":  "AaronRokz",
