@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CvWGVrmur40",
+        "Title":  "Band-Maid - Sunshine - Domination - The Wiltern Theatre 10/12/26",
+        "Channel":  "AaronRokz",
+        "ChannelId":  "UCvD-19vS2C8N1jRQvoauBfg",
+        "Url":  "https://youtu.be/CvWGVrmur40",
+        "Thumbnail":  "https://i.ytimg.com/vi/CvWGVrmur40/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T17:45:19.0000000Z",
+        "DiscoveredAt":  "2026-10-13T18:03:29.9095478Z",
+        "Duration":  "00:08:26",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "PlarqVLnm3Q",
         "Title":  "NO GOD - BAND-MAID - Dallas 10/9/26",
         "Channel":  "Psyshock42",
