@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "L2NcgSQ05wY",
+        "Title":  "BAND-MAID / Don't you tell ME (Official Live Video) Reaction",
+        "Channel":  "SidequestswithKJ",
+        "ChannelId":  "UCnGuG7yXZfLmMei0cCL7IxQ",
+        "Url":  "https://youtu.be/L2NcgSQ05wY",
+        "Thumbnail":  "https://i.ytimg.com/vi/L2NcgSQ05wY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T23:10:38.0000000Z",
+        "DiscoveredAt":  "2026-10-13T23:11:05.8632335Z",
+        "Duration":  "00:11:26",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gZ8Olkqc3vY",
         "Title":  "What's REALLY Going On With LOVEBITES & BAND-MAID?",
         "Channel":  "Chasing the Blues",
