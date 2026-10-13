@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KEpgR-WPcOQ",
+        "Title":  "Band-Maid LA Sound Check Pre Okyuji  #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/KEpgR-WPcOQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/KEpgR-WPcOQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T03:09:02.0000000Z",
+        "DiscoveredAt":  "2026-10-13T03:37:21.0864381Z",
+        "Duration":  "00:01:14",
+        "ViewsAtDiscovery":  184,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "IwFQNgezYGk",
         "Title":  "What I've Been Listening To J Rock Mini Band-Maid vlog",
         "Channel":  "Count_Irving ",
