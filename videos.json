@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gZ8Olkqc3vY",
+        "Title":  "What's REALLY Going On With LOVEBITES & BAND-MAID?",
+        "Channel":  "Chasing the Blues",
+        "ChannelId":  "UCh-roSi6Ggl3KdCqYYR4R7Q",
+        "Url":  "https://youtu.be/gZ8Olkqc3vY",
+        "Thumbnail":  "https://i.ytimg.com/vi/gZ8Olkqc3vY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T21:56:52.0000000Z",
+        "DiscoveredAt":  "2026-10-13T22:09:48.1494854Z",
+        "Duration":  "00:26:01",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-qIpgSFNMvI",
         "Title":  "I SENSE I'LL LOSE IT!! - Sense Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
