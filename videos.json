@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XG_BP9lam_8",
+        "Title":  "Band-Maid, \"Shambles\", Dallas 9 October 2026",
+        "Channel":  "Damon Hynes",
+        "ChannelId":  "UCpGAkCgj-WMlvSuLifAI6aw",
+        "Url":  "https://youtu.be/XG_BP9lam_8",
+        "Thumbnail":  "https://i.ytimg.com/vi/XG_BP9lam_8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T01:42:17.0000000Z",
+        "DiscoveredAt":  "2026-10-13T02:04:56.1199844Z",
+        "Duration":  "00:03:19",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "5mmudZf9dEU",
+        "Title":  "Band-Maid, \"Lock and Load\", Dallas 9 October 2026",
+        "Channel":  "Damon Hynes",
+        "ChannelId":  "UCpGAkCgj-WMlvSuLifAI6aw",
+        "Url":  "https://youtu.be/5mmudZf9dEU",
+        "Thumbnail":  "https://i.ytimg.com/vi/5mmudZf9dEU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T01:38:05.0000000Z",
+        "DiscoveredAt":  "2026-10-13T02:04:55.0965964Z",
+        "Duration":  "00:03:27",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oSeZQnYjCGI",
         "Title":  "03 OCT 2026 BAND-MAID World Tour - Chicago - Brightest star #bandmaid",
         "Channel":  "Jim",
