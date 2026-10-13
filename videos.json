@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "g8210AQvpX0",
+        "Title":  "Band-Maid - The Wiltern - 10/12/2026",
+        "Channel":  "Japanese Music (mostly) Fan",
+        "ChannelId":  "UC2Yjo2-SkGarGOlwrQn_Y6Q",
+        "Url":  "https://youtu.be/g8210AQvpX0",
+        "Thumbnail":  "https://i.ytimg.com/vi/g8210AQvpX0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T15:53:20.0000000Z",
+        "DiscoveredAt":  "2026-10-13T16:00:21.2059873Z",
+        "Duration":  "00:01:15",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "i7wj9eJdr4g",
         "Title":  "Band-Maid  - The Wiltern  - 10/12/2026",
         "Channel":  "Japanese Music (mostly) Fan",
