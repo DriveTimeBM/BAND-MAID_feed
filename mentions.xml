@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 23:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:35:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND MAID</title>
+      <link>https://bsky.app/profile/did:plc:lco2iwqsjo3woopyzdsm3gzm/post/3mxpvb67y3227</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:lco2iwqsjo3woopyzdsm3gzm/post/3mxpvb67y3227</guid>
+      <pubDate>Tue, 13 Oct 2026 01:33:46 GMT</pubDate>
+      <dc:creator>🌸rphaned dutch whore (linuxtrollop.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND MAID<br/>SOLD OUT<br/>OCT 12 2026</p><p><em>BlueSky &middot; linuxtrollop.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Finally able to post my Band-Maid video</title>
       <link>https://bsky.app/profile/did:plc:be4brlzshs2n3jsf6cgnmfci/post/3mxpkzympys22</link>
@@ -899,15 +908,6 @@
       <dc:creator>Chris『ScaryYandere』@ Art and Merch grind again (scaryyandere.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Flying back home this upcoming weekend, I leave around Thursday after work. I didn&#39;t think there&#39;d be such a big crowd for an Oktoberfest get-together that friend&#39;s sister and I planned, but I&#39;m buying a giant boot of beer lol<br/><br/>Also BAND MAID concert next week too...oh man I am excite</p><p><em>BlueSky &middot; scaryyandere.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Of note: 8 and 9 should be Zeal and Ardor's Wake of a Nation and Band-Maid's ...</title>
-      <link>https://bsky.app/profile/did:plc:qik3cpc27f2sh7pjm6qo4ohe/post/3mx2trrf5mk23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qik3cpc27f2sh7pjm6qo4ohe/post/3mx2trrf5mk23</guid>
-      <pubDate>Sun, 04 Oct 2026 16:41:21 GMT</pubDate>
-      <dc:creator>Robert Beveridge (xterminalnoise.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Of note: 8 and 9 should be Zeal and Ardor&#39;s Wake of a Nation and Band-Maid&#39;s New Beginning, neither of which is in their database. Good thing I didn&#39;t try for anything actually obscure...<br/><br/>www.my9albums.com/s/q2RvB26Qak</p><p><em>BlueSky &middot; xterminalnoise.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
