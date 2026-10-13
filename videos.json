@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "i7wj9eJdr4g",
+        "Title":  "Band-Maid  - The Wiltern  - 10/12/2026",
+        "Channel":  "Japanese Music (mostly) Fan",
+        "ChannelId":  "UC2Yjo2-SkGarGOlwrQn_Y6Q",
+        "Url":  "https://youtu.be/i7wj9eJdr4g",
+        "Thumbnail":  "https://i.ytimg.com/vi/i7wj9eJdr4g/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T15:37:05.0000000Z",
+        "DiscoveredAt":  "2026-10-13T15:46:09.7065804Z",
+        "Duration":  "00:03:22",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "YPaO8XsSRDE",
+        "Title":  "Band-Maid  - The Wiltern  - 10/12/2026",
+        "Channel":  "Japanese Music (mostly) Fan",
+        "ChannelId":  "UC2Yjo2-SkGarGOlwrQn_Y6Q",
+        "Url":  "https://youtu.be/YPaO8XsSRDE",
+        "Thumbnail":  "https://i.ytimg.com/vi/YPaO8XsSRDE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T15:33:01.0000000Z",
+        "DiscoveredAt":  "2026-10-13T15:46:08.0695445Z",
+        "Duration":  "00:01:13",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qAczFf3YJFE",
         "Title":  "Band-Maid opening at the Wiltern, Oct 12 2026 (Super Sunshine)",
         "Channel":  "Zoopster1",
