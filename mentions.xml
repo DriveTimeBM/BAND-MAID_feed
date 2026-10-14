@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 12:43:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:39:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 📎 【ライブレポ】BAND-MAID、北米ツアーLA公演にて、伝統ある大型ライブハウスをソールドアウト！世界的メガバンド・インキュバスのマイク・アインジ...</title>
+      <link>https://bsky.app/profile/did:plc:7jrmrtzkxalkgerejxudybb6/post/3mxtumaimus2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7jrmrtzkxalkgerejxudybb6/post/3mxtumaimus2b</guid>
+      <pubDate>Wed, 14 Oct 2026 15:32:43 GMT</pubDate>
+      <dc:creator>日刊エンタメクリップ (entameclip.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>📎 【ライブレポ】BAND-MAID、北米ツアーLA公演にて、伝統ある大型ライブハウスをソールドアウト！世界的メガバンド・インキュバスのマイク・アインジガーとサプライズ共演<br/><br/>【記事を読む】<br/>entameclip.com/news/491272/<br/><br/>#BANDMAID</p><p><em>BlueSky &middot; entameclip.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] "The Band-Maid Warning". 😋</title>
       <link>https://bsky.app/profile/did:plc:fafgrurqauxlq7dijmdvfhdo/post/3mxtarioe6s2u</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 23 songs at darwin in Sendai JP on 2017/10/6. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID announced that their new song, "SPIN," will be the ending theme for...</title>
-      <link>https://bsky.app/profile/did:plc:xmlz3ovyv2axfp5khqe3yk6w/post/3mx6mopsd7c25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xmlz3ovyv2axfp5khqe3yk6w/post/3mx6mopsd7c25</guid>
-      <pubDate>Tue, 06 Oct 2026 04:45:01 GMT</pubDate>
-      <dc:creator>Anime Trending (anitrendz.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID announced that their new song, &quot;SPIN,&quot; will be the ending theme for The Beykingdom Arc of BEYBLADE X!<br/><br/>It&#39;s the title track of their upcoming three-song single, set for release on October 28, 2026.<br/><br/>✨More: atani.me/band-maid-spin</p><p><em>BlueSky &middot; anitrendz.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
