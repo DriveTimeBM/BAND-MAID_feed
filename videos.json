@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "iq-RYX1mERI",
+        "Title":  "Band Maid Toi Et Moi + extra intro with Misa & Akane @The Wiltern 10/12/2026",
+        "Channel":  "Todd Andrade",
+        "ChannelId":  "UCMcsjVNGFeZKvqTe-Zjkzjg",
+        "Url":  "https://youtu.be/iq-RYX1mERI",
+        "Thumbnail":  "https://i.ytimg.com/vi/iq-RYX1mERI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T02:14:47.0000000Z",
+        "DiscoveredAt":  "2026-10-14T02:46:29.4292452Z",
+        "Duration":  "00:05:45",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dU3Wqvona_4",
         "Title":  "Band Maid Hate? @ The Wiltern 10/12/2026",
         "Channel":  "Todd Andrade",
