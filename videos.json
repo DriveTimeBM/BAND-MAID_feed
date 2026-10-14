@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NE3J_SzBNII",
+        "Title":  "🔥 BAND-MAID – NO GOD feat. MIKE EINZIGER (LIVE IN LA!) | THE WILTERN, OCT. 12, 2026 🤘",
+        "Channel":  "RJS_Reactions",
+        "ChannelId":  "UCfOmuwwHkq0wbruIT0FdLiQ",
+        "Url":  "https://youtu.be/NE3J_SzBNII",
+        "Thumbnail":  "https://i.ytimg.com/vi/NE3J_SzBNII/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T23:59:04.0000000Z",
+        "DiscoveredAt":  "2026-10-14T00:12:38.9401504Z",
+        "Duration":  "00:06:03",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "YRXz-CxXI9E",
+        "Title":  "Band-Maid - Brightest Star - The Wiltern  10/12/26 🔥👏😍",
+        "Channel":  "AaronRokz",
+        "ChannelId":  "UCvD-19vS2C8N1jRQvoauBfg",
+        "Url":  "https://youtu.be/YRXz-CxXI9E",
+        "Thumbnail":  "https://i.ytimg.com/vi/YRXz-CxXI9E/hqdefault.jpg",
+        "PublishedAt":  "2026-10-13T23:50:36.0000000Z",
+        "DiscoveredAt":  "2026-10-14T00:12:37.0425022Z",
+        "Duration":  "00:03:35",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MxXSzpK7p5M",
         "Title":  "Band-Maid Michael Einziger Bestie Colab",
         "Channel":  "Techgnosi",
