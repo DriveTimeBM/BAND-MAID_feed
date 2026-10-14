@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0Ygqc05_dWU",
+        "Title":  "Both BAND-MAID and LOVEBITES Announce NO LIVE SHOWS IN 2027!",
+        "Channel":  "Modern Rock Talk",
+        "ChannelId":  "UC3tmOBoDTaEeHmFb9NDEP1w",
+        "Url":  "https://youtu.be/0Ygqc05_dWU",
+        "Thumbnail":  "https://i.ytimg.com/vi/0Ygqc05_dWU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T23:00:19.0000000Z",
+        "DiscoveredAt":  "2026-10-14T23:20:00.4435929Z",
+        "Duration":  "00:09:32",
+        "ViewsAtDiscovery":  52,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BzuyBgBQQd8",
         "Title":  "Band Maid ENERGETIC @ The Wiltern 10/12/2026",
         "Channel":  "Todd Andrade",
