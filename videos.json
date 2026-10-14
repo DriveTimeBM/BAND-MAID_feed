@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hDBN_FASx1Y",
+        "Title":  "Band-Maid @BANDMAID banter clip from 10/12/26 at the Wiltern",
+        "Channel":  "WallflowerPerk",
+        "ChannelId":  "UCfkIOl7xqI4SmdkJ56QIHow",
+        "Url":  "https://youtu.be/hDBN_FASx1Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/hDBN_FASx1Y/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T19:12:57.0000000Z",
+        "DiscoveredAt":  "2026-10-14T19:13:22.7606853Z",
+        "Duration":  "00:03:01",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "TZuDoau6s2Q",
+        "Title":  "Band-Maid performance clip from 10/12/26 at the Wiltern @BANDMAID",
+        "Channel":  "WallflowerPerk",
+        "ChannelId":  "UCfkIOl7xqI4SmdkJ56QIHow",
+        "Url":  "https://youtu.be/TZuDoau6s2Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/TZuDoau6s2Q/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T19:10:51.0000000Z",
+        "DiscoveredAt":  "2026-10-14T19:13:21.4404696Z",
+        "Duration":  "00:02:01",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "sDcNDEa_zHQ",
         "Title":  "Band-Maid At The Wiltern And My 20th Okyuji: Filmed on 10/11-13/26",
         "Channel":  "MorbidGWL",
