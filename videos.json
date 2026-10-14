@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7lWKLvCJQtQ",
+        "Title":  "BAND-MAID Set Recap (Dallas House of Blues 2026)",
+        "Channel":  "SJacques",
+        "ChannelId":  "UCJLvySOYDzLwWwlK3igO9pA",
+        "Url":  "https://youtu.be/7lWKLvCJQtQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/7lWKLvCJQtQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T03:00:24.0000000Z",
+        "DiscoveredAt":  "2026-10-14T03:17:24.5455190Z",
+        "Duration":  "01:15:58",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "iq-RYX1mERI",
         "Title":  "Band Maid Toi Et Moi + extra intro with Misa & Akane @The Wiltern 10/12/2026",
         "Channel":  "Todd Andrade",
