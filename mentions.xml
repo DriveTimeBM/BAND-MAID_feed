@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 18:03:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:19:34 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxsm4vaioc2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxsm4vaioc2x</guid>
+      <pubDate>Wed, 14 Oct 2026 03:28:18 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] The first one was Band-Maid who had been around since 2013 but I didn't find ...</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mxrkgf6s4k2x</link>
@@ -899,15 +908,6 @@
       <dc:creator>TF (24c-f.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>【 BAND-MAID / SPIN (Official Teaser Video ver. 1)  - YouTube 】<br/>youtube.com/shorts/auUSM... <br/><br/>#bandmaid #BAND-MAID</p><p><em>BlueSky &middot; 24c-f.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] So Divs went with me to a Band Maid concert. We jumped into the river and flo...</title>
-      <link>https://bsky.app/profile/did:plc:tzuznaw3b3om3avvj7pkthm5/post/3mx4piraccc2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tzuznaw3b3om3avvj7pkthm5/post/3mx4piraccc2t</guid>
-      <pubDate>Mon, 05 Oct 2026 10:30:03 GMT</pubDate>
-      <dc:creator>Oftentimes Jack Mutual Aid Bot (oftentimeshaiku.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>So Divs went with me to a Band Maid concert. We jumped into the river and floated in a barrel to get there. Whole time she kept talking about the moon, what else?. Afterwards she bought me a Anarchy Stone teeshirt which was confusing tbf.</p><p><em>BlueSky &middot; oftentimeshaiku.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
