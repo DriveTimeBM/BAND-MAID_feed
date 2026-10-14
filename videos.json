@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Cy5BL4MTexc",
+        "Title":  "Band-Maid clips 10/12/26 @BANDMAID taken by my friend Jose",
+        "Channel":  "WallflowerPerk",
+        "ChannelId":  "UCfkIOl7xqI4SmdkJ56QIHow",
+        "Url":  "https://youtu.be/Cy5BL4MTexc",
+        "Thumbnail":  "https://i.ytimg.com/vi/Cy5BL4MTexc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T19:22:22.0000000Z",
+        "DiscoveredAt":  "2026-10-14T19:44:11.7626642Z",
+        "Duration":  "00:03:01",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "0SvKMEhBEc8",
+        "Title":  "REACTION TO BAND-MAID - ENDLESS STORY",
+        "Channel":  "Cold Fire",
+        "ChannelId":  "UCKboltkZSCKZ0olDaaf9ECQ",
+        "Url":  "https://youtu.be/0SvKMEhBEc8",
+        "Thumbnail":  "https://i.ytimg.com/vi/0SvKMEhBEc8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T19:00:10.0000000Z",
+        "DiscoveredAt":  "2026-10-14T19:44:10.6196336Z",
+        "Duration":  "00:14:57",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hDBN_FASx1Y",
         "Title":  "Band-Maid @BANDMAID banter clip from 10/12/26 at the Wiltern",
         "Channel":  "WallflowerPerk",
