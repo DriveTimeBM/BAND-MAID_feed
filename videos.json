@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "qfbVTyHIU3A",
+        "Title":  "Band-Maid - Wiltern 10/12/26",
+        "Channel":  "AaronRokz",
+        "ChannelId":  "UCvD-19vS2C8N1jRQvoauBfg",
+        "Url":  "https://youtu.be/qfbVTyHIU3A",
+        "Thumbnail":  "https://i.ytimg.com/vi/qfbVTyHIU3A/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T00:57:56.0000000Z",
+        "DiscoveredAt":  "2026-10-14T01:14:09.5493922Z",
+        "Duration":  "00:05:55",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JHn6KPghwMI",
         "Title":  " Band Maid - Super Sunshine  10-12-26 Wiltern Theater",
         "Channel":  "bandmaid fan videos",
