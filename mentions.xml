@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 04:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:05:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 7 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mxsqyrf7dv22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mxsqyrf7dv22</guid>
+      <pubDate>Wed, 14 Oct 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>7 years ago<br/>Blooming<br/>live debut<br/>Bay Hall, Yokohama, Japan<br/>2019/10/14<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] BAND-MAIDはお気に入りのバンドだけど、恋愛の歌を歌わなくなったからかAfter Lifeような思春期っぽい攻撃性がなくなってきてしまってさみしい。...</title>
+      <link>https://bsky.app/profile/did:plc:lsrijvayrug7dzde36c4qhpr/post/3mxspancpm22s</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:lsrijvayrug7dzde36c4qhpr/post/3mxspancpm22s</guid>
+      <pubDate>Wed, 14 Oct 2026 04:24:05 GMT</pubDate>
+      <dc:creator>ももみ (miminamill11.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDはお気に入りのバンドだけど、恋愛の歌を歌わなくなったからかAfter Lifeような思春期っぽい攻撃性がなくなってきてしまってさみしい。SUPER SUNSHINEみたいな人生応援ソングも大好きだけども。</p><p><em>BlueSky &middot; miminamill11.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxsm4vaioc2x</link>
@@ -890,24 +908,6 @@
       <dc:creator>DJ Ranma S (djranmas.net)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Seeing Band-Maid with @giovedea.bsky.social tonight! VIP BABY!</p><p><em>BlueSky &middot; djranmas.net</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mx5t2htssv26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mx5t2htssv26</guid>
-      <pubDate>Mon, 05 Oct 2026 21:06:18 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 【 BAND-MAID / SPIN (Official Teaser Video ver. 1)  - YouTube 】</title>
-      <link>https://bsky.app/profile/did:plc:zmxswzrac2u2d6pydmzcbbrs/post/3mx4pzqdy722s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zmxswzrac2u2d6pydmzcbbrs/post/3mx4pzqdy722s</guid>
-      <pubDate>Mon, 05 Oct 2026 10:39:33 GMT</pubDate>
-      <dc:creator>TF (24c-f.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>【 BAND-MAID / SPIN (Official Teaser Video ver. 1)  - YouTube 】<br/>youtube.com/shorts/auUSM... <br/><br/>#bandmaid #BAND-MAID</p><p><em>BlueSky &middot; 24c-f.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
