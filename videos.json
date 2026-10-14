@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "spTDOLZMrYI",
+        "Title":  "Band Maid - Domination live 10-12-26 Wiltern Theater ",
+        "Channel":  "bandmaid fan videos",
+        "ChannelId":  "UCGfBco4I2k8ccPkgoGSyPmw",
+        "Url":  "https://youtu.be/spTDOLZMrYI",
+        "Thumbnail":  "https://i.ytimg.com/vi/spTDOLZMrYI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T01:33:25.0000000Z",
+        "DiscoveredAt":  "2026-10-14T01:44:54.7938829Z",
+        "Duration":  "00:04:01",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "4ETTpWLOBvQ",
+        "Title":  "BAND-MAID in Los Angeles [10.12.2026]",
+        "Channel":  "zeldagger",
+        "ChannelId":  "UCxcA4xNP3rX17XvRBDWEreA",
+        "Url":  "https://youtu.be/4ETTpWLOBvQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/4ETTpWLOBvQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T01:13:46.0000000Z",
+        "DiscoveredAt":  "2026-10-14T01:44:53.0557183Z",
+        "Duration":  "00:08:51",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qfbVTyHIU3A",
         "Title":  "Band-Maid - Wiltern 10/12/26",
         "Channel":  "AaronRokz",
