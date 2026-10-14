@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-zVq-w7Q-hM",
+        "Title":  "Band-Maid :: Full Concert (raw) :: Atlanta 2026-10-07",
+        "Channel":  "Sonic Roost",
+        "ChannelId":  "UCuwVkzGH9d4VOSx4NhUqj9g",
+        "Url":  "https://youtu.be/-zVq-w7Q-hM",
+        "Thumbnail":  "https://i.ytimg.com/vi/-zVq-w7Q-hM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T15:46:12.0000000Z",
+        "DiscoveredAt":  "2026-10-14T15:47:23.0380908Z",
+        "Duration":  "01:42:23",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JHncwY7quRw",
         "Title":  "We go to a BAND-MAID WORLD TOUR show and watch them live for the FIRST TIME! | (VLOG)",
         "Channel":  "The Keep Up",
