@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yPlXQqdw7X0",
+        "Title":  "Band-Maid Live at The Wiltern 10/12/26 Full Set",
+        "Channel":  "BlackReaperCryptic",
+        "ChannelId":  "UCOLm1VotT9KZLXd7E-SHt6A",
+        "Url":  "https://youtu.be/yPlXQqdw7X0",
+        "Thumbnail":  "https://i.ytimg.com/vi/yPlXQqdw7X0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-14T03:34:09.0000000Z",
+        "DiscoveredAt":  "2026-10-14T03:48:37.9346700Z",
+        "Duration":  "01:49:46",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7lWKLvCJQtQ",
         "Title":  "BAND-MAID Set Recap (Dallas House of Blues 2026)",
         "Channel":  "SJacques",
