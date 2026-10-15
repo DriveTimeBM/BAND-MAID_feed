@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 21:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:50:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] lovebites e band maid vão fazer hiatus de shows ano que vem, nemophilia vai m...</title>
+      <link>https://bsky.app/profile/did:plc:xk7lbowfu7tnfxyrack2p2qe/post/3mxuutijo3c27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xk7lbowfu7tnfxyrack2p2qe/post/3mxuutijo3c27</guid>
+      <pubDate>Thu, 15 Oct 2026 01:09:26 GMT</pubDate>
+      <dc:creator>Dandy ✿ (yumekuni.moe)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>lovebites e band maid v&#227;o fazer hiatus de shows ano que vem, nemophilia vai mudar, hanabie. t&#225; sem a Chika<br/><br/>Hagane e broken by the scream me salvem com um show<br/><br/>n&#227;o &#233; banda mas aceito passcode tbm.....</p><p><em>BlueSky &middot; yumekuni.moe</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] It's the 15th in Japan, so Happy 33rd Birthday to Band Maid's incredible bass...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mxueegn2cc2t</link>
@@ -899,15 +908,6 @@
       <dc:creator>Ashely Gordon 🌸🎲 (ashely4695.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I’m a massive fan of #BANDMAID to be honest and personally excited to hear what the full song will be since the majority of their discography is really good!! #beybladeX</p><p><em>BlueSky &middot; ashely4695.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Beauty and the beast</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mx6rajy2kg24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mx6rajy2kg24</guid>
-      <pubDate>Tue, 06 Oct 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Beauty and the beast<br/>Album: New Beginning<br/>Release: 11/17/2015<br/>Music: 川添広希 [Kawazoe, Hiroki]<br/>Lyrics: 川島だりあ [Kawashima, Daria]<br/>Arrangement: spinstealthspike<br/>1st Live:7/17/2015<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
