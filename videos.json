@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "s_xt8tVDVgE",
+        "Title":  "Band-Maid  - Endless Story - The Wiltern 10/12/26 🔥👏😍",
+        "Channel":  "AaronRokz",
+        "ChannelId":  "UCvD-19vS2C8N1jRQvoauBfg",
+        "Url":  "https://youtu.be/s_xt8tVDVgE",
+        "Thumbnail":  "https://i.ytimg.com/vi/s_xt8tVDVgE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-15T03:50:07.0000000Z",
+        "DiscoveredAt":  "2026-10-15T03:53:11.1355556Z",
+        "Duration":  "00:03:55",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "jABivndEqY8",
+        "Title":  "Band-Maid  - Present Perfect - The Wiltern 10/12/26",
+        "Channel":  "AaronRokz",
+        "ChannelId":  "UCvD-19vS2C8N1jRQvoauBfg",
+        "Url":  "https://youtu.be/jABivndEqY8",
+        "Thumbnail":  "https://i.ytimg.com/vi/jABivndEqY8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-15T03:49:23.0000000Z",
+        "DiscoveredAt":  "2026-10-15T03:53:04.1437844Z",
+        "Duration":  "00:04:13",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cirCrsX_mZ0",
         "Title":  "Band-Maid | Choose Me | Music Video REACTION",
         "Channel":  "Aleki Ent",
