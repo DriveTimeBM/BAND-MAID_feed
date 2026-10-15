@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AG47O0jmKvQ",
+        "Title":  "Can I say OMG. BAND-MAID Live is Solid Gold 🎀🎀🎀🎀🎀",
+        "Channel":  "Dave M Channel",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/AG47O0jmKvQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/AG47O0jmKvQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-15T18:39:06.0000000Z",
+        "DiscoveredAt":  "2026-10-15T18:47:44.1195745Z",
+        "Duration":  "00:04:12",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "EZPNlZMLUZg",
         "Title":  "BAND-MAID - Dilly Dally LIVE @ Huntington NY 10-5-2026",
         "Channel":  "Steve Pothos",
