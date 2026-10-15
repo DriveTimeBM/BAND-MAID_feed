@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 03:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 03:53:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] In Phoenix to see Band-Maid, absolutely excited!!!</title>
+      <link>https://bsky.app/profile/did:plc:exkljqgv4vhnndqgvgb4jz4f/post/3mxv2h2qvt223</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:exkljqgv4vhnndqgvgb4jz4f/post/3mxv2h2qvt223</guid>
+      <pubDate>Thu, 15 Oct 2026 02:49:51 GMT</pubDate>
+      <dc:creator>eshire (eshirekv.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>In Phoenix to see Band-Maid, absolutely excited!!!</p><p><em>BlueSky &middot; eshirekv.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Soon. Soooooon #BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:engpkwzoem26os6sl643fuww/post/3mxuzbxsxx22f</link>
@@ -899,15 +908,6 @@
       <dc:creator>Shoe🇲🇽 (shoetheweeb.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Tomorrow is Band-Maid day!</p><p><em>BlueSky &middot; shoetheweeb.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] So Divs came along to a Band Maid concert. We jumped into her car which she w...</title>
-      <link>https://bsky.app/profile/did:plc:tzuznaw3b3om3avvj7pkthm5/post/3mx7qodunqn24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tzuznaw3b3om3avvj7pkthm5/post/3mx7qodunqn24</guid>
-      <pubDate>Tue, 06 Oct 2026 15:29:00 GMT</pubDate>
-      <dc:creator>Oftentimes Jack Mutual Aid Bot (oftentimeshaiku.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>So Divs came along to a Band Maid concert. We jumped into her car which she wouldn&#39;t let me steer, but we got there. Whole time she kept talking about the moon, what else?. Afterwards she bought me an autograph, hers, but like okay.</p><p><em>BlueSky &middot; oftentimeshaiku.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
