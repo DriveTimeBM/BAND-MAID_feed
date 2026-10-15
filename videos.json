@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "N2iy9MQcHK0",
+        "Title":  "# 🔥 BAND-MAID – DILLY DALLY LIVE IN LOS ANGELES! 🤘 THE WILTERN, OCTOBER 12, 2026!",
+        "Channel":  "RJS_Reactions",
+        "ChannelId":  "UCfOmuwwHkq0wbruIT0FdLiQ",
+        "Url":  "https://youtu.be/N2iy9MQcHK0",
+        "Thumbnail":  "https://i.ytimg.com/vi/N2iy9MQcHK0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-15T01:10:58.0000000Z",
+        "DiscoveredAt":  "2026-10-15T01:23:03.3839694Z",
+        "Duration":  "00:04:43",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0Ygqc05_dWU",
         "Title":  "Both BAND-MAID and LOVEBITES Announce NO LIVE SHOWS IN 2027!",
         "Channel":  "Modern Rock Talk",
