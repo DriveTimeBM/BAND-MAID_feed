@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "HBZFhaSfORg",
+        "Title":  "i discovered Band maid Thrill Music Video!",
+        "Channel":  "Emmanuel React",
+        "ChannelId":  "UCkNErUXDroPLxu88rM4vGsg",
+        "Url":  "https://youtu.be/HBZFhaSfORg",
+        "Thumbnail":  "https://i.ytimg.com/vi/HBZFhaSfORg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-15T20:55:35.0000000Z",
+        "DiscoveredAt":  "2026-10-15T21:20:55.9726914Z",
+        "Duration":  "00:05:06",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "PnNlk9uh7-g",
         "Title":  "BEYOND THE HEMISPHERE!! - Corallium Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
