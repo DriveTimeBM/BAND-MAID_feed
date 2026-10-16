@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "t_M_dFMZI00",
+        "Title":  "Band-Maid x Mike Einziger NO GOD Wiltern Theater Los Angeles 2026-10-12 3D SBS",
+        "Channel":  "Thomas McLain",
+        "ChannelId":  "UC27FkQve-6OghBkxXt-P35g",
+        "Url":  "https://youtu.be/t_M_dFMZI00",
+        "Thumbnail":  "https://i.ytimg.com/vi/t_M_dFMZI00/hqdefault.jpg",
+        "PublishedAt":  "2026-10-16T04:03:42.0000000Z",
+        "DiscoveredAt":  "2026-10-16T04:30:53.1651468Z",
+        "Duration":  "00:05:20",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "AvIt7MHR6Ps",
+        "Title":  "NO GOD – BAND-MAID Live in Chicago (2026) [Fan Cam]",
+        "Channel":  "Gaijin in the Pit",
+        "ChannelId":  "UCaMDhEdszf_WklEYVsHLqaQ",
+        "Url":  "https://youtu.be/AvIt7MHR6Ps",
+        "Thumbnail":  "https://i.ytimg.com/vi/AvIt7MHR6Ps/hqdefault.jpg",
+        "PublishedAt":  "2026-10-15T19:58:40.0000000Z",
+        "DiscoveredAt":  "2026-10-16T04:30:52.3817781Z",
+        "Duration":  "00:04:32",
+        "ViewsAtDiscovery":  38,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "73re9x-Eg-0",
         "Title":  "BAND-MAID CHOOSE ME Live The Van Buren Phoenix AZ 10/14/26 The ",
         "Channel":  "Ultracollectorz",
