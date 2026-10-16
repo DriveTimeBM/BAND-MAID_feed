@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "73re9x-Eg-0",
+        "Title":  "BAND-MAID CHOOSE ME Live The Van Buren Phoenix AZ 10/14/26 The ",
+        "Channel":  "Ultracollectorz",
+        "ChannelId":  "UCAYtJenTvdZbc95MnnBp79g",
+        "Url":  "https://youtu.be/73re9x-Eg-0",
+        "Thumbnail":  "https://i.ytimg.com/vi/73re9x-Eg-0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-16T00:35:44.0000000Z",
+        "DiscoveredAt":  "2026-10-16T00:55:24.0185393Z",
+        "Duration":  "00:03:40",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hVBzG_Y7xqU",
         "Title":  "Band-Maid - YOLO (Bass And drums included) (drums backing track)",
         "Channel":  "Drum Station Solo Tracks",
