@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CerDhvAfJ24",
+        "Title":  "Band-Maid - Live @ The Van Buren, PHX 10-14-2026",
+        "Channel":  "g33man64",
+        "ChannelId":  "UCJgXkvV7nD0fIVvE0dqej0A",
+        "Url":  "https://youtu.be/CerDhvAfJ24",
+        "Thumbnail":  "https://i.ytimg.com/vi/CerDhvAfJ24/hqdefault.jpg",
+        "PublishedAt":  "2026-10-16T11:27:20.0000000Z",
+        "DiscoveredAt":  "2026-10-16T11:43:18.5203311Z",
+        "Duration":  "01:41:27",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4uTBE72TjPU",
         "Title":  "Band Maid MISA IS A LEGEND!! GUIDE REACTION",
         "Channel":  "kpx ATOM",
