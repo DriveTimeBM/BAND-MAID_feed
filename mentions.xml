@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 12:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:08:15 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
+      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mxyxfxrjrl2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mxyxfxrjrl2d</guid>
+      <pubDate>Fri, 16 Oct 2026 16:06:10 GMT</pubDate>
+      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 前回のボカロメタル投稿祭参加曲紹介🤘</title>
       <link>https://bsky.app/profile/did:plc:zqbcjv2zmwsloc4evjhg2xbg/post/3mxyhbqlvrc2c</link>
@@ -899,15 +908,6 @@
       <dc:creator>unrealtravis.bsky.social</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Headed to the Band-Maid show at the Buckhead Theater just outside Atlanta.  Who&#39;s here and wants to hang. #Bandamaid #Band-Maid #Atlanta #ATL</p><p><em>BlueSky &middot; unrealtravis.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] This is the VIP line for the Band-Maid concert 2.5 hours before the show star...</title>
-      <link>https://bsky.app/profile/did:plc:flre6gtzdidm26i6j54xfpov/post/3mxcvfufryk2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:flre6gtzdidm26i6j54xfpov/post/3mxcvfufryk2u</guid>
-      <pubDate>Wed, 07 Oct 2026 21:31:47 GMT</pubDate>
-      <dc:creator>Specter177🐊 (specter177.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>This is the VIP line for the Band-Maid concert 2.5 hours before the show starts (and half an hour before the doors open for VIP). The lighted sign is the entrance.</p><p><em>BlueSky &middot; specter177.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
