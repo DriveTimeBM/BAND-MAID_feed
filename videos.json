@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Sqga7AiqyE0",
+        "Title":  "QUEEN REACTS to BAND-MAID – “DOMINATION” | THIS LIVE PERFORMANCE IS INSANE! 🤘🔥",
+        "Channel":  "QueenKafi",
+        "ChannelId":  "UCZs-74rfK5XoS1J7b_6Jhlg",
+        "Url":  "https://youtu.be/Sqga7AiqyE0",
+        "Thumbnail":  "https://i.ytimg.com/vi/Sqga7AiqyE0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-16T17:00:38.0000000Z",
+        "DiscoveredAt":  "2026-10-16T17:08:02.7977454Z",
+        "Duration":  "00:07:54",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "BfaoFYn_U-s",
+        "Title":  "BAND-MAID『Manners』実はベースが主人公説 #bandmaid #bandmaidreaction  #shorts  #bass",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/BfaoFYn_U-s",
+        "Thumbnail":  "https://i.ytimg.com/vi/BfaoFYn_U-s/hqdefault.jpg",
+        "PublishedAt":  "2026-10-16T16:42:00.0000000Z",
+        "DiscoveredAt":  "2026-10-16T17:08:01.2902363Z",
+        "Duration":  "00:01:22",
+        "ViewsAtDiscovery":  84,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BY0cTDovDvg",
         "Title":  "Band-Maid Akane VLOG US Tour 2026  #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
