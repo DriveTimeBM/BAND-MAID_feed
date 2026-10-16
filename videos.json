@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "eOqwgyte9Tg",
+        "Title":  "BAND-MAID ENDLESS STORY Live The Van Buren Phoenix AZ 10/14/26",
+        "Channel":  "Ultracollectorz",
+        "ChannelId":  "UCAYtJenTvdZbc95MnnBp79g",
+        "Url":  "https://youtu.be/eOqwgyte9Tg",
+        "Thumbnail":  "https://i.ytimg.com/vi/eOqwgyte9Tg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-16T04:58:51.0000000Z",
+        "DiscoveredAt":  "2026-10-16T05:01:35.5901669Z",
+        "Duration":  "00:03:46",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "VVjCS_7MZY0",
+        "Title":  "BAND-MAID SHAMBLES Live The Van Buren Phoenix AZ 10/14/26",
+        "Channel":  "Ultracollectorz",
+        "ChannelId":  "UCAYtJenTvdZbc95MnnBp79g",
+        "Url":  "https://youtu.be/VVjCS_7MZY0",
+        "Thumbnail":  "https://i.ytimg.com/vi/VVjCS_7MZY0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-16T04:42:55.0000000Z",
+        "DiscoveredAt":  "2026-10-16T05:01:34.6729887Z",
+        "Duration":  "00:03:32",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "t_M_dFMZI00",
         "Title":  "Band-Maid x Mike Einziger NO GOD Wiltern Theater Los Angeles 2026-10-12 3D SBS",
         "Channel":  "Thomas McLain",
