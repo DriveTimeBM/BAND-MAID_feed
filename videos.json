@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "16v-nONszbc",
+        "Title":  "Band-Maid バンドメイド 2026 - Full Set Concert in UHD 4K (Phoenix - Live at The Van Buren)",
+        "Channel":  "Louis Mills",
+        "ChannelId":  "UCI5MDj8aCBJzhFSYA_MtNNA",
+        "Url":  "https://youtu.be/16v-nONszbc",
+        "Thumbnail":  "https://i.ytimg.com/vi/16v-nONszbc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T19:45:16.0000000Z",
+        "DiscoveredAt":  "2026-10-17T19:46:21.4081062Z",
+        "Duration":  "01:41:30",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "JrE7L6VJIlo",
+        "Title":  "Band-Maid - Sayonakidori (サヨナキドリ) - Live at Shibuya 2022 MUSIC REACTION",
+        "Channel":  "Hood Digital Da Rock Reactor",
+        "ChannelId":  "UCKHaikgsu3Nfrhx-Va6rGGw",
+        "Url":  "https://youtu.be/JrE7L6VJIlo",
+        "Thumbnail":  "https://i.ytimg.com/vi/JrE7L6VJIlo/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T19:26:23.0000000Z",
+        "DiscoveredAt":  "2026-10-17T19:46:20.2198414Z",
+        "Duration":  "00:09:29",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_uF8gKj35A8",
         "Title":  "\"Lock and Load\" - Band Maid, @The Wiltern October 12, 2026",
         "Channel":  "Eleno Noriega",
