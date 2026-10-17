@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 08:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:48:52 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Happy birthday, MISA!</title>
+      <link>https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3my2tjm5h3s2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3my2tjm5h3s2y</guid>
+      <pubDate>Sat, 17 Oct 2026 10:01:59 GMT</pubDate>
+      <dc:creator>bmcssu.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Happy birthday, MISA! <br/><br/>Like a delicate child, you tread barefoot, commanding the silence of the floor like a sniper. <br/><br/>May this year bring you pure and warm happiness, spreading tranquility all around you.<br/><br/>#bandmaid</p><p><em>BlueSky &middot; bmcssu.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Only just now getting into BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:xenlob5kqzhniayn7xzbneur/post/3my2oqzbgnc2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xenlob5kqzhniayn7xzbneur/post/3my2oqzbgnc2d</guid>
+      <pubDate>Sat, 17 Oct 2026 08:36:39 GMT</pubDate>
+      <dc:creator>‎Noct (noctthecrow.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Only just now getting into BAND-MAID<br/><br/>oops</p><p><em>BlueSky &middot; noctthecrow.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] — The plentiful ideas on the chorus and the ability to adapt on the scene, go...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3my2geosdnv2z</link>
@@ -890,24 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Well that was fun as fuck. #BandMaid</title>
-      <link>https://bsky.app/profile/did:plc:flre6gtzdidm26i6j54xfpov/post/3mxddro27mk2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:flre6gtzdidm26i6j54xfpov/post/3mxddro27mk2u</guid>
-      <pubDate>Thu, 08 Oct 2026 01:48:55 GMT</pubDate>
-      <dc:creator>Specter177🐊 (specter177.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Well that was fun as fuck. #BandMaid</p><p><em>BlueSky &middot; specter177.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] it is about 40:1 dudes and half those dudes are very old and white. the vibes...</title>
-      <link>https://bsky.app/profile/did:plc:gqvwzxmp4hfuxjx7f57om6m3/post/3mxd56g2fak2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gqvwzxmp4hfuxjx7f57om6m3/post/3mxd56g2fak2l</guid>
-      <pubDate>Wed, 07 Oct 2026 23:50:47 GMT</pubDate>
-      <dc:creator>loarider (loarider.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>it is about 40:1 dudes and half those dudes are very old and white. the vibes are VERY different than babymetal</p><p><em>BlueSky &middot; loarider.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
