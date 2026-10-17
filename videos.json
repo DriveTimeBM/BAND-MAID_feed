@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "4HpbDLb89ok",
+        "Title":  "Band-Maid MIX Live in Huntington, NY#最高彩姫 #bandmaid",
+        "Channel":  "GARTZ30",
+        "ChannelId":  "UCj5ccQpiT7nWBVbWMWOoDAA",
+        "Url":  "https://youtu.be/4HpbDLb89ok",
+        "Thumbnail":  "https://i.ytimg.com/vi/4HpbDLb89ok/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T00:21:00.0000000Z",
+        "DiscoveredAt":  "2026-10-17T00:30:14.8316351Z",
+        "Duration":  "00:01:48",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "b9cZUHIB41A",
+        "Title":  "BAND MAID Choose Me live in Phoenix 10/14/2026",
+        "Channel":  "ehspaul",
+        "ChannelId":  "UCOMsoQf2ZQ67lsQOxISbHwA",
+        "Url":  "https://youtu.be/b9cZUHIB41A",
+        "Thumbnail":  "https://i.ytimg.com/vi/b9cZUHIB41A/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T00:08:37.0000000Z",
+        "DiscoveredAt":  "2026-10-17T00:30:13.4364002Z",
+        "Duration":  "00:03:47",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "EkTfTsfuWig",
         "Title":  "I'VE BEEN BEYOND INFLUENCED!! - Influencer Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
