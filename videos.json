@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "tLRDoDfB_SI",
+        "Title":  "Foreigner Reaction to Band Maid - Choose Me ",
+        "Channel":  "Emmanuel React",
+        "ChannelId":  "UCkNErUXDroPLxu88rM4vGsg",
+        "Url":  "https://youtu.be/tLRDoDfB_SI",
+        "Thumbnail":  "https://i.ytimg.com/vi/tLRDoDfB_SI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T13:01:03.0000000Z",
+        "DiscoveredAt":  "2026-10-17T13:21:42.2477285Z",
+        "Duration":  "00:05:04",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jnQHFrCf5-I",
         "Title":  "Musicians REACT to Band-Maid: Why Why Why (2024 Day of Maid)",
         "Channel":  "Glenn and Adrian's Rock Talk",
