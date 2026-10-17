@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bQJrDesstyw",
+        "Title":  "Reacting to Show Them Live Performance by Band-Maid and the Warning Got Me So Excited",
+        "Channel":  "The Smith House Reactions",
+        "ChannelId":  "UCfQeTYw5jS1UryRg8GN3_PQ",
+        "Url":  "https://youtu.be/bQJrDesstyw",
+        "Thumbnail":  "https://i.ytimg.com/vi/bQJrDesstyw/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T05:00:03.0000000Z",
+        "DiscoveredAt":  "2026-10-17T05:06:43.5845129Z",
+        "Duration":  "00:07:06",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4xWLrF6LtEI",
         "Title":  "BAND MAID - No God (with Mike Einziger) live in Los Angeles 10/12/2026",
         "Channel":  "ehspaul",
