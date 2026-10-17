@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7DQWl6bwWvU",
+        "Title":  "NO WAY AM I HATING THIS!! - HATE? Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/7DQWl6bwWvU",
+        "Thumbnail":  "https://i.ytimg.com/vi/7DQWl6bwWvU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T20:00:22.0000000Z",
+        "DiscoveredAt":  "2026-10-17T20:06:39.7879149Z",
+        "Duration":  "00:05:02",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "16v-nONszbc",
         "Title":  "Band-Maid バンドメイド 2026 - Full Set Concert in UHD 4K (Phoenix - Live at The Van Buren)",
         "Channel":  "Louis Mills",
