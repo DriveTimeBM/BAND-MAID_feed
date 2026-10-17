@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 17:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 01:31:55 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxzvr5fbyn2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxzvr5fbyn2f</guid>
+      <pubDate>Sat, 17 Oct 2026 01:09:19 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
       <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mxyxfxrjrl2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Celina the Fermented (celina0801.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID time🤘🎀</p><p><em>BlueSky &middot; celina0801.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Headed to the Band-Maid show at the Buckhead Theater just outside Atlanta.  W...</title>
-      <link>https://bsky.app/profile/did:plc:5xsqhcmxyebd3jiqkhln65cj/post/3mxcww5sq522n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5xsqhcmxyebd3jiqkhln65cj/post/3mxcww5sq522n</guid>
-      <pubDate>Wed, 07 Oct 2026 21:58:47 GMT</pubDate>
-      <dc:creator>unrealtravis.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Headed to the Band-Maid show at the Buckhead Theater just outside Atlanta.  Who&#39;s here and wants to hang. #Bandamaid #Band-Maid #Atlanta #ATL</p><p><em>BlueSky &middot; unrealtravis.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
