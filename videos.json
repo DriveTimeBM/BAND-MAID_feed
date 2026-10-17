@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "D9cUbbeD1lY",
+        "Title":  "BAND MAID - Bestie (with Mike Einziger) live in Los Angeles 10/12/2026",
+        "Channel":  "ehspaul",
+        "ChannelId":  "UCOMsoQf2ZQ67lsQOxISbHwA",
+        "Url":  "https://youtu.be/D9cUbbeD1lY",
+        "Thumbnail":  "https://i.ytimg.com/vi/D9cUbbeD1lY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T01:19:00.0000000Z",
+        "DiscoveredAt":  "2026-10-17T01:31:44.6347871Z",
+        "Duration":  "00:05:21",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ehDfJXI6C0Q",
+        "Title":  "I FINALLY SAW BAND-MAID LIVE...(DALLAS CONCERT EXPERIENCE)",
+        "Channel":  "Another Perspective",
+        "ChannelId":  "UCR41xBLK6sk-1tItQmS2KWQ",
+        "Url":  "https://youtu.be/ehDfJXI6C0Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/ehDfJXI6C0Q/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T01:09:48.0000000Z",
+        "DiscoveredAt":  "2026-10-17T01:31:43.1008894Z",
+        "Duration":  "00:23:45",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4HpbDLb89ok",
         "Title":  "Band-Maid MIX Live in Huntington, NY#最高彩姫 #bandmaid",
         "Channel":  "GARTZ30",
