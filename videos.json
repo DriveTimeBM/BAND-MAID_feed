@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "IITXZSWns_o",
+        "Title":  "BAND-MAID / onset Bass Cover #bandmaid  #basscover  #bass  #basssolo",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/IITXZSWns_o",
+        "Thumbnail":  "https://i.ytimg.com/vi/IITXZSWns_o/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T14:30:36.0000000Z",
+        "DiscoveredAt":  "2026-10-17T14:53:54.6555782Z",
+        "Duration":  "00:04:06",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "fIEYPsJ05qU",
         "Title":  "BAND-MAID – Matchless GUM 🔥 ¡ESTAS CHICAS SON PURO ROCK! | REACCIÓN EN ESPAÑOL",
         "Channel":  "Rock and Reactions",
