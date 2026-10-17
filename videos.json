@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "4xWLrF6LtEI",
+        "Title":  "BAND MAID - No God (with Mike Einziger) live in Los Angeles 10/12/2026",
+        "Channel":  "ehspaul",
+        "ChannelId":  "UCOMsoQf2ZQ67lsQOxISbHwA",
+        "Url":  "https://youtu.be/4xWLrF6LtEI",
+        "Thumbnail":  "https://i.ytimg.com/vi/4xWLrF6LtEI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T03:40:45.0000000Z",
+        "DiscoveredAt":  "2026-10-17T03:46:28.3784915Z",
+        "Duration":  "00:07:18",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ctDC7SKvmzY",
         "Title":  "BAND MAID - Energetic/Dilly Dally/Ready To Rock live in Los Angeles 10/12/2026",
         "Channel":  "ehspaul",
