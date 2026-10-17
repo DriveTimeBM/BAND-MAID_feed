@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ctDC7SKvmzY",
+        "Title":  "BAND MAID - Energetic/Dilly Dally/Ready To Rock live in Los Angeles 10/12/2026",
+        "Channel":  "ehspaul",
+        "ChannelId":  "UCOMsoQf2ZQ67lsQOxISbHwA",
+        "Url":  "https://youtu.be/ctDC7SKvmzY",
+        "Thumbnail":  "https://i.ytimg.com/vi/ctDC7SKvmzY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T03:04:14.0000000Z",
+        "DiscoveredAt":  "2026-10-17T03:34:53.7509901Z",
+        "Duration":  "00:11:38",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "AiSqfXtOyKI",
         "Title":  "QUEEN REACTS to BAND-MAID – “Don't you tell ME” | THESE WOMEN ROCK! 🤯🔥",
         "Channel":  "QueenKafi",
