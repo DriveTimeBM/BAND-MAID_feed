@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 01:31:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 05:06:51 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Went and saw Band-Maid in Phoenix and it was incredible. It was worth the ove...</title>
+      <link>https://bsky.app/profile/did:plc:horqph6j6m5vdbiij6evvbqp/post/3my2ayabd7c2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:horqph6j6m5vdbiij6evvbqp/post/3my2ayabd7c2t</guid>
+      <pubDate>Sat, 17 Oct 2026 04:30:08 GMT</pubDate>
+      <dc:creator>Short Blondish Kid (rebelionbear.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Went and saw Band-Maid in Phoenix and it was incredible. It was worth the over 40 hours I spent on the road. Honestly can&#39;t wait for them to tour in the US again. #Band-Maid</p><p><em>BlueSky &middot; rebelionbear.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxzvr5fbyn2f</link>
@@ -899,15 +908,6 @@
       <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>LET&#39;S GO in two hours</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID time🤘🎀</title>
-      <link>https://bsky.app/profile/did:plc:4w33hsp7dpwvvttibhxjzucw/post/3mxcxhf6lnk2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4w33hsp7dpwvvttibhxjzucw/post/3mxcxhf6lnk2v</guid>
-      <pubDate>Wed, 07 Oct 2026 22:08:25 GMT</pubDate>
-      <dc:creator>Celina the Fermented (celina0801.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID time🤘🎀</p><p><em>BlueSky &middot; celina0801.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
