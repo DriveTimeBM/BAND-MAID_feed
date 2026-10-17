@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5gvj681LyVc",
+        "Title":  "BAND MAID - Cage/Lock and Load live in Los Angeles 10/12/2026",
+        "Channel":  "ehspaul",
+        "ChannelId":  "UCOMsoQf2ZQ67lsQOxISbHwA",
+        "Url":  "https://youtu.be/5gvj681LyVc",
+        "Thumbnail":  "https://i.ytimg.com/vi/5gvj681LyVc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T01:54:06.0000000Z",
+        "DiscoveredAt":  "2026-10-17T02:02:39.1372103Z",
+        "Duration":  "00:07:27",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "D9cUbbeD1lY",
         "Title":  "BAND MAID - Bestie (with Mike Einziger) live in Los Angeles 10/12/2026",
         "Channel":  "ehspaul",
