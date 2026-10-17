@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Jc1qOlAW4E4",
+        "Title":  "First Time Seeing Band Maid LIVE In Concert",
+        "Channel":  "ItsAliesReacts",
+        "ChannelId":  "UCaY08QhNz9GbYMs1oKk9rCQ",
+        "Url":  "https://youtu.be/Jc1qOlAW4E4",
+        "Thumbnail":  "https://i.ytimg.com/vi/Jc1qOlAW4E4/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T21:14:58.0000000Z",
+        "DiscoveredAt":  "2026-10-17T21:38:13.4612566Z",
+        "Duration":  "00:08:17",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7DQWl6bwWvU",
         "Title":  "NO WAY AM I HATING THIS!! - HATE? Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
