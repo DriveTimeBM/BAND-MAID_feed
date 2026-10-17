@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_uF8gKj35A8",
+        "Title":  "\"Lock and Load\" - Band Maid, @The Wiltern October 12, 2026",
+        "Channel":  "Eleno Noriega",
+        "ChannelId":  "UCHNuh_7FxlXz4QJFmdndcRQ",
+        "Url":  "https://youtu.be/_uF8gKj35A8",
+        "Thumbnail":  "https://i.ytimg.com/vi/_uF8gKj35A8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T18:13:47.0000000Z",
+        "DiscoveredAt":  "2026-10-17T18:42:54.0391441Z",
+        "Duration":  "00:03:07",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "nyK6M0P-VyA",
+        "Title":  "REACTION TO BAND-MAID - ENERGETIC",
+        "Channel":  "Cold Fire",
+        "ChannelId":  "UCKboltkZSCKZ0olDaaf9ECQ",
+        "Url":  "https://youtu.be/nyK6M0P-VyA",
+        "Thumbnail":  "https://i.ytimg.com/vi/nyK6M0P-VyA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T18:00:08.0000000Z",
+        "DiscoveredAt":  "2026-10-17T18:42:52.7166734Z",
+        "Duration":  "00:10:02",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "HCdfirqpZLk",
         "Title":  "SHOW THEM La Colaboración Que Nadie Sabía Que Necesitaba el Rock - BAND-MAID and The Warning",
         "Channel":  "Historias Que Suenan",
