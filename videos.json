@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "1X8S4o8yIz0",
+        "Title":  "# 🔥 BAND-MAID – ARCADIA GIRL REACTION! 🤘 FROM DISCOVERING THEM TO FLYING TO LA — WHAT A JOURNEY!",
+        "Channel":  "RJS_Reactions",
+        "ChannelId":  "UCfOmuwwHkq0wbruIT0FdLiQ",
+        "Url":  "https://youtu.be/1X8S4o8yIz0",
+        "Thumbnail":  "https://i.ytimg.com/vi/1X8S4o8yIz0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T22:58:17.0000000Z",
+        "DiscoveredAt":  "2026-10-17T23:09:51.3775516Z",
+        "Duration":  "00:08:39",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Jc1qOlAW4E4",
         "Title":  "First Time Seeing Band Maid LIVE In Concert",
         "Channel":  "ItsAliesReacts",
