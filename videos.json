@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jnQHFrCf5-I",
+        "Title":  "Musicians REACT to Band-Maid: Why Why Why (2024 Day of Maid)",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/jnQHFrCf5-I",
+        "Thumbnail":  "https://i.ytimg.com/vi/jnQHFrCf5-I/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T10:00:23.0000000Z",
+        "DiscoveredAt":  "2026-10-17T10:18:05.9008793Z",
+        "Duration":  "00:09:47",
+        "ViewsAtDiscovery":  47,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7uslPRTVGOg",
         "Title":  "BAND-MAID \"Super Sunshine\" part 1. The Wiltern, Los Angeles, CA on 12 October 2026",
         "Channel":  "Long \"Paul\" Kyle",
