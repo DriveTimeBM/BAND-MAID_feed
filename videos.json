@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7uslPRTVGOg",
+        "Title":  "BAND-MAID \"Super Sunshine\" part 1. The Wiltern, Los Angeles, CA on 12 October 2026",
+        "Channel":  "Long \"Paul\" Kyle",
+        "ChannelId":  "UCSZG96ybptYYia3R7B6GZZQ",
+        "Url":  "https://youtu.be/7uslPRTVGOg",
+        "Thumbnail":  "https://i.ytimg.com/vi/7uslPRTVGOg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T07:00:31.0000000Z",
+        "DiscoveredAt":  "2026-10-17T07:47:20.5374014Z",
+        "Duration":  "00:03:16",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "eCgmlVODE6w",
+        "Title":  "BAND-MAID \"Super Sunshine\" part 2. The Wiltern, Los Angeles, CA on 12 October 2026",
+        "Channel":  "Long \"Paul\" Kyle",
+        "ChannelId":  "UCSZG96ybptYYia3R7B6GZZQ",
+        "Url":  "https://youtu.be/eCgmlVODE6w",
+        "Thumbnail":  "https://i.ytimg.com/vi/eCgmlVODE6w/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T07:00:19.0000000Z",
+        "DiscoveredAt":  "2026-10-17T07:47:19.5975419Z",
+        "Duration":  "00:01:11",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "bQJrDesstyw",
         "Title":  "Reacting to Show Them Live Performance by Band-Maid and the Warning Got Me So Excited",
         "Channel":  "The Smith House Reactions",
