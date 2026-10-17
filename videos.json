@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "c2tzERBl3To",
+        "Title":  "BAND-MAID The Members Of The Band Saying Goodbye To The Fans In Phoenix AZ 10/14/26 The Van Buren ",
+        "Channel":  "Ultracollectorz",
+        "ChannelId":  "UCAYtJenTvdZbc95MnnBp79g",
+        "Url":  "https://youtu.be/c2tzERBl3To",
+        "Thumbnail":  "https://i.ytimg.com/vi/c2tzERBl3To/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T23:14:00.0000000Z",
+        "DiscoveredAt":  "2026-10-17T23:40:45.7140838Z",
+        "Duration":  "00:02:42",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1X8S4o8yIz0",
         "Title":  "# 🔥 BAND-MAID – ARCADIA GIRL REACTION! 🤘 FROM DISCOVERING THEM TO FLYING TO LA — WHAT A JOURNEY!",
         "Channel":  "RJS_Reactions",
