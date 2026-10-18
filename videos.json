@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gZByLFBkl6Q",
+        "Title":  "Band Maid - Ready to Rock. Live in México (Pabellón del Palacio de los Deportes, 17/10/2026). ",
+        "Channel":  "Luis Manuel Cortéz",
+        "ChannelId":  "UCqdbslsL6tGQlbv-Bmah-sw",
+        "Url":  "https://youtu.be/gZByLFBkl6Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/gZByLFBkl6Q/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T20:02:53.0000000Z",
+        "DiscoveredAt":  "2026-10-18T20:31:20.9209158Z",
+        "Duration":  "00:03:35",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KMKoQmRyQ-U",
         "Title":  "20261014-BAND-MAID-Hate-The Van Buren-Phoenix",
         "Channel":  "Len Czyzniejewski",
