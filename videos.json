@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZCfdDLxE0s8",
+        "Title":  "Band Maid y The Warning - Show Them, México 2026 @BANDMAID  @TheWarning ",
+        "Channel":  "Sakura Zavala",
+        "ChannelId":  "UCP9u64ioZwKV8PAQk2otumw",
+        "Url":  "https://youtu.be/ZCfdDLxE0s8",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZCfdDLxE0s8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T16:23:03.0000000Z",
+        "DiscoveredAt":  "2026-10-18T16:26:15.8010345Z",
+        "Duration":  "00:03:30",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "aexdf098ox0",
+        "Title":  "BAND-MAID's Drummer Is ABSOLUTELY INSANE!",
+        "Channel":  "The8BitDrummer",
+        "ChannelId":  "UCEHXNknwbsRu73QsakWIdzQ",
+        "Url":  "https://youtu.be/aexdf098ox0",
+        "Thumbnail":  "https://i.ytimg.com/vi/aexdf098ox0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T16:00:02.0000000Z",
+        "DiscoveredAt":  "2026-10-18T16:26:14.6652604Z",
+        "Duration":  "00:04:21",
+        "ViewsAtDiscovery":  145,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "OJB3qcGLndk",
         "Title":  "【BAND-MAID】「Onset」のベースがヤバい。変拍子の魔法と3人を繋ぐ「鳩の翼」の秘密 / Onset Bass & Guitar Explanation",
         "Channel":  "tetsu_guitar",
