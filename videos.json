@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "kvqQE5AGKNE",
+        "Title":  "Band-Maid MC1 Greeting and Brightest Star  Wiltern Theater Los Angeles 2026-10-12 3D SBS",
+        "Channel":  "Thomas McLain",
+        "ChannelId":  "UC27FkQve-6OghBkxXt-P35g",
+        "Url":  "https://youtu.be/kvqQE5AGKNE",
+        "Thumbnail":  "https://i.ytimg.com/vi/kvqQE5AGKNE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-17T23:52:23.0000000Z",
+        "DiscoveredAt":  "2026-10-18T00:11:25.0428590Z",
+        "Duration":  "00:06:29",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "c2tzERBl3To",
         "Title":  "BAND-MAID The Members Of The Band Saying Goodbye To The Fans In Phoenix AZ 10/14/26 The Van Buren ",
         "Channel":  "Ultracollectorz",
