@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jnGF-StNSLE",
+        "Title":  "BAND-MAID ft The Warning - Show Them ",
+        "Channel":  "All Access Radio",
+        "ChannelId":  "UCtMWujApi72FNQyHV2mGPwQ",
+        "Url":  "https://youtu.be/jnGF-StNSLE",
+        "Thumbnail":  "https://i.ytimg.com/vi/jnGF-StNSLE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T15:08:04.0000000Z",
+        "DiscoveredAt":  "2026-10-18T15:24:47.7539114Z",
+        "Duration":  "00:07:56",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1A4_iVe62mE",
         "Title":  "BAND-MAID feat. Daniela Villarreal from The Warning - “SHOW THEM” - Mexico City, Oct. 17th, 2026",
         "Channel":  "Pat McKee",
