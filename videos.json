@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dhD2BUfAQqw",
+        "Title":  "QUEEN REACTS to BAND-MAID – “Zen”  ZENSHU Anime Opening Theme! 🔥🤘",
+        "Channel":  "QueenKafi",
+        "ChannelId":  "UCZs-74rfK5XoS1J7b_6Jhlg",
+        "Url":  "https://youtu.be/dhD2BUfAQqw",
+        "Thumbnail":  "https://i.ytimg.com/vi/dhD2BUfAQqw/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T17:00:09.0000000Z",
+        "DiscoveredAt":  "2026-10-18T17:27:32.8764603Z",
+        "Duration":  "00:05:29",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "7WIKfMekLm4",
+        "Title":  "KANAMI ON FIRE!! 🔥 BAND-MAID - Real Existence - Official Live Video Reaction!",
+        "Channel":  "MJLimey Reviews All",
+        "ChannelId":  "UCRYC6-5K-gpNFS3h6D2T3Ww",
+        "Url":  "https://youtu.be/7WIKfMekLm4",
+        "Thumbnail":  "https://i.ytimg.com/vi/7WIKfMekLm4/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T17:00:09.0000000Z",
+        "DiscoveredAt":  "2026-10-18T17:27:31.7929840Z",
+        "Duration":  "00:10:56",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZCfdDLxE0s8",
         "Title":  "Band Maid y The Warning - Show Them, México 2026 @BANDMAID  @TheWarning ",
         "Channel":  "Sakura Zavala",
