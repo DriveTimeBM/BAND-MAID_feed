@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hvib6KoJ5ik",
+        "Title":  "BAND-MAID / Bestie (with Mike Einziger of Incubus)",
+        "Channel":  "Ohrenje",
+        "ChannelId":  "UCuuctf2ICSjbkuLHv87Uc8A",
+        "Url":  "https://youtu.be/hvib6KoJ5ik",
+        "Thumbnail":  "https://i.ytimg.com/vi/hvib6KoJ5ik/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T21:00:17.0000000Z",
+        "DiscoveredAt":  "2026-10-18T21:02:03.5322189Z",
+        "Duration":  "00:05:05",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "VLwGMieC9o8",
+        "Title":  "Band Maid - Shambles. Live in México (Pabellón del Palacio de los Deportes, 17/10/2026)",
+        "Channel":  "Luis Manuel Cortéz",
+        "ChannelId":  "UCqdbslsL6tGQlbv-Bmah-sw",
+        "Url":  "https://youtu.be/VLwGMieC9o8",
+        "Thumbnail":  "https://i.ytimg.com/vi/VLwGMieC9o8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T20:36:40.0000000Z",
+        "DiscoveredAt":  "2026-10-18T21:02:02.3072317Z",
+        "Duration":  "00:04:39",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gZByLFBkl6Q",
         "Title":  "Band Maid - Ready to Rock. Live in México (Pabellón del Palacio de los Deportes, 17/10/2026). ",
         "Channel":  "Luis Manuel Cortéz",
