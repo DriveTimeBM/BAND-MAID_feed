@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "GQK3bCYib8U",
+        "Title":  "Beyblade X Temporada 4 Ending en Español Latino COVER ESPAÑOL | \"SPIN\" – BAND-MAID",
+        "Channel":  "Anime Latino",
+        "ChannelId":  "UCVOsCYSsGCVTE2-FP7yaSCQ",
+        "Url":  "https://youtu.be/GQK3bCYib8U",
+        "Thumbnail":  "https://i.ytimg.com/vi/GQK3bCYib8U/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T01:43:01.0000000Z",
+        "DiscoveredAt":  "2026-10-18T02:14:39.3084729Z",
+        "Duration":  "00:01:52",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gejokhtw9KM",
         "Title":  "Band-Maid MC1 Greeting and Brightest Star  Wiltern Theater Los Angeles 2026-10-12 3D SBS",
         "Channel":  "Thomas McLain",
