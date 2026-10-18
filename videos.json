@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "1A4_iVe62mE",
+        "Title":  "BAND-MAID feat. Daniela Villarreal from The Warning - “SHOW THEM” - Mexico City, Oct. 17th, 2026",
+        "Channel":  "Pat McKee",
+        "ChannelId":  "UCP7yIuqGOvJ3Nw3-oOs1c_A",
+        "Url":  "https://youtu.be/1A4_iVe62mE",
+        "Thumbnail":  "https://i.ytimg.com/vi/1A4_iVe62mE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T12:52:48.0000000Z",
+        "DiscoveredAt":  "2026-10-18T13:22:03.0024774Z",
+        "Duration":  "00:06:28",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9VwDRG7u8og",
         "Title":  "BAND-MAID + The Warning \"SHOW THEM\" in CDMX 2026",
         "Channel":  "Bellick",
