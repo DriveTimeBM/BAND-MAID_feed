@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "OJB3qcGLndk",
+        "Title":  "【BAND-MAID】「Onset」のベースがヤバい。変拍子の魔法と3人を繋ぐ「鳩の翼」の秘密 / Onset Bass & Guitar Explanation",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/OJB3qcGLndk",
+        "Thumbnail":  "https://i.ytimg.com/vi/OJB3qcGLndk/hqdefault.jpg",
+        "PublishedAt":  "2026-10-18T15:27:21.0000000Z",
+        "DiscoveredAt":  "2026-10-18T15:46:15.2242136Z",
+        "Duration":  "00:12:54",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jnGF-StNSLE",
         "Title":  "BAND-MAID ft The Warning - Show Them ",
         "Channel":  "All Access Radio",
