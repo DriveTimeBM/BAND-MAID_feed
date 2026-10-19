@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jlei3IZgA08",
+        "Title":  "BAND-MAID: “Toi et moi” - Live in Mexico City, 2026",
+        "Channel":  "Pat McKee",
+        "ChannelId":  "UCP7yIuqGOvJ3Nw3-oOs1c_A",
+        "Url":  "https://youtu.be/jlei3IZgA08",
+        "Thumbnail":  "https://i.ytimg.com/vi/jlei3IZgA08/hqdefault.jpg",
+        "PublishedAt":  "2026-10-19T23:54:08.0000000Z",
+        "DiscoveredAt":  "2026-10-19T23:56:25.9549979Z",
+        "Duration":  "00:05:46",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VoDECSskHvM",
         "Title":  "BABYMETAL Grammy Buzz + HANABIE. New Music & BAND-MAID Updates",
         "Channel":  "The Solid Sound Podcast",
