@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "oyM35ZFQ6fE",
+        "Title":  "BAND-MAID – ENERGETIC Reaction | Are They Playing Monopoly?!",
+        "Channel":  "DBUG REACTS",
+        "ChannelId":  "UCrJFurFa9X8SwdL7Jg92aHg",
+        "Url":  "https://youtu.be/oyM35ZFQ6fE",
+        "Thumbnail":  "https://i.ytimg.com/vi/oyM35ZFQ6fE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-19T22:00:24.0000000Z",
+        "DiscoveredAt":  "2026-10-19T22:23:28.0298387Z",
+        "Duration":  "00:10:10",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-tckG2Ia0L0",
         "Title":  "MORE AND MORE PEAK!! - The Dragon Cries Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
