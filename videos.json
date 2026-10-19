@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "VoDECSskHvM",
+        "Title":  "BABYMETAL Grammy Buzz + HANABIE. New Music & BAND-MAID Updates",
+        "Channel":  "The Solid Sound Podcast",
+        "ChannelId":  "UCcCkzg1QLY5nSt0GX1Mkq4w",
+        "Url":  "https://youtu.be/VoDECSskHvM",
+        "Thumbnail":  "https://i.ytimg.com/vi/VoDECSskHvM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-19T20:31:57.0000000Z",
+        "DiscoveredAt":  "2026-10-19T23:45:54.4626398Z",
+        "Duration":  "01:01:04",
+        "ViewsAtDiscovery":  144,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oyM35ZFQ6fE",
         "Title":  "BAND-MAID – ENERGETIC Reaction | Are They Playing Monopoly?!",
         "Channel":  "DBUG REACTS",
