@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "QeYWQYvU7pg",
+        "Title":  "BAND-MAID: “SUPER SUNSHINE,” “DOMINATION,” “HATE,” “Choose me,” “Shambles” - Live from Mexico City",
+        "Channel":  "Pat McKee",
+        "ChannelId":  "UCP7yIuqGOvJ3Nw3-oOs1c_A",
+        "Url":  "https://youtu.be/QeYWQYvU7pg",
+        "Thumbnail":  "https://i.ytimg.com/vi/QeYWQYvU7pg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-19T19:14:04.0000000Z",
+        "DiscoveredAt":  "2026-10-19T19:21:25.4058835Z",
+        "Duration":  "00:23:20",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "f3j3ZwPsGxE",
         "Title":  "QUEEN REACTS to BAND-MAID – “HATE” 🔥🤘 | Official Live Video!",
         "Channel":  "QueenKafi",
