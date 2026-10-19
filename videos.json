@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "f3j3ZwPsGxE",
+        "Title":  "QUEEN REACTS to BAND-MAID – “HATE” 🔥🤘 | Official Live Video!",
+        "Channel":  "QueenKafi",
+        "ChannelId":  "UCZs-74rfK5XoS1J7b_6Jhlg",
+        "Url":  "https://youtu.be/f3j3ZwPsGxE",
+        "Thumbnail":  "https://i.ytimg.com/vi/f3j3ZwPsGxE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-19T17:00:39.0000000Z",
+        "DiscoveredAt":  "2026-10-19T17:06:29.6932518Z",
+        "Duration":  "00:07:43",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SUJ2D1mjyVA",
         "Title":  "BAND-MAID Live Hits Different! | Choose me Reaction",
         "Channel":  "EdPhonez Media",
