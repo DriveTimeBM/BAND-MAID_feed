@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Kv4rY7zHl9s",
+        "Title":  "タイトル： ☕🌿 Coffee Guy Reacts! BAND-MAID「WHY, WHY, WHY?」🔥 | Day of Maid 2024・Tony Griffinの秘蔵ライブ映像",
+        "Channel":  "Coffee Guy reacts",
+        "ChannelId":  "UCb40WR2QgE9r2TTYWkZcgeg",
+        "Url":  "https://youtu.be/Kv4rY7zHl9s",
+        "Thumbnail":  "https://i.ytimg.com/vi/Kv4rY7zHl9s/hqdefault.jpg",
+        "PublishedAt":  "2026-10-19T07:30:10.0000000Z",
+        "DiscoveredAt":  "2026-10-19T07:44:41.3476749Z",
+        "Duration":  "00:05:09",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DO53xuE5O-g",
         "Title":  "Shambles - Band Maid, México (2026) pabellón Oeste del Palacio de los Deportes, #BANDMAID @BANDMAID ",
         "Channel":  "Sakura Zavala",
