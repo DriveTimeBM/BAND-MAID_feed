@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zCI0wZp9LGY",
+        "Title":  "Band-Maid Akane Drum Cam Angle R2R #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/zCI0wZp9LGY",
+        "Thumbnail":  "https://i.ytimg.com/vi/zCI0wZp9LGY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-19T15:49:06.0000000Z",
+        "DiscoveredAt":  "2026-10-19T15:58:50.5684206Z",
+        "Duration":  "00:01:04",
+        "ViewsAtDiscovery":  42,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BHcrDME_o3E",
         "Title":  "BAND MAID MONDAY! We Hear BRIGHTEST STAR For The First Time (Kinda!) #BandMaid",
         "Channel":  "WavesAcrossTheWater",
