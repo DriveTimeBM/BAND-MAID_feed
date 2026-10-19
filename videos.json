@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_x2M5bPUJps",
+        "Title":  "BAND-MAID Debuts ‘Spin’ In Chicago !! Live Reaction",
+        "Channel":  "Leo is vibing",
+        "ChannelId":  "UCyBK2umOm4MnW0WdwObfZTg",
+        "Url":  "https://youtu.be/_x2M5bPUJps",
+        "Thumbnail":  "https://i.ytimg.com/vi/_x2M5bPUJps/hqdefault.jpg",
+        "PublishedAt":  "2026-10-19T10:00:29.0000000Z",
+        "DiscoveredAt":  "2026-10-19T10:17:44.0518888Z",
+        "Duration":  "00:10:15",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "JUn3Ek42Q-g",
+        "Title":  "BAND-MAID – Daydreaming (English Piano Cover)",
+        "Channel":  "Jeanette Music",
+        "ChannelId":  "UCNFfh0zk_jvV4_IPNExuLeA",
+        "Url":  "https://youtu.be/JUn3Ek42Q-g",
+        "Thumbnail":  "https://i.ytimg.com/vi/JUn3Ek42Q-g/hqdefault.jpg",
+        "PublishedAt":  "2026-10-19T10:00:29.0000000Z",
+        "DiscoveredAt":  "2026-10-19T10:17:43.1349548Z",
+        "Duration":  "00:05:11",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Kv4rY7zHl9s",
         "Title":  "タイトル： ☕🌿 Coffee Guy Reacts! BAND-MAID「WHY, WHY, WHY?」🔥 | Day of Maid 2024・Tony Griffinの秘蔵ライブ映像",
         "Channel":  "Coffee Guy reacts",
