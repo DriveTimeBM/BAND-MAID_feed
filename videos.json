@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "e_uASyrotfI",
+        "Title":  "My FIRST TIME Hearing BAND MAID… “HATE?” Live | Reaction!",
+        "Channel":  "Jason Damico",
+        "ChannelId":  "UCaTRdDvAIMgXh2GVuyitsMg",
+        "Url":  "https://youtu.be/e_uASyrotfI",
+        "Thumbnail":  "https://i.ytimg.com/vi/e_uASyrotfI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T14:00:11.0000000Z",
+        "DiscoveredAt":  "2026-10-20T14:19:15.2776653Z",
+        "Duration":  "00:07:48",
+        "ViewsAtDiscovery":  84,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ILVR9yKjxok",
         "Title":  "BAND MAID WITH THE WARNING \"SHOW THEM\" OMV | ONE OF THE CRAZIEST COLLAB I'VE EVER SEEN!!!!!",
         "Channel":  "Cherman Vlogs",
