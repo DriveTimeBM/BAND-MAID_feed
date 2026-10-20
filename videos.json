@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "n8KbbnuTWPE",
+        "Title":  "Band-Maid - Hate? (vocals backing track)",
+        "Channel":  "Voice Solo Tracks",
+        "ChannelId":  "UCeccQ_oZbWGUDHT73SZYMTw",
+        "Url":  "https://youtu.be/n8KbbnuTWPE",
+        "Thumbnail":  "https://i.ytimg.com/vi/n8KbbnuTWPE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T02:03:53.0000000Z",
+        "DiscoveredAt":  "2026-10-20T02:31:42.8570721Z",
+        "Duration":  "00:05:07",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "7Idu0_SoRqY",
         "Title":  "BAND-MAID: “Dilly-Dally,” “Ready to Rock,” “NO GOD” - Live in Mexico City, 2026",
         "Channel":  "Pat McKee",
