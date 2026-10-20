@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YdW1e49WBZU",
+        "Title":  "Band Maid   Live @ Pabellon Oeste del Palacio de los Deportes, Mexico City 10-17-2026",
+        "Channel":  "g33man64",
+        "ChannelId":  "UCJgXkvV7nD0fIVvE0dqej0A",
+        "Url":  "https://youtu.be/YdW1e49WBZU",
+        "Thumbnail":  "https://i.ytimg.com/vi/YdW1e49WBZU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T02:57:32.0000000Z",
+        "DiscoveredAt":  "2026-10-20T03:02:25.2644726Z",
+        "Duration":  "01:46:17",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "n8KbbnuTWPE",
         "Title":  "Band-Maid - Hate? (vocals backing track)",
         "Channel":  "Voice Solo Tracks",
