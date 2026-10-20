@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7vSnXnbjrMY",
+        "Title":  "BAND MAID IS BRINGING IT!! - Just Bring It Band Maid Album Music Reactions 240",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/7vSnXnbjrMY",
+        "Thumbnail":  "https://i.ytimg.com/vi/7vSnXnbjrMY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T07:13:35.0000000Z",
+        "DiscoveredAt":  "2026-10-20T07:46:10.8168818Z",
+        "Duration":  "01:04:49",
+        "ViewsAtDiscovery":  439,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1PhRNmiqY4Y",
         "Title":  "Band Maid y The Warning Show Them  Mexico 2026",
         "Channel":  "Roarma - Conocimiento de aquí y allá ",
