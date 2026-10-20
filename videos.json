@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "eilPnGik-bo",
+        "Title":  "#110 BAND-MAID / Brightest star - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/eilPnGik-bo",
+        "Thumbnail":  "https://i.ytimg.com/vi/eilPnGik-bo/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T17:59:38.0000000Z",
+        "DiscoveredAt":  "2026-10-20T18:25:19.3165333Z",
+        "Duration":  "00:10:55",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "arTGVb8yIYQ",
         "Title":  "BAND-MAID / Don't you tell ME (Official Live Video) | REACTION ",
         "Channel":  "Christian Justo Vlogs",
