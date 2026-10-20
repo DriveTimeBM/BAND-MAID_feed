@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 22:54:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 03:33:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Dany joined Bandmaid on stage in Mexico to perform Show Them</title>
+      <link>https://bsky.app/profile/did:plc:3duyo7ehhq5sqmllt2tqfu4q/post/3mybmigq5sk2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3duyo7ehhq5sqmllt2tqfu4q/post/3mybmigq5sk2d</guid>
+      <pubDate>Tue, 20 Oct 2026 02:44:41 GMT</pubDate>
+      <dc:creator>The Warning - Australia 🇦🇺 (thewarningaust.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Dany joined Bandmaid on stage in Mexico to perform Show Them <br/><br/> #TheWarningBand #Bandmaid #mexico</p><p><em>BlueSky &middot; thewarningaust.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] "I've gotta be on my way ..." Now! Bye. 😗</title>
       <link>https://beige.party/@aliceamour/117469956942087112</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago<br/>Aftershock 2022<br/>live debut<br/>1st major US Festival<br/>2022/10/9<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxg2kthart2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxg2kthart2p</guid>
-      <pubDate>Fri, 09 Oct 2026 03:42:01 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
