@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 21:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:01:51 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band-Maid (from now on)</title>
+      <link>https://youtu.be/DWRct25g4Mo</link>
+      <guid isPermaLink="false">yt:video:DWRct25g4Mo</guid>
+      <pubDate>Tue, 20 Oct 2026 22:45:16 GMT</pubDate>
+      <dc:creator>(701nc)  music reactions / CB radio talk</dc:creator>
+      <category>(701nc)  music reactions / CB radio talk</category>
+      <description><![CDATA[<p><a href="https://youtu.be/DWRct25g4Mo"><img src="https://i.ytimg.com/vi/DWRct25g4Mo/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: (701nc)  music reactions / CB radio talk<br/>Duration: 00:09:55<br/>Views at discovery: 4</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/DWRct25g4Mo/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band Maid 2026 México </title>
       <link>https://youtu.be/TNFq7cZDFhk</link>
