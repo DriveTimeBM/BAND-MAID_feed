@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vd8xqOTe1w0",
+        "Title":  "REACTION BAND-MAID / ENERGETIC (Official Music Video)",
+        "Channel":  "Fabio - Vocal Coach Reacts",
+        "ChannelId":  "UCV26W2Vgll8ekdqpatJSGPA",
+        "Url":  "https://youtu.be/vd8xqOTe1w0",
+        "Thumbnail":  "https://i.ytimg.com/vi/vd8xqOTe1w0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T20:15:25.0000000Z",
+        "DiscoveredAt":  "2026-10-20T20:28:11.0385826Z",
+        "Duration":  "00:08:16",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "eilPnGik-bo",
         "Title":  "#110 BAND-MAID / Brightest star - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
         "Channel":  "K-Ross Reacts",
