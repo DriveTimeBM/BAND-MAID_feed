@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8k6UBowDdbM",
+        "Title":  "Band-Maid  - Energetic - The Wiltern 10/12/26",
+        "Channel":  "AaronRokz",
+        "ChannelId":  "UCvD-19vS2C8N1jRQvoauBfg",
+        "Url":  "https://youtu.be/8k6UBowDdbM",
+        "Thumbnail":  "https://i.ytimg.com/vi/8k6UBowDdbM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T05:27:32.0000000Z",
+        "DiscoveredAt":  "2026-10-20T05:37:02.1461585Z",
+        "Duration":  "00:03:31",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ElLkUOCm2EY",
         "Title":  "Band-Maid  - What Is Justice? - The Wiltern 10/12/26",
         "Channel":  "AaronRokz",
