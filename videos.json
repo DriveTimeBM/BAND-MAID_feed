@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "9uZiK0pCgtg",
+        "Title":  "Band-Maid  - Memorable  - Bestie w/ Mike Einziger of Incubus - The Wiltern 10/12/26",
+        "Channel":  "AaronRokz",
+        "ChannelId":  "UCvD-19vS2C8N1jRQvoauBfg",
+        "Url":  "https://youtu.be/9uZiK0pCgtg",
+        "Thumbnail":  "https://i.ytimg.com/vi/9uZiK0pCgtg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T04:19:37.0000000Z",
+        "DiscoveredAt":  "2026-10-20T04:35:47.8349985Z",
+        "Duration":  "00:10:08",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ejY2XViIIXc",
         "Title":  "BAND-MAID WORLD TOUR 2026 - Los Angeles Recap Video",
         "Channel":  "Nin puzzle",
