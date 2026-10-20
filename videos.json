@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7Idu0_SoRqY",
+        "Title":  "BAND-MAID: “Dilly-Dally,” “Ready to Rock,” “NO GOD” - Live in Mexico City, 2026",
+        "Channel":  "Pat McKee",
+        "ChannelId":  "UCP7yIuqGOvJ3Nw3-oOs1c_A",
+        "Url":  "https://youtu.be/7Idu0_SoRqY",
+        "Thumbnail":  "https://i.ytimg.com/vi/7Idu0_SoRqY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T01:44:42.0000000Z",
+        "DiscoveredAt":  "2026-10-20T02:00:33.5870301Z",
+        "Duration":  "00:12:09",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cMPyGl55tYY",
         "Title":  "Band-Maid - DICE (bass backing track)",
         "Channel":  "Bass Pulsewave Minus Tracks",
