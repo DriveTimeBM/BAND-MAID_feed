@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 13:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:26:50 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] It's already October 21st in Japan, so Happy 35th Birthday to Band Maid's fou...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mydbnbdy7c2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mydbnbdy7c2m</guid>
+      <pubDate>Tue, 20 Oct 2026 18:35:52 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>It&#39;s already October 21st in Japan, so Happy 35th Birthday to Band Maid&#39;s founder, rhythm guitarist, co-vocalist and spokespigeon, Miku Kobato.<br/>Here&#39;s an acoustic version of Brightest Star</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] It's ironic that Japanese hard-rock band Band-Maid just completed a North Ame...</title>
       <link>https://bsky.app/profile/did:plc:crzgbmuepksit3ectef4b4rz/post/3mycmyylxf22r</link>
@@ -899,15 +908,6 @@
       <dc:creator>さかざき(`^´69) (red-herring-11250.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID 「SPIN」ノンクレジット映像 | アニメ『BEYBLADE X ベイキングダム編』エンディングテーマ<br/>youtu.be/fxKLvhf3qto?...<br/>BAND-MAIDの新曲〜😊😊😊</p><p><em>BlueSky &middot; red-herring-11250.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID 「SPIN」ノンクレジット映像 | アニメ『BEYBLADE X ベイキングダム編』エンディングテーマ youtu.be/fxKLvh...</title>
-      <link>https://bsky.app/profile/did:plc:iyqrhbruqowaotzxk3nji363/post/3mxguanfui22w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:iyqrhbruqowaotzxk3nji363/post/3mxguanfui22w</guid>
-      <pubDate>Fri, 09 Oct 2026 11:21:37 GMT</pubDate>
-      <dc:creator>ケイジアンリミテッド (cageunltd.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID 「SPIN」ノンクレジット映像 | アニメ『BEYBLADE X ベイキングダム編』エンディングテーマ youtu.be/fxKLvhf3qto?... @YouTubeより</p><p><em>BlueSky &middot; cageunltd.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
