@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mCq3xsFGXF4",
+        "Title":  "Mexico City Trip - October 2026 (hot air balloons, Band-Maid, and more)",
+        "Channel":  "Dave 4Real",
+        "ChannelId":  "UCh2WK-cCtuubLWuuFZVhRpA",
+        "Url":  "https://youtu.be/mCq3xsFGXF4",
+        "Thumbnail":  "https://i.ytimg.com/vi/mCq3xsFGXF4/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T20:50:56.0000000Z",
+        "DiscoveredAt":  "2026-10-20T20:59:07.5935448Z",
+        "Duration":  "00:27:12",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vd8xqOTe1w0",
         "Title":  "REACTION BAND-MAID / ENERGETIC (Official Music Video)",
         "Channel":  "Fabio - Vocal Coach Reacts",
