@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cMPyGl55tYY",
+        "Title":  "Band-Maid - DICE (bass backing track)",
+        "Channel":  "Bass Pulsewave Minus Tracks",
+        "ChannelId":  "UCEDks5bqu-oalua4BKhzDKQ",
+        "Url":  "https://youtu.be/cMPyGl55tYY",
+        "Thumbnail":  "https://i.ytimg.com/vi/cMPyGl55tYY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-20T00:57:47.0000000Z",
+        "DiscoveredAt":  "2026-10-20T00:58:55.1363346Z",
+        "Duration":  "00:04:18",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "N3ioBd9kwW4",
         "Title":  "BAND-MAID: “CAGE” - Live in Mexico City 2026",
         "Channel":  "Pat McKee",
