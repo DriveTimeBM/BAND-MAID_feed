@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 06:42:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:48:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Happy Birthday, Kobato! 🕊️</title>
+      <link>https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3myevdyumnk2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3myevdyumnk2k</guid>
+      <pubDate>Wed, 21 Oct 2026 10:01:16 GMT</pubDate>
+      <dc:creator>bmcssu.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Happy Birthday, Kobato! 🕊️<br/>May your year be filled with your unique radiance—<br/>Like spring’s golden light, sparkling summer waves, the luminous autumn moon, and winter&#39;s diamond dust. Like morning dew and a starlit sky.<br/>Wishing you a beautiful year ahead, shining as always.<br/>#bandmaid</p><p><em>BlueSky &middot; bmcssu.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] to [Daydreaming], it was like "This was what I was waiting for". It was a bal...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myeiaety3i25</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>8 years ago<br/>Choose Me MV<br/>milestone<br/>surpassed 3 million views<br/>2018/10/10<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Wait, they for real got Band-Maid? This is good stuff!</title>
-      <link>https://bsky.app/profile/did:plc:cbty7hpwq25l4p3nietqzse7/post/3mxijkfgjlk2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:cbty7hpwq25l4p3nietqzse7/post/3mxijkfgjlk2o</guid>
-      <pubDate>Sat, 10 Oct 2026 03:15:32 GMT</pubDate>
-      <dc:creator>Dan Kayur 🥞🥄 (dankayur.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Wait, they for real got Band-Maid? This is good stuff!</p><p><em>BlueSky &middot; dankayur.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
