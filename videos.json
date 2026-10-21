@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lnlBEAJM-_0",
+        "Title":  "Band Maid Spin (Live) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/lnlBEAJM-_0",
+        "Thumbnail":  "https://i.ytimg.com/vi/lnlBEAJM-_0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-21T03:14:23.0000000Z",
+        "DiscoveredAt":  "2026-10-21T03:38:17.6914904Z",
+        "Duration":  "00:04:26",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2BgTMZTzjgQ",
         "Title":  "Band-Maid - Matchless GUM (guitar backing track)",
         "Channel":  "Guitar Fireline Minus Tracks",
