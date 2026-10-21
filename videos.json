@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LYi4_164fXE",
+        "Title":  "Band-Maid in Phoenix, AZ. 10/14/26. #concert #rock #live #bandmaid",
+        "Channel":  "Metal JJ",
+        "ChannelId":  "UCAQDXLcxB9-Slaw0ymK5CwA",
+        "Url":  "https://youtu.be/LYi4_164fXE",
+        "Thumbnail":  "https://i.ytimg.com/vi/LYi4_164fXE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-21T19:57:17.0000000Z",
+        "DiscoveredAt":  "2026-10-21T20:10:09.7700211Z",
+        "Duration":  "00:03:01",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KyK46-lWbL0",
         "Title":  "Band Maid en México Endless history ",
         "Channel":  "Roarma - Conocimiento de aquí y allá ",
