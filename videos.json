@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "IsOcJAg4UL8",
+        "Title":  "Band Maid MISA vs Kanami concierto en Ciudad de México",
+        "Channel":  "Gerson Reyes",
+        "ChannelId":  "UCG9t_2SNjSowgSY10cLkrtA",
+        "Url":  "https://youtu.be/IsOcJAg4UL8",
+        "Thumbnail":  "https://i.ytimg.com/vi/IsOcJAg4UL8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-21T00:36:10.0000000Z",
+        "DiscoveredAt":  "2026-10-21T01:04:33.8066070Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DWRct25g4Mo",
         "Title":  "Band-Maid (from now on)",
         "Channel":  "(701nc)  music reactions / CB radio talk",
