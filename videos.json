@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "VfpEsmOz7_w",
+        "Title":  "QUEEN REACTS to BAND-MAID x The Warning – “SHOW THEM” 🤯🔥  Official Music Video",
+        "Channel":  "QueenKafi",
+        "ChannelId":  "UCZs-74rfK5XoS1J7b_6Jhlg",
+        "Url":  "https://youtu.be/VfpEsmOz7_w",
+        "Thumbnail":  "https://i.ytimg.com/vi/VfpEsmOz7_w/hqdefault.jpg",
+        "PublishedAt":  "2026-10-21T17:00:18.0000000Z",
+        "DiscoveredAt":  "2026-10-21T17:04:50.2116376Z",
+        "Duration":  "00:05:50",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "TaZtZ6LilE8",
+        "Title":  "The Warning - \"Aftershow Film\" - Dany & Band Maid - Pabellón Oeste - CDMX, Mexico - October 17, 2026",
+        "Channel":  "69futura",
+        "ChannelId":  "UCzo-NPkpdLEF74wNrKkSfUw",
+        "Url":  "https://youtu.be/TaZtZ6LilE8",
+        "Thumbnail":  "https://i.ytimg.com/vi/TaZtZ6LilE8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-21T16:42:29.0000000Z",
+        "DiscoveredAt":  "2026-10-21T17:04:48.5196128Z",
+        "Duration":  "00:08:36",
+        "ViewsAtDiscovery":  19,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rkvNc75TwRc",
         "Title":  "Band-Maid - Zen live 2026 ",
         "Channel":  "Ice_Daywalker🩸",
