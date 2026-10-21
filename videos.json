@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "tpQK1BGpd08",
+        "Title":  "Band-Maid live in Mexico City October 17, 2026",
+        "Channel":  "S P",
+        "ChannelId":  "UCgelrTIhXSLLFuRN0v89YJg",
+        "Url":  "https://youtu.be/tpQK1BGpd08",
+        "Thumbnail":  "https://i.ytimg.com/vi/tpQK1BGpd08/hqdefault.jpg",
+        "PublishedAt":  "2026-10-21T06:32:30.0000000Z",
+        "DiscoveredAt":  "2026-10-21T06:42:19.6328240Z",
+        "Duration":  "00:03:48",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Y_5r0igkkk8",
         "Title":  "Band-Maid's new bass and drums live jam",
         "Channel":  "Tomorrow's Sports Stars",
