@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "EBnTvpz50T4",
+        "Title":  "Foreigner Reaction to Band Maid - Freedom!",
+        "Channel":  "Emmanuel React",
+        "ChannelId":  "UCkNErUXDroPLxu88rM4vGsg",
+        "Url":  "https://youtu.be/EBnTvpz50T4",
+        "Thumbnail":  "https://i.ytimg.com/vi/EBnTvpz50T4/hqdefault.jpg",
+        "PublishedAt":  "2026-10-21T21:33:02.0000000Z",
+        "DiscoveredAt":  "2026-10-21T21:42:08.2561840Z",
+        "Duration":  "00:07:15",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZOSwi-MCF3s",
         "Title":  "FIRST TIME HEARING: Band-Maid - Alone | First Listen Honest Reaction - Song Reaction",
         "Channel":  "xitsnemox",
