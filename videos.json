@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "x0vtKjeXOdU",
+        "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Music Video)",
+        "Channel":  "Gnome Reacts",
+        "ChannelId":  "UCLXC0jaoGr-UEWbnHfXU65w",
+        "Url":  "https://youtu.be/x0vtKjeXOdU",
+        "Thumbnail":  "https://i.ytimg.com/vi/x0vtKjeXOdU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-22T22:25:39.0000000Z",
+        "DiscoveredAt":  "2026-10-22T22:43:14.2741196Z",
+        "Duration":  "00:12:40",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MxvXeZbM0BE",
         "Title":  "Buckhead Theatre Line: Band-Maid Fans and a Thrifted Look",
         "Channel":  "Ruskin Seabrook",
