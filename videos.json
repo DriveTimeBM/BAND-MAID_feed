@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KhEUR5GCHvY",
+        "Title":  "BAND-MAID - Thrill - I completely get why it's their most viewed video",
+        "Channel":  "Wesley Makes Things",
+        "ChannelId":  "UCLUFOVqUjNz3X3hiWPKWHdg",
+        "Url":  "https://youtu.be/KhEUR5GCHvY",
+        "Thumbnail":  "https://i.ytimg.com/vi/KhEUR5GCHvY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-22T05:00:29.0000000Z",
+        "DiscoveredAt":  "2026-10-22T05:21:47.7942065Z",
+        "Duration":  "00:07:32",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZXajOX6ynGk",
         "Title":  "BAND-MAID - HAPPY HAITUS - 2027",
         "Channel":  "tommy",
