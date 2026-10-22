@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "S7XeAraM64s",
+        "Title":  "BAND-MAID - Toi et moi (Official Live Video) | Reaction! | Caught Me Off Guard! 🔥",
+        "Channel":  "Rimuru Reacts",
+        "ChannelId":  "UCm_irKFGKQe7slhpIUyvzkQ",
+        "Url":  "https://youtu.be/S7XeAraM64s",
+        "Thumbnail":  "https://i.ytimg.com/vi/S7XeAraM64s/hqdefault.jpg",
+        "PublishedAt":  "2026-10-22T10:12:56.0000000Z",
+        "DiscoveredAt":  "2026-10-22T10:27:53.6660059Z",
+        "Duration":  "00:04:40",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9hZnbAiLv1I",
         "Title":  "Brightest Star!! Reacting Band to Band-Maid concert song we hadn't heard yet!",
         "Channel":  "Adventura",
