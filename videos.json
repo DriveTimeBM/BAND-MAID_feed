@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Jr6ux518enI",
+        "Title":  "Band-Maid (hate- olv) this band has me blown away!!!!!!!!!!!!!!!!!!!!",
+        "Channel":  "(701nc)  music reactions / CB radio talk",
+        "ChannelId":  "UCkcU8Kkqw6pFWRWqKfgDnYw",
+        "Url":  "https://youtu.be/Jr6ux518enI",
+        "Thumbnail":  "https://i.ytimg.com/vi/Jr6ux518enI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-22T23:32:38.0000000Z",
+        "DiscoveredAt":  "2026-10-22T23:44:30.4800433Z",
+        "Duration":  "00:09:39",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "x0vtKjeXOdU",
         "Title":  "BAND-MAID with The Warning / SHOW THEM (Official Music Video)",
         "Channel":  "Gnome Reacts",
