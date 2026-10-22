@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 06:54:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:04:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://m...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3myhtjpbi472k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3myhtjpbi472k</guid>
+      <pubDate>Thu, 22 Oct 2026 14:06:38 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] guitar solo and double bass drumming. Also, we put out “Japaneseness” in the ...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mygypcvgh42r</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID - Protect You #NewRock #music #NewMusic #Rock #Metal #RocknRoll</title>
-      <link>https://bsky.app/profile/did:plc:2jpniivjura6emlrtu6sobu3/post/3mxjwhuf5a22b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2jpniivjura6emlrtu6sobu3/post/3mxjwhuf5a22b</guid>
-      <pubDate>Sat, 10 Oct 2026 16:39:26 GMT</pubDate>
-      <dc:creator>New Rock Song of the Day (newrock-of-the-day.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID - Protect You #NewRock #music #NewMusic #Rock #Metal #RocknRoll<br/>youtu.be/knnw6Mri9gc</p><p><em>BlueSky &middot; newrock-of-the-day.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
