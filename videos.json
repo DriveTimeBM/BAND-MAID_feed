@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "MxvXeZbM0BE",
+        "Title":  "Buckhead Theatre Line: Band-Maid Fans and a Thrifted Look",
+        "Channel":  "Ruskin Seabrook",
+        "ChannelId":  "UCoSj80Jky2TVE6oyJH8Zbnw",
+        "Url":  "https://youtu.be/MxvXeZbM0BE",
+        "Thumbnail":  "https://i.ytimg.com/vi/MxvXeZbM0BE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-22T21:04:40.0000000Z",
+        "DiscoveredAt":  "2026-10-22T21:11:30.0605074Z",
+        "Duration":  "00:03:27",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jW9z0e4rrSs",
         "Title":  "BAND-MAID with DANY: SHOW THEM (October 17 2026 Mexico City) 4 CAMERA EDIT!",
         "Channel":  "Glenn and Adrian's Rock Talk",
