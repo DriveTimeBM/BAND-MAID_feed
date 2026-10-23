@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 15:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:40:32 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID、ワールドツアー北米公演を大盛況で完走！ LAではINCUBUSのメンバー、メキシコシティではTHE WARNINGのメンバーとコラボレ...</title>
+      <link>https://bsky.app/profile/did:plc:4ipefc6m335fpbumpvgzx2w3/post/3mykgybzrfa2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4ipefc6m335fpbumpvgzx2w3/post/3mykgybzrfa2u</guid>
+      <pubDate>Fri, 23 Oct 2026 15:00:05 GMT</pubDate>
+      <dc:creator>Coca News (cocanews.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID、ワールドツアー北米公演を大盛況で完走！ LAではINCUBUSのメンバー、メキシコシティではTHE WARNINGのメンバーとコラボレーション曲を披露！ | PONY CANYON NEWS – ポニーキャニオン<br/><br/>https://www.wacoca.com/news/2964441/<br/><br/>5人組ハードロックバンドBAND-MAIDが、ワールドツアー『BAND-MAID WORLD TOUR 2026』の北米編を完走した。 BAND-MAIDはシカゴ、ニューヨーク、アトランタ、ダラス、ロサンゼルス、フェニッ [...]</p><p><em>BlueSky &middot; cocanews.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
       <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mykfpba6pb2u</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Made our way down the hill and found these slices of Americana. Dumped onto I...</title>
-      <link>https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mxmljajy4s22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mxmljajy4s22</guid>
-      <pubDate>Sun, 11 Oct 2026 18:01:20 GMT</pubDate>
-      <dc:creator>Dustykatt (dustykatt.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Made our way down the hill and found these slices of Americana. Dumped onto I-5 at Tejon pass and made it to the hotel a block from the venue to see Band-Maid tomorrow night.</p><p><em>BlueSky &middot; dustykatt.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
