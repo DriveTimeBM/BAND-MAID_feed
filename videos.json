@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "E4wSRPvGMz0",
+        "Title":  "Band Maid - 10/14/2026 at the Van Buren, Phoenix, AZ - Dave M Review",
+        "Channel":  "Dave M Channel",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/E4wSRPvGMz0",
+        "Thumbnail":  "https://i.ytimg.com/vi/E4wSRPvGMz0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-23T04:00:19.0000000Z",
+        "DiscoveredAt":  "2026-10-23T04:25:14.9403994Z",
+        "Duration":  "00:36:39",
+        "ViewsAtDiscovery":  18,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "geEgjT2r7bA",
         "Title":  "BAND-MAID WORLD TOUR 2026 - Mexico City Recap Video",
         "Channel":  "Nin puzzle",
