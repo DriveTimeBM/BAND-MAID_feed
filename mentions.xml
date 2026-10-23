@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 07:29:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:59:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID、ワールドツアー北米公演完走。INCUBUSメンバー、THE WARNINGメンバーとのコラボも | BARKS</title>
+      <link>https://bsky.app/profile/did:plc:cazef5u2rbzqfpzhqve5wshg/post/3myjm6n7pwu2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:cazef5u2rbzqfpzhqve5wshg/post/3myjm6n7pwu2a</guid>
+      <pubDate>Fri, 23 Oct 2026 07:00:27 GMT</pubDate>
+      <dc:creator>MAGMOE (magmoe.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID、ワールドツアー北米公演完走。INCUBUSメンバー、THE WARNINGメンバーとのコラボも | BARKS<br/><br/>https://www.magmoe.com/3301821/entertainment-news/2026-10-23/<br/><br/>BAND-MAID、ワールドツアー北米公演完走。INCUBUSメンバー、THE WARNINGメンバーとのコラボも BAND-MAIDが、ワールドツアー＜BAND-MAID WORLD TOUR 2026＞北米編を完走し [...]</p><p><em>BlueSky &middot; magmoe.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] it's been several hours but I got a Silver player on my team to listen to Uns...</title>
       <link>https://bsky.app/profile/did:plc:kgki22cr3ws3xqegadeirzs5/post/3myjlw6u6622h</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>13 years ago Band-Maid played at morph in Tokyo JP on 2013/10/11. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mxl7lywsdz2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mxl7lywsdz2i</guid>
-      <pubDate>Sun, 11 Oct 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago<br/>Shambles MV<br/>milestone<br/>surpassed 1 million views<br/>2023/10/11<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
