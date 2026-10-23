@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 05:27:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:58:48 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: CROSS</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myjj662cl726</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myjj662cl726</guid>
+      <pubDate>Fri, 23 Oct 2026 06:06:32 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: CROSS<br/>Album: Just Bring It<br/>Release: 1/10/2017<br/>Music: NORA<br/>Lyrics: 小鳩ミク [Kobato, Miku] NORA<br/>Arrangement: MIRAISONIC<br/>1st Live:5/25/2017<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 10 years ago Band-Maid played 19 songs at Shimokitazawa GARDEN in Tokyo JP on...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3myjirzhurk23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3myjirzhurk23</guid>
+      <pubDate>Fri, 23 Oct 2026 05:59:44 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>10 years ago Band-Maid played 19 songs at Shimokitazawa GARDEN in Tokyo JP on 2016/10/23. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 10 years ago</title>
       <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myjf72ilgo2x</link>
@@ -890,24 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I&#39;d put Band-Maid&#39;s Kanami Tono name forward as a guitar player who has pure musical joy flowing through her on stage.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Headed south today, will be in LA for a Band-Maid concert Monday night. But f...</title>
-      <link>https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mxk2pvkmos24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:v2lbmdgxiwsbyk6vmrrp7nod/post/3mxk2pvkmos24</guid>
-      <pubDate>Sat, 10 Oct 2026 17:55:30 GMT</pubDate>
-      <dc:creator>Dustykatt (dustykatt.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Headed south today, will be in LA for a Band-Maid concert Monday night. But for today it’s enjoying the back roads of California on the way there.</p><p><em>BlueSky &middot; dustykatt.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Was fun :)</title>
-      <link>https://bsky.app/profile/did:plc:reb36jesfqabd3zzwf4wz2an/post/3mxiknrqlt22m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:reb36jesfqabd3zzwf4wz2an/post/3mxiknrqlt22m</guid>
-      <pubDate>Sat, 10 Oct 2026 03:35:20 GMT</pubDate>
-      <dc:creator>K1ngz1111 (k1ngz.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Was fun :)</p><p><em>BlueSky &middot; k1ngz.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
