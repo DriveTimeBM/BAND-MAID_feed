@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 07:59:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 14:38:49 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Recently learned this kick ass mv from BAND-MAID is an april fool project</title>
+      <link>https://bsky.app/profile/did:plc:5j4ewltuyyslnnaleyjvx3b3/post/3mykdvz4zzslw</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5j4ewltuyyslnnaleyjvx3b3/post/3mykdvz4zzslw</guid>
+      <pubDate>Fri, 23 Oct 2026 14:05:11 GMT</pubDate>
+      <dc:creator>Fillet Knife 7.56 Spoilers (filletknife.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Recently learned this kick ass mv from BAND-MAID is an april fool project<br/><br/>https://www.youtube.com/watch?v=umSt7oMUMcs</p><p><em>BlueSky &middot; filletknife.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID、ワールドツアー北米公演完走。INCUBUSメンバー、THE WARNINGメンバーとのコラボも | BARKS</title>
       <link>https://bsky.app/profile/did:plc:cazef5u2rbzqfpzhqve5wshg/post/3myjm6n7pwu2a</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: YOLO (instrumental)<br/>Album: YOLO<br/>Release: 11/15/2016<br/>Music: BAND-MAID<br/>Lyrics: <br/>Arrangement: BAND-MAID<br/>1st Live:<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 13 years ago Band-Maid played at morph in Tokyo JP on 2013/10/11. The setlist...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mxld6vsqmg26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mxld6vsqmg26</guid>
-      <pubDate>Sun, 11 Oct 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>13 years ago Band-Maid played at morph in Tokyo JP on 2013/10/11. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
