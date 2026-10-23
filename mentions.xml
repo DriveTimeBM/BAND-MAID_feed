@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 17:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 04:25:40 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3myjasorebi2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3myjasorebi2r</guid>
+      <pubDate>Fri, 23 Oct 2026 03:36:58 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: NO GOD by BAND-MAID! Tune in now: https://mcanim...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3myi3bo7s3i24</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>In principle I agree, of course. It maybe works a little better for me because when I find something new that interests me, I tend to latch on to it pretty heavily, so since discovering Band Maid I&#39;ve gone down a huge J Rock rabbit hole.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I'm mixed on this, in the pandemic I decided to listen to more guitar music a...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mxkdwlhig22h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mxkdwlhig22h</guid>
-      <pubDate>Sat, 10 Oct 2026 20:40:18 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I&#39;m mixed on this, in the pandemic I decided to listen to more guitar music again. I found some interesting things, but the (youtube) algorithm brought me to Band Maid, who are now my favourite band, so it can work, you just shouldn&#39;t ONLY rely on that.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
