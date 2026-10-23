@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3WsRYv_x7bI",
+        "Title":  "Band-Maid in Phoenix, AZ. 10/14/26. #bandmaid #concert #rock #live",
+        "Channel":  "Metal JJ",
+        "ChannelId":  "UCAQDXLcxB9-Slaw0ymK5CwA",
+        "Url":  "https://youtu.be/3WsRYv_x7bI",
+        "Thumbnail":  "https://i.ytimg.com/vi/3WsRYv_x7bI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-23T03:17:47.0000000Z",
+        "DiscoveredAt":  "2026-10-23T03:19:24.8733517Z",
+        "Duration":  "00:01:03",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Ryg_BdYcL2M",
         "Title":  "Band Maid and Dany from The Warning/Show Them/ Live in Mexico City October 17,2026",
         "Channel":  "Darkwatch84",
