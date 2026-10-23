@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 14:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:09:40 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
+      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mykfpba6pb2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mykfpba6pb2u</guid>
+      <pubDate>Fri, 23 Oct 2026 14:37:11 GMT</pubDate>
+      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Recently learned this kick ass mv from BAND-MAID is an april fool project</title>
       <link>https://bsky.app/profile/did:plc:5j4ewltuyyslnnaleyjvx3b3/post/3mykdvz4zzslw</link>
@@ -899,15 +908,6 @@
       <dc:creator>Dustykatt (dustykatt.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Made our way down the hill and found these slices of Americana. Dumped onto I-5 at Tejon pass and made it to the hotel a block from the venue to see Band-Maid tomorrow night.</p><p><em>BlueSky &middot; dustykatt.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: YOLO (instrumental)</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mxldop2rsh24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mxldop2rsh24</guid>
-      <pubDate>Sun, 11 Oct 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: YOLO (instrumental)<br/>Album: YOLO<br/>Release: 11/15/2016<br/>Music: BAND-MAID<br/>Lyrics: <br/>Arrangement: BAND-MAID<br/>1st Live:<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
