@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LDy40G-ZFjc",
+        "Title":  "Band-Maid Akane's VLOG USA 🇺🇸 Tour 2026 #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/LDy40G-ZFjc",
+        "Thumbnail":  "https://i.ytimg.com/vi/LDy40G-ZFjc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-23T04:51:56.0000000Z",
+        "DiscoveredAt":  "2026-10-23T04:56:40.1305740Z",
+        "Duration":  "00:02:14",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "SUSyIxY9OeI",
+        "Title":  "BAND-MAID / Akane North American Tour Vlog",
+        "Channel":  "Nin puzzle",
+        "ChannelId":  "UCCZ3DnDT0dT1-5AuoEGN7GQ",
+        "Url":  "https://youtu.be/SUSyIxY9OeI",
+        "Thumbnail":  "https://i.ytimg.com/vi/SUSyIxY9OeI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-23T04:26:43.0000000Z",
+        "DiscoveredAt":  "2026-10-23T04:56:39.0901742Z",
+        "Duration":  "00:02:14",
+        "ViewsAtDiscovery":  72,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "E4wSRPvGMz0",
         "Title":  "Band Maid - 10/14/2026 at the Van Buren, Phoenix, AZ - Dave M Review",
         "Channel":  "Dave M Channel",
