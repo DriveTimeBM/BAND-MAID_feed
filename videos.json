@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "KVAl0JtAjBw",
+        "Title":  "BAND-MAID - CHOOSE ME LIVE REACTION! 😱 The Kanami Piggyback! | Ginger T Reacts",
+        "Channel":  "Ginger T Reacts",
+        "ChannelId":  "UCZWOGhnKe5lh_KnpNaWRtQg",
+        "Url":  "https://youtu.be/KVAl0JtAjBw",
+        "Thumbnail":  "https://i.ytimg.com/vi/KVAl0JtAjBw/hqdefault.jpg",
+        "PublishedAt":  "2026-10-24T19:00:26.0000000Z",
+        "DiscoveredAt":  "2026-10-24T19:19:02.2212011Z",
+        "Duration":  "00:11:43",
+        "ViewsAtDiscovery":  22,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NL4INcmbQdQ",
         "Title":  "Band-Maid Miku & Buc-ee's at Dallas  #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
