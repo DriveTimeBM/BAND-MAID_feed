@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RNqXcnvO4Lk",
+        "Title":  "BAND-MAID World Tour 2026 at The Wiltern in Los Angeles 10/12/2026",
+        "Channel":  "Danny Mathews",
+        "ChannelId":  "UC2EP9NerytL-1OHG0YldKiw",
+        "Url":  "https://youtu.be/RNqXcnvO4Lk",
+        "Thumbnail":  "https://i.ytimg.com/vi/RNqXcnvO4Lk/hqdefault.jpg",
+        "PublishedAt":  "2026-10-24T02:59:07.0000000Z",
+        "DiscoveredAt":  "2026-10-24T03:28:33.4427759Z",
+        "Duration":  "00:02:59",
+        "ViewsAtDiscovery":  30,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "sMvuAwRG404",
         "Title":  "BAND-MAID – Secret My Lips | Blown Away by the Energy",
         "Channel":  "Craig Discovers Your Music",
