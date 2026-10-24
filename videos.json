@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yE17Yo0jXlU",
+        "Title":  "REACTION TO BAND-MAID - REAL EXISTENCE - (OFFICIAL LIVE VIDEO)",
+        "Channel":  "Cold Fire",
+        "ChannelId":  "UCKboltkZSCKZ0olDaaf9ECQ",
+        "Url":  "https://youtu.be/yE17Yo0jXlU",
+        "Thumbnail":  "https://i.ytimg.com/vi/yE17Yo0jXlU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-24T23:00:10.0000000Z",
+        "DiscoveredAt":  "2026-10-24T23:27:03.4387656Z",
+        "Duration":  "00:13:46",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cy1Jocmissw",
         "Title":  "Band-Maid in Mexico ",
         "Channel":  "Roarma - Conocimiento de aquí y allá ",
