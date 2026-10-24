@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NL4INcmbQdQ",
+        "Title":  "Band-Maid Miku & Buc-ee's at Dallas  #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/NL4INcmbQdQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/NL4INcmbQdQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-24T18:35:32.0000000Z",
+        "DiscoveredAt":  "2026-10-24T18:48:20.3898343Z",
+        "Duration":  "00:01:20",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "FDWWHBzdE8w",
         "Title":  "Band Maid Mexico City",
         "Channel":  "Roarma - Conocimiento de aquí y allá ",
