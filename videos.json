@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "sMvuAwRG404",
+        "Title":  "BAND-MAID – Secret My Lips | Blown Away by the Energy",
+        "Channel":  "Craig Discovers Your Music",
+        "ChannelId":  "UCrBmnhAHad1Vyc27G_lGr2A",
+        "Url":  "https://youtu.be/sMvuAwRG404",
+        "Thumbnail":  "https://i.ytimg.com/vi/sMvuAwRG404/hqdefault.jpg",
+        "PublishedAt":  "2026-10-24T00:00:37.0000000Z",
+        "DiscoveredAt":  "2026-10-24T00:24:23.7131912Z",
+        "Duration":  "00:06:55",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "GLAxhOUqHC8",
         "Title":  "BAND-MAID WORLD TOUR 2026 Los Angeles The Wirternお給仕レポート(Live Report)",
         "Channel":  "いちお盟主のつぶやき",
