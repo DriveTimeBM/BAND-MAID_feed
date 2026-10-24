@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "F8At8UYUono",
+        "Title":  "Unleash!!!!! – BAND-MAID Live in Chicago (2026) [Fan Cam] ライブ ファンカム ",
+        "Channel":  "Gaijin in the Pit",
+        "ChannelId":  "UCaMDhEdszf_WklEYVsHLqaQ",
+        "Url":  "https://youtu.be/F8At8UYUono",
+        "Thumbnail":  "https://i.ytimg.com/vi/F8At8UYUono/hqdefault.jpg",
+        "PublishedAt":  "2026-10-24T23:43:11.0000000Z",
+        "DiscoveredAt":  "2026-10-24T23:46:09.6295790Z",
+        "Duration":  "00:06:03",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yE17Yo0jXlU",
         "Title":  "REACTION TO BAND-MAID - REAL EXISTENCE - (OFFICIAL LIVE VIDEO)",
         "Channel":  "Cold Fire",
