@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 22:52:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 00:55:08 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mylfstwws22c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mylfstwws22c</guid>
+      <pubDate>Sat, 24 Oct 2026 00:11:52 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] i just found that band-maid had a concert in chicago a month ago AND I MISSED...</title>
+      <link>https://bsky.app/profile/did:plc:2m7lkkfjy6hewt2sw2gdjjtl/post/3mylfkaqj7k2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2m7lkkfjy6hewt2sw2gdjjtl/post/3mylfkaqj7k2l</guid>
+      <pubDate>Sat, 24 Oct 2026 00:07:03 GMT</pubDate>
+      <dc:creator>mike kenny (mikekenny.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>i just found that band-maid had a concert in chicago a month ago AND I MISSED IT.</p><p><em>BlueSky &middot; mikekenny.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3myl6yjbrr22o</link>
@@ -890,24 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID concert is today, I am LIVING</title>
-      <link>https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mxp23pgoxk2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qj2vityzmyqjd5wpm52m5hiv/post/3mxp23pgoxk2h</guid>
-      <pubDate>Mon, 12 Oct 2026 17:27:32 GMT</pubDate>
-      <dc:creator>Chris『ScaryYandere』@ Art and Merch grind again (scaryyandere.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID concert is today, I am LIVING</p><p><em>BlueSky &middot; scaryyandere.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] One for #GuitarSky - the Zemaitis "Flappy Pigeon" model, made for Miku Kojima...</title>
-      <link>https://bsky.app/profile/did:plc:fn2yq7ozerm5l3hiq5cxgshi/post/3mxohbmgqpk23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fn2yq7ozerm5l3hiq5cxgshi/post/3mxohbmgqpk23</guid>
-      <pubDate>Mon, 12 Oct 2026 11:50:49 GMT</pubDate>
-      <dc:creator>Daniel Emerson (doktorfuttocks.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>One for #GuitarSky - the Zemaitis &quot;Flappy Pigeon&quot; model, made for Miku Kojima of Band-Maid.</p><p><em>BlueSky &middot; doktorfuttocks.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
