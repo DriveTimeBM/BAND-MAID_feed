@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-MM2Z8I80J8",
+        "Title":  "DICE／BAND-MAID（Cover）",
+        "Channel":  "EXTEMPORIZE 2022",
+        "ChannelId":  "UC_o59diMmvOSoI7DcV447IQ",
+        "Url":  "https://youtu.be/-MM2Z8I80J8",
+        "Thumbnail":  "https://i.ytimg.com/vi/-MM2Z8I80J8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T11:14:39.0000000Z",
+        "DiscoveredAt":  "2026-10-25T11:42:59.2299530Z",
+        "Duration":  "00:04:00",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "GBh8USC1BsU",
         "Title":  "DasmaniaXDreacts to BAND-MAID x THE WARNING – SHOW THEM 🔥 THIS COLLAB GOES HARD!",
         "Channel":  "DasmaniaXDReacts",
