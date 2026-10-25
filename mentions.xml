@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 07:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:15:15 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'm surprised how few people in the youtube reaction circuit cover them. That...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3myp7z7ggjk2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3myp7z7ggjk2f</guid>
+      <pubDate>Sun, 25 Oct 2026 12:38:42 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;m surprised how few people in the youtube reaction circuit cover them. That would definitely drive some more engagement, it&#39;s certainly been a big part of Band Maid&#39;s surge. MOST underrated though, I still have to say Atozome, not sure they&#39;ve hit 2000 subs on YouTube yet, which is criminal.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] e Thrill, each of us separately looked for a direction that would match Band-...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myok3zrqku2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>7 years ago Band-Maid played 23 songs at Bay Hall in Yokohama JP on 2019/10/14. The opening song was endless Story.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago Band-Maid played 18 songs at August Hall in San Francisco US on 2...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mxsumgxq4q26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mxsumgxq4q26</guid>
-      <pubDate>Wed, 14 Oct 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago Band-Maid played 18 songs at August Hall in San Francisco US on 2022/10/14. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
