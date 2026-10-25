@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "_-xtIs_uNy0",
+        "Title":  "IS THIS ONE OF THEIR BEST??? First time reaction to BAND-MAID \"Shambles Acous.\" & \"Choose me\" Live",
+        "Channel":  "JapaGirl Reacts.",
+        "ChannelId":  "UCEckk2nuN7w4NxlvsrnU0qg",
+        "Url":  "https://youtu.be/_-xtIs_uNy0",
+        "Thumbnail":  "https://i.ytimg.com/vi/_-xtIs_uNy0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T12:00:23.0000000Z",
+        "DiscoveredAt":  "2026-10-25T12:13:43.7041625Z",
+        "Duration":  "00:19:49",
+        "ViewsAtDiscovery":  21,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "trrvL08NhMs",
+        "Title":  "BAND-MAID – HATE | First-Time Reaction",
+        "Channel":  "Big Steve's Musings",
+        "ChannelId":  "UCoowc8JltgYMatVt1ui_K4Q",
+        "Url":  "https://youtu.be/trrvL08NhMs",
+        "Thumbnail":  "https://i.ytimg.com/vi/trrvL08NhMs/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T12:00:09.0000000Z",
+        "DiscoveredAt":  "2026-10-25T12:13:41.9764577Z",
+        "Duration":  "00:10:17",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "-MM2Z8I80J8",
         "Title":  "DICE／BAND-MAID（Cover）",
         "Channel":  "EXTEMPORIZE 2022",
