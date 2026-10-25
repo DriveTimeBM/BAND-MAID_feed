@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "kNsZ1hGNWfc",
+        "Title":  "Band-Maid - Warning! (bass backing track)",
+        "Channel":  "Solo Melody Bass Tracks",
+        "ChannelId":  "UCDYvRzz4EcZ5-Sd4QhZuQag",
+        "Url":  "https://youtu.be/kNsZ1hGNWfc",
+        "Thumbnail":  "https://i.ytimg.com/vi/kNsZ1hGNWfc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T01:38:48.0000000Z",
+        "DiscoveredAt":  "2026-10-25T02:01:20.2032343Z",
+        "Duration":  "00:04:23",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "F8At8UYUono",
         "Title":  "Unleash!!!!! – BAND-MAID Live in Chicago (2026) [Fan Cam] ライブ ファンカム ",
         "Channel":  "Gaijin in the Pit",
