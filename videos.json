@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "64SNPvzi_iU",
+        "Title":  "BAND-MAID - DOMINATION (OMV) | FIRST TIME REACTION",
+        "Channel":  "Reacting 4 Maui",
+        "ChannelId":  "UCkqAVktcQxUam6DMvLfnuuQ",
+        "Url":  "https://youtu.be/64SNPvzi_iU",
+        "Thumbnail":  "https://i.ytimg.com/vi/64SNPvzi_iU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T17:30:31.0000000Z",
+        "DiscoveredAt":  "2026-10-25T17:50:56.9800068Z",
+        "Duration":  "00:15:57",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "M5HadT-ZT68",
         "Title":  "BAND-MAID Live @ Dallas House Of Blues 🎀 ...the full experience blog!",
         "Channel":  "Baka Breakdown",
