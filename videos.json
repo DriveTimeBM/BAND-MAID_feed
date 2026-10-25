@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3Ux31tHNkZw",
+        "Title":  "Band-Maid - Hate? (vocals backing track)",
+        "Channel":  "Vocal Minus Tracks",
+        "ChannelId":  "UCJBSY_sfnqvkFo8RQN_bMJA",
+        "Url":  "https://youtu.be/3Ux31tHNkZw",
+        "Thumbnail":  "https://i.ytimg.com/vi/3Ux31tHNkZw/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T02:13:09.0000000Z",
+        "DiscoveredAt":  "2026-10-25T02:32:19.5288458Z",
+        "Duration":  "00:05:07",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "kNsZ1hGNWfc",
         "Title":  "Band-Maid - Warning! (bass backing track)",
         "Channel":  "Solo Melody Bass Tracks",
