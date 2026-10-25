@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NTjzu2iesY0",
+        "Title":  "BAND-MAID / DICE (Official Music Video) Reaction",
+        "Channel":  "SidequestswithKJ",
+        "ChannelId":  "UCnGuG7yXZfLmMei0cCL7IxQ",
+        "Url":  "https://youtu.be/NTjzu2iesY0",
+        "Thumbnail":  "https://i.ytimg.com/vi/NTjzu2iesY0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T20:42:12.0000000Z",
+        "DiscoveredAt":  "2026-10-25T20:55:23.2772193Z",
+        "Duration":  "00:08:03",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hk2Vs1C5I-U",
         "Title":  "Foreigner Reaction to Band maid - HATE? at Lollapalooza 2023",
         "Channel":  "Emmanuel React",
