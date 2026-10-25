@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "GBh8USC1BsU",
+        "Title":  "DasmaniaXDreacts to BAND-MAID x THE WARNING – SHOW THEM 🔥 THIS COLLAB GOES HARD!",
+        "Channel":  "DasmaniaXDReacts",
+        "ChannelId":  "UCeR0mOtAeYV-F9ly_G9s70Q",
+        "Url":  "https://youtu.be/GBh8USC1BsU",
+        "Thumbnail":  "https://i.ytimg.com/vi/GBh8USC1BsU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T07:37:17.0000000Z",
+        "DiscoveredAt":  "2026-10-25T07:37:42.8752928Z",
+        "Duration":  "00:08:20",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "9ZXTDUBBSa0",
+        "Title":  "🔥 BAND-MAID – “without holding back” 🤯 | I WAS NOT READY FOR THIS!",
+        "Channel":  "DORCAS' REACT",
+        "ChannelId":  "UCoVXdbNEoVNi4BZplaEW9KQ",
+        "Url":  "https://youtu.be/9ZXTDUBBSa0",
+        "Thumbnail":  "https://i.ytimg.com/vi/9ZXTDUBBSa0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T07:07:46.0000000Z",
+        "DiscoveredAt":  "2026-10-25T07:37:41.8447656Z",
+        "Duration":  "00:04:42",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3Ux31tHNkZw",
         "Title":  "Band-Maid - Hate? (vocals backing track)",
         "Channel":  "Vocal Minus Tracks",
