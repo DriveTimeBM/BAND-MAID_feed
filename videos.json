@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "M5HadT-ZT68",
+        "Title":  "BAND-MAID Live @ Dallas House Of Blues 🎀 ...the full experience blog!",
+        "Channel":  "Baka Breakdown",
+        "ChannelId":  "UC_Xwu5KxI8tRK_zMBSgU-5Q",
+        "Url":  "https://youtu.be/M5HadT-ZT68",
+        "Thumbnail":  "https://i.ytimg.com/vi/M5HadT-ZT68/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T14:40:07.0000000Z",
+        "DiscoveredAt":  "2026-10-25T14:47:02.8033611Z",
+        "Duration":  "00:29:30",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "_-xtIs_uNy0",
         "Title":  "IS THIS ONE OF THEIR BEST??? First time reaction to BAND-MAID \"Shambles Acous.\" & \"Choose me\" Live",
         "Channel":  "JapaGirl Reacts.",
