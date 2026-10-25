@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "hk2Vs1C5I-U",
+        "Title":  "Foreigner Reaction to Band maid - HATE? at Lollapalooza 2023",
+        "Channel":  "Emmanuel React",
+        "ChannelId":  "UCkNErUXDroPLxu88rM4vGsg",
+        "Url":  "https://youtu.be/hk2Vs1C5I-U",
+        "Thumbnail":  "https://i.ytimg.com/vi/hk2Vs1C5I-U/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T20:11:52.0000000Z",
+        "DiscoveredAt":  "2026-10-25T20:24:41.6053549Z",
+        "Duration":  "00:07:30",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "H0V8M2PHcno",
+        "Title":  "Synth Riders - WHAT IS JUSTICE - band maid - TheDrewcifer - 3 Mode",
+        "Channel":  "Miscellaneous tkj",
+        "ChannelId":  "UCpf-TC5Dak1pknfGWZf7lcg",
+        "Url":  "https://youtu.be/H0V8M2PHcno",
+        "Thumbnail":  "https://i.ytimg.com/vi/H0V8M2PHcno/hqdefault.jpg",
+        "PublishedAt":  "2026-10-25T20:00:16.0000000Z",
+        "DiscoveredAt":  "2026-10-25T20:24:39.3919742Z",
+        "Duration":  "00:03:30",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "64SNPvzi_iU",
         "Title":  "BAND-MAID - DOMINATION (OMV) | FIRST TIME REACTION",
         "Channel":  "Reacting 4 Maui",
