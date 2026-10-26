@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 15:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:34:26 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAIDって来年活動休止するんだよな、来月のライブを全力で楽しむしかないんよ</title>
+      <link>https://bsky.app/profile/did:plc:rcjmnioylkcshg2a5byvznyl/post/3myqoahoskk2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rcjmnioylkcshg2a5byvznyl/post/3myqoahoskk2t</guid>
+      <pubDate>Mon, 26 Oct 2026 02:25:57 GMT</pubDate>
+      <dc:creator>モノノベ (mono-grbl.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDって来年活動休止するんだよな、来月のライブを全力で楽しむしかないんよ</p><p><em>BlueSky &middot; mono-grbl.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanime...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mypfosnqqi2q</link>
@@ -899,15 +908,6 @@
       <dc:creator>bionicgrit.bsky.social</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>&quot;The Band-Maid Warning&quot;. 😋 <br/>(Yeah, a lazy one, I know. 😄 But both bands basically did play as one band for this song, even live a few times I think. Though on a later gig only Dany was on stage with the maids for the song.)<br/>www.youtube.com/watch?v=LVl0...</p><p><em>BlueSky &middot; bionicgrit.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] MIKU: After the intensity of "REAL EXISTENCE", I took a more relaxed approach...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mxsuxxisss24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mxsuxxisss24</guid>
-      <pubDate>Wed, 14 Oct 2026 06:06:36 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>MIKU: After the intensity of &quot;REAL EXISTENCE&quot;, I took a more relaxed approach with &quot;Price of Pride&quot;.<br/><br/>KANAMI: The melodious songs on this album are the most pop-oriented and easy to listen to. The lyrics are also positive, and I included them as a way of saying, &quot;BAND-MAID&#174; can take this approach, t</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
