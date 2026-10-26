@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 06:37:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:47:48 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 🎧 Le radar des sorties 🎧 🔍</title>
+      <link>https://bsky.app/profile/did:plc:6sihfl3lwu5qkbjw4rfyt5m4/post/3myrok5u3l22u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6sihfl3lwu5qkbjw4rfyt5m4/post/3myrok5u3l22u</guid>
+      <pubDate>Mon, 26 Oct 2026 12:04:02 GMT</pubDate>
+      <dc:creator>JaME France (jameworldfr.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>🎧 Le radar des sorties 🎧 🔍 <br/><br/>28/10<br/>Firestarter - #MWAM<br/>MISTIA - #ROIROM<br/>RE:CODE - #PassCode<br/>SPIN - #bandmaid<br/><br/>01/11<br/>ND5 - #なにわ男子<br/><br/>Le reste de la liste sur : www.jame-world.com/fr/release</p><p><em>BlueSky &middot; jameworldfr.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Liberal</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myr2kxdfte2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] lovebites e band maid vão fazer hiatus de shows ano que vem, nemophilia vai m...</title>
-      <link>https://bsky.app/profile/did:plc:xk7lbowfu7tnfxyrack2p2qe/post/3mxuutijo3c27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xk7lbowfu7tnfxyrack2p2qe/post/3mxuutijo3c27</guid>
-      <pubDate>Thu, 15 Oct 2026 01:09:26 GMT</pubDate>
-      <dc:creator>Dandy ✿ (yumekuni.moe)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>lovebites e band maid v&#227;o fazer hiatus de shows ano que vem, nemophilia vai mudar, hanabie. t&#225; sem a Chika<br/><br/>Hagane e broken by the scream me salvem com um show<br/><br/>n&#227;o &#233; banda mas aceito passcode tbm.....</p><p><em>BlueSky &middot; yumekuni.moe</em></p>]]></description>
     </item>
   </channel>
 </rss>
