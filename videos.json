@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "pAuToMtKGSg",
+        "Title":  "Band-Maid | How Was the LA Show...  Joel Roadie and SJ Nix Review!",
+        "Channel":  "Party Like a Rockstar Podcast",
+        "ChannelId":  "UCl2fC2cHyj_uSNH2mgtQ1nQ",
+        "Url":  "https://youtu.be/pAuToMtKGSg",
+        "Thumbnail":  "https://i.ytimg.com/vi/pAuToMtKGSg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-26T07:00:32.0000000Z",
+        "DiscoveredAt":  "2026-10-26T14:21:39.7714169Z",
+        "Duration":  "00:25:12",
+        "ViewsAtDiscovery":  772,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yLJ6E1ngd_o",
         "Title":  "【BAND-MAID】脳がバグる変拍子。OnsetはKANAMIの魔法？ #bandmaid",
         "Channel":  "tetsu_guitar",
