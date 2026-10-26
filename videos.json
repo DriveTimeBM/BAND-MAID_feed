@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "m9XQZYAGkmI",
+        "Title":  "Musicians REACT to BAND-MAID with DANY: SHOW THEM (October 17 2026 Mexico City)",
+        "Channel":  "Glenn and Adrian's Rock Talk",
+        "ChannelId":  "UClMb79RC9_r4rIvZZUQ2ftg",
+        "Url":  "https://youtu.be/m9XQZYAGkmI",
+        "Thumbnail":  "https://i.ytimg.com/vi/m9XQZYAGkmI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-26T15:00:38.0000000Z",
+        "DiscoveredAt":  "2026-10-26T15:23:23.3490086Z",
+        "Duration":  "00:15:33",
+        "ViewsAtDiscovery":  43,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "7B7o20d4cmY",
+        "Title":  "BAND MAID MONDAY! Today We Hear \"TIME\" From Your Recommendations! #BandMaid",
+        "Channel":  "WavesAcrossTheWater",
+        "ChannelId":  "UC8VWDy9uGVbgrBXwJlRwESQ",
+        "Url":  "https://youtu.be/7B7o20d4cmY",
+        "Thumbnail":  "https://i.ytimg.com/vi/7B7o20d4cmY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-26T15:00:26.0000000Z",
+        "DiscoveredAt":  "2026-10-26T15:23:21.1915277Z",
+        "Duration":  "00:19:41",
+        "ViewsAtDiscovery":  28,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "pAuToMtKGSg",
         "Title":  "Band-Maid | How Was the LA Show...  Joel Roadie and SJ Nix Review!",
         "Channel":  "Party Like a Rockstar Podcast",
