@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Gp6jq6GtG2o",
+        "Title":  "Band-Maid / BESTIE (First Time Reaction)",
+        "Channel":  "John Slop",
+        "ChannelId":  "UCMYpYAr7HnGGHaIWXpVw_IA",
+        "Url":  "https://youtu.be/Gp6jq6GtG2o",
+        "Thumbnail":  "https://i.ytimg.com/vi/Gp6jq6GtG2o/hqdefault.jpg",
+        "PublishedAt":  "2026-10-26T17:00:07.0000000Z",
+        "DiscoveredAt":  "2026-10-26T17:25:40.1973092Z",
+        "Duration":  "00:06:59",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "m9XQZYAGkmI",
         "Title":  "Musicians REACT to BAND-MAID with DANY: SHOW THEM (October 17 2026 Mexico City)",
         "Channel":  "Glenn and Adrian's Rock Talk",
