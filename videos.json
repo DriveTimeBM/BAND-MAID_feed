@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "WzHz3Z2M2Dg",
+        "Title":  "BAND-MAID – TOI ET MOI (LIVE) 🤯 THAT RIFF! | BARISTA REACTS",
+        "Channel":  "Black Art Coffee",
+        "ChannelId":  "UCT5UGhD36BW9X7vpRZlWERw",
+        "Url":  "https://youtu.be/WzHz3Z2M2Dg",
+        "Thumbnail":  "https://i.ytimg.com/vi/WzHz3Z2M2Dg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-26T07:55:37.0000000Z",
+        "DiscoveredAt":  "2026-10-26T08:09:35.9615642Z",
+        "Duration":  "00:08:11",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "jbyvHKcY2E4",
         "Title":  "Alexandra Villareal con Band maid antes de cantar ",
         "Channel":  "Roarma - Conocimiento de aquí y allá ",
