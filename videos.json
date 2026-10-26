@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "yLJ6E1ngd_o",
+        "Title":  "【BAND-MAID】脳がバグる変拍子。OnsetはKANAMIの魔法？ #bandmaid",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/yLJ6E1ngd_o",
+        "Thumbnail":  "https://i.ytimg.com/vi/yLJ6E1ngd_o/hqdefault.jpg",
+        "PublishedAt":  "2026-10-26T13:28:57.0000000Z",
+        "DiscoveredAt":  "2026-10-26T13:50:49.3135937Z",
+        "Duration":  "00:01:05",
+        "ViewsAtDiscovery":  212,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "aAYOPoO8wvw",
         "Title":  "BAND-MAID - One and only | Reaction!",
         "Channel":  "Rockin' with Matt",
