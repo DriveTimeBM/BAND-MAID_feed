@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gOBfdncINLo",
+        "Title":  "Band-Maid Documentary/ Misa (REACTION)",
+        "Channel":  "Angelo's World",
+        "ChannelId":  "UCbnHnqTT_GDmFxFMJ75adog",
+        "Url":  "https://youtu.be/gOBfdncINLo",
+        "Thumbnail":  "https://i.ytimg.com/vi/gOBfdncINLo/hqdefault.jpg",
+        "PublishedAt":  "2026-10-26T19:00:08.0000000Z",
+        "DiscoveredAt":  "2026-10-26T19:46:29.2947757Z",
+        "Duration":  "00:36:25",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "X4SMUqPC7Jc",
         "Title":  "BAND-MAID / from now on (Official Music Video) Reaction",
         "Channel":  "SidequestswithKJ",
