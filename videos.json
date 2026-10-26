@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "X4SMUqPC7Jc",
+        "Title":  "BAND-MAID / from now on (Official Music Video) Reaction",
+        "Channel":  "SidequestswithKJ",
+        "ChannelId":  "UCnGuG7yXZfLmMei0cCL7IxQ",
+        "Url":  "https://youtu.be/X4SMUqPC7Jc",
+        "Thumbnail":  "https://i.ytimg.com/vi/X4SMUqPC7Jc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-26T19:22:50.0000000Z",
+        "DiscoveredAt":  "2026-10-26T19:28:32.7039711Z",
+        "Duration":  "00:07:05",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Gp6jq6GtG2o",
         "Title":  "Band-Maid / BESTIE (First Time Reaction)",
         "Channel":  "John Slop",
