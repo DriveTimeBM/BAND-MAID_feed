@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AYzK3FtSfkc",
+        "Title":  "[Repost] BAND-MAID Ready To Rock cover ft ‪@jenainofficial‬ (including GP TAB) 「ロックは淑女の嗜みでして」",
+        "Channel":  "ARUSPEX",
+        "ChannelId":  "UCIiOTf4pj6OW5cyZtEgsojg",
+        "Url":  "https://youtu.be/AYzK3FtSfkc",
+        "Thumbnail":  "https://i.ytimg.com/vi/AYzK3FtSfkc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-26T12:39:37.0000000Z",
+        "DiscoveredAt":  "2026-10-26T12:47:33.8006048Z",
+        "Duration":  "00:03:31",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "WzHz3Z2M2Dg",
         "Title":  "BAND-MAID – TOI ET MOI (LIVE) 🤯 THAT RIFF! | BARISTA REACTS",
         "Channel":  "Black Art Coffee",
