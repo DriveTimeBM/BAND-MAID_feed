@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "aAYOPoO8wvw",
+        "Title":  "BAND-MAID - One and only | Reaction!",
+        "Channel":  "Rockin' with Matt",
+        "ChannelId":  "UCruBX3uPne2xBlLZOo950bA",
+        "Url":  "https://youtu.be/aAYOPoO8wvw",
+        "Thumbnail":  "https://i.ytimg.com/vi/aAYOPoO8wvw/hqdefault.jpg",
+        "PublishedAt":  "2026-10-26T13:00:31.0000000Z",
+        "DiscoveredAt":  "2026-10-26T13:19:57.9703345Z",
+        "Duration":  "00:16:48",
+        "ViewsAtDiscovery":  18,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "AYzK3FtSfkc",
         "Title":  "[Repost] BAND-MAID Ready To Rock cover ft ‪@jenainofficial‬ (including GP TAB) 「ロックは淑女の嗜みでして」",
         "Channel":  "ARUSPEX",
