@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 21:51:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:22:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 今日リリースのEP 🎵 SPIN - SPIN - Single - BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:fqu2ug6b6hadxsxbvahus7jy/post/3myv7jvrbac2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fqu2ug6b6hadxsxbvahus7jy/post/3myv7jvrbac2f</guid>
+      <pubDate>Tue, 27 Oct 2026 21:46:07 GMT</pubDate>
+      <dc:creator>たくのん (taknom.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>今日リリースのEP 🎵 SPIN - SPIN - Single - BAND-MAID<br/>#NowPlaying <br/>music.apple.com/jp/album/spi...</p><p><em>BlueSky &middot; taknom.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND MAIDDDDDDDD</title>
       <link>https://bsky.app/profile/did:plc:db4dvkeirhu6u4ok5beavsfy/post/3myv62tprtc2a</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Perfect. 👍</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Happy birthday, MISA!</title>
-      <link>https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3my2tjm5h3s2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:e7jft4czelgmbrzroepwjxjv/post/3my2tjm5h3s2y</guid>
-      <pubDate>Sat, 17 Oct 2026 10:01:59 GMT</pubDate>
-      <dc:creator>bmcssu.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Happy birthday, MISA! <br/><br/>Like a delicate child, you tread barefoot, commanding the silence of the floor like a sniper. <br/><br/>May this year bring you pure and warm happiness, spreading tranquility all around you.<br/><br/>#bandmaid</p><p><em>BlueSky &middot; bmcssu.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
