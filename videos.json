@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5cDTBpx6juI",
+        "Title":  "Reaction to BAND-MAID - 'Daydreaming' Billboard Acoustic Live",
+        "Channel":  "CoachCastTV",
+        "ChannelId":  "UCrztTuQpwd8wNh__4Mu0AEQ",
+        "Url":  "https://youtu.be/5cDTBpx6juI",
+        "Thumbnail":  "https://i.ytimg.com/vi/5cDTBpx6juI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-27T13:00:21.0000000Z",
+        "DiscoveredAt":  "2026-10-27T13:22:37.0006119Z",
+        "Duration":  "00:12:36",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "g68HNk4LeVw",
+        "Title":  "BAND-MAID – Alone | First Time Reaction 🤘 THOSE GUITAR RIFFS!",
+        "Channel":  "WHILE THE KETTLE'S ON",
+        "ChannelId":  "UCtgukyuPkMFs4GBkYTNUN6g",
+        "Url":  "https://youtu.be/g68HNk4LeVw",
+        "Thumbnail":  "https://i.ytimg.com/vi/g68HNk4LeVw/hqdefault.jpg",
+        "PublishedAt":  "2026-10-27T13:00:01.0000000Z",
+        "DiscoveredAt":  "2026-10-27T13:22:35.4914612Z",
+        "Duration":  "00:04:15",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "aq1WcUgFDOM",
         "Title":  "Episode #315 (Van Halen Non-Album Tracks Ranked + Band-Maid Live!)",
         "Channel":  "Hard Rocking Trivia Show",
