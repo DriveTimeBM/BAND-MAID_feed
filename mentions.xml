@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 17:00:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:31:36 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID /// SPIN {beyblade outro}</title>
+      <link>https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3myuomm4h4k2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3myuomm4h4k2q</guid>
+      <pubDate>Tue, 27 Oct 2026 16:43:24 GMT</pubDate>
+      <dc:creator>Merry Ol' Soul (merryolsoul.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID /// SPIN {beyblade outro}<br/><br/>#music<br/><br/>www.youtube.com/watch?v=Z7I1...</p><p><em>BlueSky &middot; merryolsoul.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
+      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3myuobg5rfy2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3myuobg5rfy2q</guid>
+      <pubDate>Tue, 27 Oct 2026 16:37:08 GMT</pubDate>
+      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID - Spring ephemeral</title>
       <link>https://bsky.app/profile/did:plc:2vzyy4fm5ptp57l4nl2j6vja/post/3myumyw56bc2t</link>
@@ -890,24 +908,6 @@
       <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 前回のボカロメタル投稿祭参加曲紹介🤘</title>
-      <link>https://bsky.app/profile/did:plc:zqbcjv2zmwsloc4evjhg2xbg/post/3mxyhbqlvrc2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zqbcjv2zmwsloc4evjhg2xbg/post/3mxyhbqlvrc2c</guid>
-      <pubDate>Fri, 16 Oct 2026 11:17:30 GMT</pubDate>
-      <dc:creator>みるくかふぇ (milkcafe-music.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>前回のボカロメタル投稿祭参加曲紹介🤘<br/><br/>柿人さんのBAND-MAIDカバー<br/><br/>BAND-MAIDの楽曲の中でもメロディアスな作品。<br/>ゆったりとしながらもグルーヴ感のあるオケに支えられた切ない歌唱が映える。<br/><br/>#Reボカロメタル投稿祭 #ボカロメタル投稿祭2026<br/><br/>サヨナキドリ / 宮舞モカ / 柿人<br/>www.nicovideo.jp/watch/sm4560...</p><p><em>BlueSky &middot; milkcafe-music.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: DICE</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mxxvvphti42w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mxxvvphti42w</guid>
-      <pubDate>Fri, 16 Oct 2026 06:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: DICE<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:3/9/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
