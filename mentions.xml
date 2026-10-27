@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 17:31:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:37:26 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Endlich ein neues Video von Band-Maid. 🎆</title>
+      <link>https://bsky.app/profile/did:plc:e5ojpwci6fxh7udi75cwaf5x/post/3myurn7mzxk2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:e5ojpwci6fxh7udi75cwaf5x/post/3myurn7mzxk2f</guid>
+      <pubDate>Tue, 27 Oct 2026 17:37:25 GMT</pubDate>
+      <dc:creator>korguul.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Endlich ein neues Video von Band-Maid. 🎆<br/><br/>youtube.com/watch?v=Z7I1...</p><p><em>BlueSky &middot; korguul.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] SPIN着弾！</title>
+      <link>https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3myurgpdpwc27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3myurgpdpwc27</guid>
+      <pubDate>Tue, 27 Oct 2026 17:33:47 GMT</pubDate>
+      <dc:creator>くぼんヌ。@ジミコスキー (kubonnu.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>SPIN着弾！<br/>M3戦利品と合わせて取り込まなければ！<br/>今回のおまけのポーチ？普通に使えそうな予感<br/>#bandmaid</p><p><em>BlueSky &middot; kubonnu.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID /// SPIN {beyblade outro}</title>
       <link>https://bsky.app/profile/did:plc:4j4nlqrggbskzvyimdiy5sz3/post/3myuomm4h4k2q</link>
@@ -890,24 +908,6 @@
       <dc:creator>Short Blondish Kid (rebelionbear.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Went and saw Band-Maid in Phoenix and it was incredible. It was worth the over 40 hours I spent on the road. Honestly can&#39;t wait for them to tour in the US again. #Band-Maid</p><p><em>BlueSky &middot; rebelionbear.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxzvr5fbyn2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mxzvr5fbyn2f</guid>
-      <pubDate>Sat, 17 Oct 2026 01:09:19 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
-      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mxyxfxrjrl2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mxyxfxrjrl2d</guid>
-      <pubDate>Fri, 16 Oct 2026 16:06:10 GMT</pubDate>
-      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
     </item>
   </channel>
 </rss>
