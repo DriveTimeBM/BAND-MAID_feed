@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 20:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 20:49:29 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] Spin is the new cool song by Band-Maid. 🤘 🇯🇵 👍</title>
+      <link>https://social.tchncs.de/@dodger/117514723644938549</link>
+      <guid isPermaLink="true">https://social.tchncs.de/@dodger/117514723644938549</guid>
+      <pubDate>Tue, 27 Oct 2026 20:19:39 GMT</pubDate>
+      <dc:creator>Dodger (dodger@social.tchncs.de)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>Spin is the new cool song by Band-Maid. 🤘 🇯🇵 👍 <br/><br/>https://youtu.be/Z7I13kDOoQk?si=zPbWW9A4gxJUTM5t<br/><br/>https://social.tchncs.de/tags/music https://social.tchncs.de/tags/japan https://social.tchncs.de/tags/rock https://social.tchncs.de/tags/bandmaid</p><p><em>Mastodon &middot; dodger@social.tchncs.de</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 【 BAND-MAID / SPIN (Official Music Video)  アニメ「BEYBLADE X ベイキングダム編」エンディングテ... 】</title>
       <link>https://bsky.app/profile/did:plc:zmxswzrac2u2d6pydmzcbbrs/post/3myuzgtxmqk2y</link>
@@ -899,15 +908,6 @@
       <dc:creator>‎Noct (noctthecrow.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Only just now getting into BAND-MAID<br/><br/>oops</p><p><em>BlueSky &middot; noctthecrow.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] — The plentiful ideas on the chorus and the ability to adapt on the scene, go...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3my2geosdnv2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3my2geosdnv2z</guid>
-      <pubDate>Sat, 17 Oct 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>— The plentiful ideas on the chorus and the ability to adapt on the scene, good indeed. Lets continue on talking about the other song &quot;Choose me&quot;.<br/><br/>Kanami: The theme of this song was Band-Maid ish. The characteristics of Band-Maid is rocking hard but easy to listen to, so I focused on these points. </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
