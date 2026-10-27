@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 22:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:25:07 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] New Band-Maid song is a real face melter.</title>
+      <link>https://bsky.app/profile/did:plc:w6vpq66iy2gjj4d75qayo4v4/post/3myvco5dqsk2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:w6vpq66iy2gjj4d75qayo4v4/post/3myvco5dqsk2h</guid>
+      <pubDate>Tue, 27 Oct 2026 22:42:10 GMT</pubDate>
+      <dc:creator>Greg Specter (gregspecter.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>New Band-Maid song is a real face melter.</p><p><em>BlueSky &middot; gregspecter.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 今日リリースのEP 🎵 SPIN - SPIN - Single - BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:fqu2ug6b6hadxsxbvahus7jy/post/3myv7jvrbac2f</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: matchless GUM<br/>Album: YOLO<br/>Release: 11/15/2016<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:10/22/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Perfect. 👍</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3my4o24cefk2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3my4o24cefk2v</guid>
-      <pubDate>Sun, 18 Oct 2026 03:29:09 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Perfect. 👍</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
