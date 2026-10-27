@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 19:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:43:34 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] NEW BAND MAID ?? WE ARE TAPPING IN</title>
+      <link>https://bsky.app/profile/did:plc:db4dvkeirhu6u4ok5beavsfy/post/3myuvbypy6s2h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:db4dvkeirhu6u4ok5beavsfy/post/3myuvbypy6s2h</guid>
+      <pubDate>Tue, 27 Oct 2026 18:42:44 GMT</pubDate>
+      <dc:creator>𝓝𝓮𝓪 (neaafterdark.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>NEW BAND MAID ?? WE ARE TAPPING IN</p><p><em>BlueSky &middot; neaafterdark.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Aw hell yea, more Band-Maid!</title>
       <link>https://bsky.app/profile/did:plc:qnjargngkqsplx6naywzami3/post/3myuux7fvnk2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Choose me<br/>Album: Daydreaming / Choose me<br/>Release: 7/18/2017<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:6/30/2017<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago Band-Maid played 18 songs at House of Blues in San Diego US on 20...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3my2fyxmvzk2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3my2fyxmvzk2y</guid>
-      <pubDate>Sat, 17 Oct 2026 06:00:01 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago Band-Maid played 18 songs at House of Blues in San Diego US on 2022/10/17. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
