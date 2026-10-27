@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "qhz8YvFhp9Y",
+        "Title":  "SPIN IS A BANGER! 🤯 | BAND-MAID Reaction",
+        "Channel":  "NeonReaperReacts",
+        "ChannelId":  "UCqs4gRwzhv26w3s1OFTEnYg",
+        "Url":  "https://youtu.be/qhz8YvFhp9Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/qhz8YvFhp9Y/hqdefault.jpg",
+        "PublishedAt":  "2026-10-27T22:22:13.0000000Z",
+        "DiscoveredAt":  "2026-10-27T22:22:45.2859751Z",
+        "Duration":  "00:11:14",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "mRXXcrNOeAs",
+        "Title":  "I EXPLODED!! BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song Reaction",
+        "Channel":  "SidequestswithKJ",
+        "ChannelId":  "UCnGuG7yXZfLmMei0cCL7IxQ",
+        "Url":  "https://youtu.be/mRXXcrNOeAs",
+        "Thumbnail":  "https://i.ytimg.com/vi/mRXXcrNOeAs/hqdefault.jpg",
+        "PublishedAt":  "2026-10-27T22:08:04.0000000Z",
+        "DiscoveredAt":  "2026-10-27T22:22:43.1482539Z",
+        "Duration":  "00:07:28",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "LxFnSZjN-bg",
         "Title":  "Band-Maid - Entropy & Spring Ephemeral ( Reaction )",
         "Channel":  "Local Band Smokeout",
