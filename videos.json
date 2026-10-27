@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "eHSBlhTdWjE",
+        "Title":  "Horrorcore Rapper Hears \"BAND-MAID - HATE? (OLV)\" for First Time #bandmaid #reactionvideo",
+        "Channel":  "HatchetHead Reacts",
+        "ChannelId":  "UCqRW2_SAFhMop0QyMcAomFA",
+        "Url":  "https://youtu.be/eHSBlhTdWjE",
+        "Thumbnail":  "https://i.ytimg.com/vi/eHSBlhTdWjE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-27T14:00:33.0000000Z",
+        "DiscoveredAt":  "2026-10-27T14:23:58.6009164Z",
+        "Duration":  "00:10:25",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "5cDTBpx6juI",
         "Title":  "Reaction to BAND-MAID - 'Daydreaming' Billboard Acoustic Live",
         "Channel":  "CoachCastTV",
