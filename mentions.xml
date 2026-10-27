@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 06:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:53:21 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 今夜BAND-MAIDの新曲もリリースなんだよな。楽しみが増えるな🎶</title>
+      <link>https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3myucgymq6k2b</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3myucgymq6k2b</guid>
+      <pubDate>Tue, 27 Oct 2026 13:05:31 GMT</pubDate>
+      <dc:creator>さかざき(`^´69) (red-herring-11250.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>今夜BAND-MAIDの新曲もリリースなんだよな。楽しみが増えるな🎶</p><p><em>BlueSky &middot; red-herring-11250.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] so, po</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mytkzvw6tv25</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>12 years ago Band-Maid played 6 songs at Shibuya Milkyway in Tokyo JP on 2014/10/15. The opening song was Yoake Mae.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played 18 songs at Headcrash in Hamburg DE on 2016/10/...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mxvf2sajvd2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mxvf2sajvd2v</guid>
-      <pubDate>Thu, 15 Oct 2026 05:59:50 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played 18 songs at Headcrash in Hamburg DE on 2016/10/15. The opening song was REAL EXISTENCE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
