@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bAsmwNZTL7k",
+        "Title":  "BAND-MAID - SPIN - Beyblade X Ending 6 | Cover en Español",
+        "Channel":  "ShizuRen",
+        "ChannelId":  "UCa0IwJp6AGQTQxY-uLEv2cg",
+        "Url":  "https://youtu.be/bAsmwNZTL7k",
+        "Thumbnail":  "https://i.ytimg.com/vi/bAsmwNZTL7k/hqdefault.jpg",
+        "PublishedAt":  "2026-10-27T17:00:09.0000000Z",
+        "DiscoveredAt":  "2026-10-27T17:31:23.3626628Z",
+        "Duration":  "00:01:31",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MkmdI3jOTgg",
         "Title":  "BAND-MAID  SPIN (Official Music Video) Anime BEYBLADE X - Roadie Reacts",
         "Channel":  "Party Like a Rockstar Podcast",
