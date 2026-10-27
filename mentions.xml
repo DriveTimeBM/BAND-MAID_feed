@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 18:37:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 19:11:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Aw hell yea, more Band-Maid!</title>
+      <link>https://bsky.app/profile/did:plc:qnjargngkqsplx6naywzami3/post/3myuux7fvnk2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qnjargngkqsplx6naywzami3/post/3myuux7fvnk2d</guid>
+      <pubDate>Tue, 27 Oct 2026 18:36:42 GMT</pubDate>
+      <dc:creator>Lyn 🏳️‍⚧️ (lyn-aka-blpry.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Aw hell yea, more Band-Maid!<br/><br/>music.youtube.com/playlist?lis...</p><p><em>BlueSky &middot; lyn-aka-blpry.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Endlich ein neues Video von Band-Maid. 🎆</title>
       <link>https://bsky.app/profile/did:plc:e5ojpwci6fxh7udi75cwaf5x/post/3myurn7mzxk2f</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago Band-Maid played 18 songs at House of Blues in San Diego US on 2022/10/17. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Went and saw Band-Maid in Phoenix and it was incredible. It was worth the ove...</title>
-      <link>https://bsky.app/profile/did:plc:horqph6j6m5vdbiij6evvbqp/post/3my2ayabd7c2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:horqph6j6m5vdbiij6evvbqp/post/3my2ayabd7c2t</guid>
-      <pubDate>Sat, 17 Oct 2026 04:30:08 GMT</pubDate>
-      <dc:creator>Short Blondish Kid (rebelionbear.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Went and saw Band-Maid in Phoenix and it was incredible. It was worth the over 40 hours I spent on the road. Honestly can&#39;t wait for them to tour in the US again. #Band-Maid</p><p><em>BlueSky &middot; rebelionbear.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
