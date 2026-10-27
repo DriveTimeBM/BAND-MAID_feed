@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 20:49:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:51:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND MAIDDDDDDDD</title>
+      <link>https://bsky.app/profile/did:plc:db4dvkeirhu6u4ok5beavsfy/post/3myv62tprtc2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:db4dvkeirhu6u4ok5beavsfy/post/3myv62tprtc2a</guid>
+      <pubDate>Tue, 27 Oct 2026 21:19:48 GMT</pubDate>
+      <dc:creator>𝓝𝓮𝓪 (neaafterdark.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND MAIDDDDDDDD</p><p><em>BlueSky &middot; neaafterdark.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[Mastodon] Spin is the new cool song by Band-Maid. 🤘 🇯🇵 👍</title>
       <link>https://social.tchncs.de/@dodger/117514723644938549</link>
@@ -899,15 +908,6 @@
       <dc:creator>bmcssu.bsky.social</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Happy birthday, MISA! <br/><br/>Like a delicate child, you tread barefoot, commanding the silence of the floor like a sniper. <br/><br/>May this year bring you pure and warm happiness, spreading tranquility all around you.<br/><br/>#bandmaid</p><p><em>BlueSky &middot; bmcssu.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Only just now getting into BAND-MAID</title>
-      <link>https://bsky.app/profile/did:plc:xenlob5kqzhniayn7xzbneur/post/3my2oqzbgnc2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xenlob5kqzhniayn7xzbneur/post/3my2oqzbgnc2d</guid>
-      <pubDate>Sat, 17 Oct 2026 08:36:39 GMT</pubDate>
-      <dc:creator>‎Noct (noctthecrow.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Only just now getting into BAND-MAID<br/><br/>oops</p><p><em>BlueSky &middot; noctthecrow.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
