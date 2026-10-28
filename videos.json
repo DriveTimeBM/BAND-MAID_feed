@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gEVxGVJZ0SM",
+        "Title":  "BAND-MAID – ENTROPY [ENG/IDN/ITA/ESP]",
+        "Channel":  "Amaverim",
+        "ChannelId":  "UCtBsA0_YEdCarFzV69pKmIg",
+        "Url":  "https://youtu.be/gEVxGVJZ0SM",
+        "Thumbnail":  "https://i.ytimg.com/vi/gEVxGVJZ0SM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T17:01:14.0000000Z",
+        "DiscoveredAt":  "2026-10-28T17:04:16.8684403Z",
+        "Duration":  "00:03:29",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "TIGJpKK2ei8",
+        "Title":  "QUEEN REACTS to BAND MAID – “After Life” 🤘🔥  THIS ROCKS HARD!",
+        "Channel":  "QueenKafi",
+        "ChannelId":  "UCZs-74rfK5XoS1J7b_6Jhlg",
+        "Url":  "https://youtu.be/TIGJpKK2ei8",
+        "Thumbnail":  "https://i.ytimg.com/vi/TIGJpKK2ei8/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T17:00:34.0000000Z",
+        "DiscoveredAt":  "2026-10-28T17:04:13.7725631Z",
+        "Duration":  "00:07:16",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "QuicjOaSLPU",
         "Title":  "Japanese Legends!! | BAND-MAID / SPIN (Official Music Video) \"BEYBLADE X\" Ending Theme | REACTION",
         "Channel":  "Mr. Rock N Roll",
