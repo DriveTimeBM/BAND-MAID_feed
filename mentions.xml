@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 06:55:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:37:17 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID“回転”をちりばめた新曲「SPIN」ミュージックビデオ公開🔥</title>
+      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mywbhgq75s2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mywbhgq75s2w</guid>
+      <pubDate>Wed, 28 Oct 2026 07:53:09 GMT</pubDate>
+      <dc:creator>音楽ナタリー (music.natalie.mu)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID“回転”をちりばめた新曲「SPIN」ミュージックビデオ公開🔥<br/>https://natalie.mu/music/news/695671?utm_source=bluesky&amp;utm_medium=social<br/><br/>アニメ「BEYBLADE X」新章EDテーマ<br/><br/>#BANDMAID</p><p><em>BlueSky &middot; music.natalie.mu</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Shake That!!</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myw3irn6aa2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2 years ago Band-Maid played 22 songs at PENNY LANE 24 in Sapporo JP on 2024/10/20. The opening song was Shambles.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mybtsiigrs24</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mybtsiigrs24</guid>
-      <pubDate>Tue, 20 Oct 2026 04:55:33 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago<br/>Magie<br/>live debut<br/>Namba Hatch, Osaka<br/>2023/10/20<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
