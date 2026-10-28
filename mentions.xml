@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 18:09:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 20:12:12 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] caramba BAND-MAID fazendo musica pra Beyblade</title>
+      <link>https://bsky.app/profile/did:plc:bzcgh74xhrro5radpf3ksxbx/post/3myxhaqwdrk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bzcgh74xhrro5radpf3ksxbx/post/3myxhaqwdrk2o</guid>
+      <pubDate>Wed, 28 Oct 2026 19:09:29 GMT</pubDate>
+      <dc:creator>matinhos (bocchi.deichator.ar)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>caramba BAND-MAID fazendo musica pra Beyblade</p><p><em>BlueSky &middot; bocchi.deichator.ar</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Beyblade X ending 6 "SPIN" by BAND-MAID is also out:</title>
       <link>https://bsky.app/profile/did:plc:tjdgcknvr3ohuab64ippu67i/post/3myxaevh54e2r</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago Band-Maid played 18 songs at House of Blues in Dallas US on 2022/10/21. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 35 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myeebb5fmc2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myeebb5fmc2c</guid>
-      <pubDate>Wed, 21 Oct 2026 04:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>35 years ago<br/>Miku Kobato<br/><br/>Kuruppo! Happy birthday!<br/>1991/10/21<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
