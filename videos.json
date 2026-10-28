@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rRT10FeqLHM",
+        "Title":  "BAND-MAID – SPIN (Official MV) REACTION",
+        "Channel":  "Kasey Reacts",
+        "ChannelId":  "UCz-TAdUNEv1cZXt0_kw8bgg",
+        "Url":  "https://youtu.be/rRT10FeqLHM",
+        "Thumbnail":  "https://i.ytimg.com/vi/rRT10FeqLHM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T18:56:09.0000000Z",
+        "DiscoveredAt":  "2026-10-28T19:10:32.6808168Z",
+        "Duration":  "00:08:19",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mJbf0CoFvU4",
         "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song REACTION",
         "Channel":  "FavoriteIslandGirl",
