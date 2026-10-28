@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rNb82PzGK0c",
+        "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song 🌸Reaction🌸",
+        "Channel":  "Faro & Sofi",
+        "ChannelId":  "UCLQzdUgHF9l_eybT3_Wo22A",
+        "Url":  "https://youtu.be/rNb82PzGK0c",
+        "Thumbnail":  "https://i.ytimg.com/vi/rNb82PzGK0c/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T10:00:12.0000000Z",
+        "DiscoveredAt":  "2026-10-28T10:13:21.5336525Z",
+        "Duration":  "00:14:48",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "aODurq4kw9c",
         "Title":  "BAND-MAID - SPIN Is Incredible! | \"BEYBLADE X\" Anime Ending Theme Reaction! 🔥",
         "Channel":  "Rimuru Reacts",
