@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 00:58:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:05:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] All-female Japanese hard rock band BAND-MAID released their new single  "SPIN...</title>
+      <link>https://bsky.app/profile/did:plc:t2ww7zb3fvnwsqfvvgeouqnn/post/3myvnp5vzp42g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:t2ww7zb3fvnwsqfvvgeouqnn/post/3myvnp5vzp42g</guid>
+      <pubDate>Wed, 28 Oct 2026 01:59:35 GMT</pubDate>
+      <dc:creator>anizeen.com 🎃 (anizeen.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/><br/>All-female Japanese hard rock band BAND-MAID released their new single  &quot;SPIN&quot;  in Japan today, October 28, along with the #music video on  their official YouTube channel . The song serves as the ending theme for the<br/><br/>via https://bit.ly/3WQvUFa<br/><br/>🌸 #animenews #anizeen </p><p><em>BlueSky &middot; anizeen.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band Maid  -  Spin  -  27/10/2026.</title>
       <link>https://bsky.app/profile/did:plc:33vumx4d6hlf5fcggkqehhe3/post/3myvgosb5g22i</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>4 years ago Band-Maid played 18 songs at Crescent Ballroom in Phoenix US on 2022/10/19. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID-"ENERGETIC"</title>
-      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3my64mknl2c2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3my64mknl2c2s</guid>
-      <pubDate>Sun, 18 Oct 2026 17:22:41 GMT</pubDate>
-      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID-&quot;ENERGETIC&quot;<br/><br/>Three, two, one<br/>La-la-la, la-la-la, la-la-la<br/>La-la-la, la-la-la, la-la-la<br/><br/>One by one then break it down<br/><br/>youtu.be/NpZjslVGhbE</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
