@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "TW9mNP-h29E",
+        "Title":  "【叩いてみた】BAND-MAID / Ready to Rock【シングルペダル】",
+        "Channel":  "翠響",
+        "ChannelId":  "UCq4zhNLP9u3AYg_CVY6Wz-g",
+        "Url":  "https://youtu.be/TW9mNP-h29E",
+        "Thumbnail":  "https://i.ytimg.com/vi/TW9mNP-h29E/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T11:23:07.0000000Z",
+        "DiscoveredAt":  "2026-10-28T11:47:40.8929136Z",
+        "Duration":  "00:03:27",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rNb82PzGK0c",
         "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song 🌸Reaction🌸",
         "Channel":  "Faro & Sofi",
