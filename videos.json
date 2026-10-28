@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SOdQGbTuuuA",
+        "Title":  "BAND-MAID - Toi et moi Lyrics | [Kanji/Romaji/English]",
+        "Channel":  "Kanamincho",
+        "ChannelId":  "UCHNJpI8sUnbvNC2FWgQ7OFA",
+        "Url":  "https://youtu.be/SOdQGbTuuuA",
+        "Thumbnail":  "https://i.ytimg.com/vi/SOdQGbTuuuA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T23:40:10.0000000Z",
+        "DiscoveredAt":  "2026-10-28T23:48:06.5763018Z",
+        "Duration":  "00:02:57",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ek56dFlaEAc",
+        "Title":  "Reaction - BAND-MAID - SPIN - MV / Anime \"BEYBLADE X\" END",
+        "Channel":  "NAR_by_Marek",
+        "ChannelId":  "UC53wjwxrZyoG1w2S3R2PrZw",
+        "Url":  "https://youtu.be/ek56dFlaEAc",
+        "Thumbnail":  "https://i.ytimg.com/vi/ek56dFlaEAc/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T23:26:44.0000000Z",
+        "DiscoveredAt":  "2026-10-28T23:48:01.5999972Z",
+        "Duration":  "00:17:37",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yVHoKkdkJy4",
         "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song | Metal Vocalist Reacts",
         "Channel":  "JohnReavesLive",
