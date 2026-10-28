@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 17:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:09:13 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Beyblade X ending 6 "SPIN" by BAND-MAID is also out:</title>
+      <link>https://bsky.app/profile/did:plc:tjdgcknvr3ohuab64ippu67i/post/3myxaevh54e2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tjdgcknvr3ohuab64ippu67i/post/3myxaevh54e2r</guid>
+      <pubDate>Wed, 28 Oct 2026 17:06:31 GMT</pubDate>
+      <dc:creator>AniPlaylist (aniplaylist.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Beyblade X ending 6 &quot;SPIN&quot; by BAND-MAID is also out: <br/>anipl.ist/beyblade-x-e...</p><p><em>BlueSky &middot; aniplaylist.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID Releases BEYBLADE X Anime Bey Kingdom Arc Ending Theme Music Video</title>
       <link>https://bsky.app/profile/did:plc:nxqlg42xbspbbsvzzsu3k2u2/post/3myxa2fdrt52b</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>35 years ago<br/>Miku Kobato<br/><br/>Kuruppo! Happy birthday!<br/>1991/10/21<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
-      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mye7gjkzjn2s</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mye7gjkzjn2s</guid>
-      <pubDate>Wed, 21 Oct 2026 03:28:58 GMT</pubDate>
-      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
