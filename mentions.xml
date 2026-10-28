@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 08:37:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:44:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] youtube.com/watch?v=Z7I1... Your Wednesday Brunchie Tune comes from Band-Maid</title>
+      <link>https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mywjakuxys2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mywjakuxys2v</guid>
+      <pubDate>Wed, 28 Oct 2026 10:12:31 GMT</pubDate>
+      <dc:creator>Keith Sowerby (jamesksowerby.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>youtube.com/watch?v=Z7I1... Your Wednesday Brunchie Tune comes from Band-Maid</p><p><em>BlueSky &middot; jamesksowerby.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID“回転”をちりばめた新曲「SPIN」ミュージックビデオ公開🔥</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mywbhgq75s2w</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at Nanba Hatch in Osaka JP on 2023/10/20. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago Band-Maid played 22 songs at PENNY LANE 24 in Sapporo JP on 2024/...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mybxfzklrx2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mybxfzklrx2n</guid>
-      <pubDate>Tue, 20 Oct 2026 06:00:11 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago Band-Maid played 22 songs at PENNY LANE 24 in Sapporo JP on 2024/10/20. The opening song was Shambles.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
