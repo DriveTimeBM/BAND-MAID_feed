@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 10:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:16:14 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID estrenó el video musical del ending del arco Bey Kingdom de BEYBLADE X</title>
+      <link>https://bsky.app/profile/did:plc:mukvwpq6rqelohr6te6e6znr/post/3mywkfb5u2v2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:mukvwpq6rqelohr6te6e6znr/post/3mywkfb5u2v2j</guid>
+      <pubDate>Wed, 28 Oct 2026 10:33:01 GMT</pubDate>
+      <dc:creator>Crunchyroll en Español (Mirror) (crunchyroll.eurosky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID estren&#243; el video musical del ending del arco Bey Kingdom de BEYBLADE X<br/><br/>https://crunchyroll.com/es-es/news/latest/2026/10/28/beyblade-x-anime-bey-kingdom-arc-ending-video-musical-band-maid</p><p><em>BlueSky &middot; crunchyroll.eurosky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] youtube.com/watch?v=Z7I1... Your Wednesday Brunchie Tune comes from Band-Maid</title>
       <link>https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mywjakuxys2v</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>7 years ago Band-Maid played 23 songs at Nanba Hatch in Osaka JP on 2019/10/20. The opening song was the non-fiction days.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago Band-Maid played 23 songs at Nanba Hatch in Osaka JP on 2023/10/2...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mybxgbeyua27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mybxgbeyua27</guid>
-      <pubDate>Tue, 20 Oct 2026 06:00:19 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago Band-Maid played 23 songs at Nanba Hatch in Osaka JP on 2023/10/20. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
