@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "QuicjOaSLPU",
+        "Title":  "Japanese Legends!! | BAND-MAID / SPIN (Official Music Video) \"BEYBLADE X\" Ending Theme | REACTION",
+        "Channel":  "Mr. Rock N Roll",
+        "ChannelId":  "UC6zsSO4MWusVRVvGVt6oraw",
+        "Url":  "https://youtu.be/QuicjOaSLPU",
+        "Thumbnail":  "https://i.ytimg.com/vi/QuicjOaSLPU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T15:30:20.0000000Z",
+        "DiscoveredAt":  "2026-10-28T15:31:42.8149511Z",
+        "Duration":  "00:08:50",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "S8v4Nt2rLCk",
+        "Title":  "Band Maid Spin (Official Music Video) Reaction",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/S8v4Nt2rLCk",
+        "Thumbnail":  "https://i.ytimg.com/vi/S8v4Nt2rLCk/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T15:10:47.0000000Z",
+        "DiscoveredAt":  "2026-10-28T15:31:41.2459413Z",
+        "Duration":  "00:03:48",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "58pRAanZmZA",
         "Title":  "BAND-MAID – REAL EXISTENCE | This Band Is PURE ROCK ENERGY!",
         "Channel":  "Gigi Reacts | Lithuanian in the UK",
