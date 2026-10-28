@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Hopo6duTNuM",
+        "Title":  "🔥 BAND-MAID DID IT AGAIN!! 😱 Spring Ephemeral BLEW ME AWAY! |  REACTION!",
+        "Channel":  "The Fam Jay Crew",
+        "ChannelId":  "UCr_wpkXp9lDwG0t35vs1Jvg",
+        "Url":  "https://youtu.be/Hopo6duTNuM",
+        "Thumbnail":  "https://i.ytimg.com/vi/Hopo6duTNuM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T02:06:59.0000000Z",
+        "DiscoveredAt":  "2026-10-28T02:31:41.8144492Z",
+        "Duration":  "00:08:06",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "DumpOMyD954",
+        "Title":  "BAND-MAID - SPIN - 3 SONGS!! LIVE REACTION",
+        "Channel":  "Ryan Mear",
+        "ChannelId":  "UCvKUIZjMmlHJ9vjGJey0SBQ",
+        "Url":  "https://youtu.be/DumpOMyD954",
+        "Thumbnail":  "https://i.ytimg.com/vi/DumpOMyD954/hqdefault.jpg",
+        "PublishedAt":  "2026-10-27T22:49:29.0000000Z",
+        "DiscoveredAt":  "2026-10-28T02:31:39.0817713Z",
+        "Duration":  "03:04:09",
+        "ViewsAtDiscovery":  1300,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "AiNwnqge3Gc",
         "Title":  "BAND-MAID / Spin reaction | This Song Made Me Want To Battle",
         "Channel":  "Lune-atic Reactions",
