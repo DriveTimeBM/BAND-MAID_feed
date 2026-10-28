@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 13:27:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:00:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID-"Spin"</title>
+      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mywx7y7jcs2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mywx7y7jcs2z</guid>
+      <pubDate>Wed, 28 Oct 2026 14:22:43 GMT</pubDate>
+      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID-&quot;Spin&quot;<br/>youtu.be/Z7I13kDOoQk<br/><br/>Brand new Japanese Metal<br/>@mal-pram.bsky.social @lightgrw.bsky.social @markfreemymind.bsky.social @brucewayne24.bsky.social @jaychasjohnson.bsky.social</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 🔥 The Warning x BAND-MAID #Shorts</title>
+      <link>https://bsky.app/profile/did:plc:yoojlwqfszen5zialh4qvvyt/post/3myww4sqo2r2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:yoojlwqfszen5zialh4qvvyt/post/3myww4sqo2r2z</guid>
+      <pubDate>Wed, 28 Oct 2026 14:03:02 GMT</pubDate>
+      <dc:creator>Dasmine Johnson (dasminejohnson.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>🔥 The Warning x BAND-MAID #Shorts<br/>Full: https://youtu.be/GBh8USC1BsU<br/>Channel: https://youtube.com/@DasmaniaXDReacts<br/>Spotify: https://open.spotify.com/artist/48u5jnTbu1aY0bcEqqg9aA<br/>Apple: https://music.apple.com/us/artist/dasmine-johnson/6811926574<br/>Merch: https://direct.distrokid.com/dasminejohnson/</p><p><em>BlueSky &middot; dasminejohnson.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID / SPIN (Official Music Video)  アニメ「BEYBLADE X ベイキングダム編」エンディングテ... y...</title>
       <link>https://bsky.app/profile/did:plc:g3eizrzbzfchuox2fbvkpcpk/post/3mywreml53k2n</link>
@@ -890,24 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>It&#39;s already October 21st in Japan, so Happy 35th Birthday to Band Maid&#39;s founder, rhythm guitarist, co-vocalist and spokespigeon, Miku Kobato.<br/>Here&#39;s an acoustic version of Brightest Star</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] It's ironic that Japanese hard-rock band Band-Maid just completed a North Ame...</title>
-      <link>https://bsky.app/profile/did:plc:crzgbmuepksit3ectef4b4rz/post/3mycmyylxf22r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:crzgbmuepksit3ectef4b4rz/post/3mycmyylxf22r</guid>
-      <pubDate>Tue, 20 Oct 2026 12:26:37 GMT</pubDate>
-      <dc:creator>JoeA64 (joea64.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>It&#39;s ironic that Japanese hard-rock band Band-Maid just completed a North American tour consisting mostly of U.S. dates, but I suppose they must have gotten lucky with visas (also, I read yesterday that it&#39;s easier for bands and orchestras to get visas than individuals).</p><p><em>BlueSky &middot; joea64.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Rock in me</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mybxrfse4g2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mybxrfse4g2q</guid>
-      <pubDate>Tue, 20 Oct 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Rock in me<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID TIENOWA<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID TIENOWA<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
