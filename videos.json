@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RjQDPYSm_NQ",
+        "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song. A Layman's Reaction",
+        "Channel":  "A Layman's Reaction",
+        "ChannelId":  "UCBfLiPasLMduGO1FWT9yJ4Q",
+        "Url":  "https://youtu.be/RjQDPYSm_NQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/RjQDPYSm_NQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T12:15:16.0000000Z",
+        "DiscoveredAt":  "2026-10-28T12:23:02.1855790Z",
+        "Duration":  "00:06:26",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "TW9mNP-h29E",
         "Title":  "【叩いてみた】BAND-MAID / Ready to Rock【シングルペダル】",
         "Channel":  "翠響",
