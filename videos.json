@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2nMxnkb986M",
+        "Title":  "🔥🎸【BAND-MAID】新曲「SPIN」のMV公開！🤘✨ アニメ『BEYBLADE X』新章EDテーマに注目！⚡🎶 圧巻のロックサウンドと迫力の映像を見逃すな！🎬💥",
+        "Channel":  "TokyoFlash JP",
+        "ChannelId":  "UCZA-3poKXXt1yqAGh72zEdQ",
+        "Url":  "https://youtu.be/2nMxnkb986M",
+        "Thumbnail":  "https://i.ytimg.com/vi/2nMxnkb986M/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T03:33:44.0000000Z",
+        "DiscoveredAt":  "2026-10-28T03:37:36.9896977Z",
+        "Duration":  "00:06:52",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "VZlHkNvc_zQ",
+        "Title":  "BAND-MAID │ SPIN [MV]│ \"High Energy BANGAH! This song just pumps you up!\"",
+        "Channel":  "Wakijax",
+        "ChannelId":  "UCElNNUiBC67ypav4q267isA",
+        "Url":  "https://youtu.be/VZlHkNvc_zQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/VZlHkNvc_zQ/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T03:12:56.0000000Z",
+        "DiscoveredAt":  "2026-10-28T03:37:22.4695024Z",
+        "Duration":  "00:07:26",
+        "ViewsAtDiscovery":  19,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "a9AmLx0KY0g",
         "Title":  "🤯 BAND-MAID JUST BROKE MY BRAIN!! 🔥 ENTROPY | REACTION!",
         "Channel":  "The Fam Jay Crew",
