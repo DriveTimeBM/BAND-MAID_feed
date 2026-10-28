@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 23:25:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:58:55 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band Maid  -  Spin  -  27/10/2026.</title>
+      <link>https://bsky.app/profile/did:plc:33vumx4d6hlf5fcggkqehhe3/post/3myvgosb5g22i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:33vumx4d6hlf5fcggkqehhe3/post/3myvgosb5g22i</guid>
+      <pubDate>Tue, 27 Oct 2026 23:54:07 GMT</pubDate>
+      <dc:creator>J-pop Brasil (mundojpopbrasil.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band Maid  -  Spin  -  27/10/2026.<br/>youtu.be/Z7I13kDOoQk?...</p><p><em>BlueSky &middot; mundojpopbrasil.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] New Band-Maid song is a real face melter.</title>
       <link>https://bsky.app/profile/did:plc:w6vpq66iy2gjj4d75qayo4v4/post/3myvco5dqsk2h</link>
@@ -899,15 +908,6 @@
       <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID-&quot;ENERGETIC&quot;<br/><br/>Three, two, one<br/>La-la-la, la-la-la, la-la-la<br/>La-la-la, la-la-la, la-la-la<br/><br/>One by one then break it down<br/><br/>youtu.be/NpZjslVGhbE</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: matchless GUM</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3my4wtkhrgw2w</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3my4wtkhrgw2w</guid>
-      <pubDate>Sun, 18 Oct 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: matchless GUM<br/>Album: YOLO<br/>Release: 11/15/2016<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:10/22/2016<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
