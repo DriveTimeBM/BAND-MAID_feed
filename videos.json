@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5HNUJW-8IKA",
+        "Title":  "BAND-MAID 『DICE』 初心者🔰Guitar ",
+        "Channel":  "Mai Eisuke",
+        "ChannelId":  "UC6_Ca-2M5yG7dcSmrakEX9A",
+        "Url":  "https://youtu.be/5HNUJW-8IKA",
+        "Thumbnail":  "https://i.ytimg.com/vi/5HNUJW-8IKA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T04:57:03.0000000Z",
+        "DiscoveredAt":  "2026-10-28T05:16:13.3053230Z",
+        "Duration":  "00:04:05",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2nMxnkb986M",
         "Title":  "🔥🎸【BAND-MAID】新曲「SPIN」のMV公開！🤘✨ アニメ『BEYBLADE X』新章EDテーマに注目！⚡🎶 圧巻のロックサウンドと迫力の映像を見逃すな！🎬💥",
         "Channel":  "TokyoFlash JP",
