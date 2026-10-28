@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mJbf0CoFvU4",
+        "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song REACTION",
+        "Channel":  "FavoriteIslandGirl",
+        "ChannelId":  "UCzUev9FFU_99TjvVFsUkXtw",
+        "Url":  "https://youtu.be/mJbf0CoFvU4",
+        "Thumbnail":  "https://i.ytimg.com/vi/mJbf0CoFvU4/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T17:55:38.0000000Z",
+        "DiscoveredAt":  "2026-10-28T18:09:01.1432457Z",
+        "Duration":  "00:07:34",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xEd8ReZL2Fg",
         "Title":  "BAND-MAID SPIN Live The Van Buren Phoenix AZ 10/14/26",
         "Channel":  "Ultracollectorz",
