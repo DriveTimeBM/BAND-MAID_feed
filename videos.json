@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xEd8ReZL2Fg",
+        "Title":  "BAND-MAID SPIN Live The Van Buren Phoenix AZ 10/14/26",
+        "Channel":  "Ultracollectorz",
+        "ChannelId":  "UCAYtJenTvdZbc95MnnBp79g",
+        "Url":  "https://youtu.be/xEd8ReZL2Fg",
+        "Thumbnail":  "https://i.ytimg.com/vi/xEd8ReZL2Fg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T17:35:18.0000000Z",
+        "DiscoveredAt":  "2026-10-28T17:38:12.4848675Z",
+        "Duration":  "00:04:05",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "VJckHQLVCCY",
+        "Title":  "Back to Band-Maid! | Energetic - Official Music Video | REACTION",
+        "Channel":  "Leo Reaccion",
+        "ChannelId":  "UCzKxluCym9y05ZJ-JSaIx_A",
+        "Url":  "https://youtu.be/VJckHQLVCCY",
+        "Thumbnail":  "https://i.ytimg.com/vi/VJckHQLVCCY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-28T17:00:07.0000000Z",
+        "DiscoveredAt":  "2026-10-28T17:38:10.6218473Z",
+        "Duration":  "00:09:24",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gEVxGVJZ0SM",
         "Title":  "BAND-MAID – ENTROPY [ENG/IDN/ITA/ESP]",
         "Channel":  "Amaverim",
