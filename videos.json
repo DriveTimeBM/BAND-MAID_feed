@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gnjTkU6_q18",
+        "Title":  "BAND-MAID – SPIN [ENG/IDN/ITA/ESP]",
+        "Channel":  "Amaverim",
+        "ChannelId":  "UCtBsA0_YEdCarFzV69pKmIg",
+        "Url":  "https://youtu.be/gnjTkU6_q18",
+        "Thumbnail":  "https://i.ytimg.com/vi/gnjTkU6_q18/hqdefault.jpg",
+        "PublishedAt":  "2026-10-29T13:35:38.0000000Z",
+        "DiscoveredAt":  "2026-10-29T13:58:07.3619558Z",
+        "Duration":  "00:03:43",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "8ZxskYzvM7k",
         "Title":  "BAND-MAID | Anime \"BEYBLADE X\" Ending Theme Song | Spin | Reaction",
         "Channel":  "Metalalter TV",
