@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2Fb3Qia92FU",
+        "Title":  "BAND-MAID WORLD TOUR 2026 Phoenix The Van Burenお給仕レポート(Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/2Fb3Qia92FU",
+        "Thumbnail":  "https://i.ytimg.com/vi/2Fb3Qia92FU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-29T04:45:21.0000000Z",
+        "DiscoveredAt":  "2026-10-29T04:46:30.2559465Z",
+        "Duration":  "01:51:59",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ee5p7Od2ikg",
         "Title":  "Gary Holloway Request - BAND-MAID Turn me on 2018 - Dave M",
         "Channel":  "Dave M Channel",
