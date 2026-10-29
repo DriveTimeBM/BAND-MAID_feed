@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "sh3z64s9U7M",
+        "Title":  "Jeff and J Band Maid Warning",
+        "Channel":  "The MCU'S Bleeding Edge",
+        "ChannelId":  "UCREPsCRvzjH0ggYL_Larq1A",
+        "Url":  "https://youtu.be/sh3z64s9U7M",
+        "Thumbnail":  "https://i.ytimg.com/vi/sh3z64s9U7M/hqdefault.jpg",
+        "PublishedAt":  "2026-10-29T03:45:59.0000000Z",
+        "DiscoveredAt":  "2026-10-29T03:46:09.7318631Z",
+        "Duration":  "00:18:49",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "h1VWtPouHkI",
+        "Title":  "Band Maid reaction with Matthew BTW Pod   Manners",
+        "Channel":  "The MCU'S Bleeding Edge",
+        "ChannelId":  "UCREPsCRvzjH0ggYL_Larq1A",
+        "Url":  "https://youtu.be/h1VWtPouHkI",
+        "Thumbnail":  "https://i.ytimg.com/vi/h1VWtPouHkI/hqdefault.jpg",
+        "PublishedAt":  "2026-10-29T03:45:26.0000000Z",
+        "DiscoveredAt":  "2026-10-29T03:46:08.3464014Z",
+        "Duration":  "00:16:50",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "EMjIDn-DyXE",
         "Title":  "FIRST TIME Reacting To BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song",
         "Channel":  "TYLR Reacts",
