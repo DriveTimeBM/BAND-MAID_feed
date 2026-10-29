@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cKSj_40HFZM",
+        "Title":  "BAND-MAID - SPIN E.P. ...3 songs, 3 fans, 3 opinions, how do they rank?",
+        "Channel":  "Ears To The East",
+        "ChannelId":  "UCv9f-JJy6z3E_zs6x1CshXw",
+        "Url":  "https://youtu.be/cKSj_40HFZM",
+        "Thumbnail":  "https://i.ytimg.com/vi/cKSj_40HFZM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-29T14:06:51.0000000Z",
+        "DiscoveredAt":  "2026-10-29T14:28:48.6666707Z",
+        "Duration":  "00:18:41",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gnjTkU6_q18",
         "Title":  "BAND-MAID – SPIN [ENG/IDN/ITA/ESP]",
         "Channel":  "Amaverim",
