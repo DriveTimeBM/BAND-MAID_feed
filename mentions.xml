@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 06:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:51:17 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[Mastodon] What a great new, high-energy song by Band-Maid 🤘</title>
+      <link>https://mastodon.social/@RA1701D/117523260745165118</link>
+      <guid isPermaLink="true">https://mastodon.social/@RA1701D/117523260745165118</guid>
+      <pubDate>Thu, 29 Oct 2026 08:30:45 GMT</pubDate>
+      <dc:creator>RA1701D (RA1701D)</dc:creator>
+      <category>Mastodon</category>
+      <description><![CDATA[<p>What a great new, high-energy song by Band-Maid 🤘<br/><br/>&quot;Spin&quot;<br/><br/>https://www.youtube.com/watch?v=Z7I13kDOoQk<br/><br/>https://mastodon.social/tags/jrock https://mastodon.social/tags/rock https://mastodon.social/tags/hardrock https://mastodon.social/tags/bandmaid</p><p><em>Mastodon &middot; RA1701D</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] — The plentiful ideas on the chorus and the ability to adapt on the scene, go...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myylxxzcqo25</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>13 years ago Band-Maid played at SHIBUYA BURROW in Tokyo JP on 2013/10/22. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 20 songs at Jack's Studio Concert Venue in Taipe...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mygyd2ptfm23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mygyd2ptfm23</guid>
-      <pubDate>Thu, 22 Oct 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at Jack&#39;s Studio Concert Venue in Taipei TW on 2017/10/22. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
