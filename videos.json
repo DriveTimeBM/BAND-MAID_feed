@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xYYV-nU8GPE",
+        "Title":  "Musician reacts to BAND-MAID / SPIN (Official Music Video)",
+        "Channel":  "Vault of Art",
+        "ChannelId":  "UCZJ9ZsJGHLHmkqIh30knRXw",
+        "Url":  "https://youtu.be/xYYV-nU8GPE",
+        "Thumbnail":  "https://i.ytimg.com/vi/xYYV-nU8GPE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-29T12:00:03.0000000Z",
+        "DiscoveredAt":  "2026-10-29T12:25:30.2828573Z",
+        "Duration":  "00:08:09",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gjuE15JBL5c",
         "Title":  "Band Maid 2026 world tour                         Los Angeles - The Wiltern",
         "Channel":  "Tijuana Fox🦊 ",
