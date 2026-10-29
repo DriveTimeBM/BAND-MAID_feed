@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jPhGsvh08Xg",
+        "Title":  "VTuber REACTS to BAND-MAID ‘secret My lips’ | Pure Japanese Rock Excellence! 🎸",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/jPhGsvh08Xg",
+        "Thumbnail":  "https://i.ytimg.com/vi/jPhGsvh08Xg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-29T22:00:33.0000000Z",
+        "DiscoveredAt":  "2026-10-29T22:09:24.5056561Z",
+        "Duration":  "00:06:55",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YRWp2C7N3o4",
         "Title":  "Band-Maid - Awkward (bass backing track)",
         "Channel":  "Bass Cascade Solo Tracks",
