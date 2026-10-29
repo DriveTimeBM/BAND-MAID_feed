@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "EMjIDn-DyXE",
+        "Title":  "FIRST TIME Reacting To BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song",
+        "Channel":  "TYLR Reacts",
+        "ChannelId":  "UCw7Mzx9avrOx_6_FSw7uaiQ",
+        "Url":  "https://youtu.be/EMjIDn-DyXE",
+        "Thumbnail":  "https://i.ytimg.com/vi/EMjIDn-DyXE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-29T02:40:59.0000000Z",
+        "DiscoveredAt":  "2026-10-29T02:42:04.7740061Z",
+        "Duration":  "00:16:23",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Kmn51XOoOQo",
+        "Title":  "SHOW THEM LIVE!! Band Maid with Dany Villarreal (THE WARNING) REACTION by XavoBlues",
+        "Channel":  "Xavo Blues",
+        "ChannelId":  "UCWv5dANaxCXJcXyQ43QYR6g",
+        "Url":  "https://youtu.be/Kmn51XOoOQo",
+        "Thumbnail":  "https://i.ytimg.com/vi/Kmn51XOoOQo/hqdefault.jpg",
+        "PublishedAt":  "2026-10-29T02:17:16.0000000Z",
+        "DiscoveredAt":  "2026-10-29T02:42:03.6379679Z",
+        "Duration":  "00:15:56",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "463gTdWl2sA",
         "Title":  "QUEEN REACTS to BAND MAID – “endless Story” 🤯🔥  THESE WOMEN ROCK!",
         "Channel":  "QueenKafi",
