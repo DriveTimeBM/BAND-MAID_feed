@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 23:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 05:47:51 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 8 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myyhylgebq27</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myyhylgebq27</guid>
+      <pubDate>Thu, 29 Oct 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>8 years ago<br/>REAL EXISTENCE MV<br/>milestone<br/>surpassed 9 million views<br/>2018/10/29<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song Review: BAND-MAID – “SPIN”</title>
       <link>https://bsky.app/profile/did:plc:pzjmv46urfb526edgq32262n/post/3myxu5fight24</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>ked to implement elements of tropical house. Since I do not listen to tropical house, I listened to popular artists such as Justin Bieber.<br/><br/>Saiki: Oversea artists implement such tastes, so I advised her on listening to Justin.<br/><br/>Kanami: But since this is a Band-Maid song, I arranged it like rock.<br/><br/>Mi</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ge.", with definate words. So I changed the completed lyrics including her op...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myeiadjoi62j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myeiadjoi62j</guid>
-      <pubDate>Wed, 21 Oct 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>ge.&quot;, with definate words. So I changed the completed lyrics including her opinions and would ask `Like this?&quot;. There was a go forth like that while writing it so we credited as co-written po. In BAND-MAIDs song when SAIKI is included as a co-writer it&#39;s usually like this. For example when writing l</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
