@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ddxZHzo467c",
+        "Title":  "28 October 2026: Lita Ford, Band-Maid, Entheos and more",
+        "Channel":  "Goddess Metal",
+        "ChannelId":  "UCOLs5Pp3HTN81LF93NGYdMA",
+        "Url":  "https://youtu.be/ddxZHzo467c",
+        "Thumbnail":  "https://i.ytimg.com/vi/ddxZHzo467c/hqdefault.jpg",
+        "PublishedAt":  "2026-10-29T16:46:52.0000000Z",
+        "DiscoveredAt":  "2026-10-29T17:02:23.6663656Z",
+        "Duration":  "00:02:47",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "g4i9IAaEYJU",
         "Title":  "BAND-MAID ft. DANIELA VILLARREAL – “SHOW THEM” LIVE IN MEXICO CITY | FILIPINO REACTS",
         "Channel":  "Cherman Vlogs",
