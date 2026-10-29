@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 12:25:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:59:37 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I only get 10?</title>
+      <link>https://bsky.app/profile/did:plc:qik3cpc27f2sh7pjm6qo4ohe/post/3myzhh4df3s2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qik3cpc27f2sh7pjm6qo4ohe/post/3myzhh4df3s2y</guid>
+      <pubDate>Thu, 29 Oct 2026 14:18:22 GMT</pubDate>
+      <dc:creator>Robert Beveridge (xterminalnoise.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I only get 10?<br/><br/>Zeal and Ardor<br/>Merzbow<br/>Band-Maid<br/>Thou<br/>Aube<br/>Skinny Puppy<br/>An Autumn for Crippled Children<br/>TRNA<br/>Legendary Pink Dots<br/>Clutch<br/><br/>Ask tomorrow, some of those will change.</p><p><em>BlueSky &middot; xterminalnoise.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] "Spin", die neue Single von BAND-MAID hat alles, was ein BAND-MAID Song brauc...</title>
       <link>https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3myz67kyokc2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>guitar solo and double bass drumming. Also, we put out “Japaneseness” in the MV so that you can clearly see we are from Japan. Above all, the song allowed us to express our direction different from pop and to change where to go.<br/><br/>Miku: We Band-Maid&#174; were originally conscious of approaching people ov</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] — After deciding to go in the direction of loud rock through Thrill, you Band...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mygypco6wm26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mygypco6wm26</guid>
-      <pubDate>Thu, 22 Oct 2026 06:06:35 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>— After deciding to go in the direction of loud rock through Thrill, you Band-Maid&#174; further refined your direction through the following song REAL EXISTENCE (more than 770,000 views on YouTube).<br/><br/>Akane: We really showed which direction we want to go in as Band-Maid&#174;, by making it heavy with a shred </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
