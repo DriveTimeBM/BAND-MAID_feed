@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "4zXSRG1s0XY",
+        "Title":  "Band Maid - Shambles",
+        "Channel":  "Shirin Reacts",
+        "ChannelId":  "UCKl8gsoikwaVY8MwERSy8yg",
+        "Url":  "https://youtu.be/4zXSRG1s0XY",
+        "Thumbnail":  "https://i.ytimg.com/vi/4zXSRG1s0XY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T08:01:10.0000000Z",
+        "DiscoveredAt":  "2026-10-30T08:05:30.6094296Z",
+        "Duration":  "00:06:59",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "9E3cJhdcaIw",
+        "Title":  "THIS JAPANESE ROCK BAND GOES HARD! | BAND-MAID REACTION",
+        "Channel":  "Ben Razz",
+        "ChannelId":  "UCiRl9Zp6SYmy3NmJZX_V1KQ",
+        "Url":  "https://youtu.be/9E3cJhdcaIw",
+        "Thumbnail":  "https://i.ytimg.com/vi/9E3cJhdcaIw/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T07:58:24.0000000Z",
+        "DiscoveredAt":  "2026-10-30T08:05:29.5754348Z",
+        "Duration":  "00:05:53",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Kt6XQmo-cuA",
         "Title":  "Reacting to Don’t Let Me Down by Band Maid Including Okyu Ji Live",
         "Channel":  "The Smith House Reactions",
