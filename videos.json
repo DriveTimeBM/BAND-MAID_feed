@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RRvOGbw11ns",
+        "Title":  "Beyblade X Ending 6「SPIN」BAND-MAID (Sub. Español + Romaji)",
+        "Channel":  "C.L Bladers",
+        "ChannelId":  "UCJO-Mp78DceJlULomIpxmvg",
+        "Url":  "https://youtu.be/RRvOGbw11ns",
+        "Thumbnail":  "https://i.ytimg.com/vi/RRvOGbw11ns/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T22:00:37.0000000Z",
+        "DiscoveredAt":  "2026-10-30T22:07:41.4041815Z",
+        "Duration":  "00:01:47",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "NHEjIyBHX9s",
         "Title":  "BAND-MAID ENTROPY - Ryan Mear Reacts",
         "Channel":  "Ryan Mear",
