@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cVr_h85nGZk",
+        "Title":  "BEYBLADE X - Ending 6 Full -「SPIN」 by BAND-MAID | Sub. Español",
+        "Channel":  "Erizo con un Teclado",
+        "ChannelId":  "UCDuV0o0whFjCHqL2uyeHcng",
+        "Url":  "https://youtu.be/cVr_h85nGZk",
+        "Thumbnail":  "https://i.ytimg.com/vi/cVr_h85nGZk/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T03:15:37.0000000Z",
+        "DiscoveredAt":  "2026-10-30T03:34:15.1671928Z",
+        "Duration":  "00:03:45",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rggX6dI9U1Y",
         "Title":  "[🎸TABS] BAND MAID - SPIN  l  Guitar cover + TABS  l  Beyblade x Bey Kingdom ED",
         "Channel":  "Corderuz l J-Music & Backing Tracks",
