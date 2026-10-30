@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 13:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:26:25 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] www.youtube.com/watch?v=zUh6...</title>
+      <link>https://bsky.app/profile/did:plc:xhcm4c6xzdfpwmkmfwort6mx/post/3mz3unl4kns2m</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xhcm4c6xzdfpwmkmfwort6mx/post/3mz3unl4kns2m</guid>
+      <pubDate>Fri, 30 Oct 2026 13:19:57 GMT</pubDate>
+      <dc:creator>Dj ph (dj-ph.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>www.youtube.com/watch?v=zUh6...<br/><br/>Enfin le MV pour Caramel Candid, le groupe que j&#39;attendais pas et &#224; qui tu dis enfin!  apr&#232;s le premier morceau.<br/><br/>Est-ce que j&#39;ai cliqu&#233; la premi&#232;re fois &#224; cause du carr&#233; de la chanteuse ?<br/><br/>Peut-&#234;tre. <br/><br/>Mais je reste pour les m&#234;mes raisons que Band Maid</p><p><em>BlueSky &middot; dj-ph.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID lançou o clipe de SPIN, tema de encerramento de Beyblade X, que já ...</title>
       <link>https://bsky.app/profile/did:plc:2s64r7xjz53nlrwu3b3walc2/post/3mz3tnwuax22i</link>
@@ -899,15 +908,6 @@
       <dc:creator>Coca News (cocanews.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID、ワールドツアー北米公演を大盛況で完走！ LAではINCUBUSのメンバー、メキシコシティではTHE WARNINGのメンバーとコラボレーション曲を披露！ | PONY CANYON NEWS – ポニーキャニオン<br/><br/>https://www.wacoca.com/news/2964441/<br/><br/>5人組ハードロックバンドBAND-MAIDが、ワールドツアー『BAND-MAID WORLD TOUR 2026』の北米編を完走した。 BAND-MAIDはシカゴ、ニューヨーク、アトランタ、ダラス、ロサンゼルス、フェニッ [...]</p><p><em>BlueSky &middot; cocanews.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
-      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mykfpba6pb2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mykfpba6pb2u</guid>
-      <pubDate>Fri, 23 Oct 2026 14:37:11 GMT</pubDate>
-      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
     </item>
   </channel>
 </rss>
