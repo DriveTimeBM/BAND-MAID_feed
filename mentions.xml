@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 14:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:30:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID with your host, Dimensió...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mz47fh4ajy2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mz47fh4ajy2i</guid>
+      <pubDate>Fri, 30 Oct 2026 16:32:15 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID with your host, Dimensi&#243;n Arkadia! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mz47fgxefr2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mz47fgxefr2q</guid>
+      <pubDate>Fri, 30 Oct 2026 16:32:15 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] www.youtube.com/watch?v=zUh6...</title>
       <link>https://bsky.app/profile/did:plc:xhcm4c6xzdfpwmkmfwort6mx/post/3mz3unl4kns2m</link>
@@ -890,24 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2. I don't remember what originally led me to find BAND-MAID but I have been ...</title>
-      <link>https://bsky.app/profile/did:plc:f3pfy66fnsi5jlkslzjgfvzw/post/3mykqf6wfcs2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:f3pfy66fnsi5jlkslzjgfvzw/post/3mykqf6wfcs2a</guid>
-      <pubDate>Fri, 23 Oct 2026 17:48:25 GMT</pubDate>
-      <dc:creator>dalto (dalto2.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2. I don&#39;t remember what originally led me to find BAND-MAID but I have been listening for years now.</p><p><em>BlueSky &middot; dalto2.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID、ワールドツアー北米公演を大盛況で完走！ LAではINCUBUSのメンバー、メキシコシティではTHE WARNINGのメンバーとコラボレ...</title>
-      <link>https://bsky.app/profile/did:plc:4ipefc6m335fpbumpvgzx2w3/post/3mykgybzrfa2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4ipefc6m335fpbumpvgzx2w3/post/3mykgybzrfa2u</guid>
-      <pubDate>Fri, 23 Oct 2026 15:00:05 GMT</pubDate>
-      <dc:creator>Coca News (cocanews.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID、ワールドツアー北米公演を大盛況で完走！ LAではINCUBUSのメンバー、メキシコシティではTHE WARNINGのメンバーとコラボレーション曲を披露！ | PONY CANYON NEWS – ポニーキャニオン<br/><br/>https://www.wacoca.com/news/2964441/<br/><br/>5人組ハードロックバンドBAND-MAIDが、ワールドツアー『BAND-MAID WORLD TOUR 2026』の北米編を完走した。 BAND-MAIDはシカゴ、ニューヨーク、アトランタ、ダラス、ロサンゼルス、フェニッ [...]</p><p><em>BlueSky &middot; cocanews.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
