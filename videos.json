@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8Hioi6T0xLM",
+        "Title":  "Band-Maid (Dallas TX) Travel Vlog | The Misinformed Adventures of a Metal Vocalist",
+        "Channel":  "JohnReavesLive",
+        "ChannelId":  "UCbcBmBTMsbLxYv-rOyPiRWw",
+        "Url":  "https://youtu.be/8Hioi6T0xLM",
+        "Thumbnail":  "https://i.ytimg.com/vi/8Hioi6T0xLM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T23:00:34.0000000Z",
+        "DiscoveredAt":  "2026-10-30T23:09:07.1209146Z",
+        "Duration":  "00:29:38",
+        "ViewsAtDiscovery":  162,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6NT2JV9yNv0",
         "Title":  "BAND-MAID – SENSE (INSTRUMENTAL) 🤯 EVERY MEMBER IS INCREDIBLE! | RJS_Reactions",
         "Channel":  "RJS_Reactions",
