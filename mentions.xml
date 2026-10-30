@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 10:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:55:45 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID lançou o clipe de SPIN, tema de encerramento de Beyblade X, que já ...</title>
+      <link>https://bsky.app/profile/did:plc:2s64r7xjz53nlrwu3b3walc2/post/3mz3tnwuax22i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2s64r7xjz53nlrwu3b3walc2/post/3mz3tnwuax22i</guid>
+      <pubDate>Fri, 30 Oct 2026 13:02:15 GMT</pubDate>
+      <dc:creator>WB Animes (wbanimes.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID lan&#231;ou o clipe de SPIN, tema de encerramento de Beyblade X, que j&#225; abriu um novo arco. Trilha que pega forte e fecha bem a temporada. #anime #animenews</p><p><em>BlueSky &middot; wbanimes.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] While, obviously, I never expected them to be, it's criminal that neither of ...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mz3hhg4lss22</link>
@@ -899,15 +908,6 @@
       <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Recently learned this kick ass mv from BAND-MAID is an april fool project</title>
-      <link>https://bsky.app/profile/did:plc:5j4ewltuyyslnnaleyjvx3b3/post/3mykdvz4zzslw</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5j4ewltuyyslnnaleyjvx3b3/post/3mykdvz4zzslw</guid>
-      <pubDate>Fri, 23 Oct 2026 14:05:11 GMT</pubDate>
-      <dc:creator>Fillet Knife 7.56 Spoilers (filletknife.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Recently learned this kick ass mv from BAND-MAID is an april fool project<br/><br/>https://www.youtube.com/watch?v=umSt7oMUMcs</p><p><em>BlueSky &middot; filletknife.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
