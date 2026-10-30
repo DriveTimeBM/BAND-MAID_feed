@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "V3Ltw0n-DfY",
+        "Title":  "FIRST TIME REACTING TO BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song",
+        "Channel":  "JezReacts",
+        "ChannelId":  "UCZbqHoTQhQLWjKTvtJ2-LKQ",
+        "Url":  "https://youtu.be/V3Ltw0n-DfY",
+        "Thumbnail":  "https://i.ytimg.com/vi/V3Ltw0n-DfY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T02:00:07.0000000Z",
+        "DiscoveredAt":  "2026-10-30T02:02:15.7299954Z",
+        "Duration":  "00:08:37",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "FJTebOQUr7w",
+        "Title":  "Band-Maid - Thrill (スリル) (guitar backing track)",
+        "Channel":  "Solo Melody Guitar Tracks",
+        "ChannelId":  "UCO0lfjQSeiYppXTRRBg19ow",
+        "Url":  "https://youtu.be/FJTebOQUr7w",
+        "Thumbnail":  "https://i.ytimg.com/vi/FJTebOQUr7w/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T01:41:10.0000000Z",
+        "DiscoveredAt":  "2026-10-30T02:02:14.3184789Z",
+        "Duration":  "00:04:14",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hSw-g3hZKno",
         "Title":  "BAND-MAID - Daydreaming Reaction | A Different Side of BAND-MAID? 🥹🎸",
         "Channel":  "Nia Reacts",
