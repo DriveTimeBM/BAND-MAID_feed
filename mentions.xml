@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 08:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:17:01 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] While, obviously, I never expected them to be, it's criminal that neither of ...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mz3hhg4lss22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mz3hhg4lss22</guid>
+      <pubDate>Fri, 30 Oct 2026 09:23:52 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>While, obviously, I never expected them to be, it&#39;s criminal that neither of Mindset or I Wish I by Gacharic Spin, nor ANY Band Maid song (I&#39;d go with Forbidden Tale, but Puzzle; Bubble; Alone; Sayonakidori or Hate? would all work too) is on this list.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] www.youtube.com/watch?v=Z7I1... Your Friday Brekkie Tune comes from Band-Maid</title>
       <link>https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mz35mwahpc2y</link>
@@ -899,15 +908,6 @@
       <dc:creator>Fillet Knife 7.56 Spoilers (filletknife.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Recently learned this kick ass mv from BAND-MAID is an april fool project<br/><br/>https://www.youtube.com/watch?v=umSt7oMUMcs</p><p><em>BlueSky &middot; filletknife.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID、ワールドツアー北米公演完走。INCUBUSメンバー、THE WARNINGメンバーとのコラボも | BARKS</title>
-      <link>https://bsky.app/profile/did:plc:cazef5u2rbzqfpzhqve5wshg/post/3myjm6n7pwu2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:cazef5u2rbzqfpzhqve5wshg/post/3myjm6n7pwu2a</guid>
-      <pubDate>Fri, 23 Oct 2026 07:00:27 GMT</pubDate>
-      <dc:creator>MAGMOE (magmoe.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID、ワールドツアー北米公演完走。INCUBUSメンバー、THE WARNINGメンバーとのコラボも | BARKS<br/><br/>https://www.magmoe.com/3301821/entertainment-news/2026-10-23/<br/><br/>BAND-MAID、ワールドツアー北米公演完走。INCUBUSメンバー、THE WARNINGメンバーとのコラボも BAND-MAIDが、ワールドツアー＜BAND-MAID WORLD TOUR 2026＞北米編を完走し [...]</p><p><em>BlueSky &middot; magmoe.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
