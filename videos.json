@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8obBg7TTBAg",
+        "Title":  "Page  - Band Maid | First time reaction to magic 🪄",
+        "Channel":  "New Clear Reactor",
+        "ChannelId":  "UCxw-VYYVtEnJhP25YHtdbsw",
+        "Url":  "https://youtu.be/8obBg7TTBAg",
+        "Thumbnail":  "https://i.ytimg.com/vi/8obBg7TTBAg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T15:37:16.0000000Z",
+        "DiscoveredAt":  "2026-10-30T16:59:40.4826335Z",
+        "Duration":  "00:11:42",
+        "ViewsAtDiscovery":  35,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "q7N9hDdbbPA",
         "Title":  "BAND-MAID / Thrill (Official Music Video) REACTION #jrockreaction ",
         "Channel":  "LAZY FRESITA ",
