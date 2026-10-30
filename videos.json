@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-PJzMQjlrqU",
+        "Title":  "BAND-MAID - Choose me guitar cover",
+        "Channel":  "ベースヒーロー",
+        "ChannelId":  "UCUxKnZn93MCBmnO-TaeGU9g",
+        "Url":  "https://youtu.be/-PJzMQjlrqU",
+        "Thumbnail":  "https://i.ytimg.com/vi/-PJzMQjlrqU/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T12:19:45.0000000Z",
+        "DiscoveredAt":  "2026-10-30T12:22:04.2653862Z",
+        "Duration":  "00:02:28",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "bBYI53txYSg",
+        "Title":  "Band-Maid \"Spin\" (First Reaction)",
+        "Channel":  "Paul And Tim Do A Thing",
+        "ChannelId":  "UCVyeTxWeok7GLZFN9r7-cOg",
+        "Url":  "https://youtu.be/bBYI53txYSg",
+        "Thumbnail":  "https://i.ytimg.com/vi/bBYI53txYSg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T12:00:41.0000000Z",
+        "DiscoveredAt":  "2026-10-30T12:22:02.7424905Z",
+        "Duration":  "00:08:14",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hbF8FjJeup0",
         "Title":  "BAND-MAID / Saiki \"SPIN\" Unboxing Ceremony",
         "Channel":  "Nin puzzle",
