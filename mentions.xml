@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 31 Oct 2026 03:43:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:46:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 2 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mz5iwg5eex2a</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mz5iwg5eex2a</guid>
+      <pubDate>Sat, 31 Oct 2026 04:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2 years ago<br/>Sense MV<br/>milestone<br/>surpassed 4 million views<br/>2024/10/31<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mz577dles72z</link>
@@ -899,15 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid, they come alive live.  www.youtube.com/watch?v=yTAQ...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] #IsmuasMonthOfMusic</title>
-      <link>https://bsky.app/profile/did:plc:ajkgi4xnrumeqebtv7w7bnpz/post/3mykyp46ku22v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ajkgi4xnrumeqebtv7w7bnpz/post/3mykyp46ku22v</guid>
-      <pubDate>Fri, 23 Oct 2026 20:17:08 GMT</pubDate>
-      <dc:creator>Nola Bob (nolabob.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>#IsmuasMonthOfMusic<br/>#MusicChallenge <br/><br/>Day 24: A song you would put in a time capsule<br/><br/>BAND-MAID &amp; The Warning - Show Them</p><p><em>BlueSky &middot; nolabob.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
