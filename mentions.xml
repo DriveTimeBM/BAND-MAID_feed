@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 31 Oct 2026 12:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:29:45 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Estoy on fire con Band Maid últimamente.</title>
+      <link>https://bsky.app/profile/did:plc:hs7fmx7elwn4ypmluln52mw5/post/3mz6gx7awdc24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hs7fmx7elwn4ypmluln52mw5/post/3mz6gx7awdc24</guid>
+      <pubDate>Sat, 31 Oct 2026 13:52:47 GMT</pubDate>
+      <dc:creator>Breo/Hugo Spuk Sison (hugoelbreo.eurosky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Estoy on fire con Band Maid &#250;ltimamente.</p><p><em>BlueSky &middot; hugoelbreo.eurosky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Q.</title>
       <link>https://bsky.app/profile/did:plc:upg6qcvsa6wgpioz7efjxbf6/post/3mz67l5o37rm2</link>
@@ -899,15 +908,6 @@
       <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mylfstwws22c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mylfstwws22c</guid>
-      <pubDate>Sat, 24 Oct 2026 00:11:52 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
