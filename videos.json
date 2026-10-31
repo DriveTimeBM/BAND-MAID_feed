@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "H0YGOCIbRjM",
+        "Title":  "BAND-MAID “SPIN” Guitar Solo Lesson | TAB Included",
+        "Channel":  "Robbie Guitar Channel",
+        "ChannelId":  "UCug11JLneDcL4NvJdK-3xrg",
+        "Url":  "https://youtu.be/H0YGOCIbRjM",
+        "Thumbnail":  "https://i.ytimg.com/vi/H0YGOCIbRjM/hqdefault.jpg",
+        "PublishedAt":  "2026-10-31T00:40:12.0000000Z",
+        "DiscoveredAt":  "2026-10-31T03:42:59.7891297Z",
+        "Duration":  "00:17:00",
+        "ViewsAtDiscovery":  60,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "OTouvo4nPQ0",
+        "Title":  "BAND-MAID - SPRING EPHEMERAL - Ryan Mear Reacts",
+        "Channel":  "Ryan Mear",
+        "ChannelId":  "UCvKUIZjMmlHJ9vjGJey0SBQ",
+        "Url":  "https://youtu.be/OTouvo4nPQ0",
+        "Thumbnail":  "https://i.ytimg.com/vi/OTouvo4nPQ0/hqdefault.jpg",
+        "PublishedAt":  "2026-10-30T23:00:30.0000000Z",
+        "DiscoveredAt":  "2026-10-31T03:42:58.7991965Z",
+        "Duration":  "00:07:20",
+        "ViewsAtDiscovery":  643,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ur5uZQiSa64",
         "Title":  "First Time Hearing - Band Maid - Spin Reaction!",
         "Channel":  "Lil mann™ Reacts",
