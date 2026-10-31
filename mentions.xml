@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 31 Oct 2026 06:47:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:19:31 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Guy in Band-Maid shirt staring at my chest as we board the plane</title>
+      <link>https://bsky.app/profile/did:plc:hhs6n4jx7b3qajgjub57qafs/post/3mz5sapxafc2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hhs6n4jx7b3qajgjub57qafs/post/3mz5sapxafc2u</guid>
+      <pubDate>Sat, 31 Oct 2026 07:42:18 GMT</pubDate>
+      <dc:creator>Amber (risettemd.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Guy in Band-Maid shirt staring at my chest as we board the plane</p><p><em>BlueSky &middot; risettemd.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Mirage</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mz5mvkud4k2p</link>
@@ -899,15 +908,6 @@
       <dc:creator>mike kenny (mikekenny.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>i just found that band-maid had a concert in chicago a month ago AND I MISSED IT.</p><p><em>BlueSky &middot; mikekenny.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3myl6yjbrr22o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3myl6yjbrr22o</guid>
-      <pubDate>Fri, 23 Oct 2026 22:09:46 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
