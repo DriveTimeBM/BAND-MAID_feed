@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "DdPm6dUmM1Q",
+        "Title":  "BAND-MAID – Carry on living | This Band Never Misses! | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/DdPm6dUmM1Q",
+        "Thumbnail":  "https://i.ytimg.com/vi/DdPm6dUmM1Q/hqdefault.jpg",
+        "PublishedAt":  "2026-10-31T20:07:34.0000000Z",
+        "DiscoveredAt":  "2026-10-31T20:22:24.2262709Z",
+        "Duration":  "00:09:20",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qXkNgenAbBU",
         "Title":  "BAND-MAID 'glory' IS INCREDIBLE! 🎸 | VTUBER REACTS (Official MV)",
         "Channel":  "LunariaTheIdol",
