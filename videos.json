@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "d6vHyB8tjCY",
+        "Title":  "BAND-MAID – ‘Choose me’ 🤯 THIS BAND IS INSANE! | FIRST REACTION",
+        "Channel":  "DORCAS' REACT",
+        "ChannelId":  "UCoVXdbNEoVNi4BZplaEW9KQ",
+        "Url":  "https://youtu.be/d6vHyB8tjCY",
+        "Thumbnail":  "https://i.ytimg.com/vi/d6vHyB8tjCY/hqdefault.jpg",
+        "PublishedAt":  "2026-10-31T15:00:24.0000000Z",
+        "DiscoveredAt":  "2026-10-31T15:09:08.5227638Z",
+        "Duration":  "00:04:24",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "MI9CXMVr9rE",
+        "Title":  "Band-Maid's Saiki SPIN CD Showcasing  #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/MI9CXMVr9rE",
+        "Thumbnail":  "https://i.ytimg.com/vi/MI9CXMVr9rE/hqdefault.jpg",
+        "PublishedAt":  "2026-10-31T14:44:15.0000000Z",
+        "DiscoveredAt":  "2026-10-31T15:09:06.9712651Z",
+        "Duration":  "00:01:11",
+        "ViewsAtDiscovery":  36,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3BIjIuQ8xtg",
         "Title":  "BAND-MAID – Matchless GUM 🔥 ¡ESTAS CHICAS SON PURO ROCK! | REACCIÓN EN ESPAÑOL",
         "Channel":  "ROCK AND REACTIONS II (canal secundario)",
