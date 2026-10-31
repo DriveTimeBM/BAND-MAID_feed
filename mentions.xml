@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 31 Oct 2026 19:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 19:51:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID - スリル (Thrill)</title>
+      <link>https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mz6yi5y47t24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5kpp2cesd242ejzztwwdvqym/post/3mz6yi5y47t24</guid>
+      <pubDate>Sat, 31 Oct 2026 19:06:29 GMT</pubDate>
+      <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] The Band-Maid shirt really didn't need to become an excuse for that kind of b...</title>
       <link>https://bsky.app/profile/did:plc:oxgecvyu2upwscfzldzcfnfu/post/3mz6w5lwygz2a</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Yoake Mae [Before Dawn]<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 福井昌彦 [Fukui, Masahiko]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>福井昌彦 [Fukui, Masahiko]<br/>1st Live:1/29/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at Music Club JANUS in Osaka JP on 2014...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mylzaur62j2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mylzaur62j2l</guid>
-      <pubDate>Sat, 24 Oct 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at Music Club JANUS in Osaka JP on 2014/10/24. The opening song was Bye My Tears.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
