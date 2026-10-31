@@ -76,21 +76,6 @@
     },
     {
         "schema_version":  1,
-        "VideoId":  "nT1S7Gpf6wA",
-        "Title":  "Band Maid - Onset (2016 Official Live Video)",
-        "Channel":  "JustAway",
-        "ChannelId":  "UCsWsGIzlJhS74Zy_g1CY2VQ",
-        "Url":  "https://youtu.be/nT1S7Gpf6wA",
-        "Thumbnail":  "https://i.ytimg.com/vi/nT1S7Gpf6wA/hqdefault.jpg",
-        "PublishedAt":  "2026-10-31T18:20:28.0000000Z",
-        "DiscoveredAt":  "2026-10-31T18:43:26.5381522Z",
-        "Duration":  "00:03:59",
-        "ViewsAtDiscovery":  0,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
         "VideoId":  "Bzkdi9MdKOU",
         "Title":  "BAND-MAID - SPIN  - Static Reaction #bandmaidreaction #bandmaid",
         "Channel":  "StaticAge Channel",
@@ -101,21 +86,6 @@
         "DiscoveredAt":  "2026-10-31T18:43:22.6019729Z",
         "Duration":  "00:06:13",
         "ViewsAtDiscovery":  8,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
-        "VideoId":  "nYpNfFLpA8s",
-        "Title":  "Band Maid  - Freedom (2016 Official Video)",
-        "Channel":  "JustAway",
-        "ChannelId":  "UCsWsGIzlJhS74Zy_g1CY2VQ",
-        "Url":  "https://youtu.be/nYpNfFLpA8s",
-        "Thumbnail":  "https://i.ytimg.com/vi/nYpNfFLpA8s/hqdefault.jpg",
-        "PublishedAt":  "2026-10-31T18:09:29.0000000Z",
-        "DiscoveredAt":  "2026-10-31T18:12:39.7805770Z",
-        "Duration":  "00:04:33",
-        "ViewsAtDiscovery":  0,
         "Live":  "none",
         "Status":  "active"
     },
