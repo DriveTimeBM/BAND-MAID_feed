@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vANuSvKKxdA",
+        "Title":  "Foreigner Reaction to Band Maid - Shambles (Live)",
+        "Channel":  "Emmanuel React",
+        "ChannelId":  "UCkNErUXDroPLxu88rM4vGsg",
+        "Url":  "https://youtu.be/vANuSvKKxdA",
+        "Thumbnail":  "https://i.ytimg.com/vi/vANuSvKKxdA/hqdefault.jpg",
+        "PublishedAt":  "2026-10-31T13:02:59.0000000Z",
+        "DiscoveredAt":  "2026-10-31T13:27:43.3263706Z",
+        "Duration":  "00:07:48",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "LUvULa12z94",
+        "Title":  "音楽の時間 / BAND-MAID / Present Perfect / bass cover",
+        "Channel":  "🎀 BAND-MAID BLUE 🎀",
+        "ChannelId":  "UCOQySRkHImtXTFx5Jr-uSmw",
+        "Url":  "https://youtu.be/LUvULa12z94",
+        "Thumbnail":  "https://i.ytimg.com/vi/LUvULa12z94/hqdefault.jpg",
+        "PublishedAt":  "2026-10-31T06:18:15.0000000Z",
+        "DiscoveredAt":  "2026-10-31T13:27:40.8026680Z",
+        "Duration":  "00:03:50",
+        "ViewsAtDiscovery":  146,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "PjFu3VAuJnI",
         "Title":  "Band Maid \"Spin\" - This Song is NON-STOP! (REACTION)",
         "Channel":  "THE NOBODIES REACTS",
