@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3BIjIuQ8xtg",
+        "Title":  "BAND-MAID – Matchless GUM 🔥 ¡ESTAS CHICAS SON PURO ROCK! | REACCIÓN EN ESPAÑOL",
+        "Channel":  "ROCK AND REACTIONS II (canal secundario)",
+        "ChannelId":  "UC60qmAmvP-GG7pkNGRuCP6w",
+        "Url":  "https://youtu.be/3BIjIuQ8xtg",
+        "Thumbnail":  "https://i.ytimg.com/vi/3BIjIuQ8xtg/hqdefault.jpg",
+        "PublishedAt":  "2026-10-31T14:00:24.0000000Z",
+        "DiscoveredAt":  "2026-10-31T14:29:37.2799640Z",
+        "Duration":  "00:15:55",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vANuSvKKxdA",
         "Title":  "Foreigner Reaction to Band Maid - Shambles (Live)",
         "Channel":  "Emmanuel React",
