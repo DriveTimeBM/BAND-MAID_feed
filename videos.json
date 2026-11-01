@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "PDU5l-tQreY",
+        "Title":  "【MASHUP】ヨドバシカメラ秋葉原店の歌 vs BAND MAID   At the drop of a hat",
+        "Channel":  "@ おみそ",
+        "ChannelId":  "UC16D1ImkJsiwW7bhQiey6Yw",
+        "Url":  "https://youtu.be/PDU5l-tQreY",
+        "Thumbnail":  "https://i.ytimg.com/vi/PDU5l-tQreY/hqdefault.jpg",
+        "PublishedAt":  "2026-11-01T09:00:08.0000000Z",
+        "DiscoveredAt":  "2026-11-01T10:09:17.3069742Z",
+        "Duration":  "00:02:32",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "USH-2UTekYY",
         "Title":  "October Highlights - BAND-MAID, Linkin Park, and More!!",
         "Channel":  "Adventura",
