@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 16:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 19:45:06 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] band-maid has been doing a lot more anime songs but that's ok because damn he...</title>
+      <link>https://bsky.app/profile/did:plc:o7fg44mp4druqbk2jmjb6rak/post/3mzbfz5c6es2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:o7fg44mp4druqbk2jmjb6rak/post/3mzbfz5c6es2z</guid>
+      <pubDate>Sun, 01 Nov 2026 18:13:57 GMT</pubDate>
+      <dc:creator>Lilja Draws Girls (yuurei-lilja.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>band-maid has been doing a lot more anime songs but that&#39;s ok because damn hell yeah girlies let&#39;s go<br/><br/>youtu.be/Z7I13kDOoQk</p><p><em>BlueSky &middot; yuurei-lilja.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://m...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzb5k7zcgn23</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I&#39;m surprised how few people in the youtube reaction circuit cover them. That would definitely drive some more engagement, it&#39;s certainly been a big part of Band Maid&#39;s surge. MOST underrated though, I still have to say Atozome, not sure they&#39;ve hit 2000 subs on YouTube yet, which is criminal.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] e Thrill, each of us separately looked for a direction that would match Band-...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myok3zrqku2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3myok3zrqku2b</guid>
-      <pubDate>Sun, 25 Oct 2026 06:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>e Thrill, each of us separately looked for a direction that would match Band-Maid&#174;, but we decided our musical direction through Thrill and united together, which was really important. Each of us changed our approach in sound making.<br/><br/>Misa (bass): Since all of us are technique-oriented, we like our </p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
