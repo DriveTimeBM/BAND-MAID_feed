@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "JBTrNbZkicw",
+        "Title":  "THIS JAPANESE ROCK BAND IS INSANE…! 🤯 | BAND-MAID – REAL EXISTENCE REACTION",
+        "Channel":  "Ben Razz",
+        "ChannelId":  "UCiRl9Zp6SYmy3NmJZX_V1KQ",
+        "Url":  "https://youtu.be/JBTrNbZkicw",
+        "Thumbnail":  "https://i.ytimg.com/vi/JBTrNbZkicw/hqdefault.jpg",
+        "PublishedAt":  "2026-11-01T00:30:12.0000000Z",
+        "DiscoveredAt":  "2026-11-01T00:33:21.6483520Z",
+        "Duration":  "00:05:40",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "TicC1LtgXSY",
         "Title":  "Band-Maid \"Spin\" (Beyblade X Anime Closing Theme Music Video) | Couples Reaction!",
         "Channel":  "Psi & Bella Music",
