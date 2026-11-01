@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Kl_wJVvfS-I",
+        "Title":  "BAND MAID & The Warning Together?! “SHOW THEM” | Reaction!",
+        "Channel":  "Jason Damico",
+        "ChannelId":  "UCaTRdDvAIMgXh2GVuyitsMg",
+        "Url":  "https://youtu.be/Kl_wJVvfS-I",
+        "Thumbnail":  "https://i.ytimg.com/vi/Kl_wJVvfS-I/hqdefault.jpg",
+        "PublishedAt":  "2026-11-01T15:00:37.0000000Z",
+        "DiscoveredAt":  "2026-11-01T15:48:04.8901465Z",
+        "Duration":  "00:05:52",
+        "ViewsAtDiscovery":  533,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Nmdfy3wJHw8",
         "Title":  "BAND-MAID - SPIN (reaction video)",
         "Channel":  "Just Kells",
