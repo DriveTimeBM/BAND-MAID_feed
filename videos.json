@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cPbEJ6T3Y3c",
+        "Title":  "BAND MAID ⧸ SPIN (Instrumental)",
+        "Channel":  "Xkylaar Made Thiis",
+        "ChannelId":  "UCgQOcvSwgLWPqyYZ-hLuZ6g",
+        "Url":  "https://youtu.be/cPbEJ6T3Y3c",
+        "Thumbnail":  "https://i.ytimg.com/vi/cPbEJ6T3Y3c/hqdefault.jpg",
+        "PublishedAt":  "2026-11-01T18:42:01.0000000Z",
+        "DiscoveredAt":  "2026-11-01T19:14:26.0300301Z",
+        "Duration":  "00:03:48",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "mHGqPdu8PkU",
+        "Title":  "BAND-MAID — Giovanni [9 screens with individual members]",
+        "Channel":  "Vladimir Chupin",
+        "ChannelId":  "UCb6JH8zMUAHI1w8MFXNUYwQ",
+        "Url":  "https://youtu.be/mHGqPdu8PkU",
+        "Thumbnail":  "https://i.ytimg.com/vi/mHGqPdu8PkU/hqdefault.jpg",
+        "PublishedAt":  "2026-11-01T18:38:36.0000000Z",
+        "DiscoveredAt":  "2026-11-01T19:14:24.8053066Z",
+        "Duration":  "00:04:45",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "C80cetlgeEA",
         "Title":  "QUEEN REACTS to BAND-MAID  – “Before Yesterday” 🤯🔥  THIS BAND NEVER DISAPPOINTS!",
         "Channel":  "QueenKafi",
