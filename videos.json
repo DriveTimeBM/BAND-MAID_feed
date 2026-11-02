@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xAp1BaSVXBk",
+        "Title":  "They Keep Getting Better! | BAND-MAID - SPIN First Reaction (English Lyrics)",
+        "Channel":  "EdPhonez Media",
+        "ChannelId":  "UC3B7ARYdVrQ1edlJc9GAwwQ",
+        "Url":  "https://youtu.be/xAp1BaSVXBk",
+        "Thumbnail":  "https://i.ytimg.com/vi/xAp1BaSVXBk/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T17:00:06.0000000Z",
+        "DiscoveredAt":  "2026-11-02T17:02:20.1371983Z",
+        "Duration":  "00:07:52",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Ll9X-SBB238",
         "Title":  "BAND-MAID's Anime Anthems",
         "Channel":  "Roch's Rock Radio",
