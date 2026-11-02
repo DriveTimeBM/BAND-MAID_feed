@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 19:45:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:04:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID with your host, SUPERTop10!...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzc4rbozpr2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzc4rbozpr2y</guid>
+      <pubDate>Mon, 02 Nov 2026 01:01:09 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Manners by BAND-MAID with your host, SUPERTop10! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzc4rbkdee2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzc4rbkdee2d</guid>
+      <pubDate>Mon, 02 Nov 2026 01:01:09 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] band-maid has been doing a lot more anime songs but that's ok because damn he...</title>
       <link>https://bsky.app/profile/did:plc:o7fg44mp4druqbk2jmjb6rak/post/3mzbfz5c6es2z</link>
@@ -890,24 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: H-G-K by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Teaser du clip "SPIN" de #BANDMAID</title>
-      <link>https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3myn5x53o6s2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:njiup4243bojby2zs7vgt5h2/post/3myn5x53o6s2o</guid>
-      <pubDate>Sat, 24 Oct 2026 16:56:25 GMT</pubDate>
-      <dc:creator>Xavier F. (fxmaccobra.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Teaser du clip &quot;SPIN&quot; de #BANDMAID<br/><br/>youtube.com/shorts/EcxOr...</p><p><em>BlueSky &middot; fxmaccobra.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I'm surprised how few people in the youtube reaction circuit cover them. That...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3myp7z7ggjk2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3myp7z7ggjk2f</guid>
-      <pubDate>Sun, 25 Oct 2026 12:38:42 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I&#39;m surprised how few people in the youtube reaction circuit cover them. That would definitely drive some more engagement, it&#39;s certainly been a big part of Band Maid&#39;s surge. MOST underrated though, I still have to say Atozome, not sure they&#39;ve hit 2000 subs on YouTube yet, which is criminal.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
