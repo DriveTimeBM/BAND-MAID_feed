@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "WNTFvxCNJvM",
+        "Title":  "Reacting to BAND-MAID's New Song \"Spin\" (Beyblade X Ending)",
+        "Channel":  "WWEdeadman Reacts",
+        "ChannelId":  "UCz9pT9X6jtNmVBkvAGwDckg",
+        "Url":  "https://youtu.be/WNTFvxCNJvM",
+        "Thumbnail":  "https://i.ytimg.com/vi/WNTFvxCNJvM/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T18:00:11.0000000Z",
+        "DiscoveredAt":  "2026-11-02T20:46:54.0183812Z",
+        "Duration":  "00:07:08",
+        "ViewsAtDiscovery":  36,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xAp1BaSVXBk",
         "Title":  "They Keep Getting Better! | BAND-MAID - SPIN First Reaction (English Lyrics)",
         "Channel":  "EdPhonez Media",
