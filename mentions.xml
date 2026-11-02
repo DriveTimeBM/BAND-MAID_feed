@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 16:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 22:53:21 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 【新台】ニューギン「e義風堂々！！～兼続と慶次～4」ティザーPVが公開！BAND-MAID新規楽曲搭載！</title>
+      <link>https://bsky.app/profile/did:plc:4defa5e7oqn6umso5bm42krs/post/3mzedyysqh22l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4defa5e7oqn6umso5bm42krs/post/3mzedyysqh22l</guid>
+      <pubDate>Mon, 02 Nov 2026 22:16:04 GMT</pubDate>
+      <dc:creator>pachiport (pachiport.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>【新台】ニューギン「e義風堂々！！～兼続と慶次～4」ティザーPVが公開！BAND-MAID新規楽曲搭載！<br/>https://info.pachiport.workers.dev/article/518693</p><p><em>BlueSky &middot; pachiport.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID with your host, D...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzdmlhewco2d</link>
@@ -899,15 +908,6 @@
       <dc:creator>Jambomax_a (jambomax-a.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID / SPIN (Official Music Video)  アニメ「BEYBLADE X ベイキングダム編」エンディングテ... youtu.be/Z7I13kDOoQk?... @YouTubeより</p><p><em>BlueSky &middot; jambomax-a.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Baby wake up, new Band-Maid single just dropped.</title>
-      <link>https://bsky.app/profile/did:plc:yr7tbttb6ic5lgg2hyc46gdc/post/3myujg72tkk2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:yr7tbttb6ic5lgg2hyc46gdc/post/3myujg72tkk2j</guid>
-      <pubDate>Tue, 27 Oct 2026 15:10:20 GMT</pubDate>
-      <dc:creator>白線歌手 (singerofw.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Baby wake up, new Band-Maid single just dropped.<br/><br/>www.youtube.com/watch?v=Z7I1...</p><p><em>BlueSky &middot; singerofw.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
