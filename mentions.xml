@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 11:23:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:54:06 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAIDさんメイド繋がりで冥殿さんのベイとのコラボモデルとか出したら盛り上がりそうだよな〜と思ってる🦈</title>
+      <link>https://bsky.app/profile/did:plc:hcuebginecgj7zlrexdwkplp/post/3mzd6sigqlk2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hcuebginecgj7zlrexdwkplp/post/3mzd6sigqlk2x</guid>
+      <pubDate>Mon, 02 Nov 2026 11:10:17 GMT</pubDate>
+      <dc:creator>HINA (hina-bey.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDさんメイド繋がりで冥殿さんのベイとのコラボモデルとか出したら盛り上がりそうだよな〜と思ってる🦈</p><p><em>BlueSky &middot; hina-bey.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 普通に私の仕事の切り上げ方が悪くて残業しちゃった😄🎶</title>
       <link>https://bsky.app/profile/did:plc:ctmb6f4mbfgy67pm3bfjb3o7/post/3mzd5f7swts22</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p> so, po<br/><br/>— It’s nice it has both.<br/><br/>Kobato: Yes, po. We Band-Maid don’t limit ourselves so much, and we think it’s OK to have various songs, so we think differently depending on each song, po.<br/><br/>Kanami: Also depending on each period. Like “This is what I want to do now!” (laughs)<br/>---------------------</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: NO GOD</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mytkztyyon2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mytkztyyon2k</guid>
-      <pubDate>Tue, 27 Oct 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: NO GOD<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
