@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 10:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:23:22 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 普通に私の仕事の切り上げ方が悪くて残業しちゃった😄🎶</title>
+      <link>https://bsky.app/profile/did:plc:ctmb6f4mbfgy67pm3bfjb3o7/post/3mzd5f7swts22</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ctmb6f4mbfgy67pm3bfjb3o7/post/3mzd5f7swts22</guid>
+      <pubDate>Mon, 02 Nov 2026 10:44:58 GMT</pubDate>
+      <dc:creator>塩麹。 (siokojio4o.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>普通に私の仕事の切り上げ方が悪くて残業しちゃった😄🎶<br/>でも丁度職場で流してるラジオ、ＦＭ８０２にBAND-MAIDさんゲストに来てくれててベイの話題が上がって！！！<br/>「SPIN」も流れて激アツだった！！！！</p><p><em>BlueSky &middot; siokojio4o.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAIDの新曲「BONDS」が</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mzcxklt3fr2j</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: NO GOD<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:2/10/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 5 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myth2u7ksb2j</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myth2u7ksb2j</guid>
-      <pubDate>Tue, 27 Oct 2026 04:55:32 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>5 years ago<br/>Sense<br/>single<br/>released<br/>2021/10/27<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
