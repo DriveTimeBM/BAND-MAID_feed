@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "vePlY_wW79Y",
+        "Title":  "BAND-MAID / SPIN - Reaction with Rollen (First Listen Official Music Video)",
+        "Channel":  "Rollen Green - Reactions - Rants & Rabbit Holes",
+        "ChannelId":  "UCpLnQ6PuKH7CUSF11zDUZsw",
+        "Url":  "https://youtu.be/vePlY_wW79Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/vePlY_wW79Y/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T14:05:39.0000000Z",
+        "DiscoveredAt":  "2026-11-02T14:28:05.7012358Z",
+        "Duration":  "00:07:01",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "BfFa2CspVik",
+        "Title":  "BAND-MAID - Screaming | Reaction!",
+        "Channel":  "Rockin' with Matt",
+        "ChannelId":  "UCruBX3uPne2xBlLZOo950bA",
+        "Url":  "https://youtu.be/BfFa2CspVik",
+        "Thumbnail":  "https://i.ytimg.com/vi/BfFa2CspVik/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T14:00:06.0000000Z",
+        "DiscoveredAt":  "2026-11-02T14:28:03.8694252Z",
+        "Duration":  "00:20:37",
+        "ViewsAtDiscovery":  48,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "wAg9Sc2J5uw",
         "Title":  "BAND-MAID \"SPIN\" (BEYBLADE X) ENDING THEME SONG | THIS ANIME SONG IS 🔥🔥🔥| FILIPINO REACTS",
         "Channel":  "Cherman Vlogs",
