@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 08:50:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:21:22 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAIDの新曲「BONDS」が</title>
+      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mzcxklt3fr2j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3mzcxklt3fr2j</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:33 GMT</pubDate>
+      <dc:creator>音楽ナタリー (music.natalie.mu)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDの新曲「BONDS」が<br/>パチンコ「義風堂々!!」新機種とタイアップ<br/><br/>https://natalie.mu/music/news/696312?utm_source=bluesky&amp;utm_medium=social<br/><br/>#bandmaid</p><p><em>BlueSky &middot; music.natalie.mu</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] They may be taking 2027 off from touring, but Band Maid don't appear to be sl...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mzcxzkgyy22e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mzcxzkgyy22e</guid>
+      <pubDate>Mon, 02 Nov 2026 09:08:58 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>They may be taking 2027 off from touring, but Band Maid don&#39;t appear to be slowing down. ANOTHER new song (for another anime) just announced. It&#39;s called BONDS, no release date announced yet.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] This is the lead song of our first major-label single YOLO. It was originally...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzcr6o33gv2a</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>5 years ago<br/>Sense<br/>single<br/>released<br/>2021/10/27<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 5 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myth2tq3q724</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myth2tq3q724</guid>
-      <pubDate>Tue, 27 Oct 2026 04:55:31 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>5 years ago<br/>Sense<br/>MV<br/>released<br/>2021/10/27<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myth2rsh3724</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3myth2rsh3724</guid>
-      <pubDate>Tue, 27 Oct 2026 04:55:29 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago<br/>secret MAIKO lips MV<br/>milestone<br/>surpassed 4 million views<br/>2022/10/27<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
