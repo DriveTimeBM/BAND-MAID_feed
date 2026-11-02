@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YSrB-opJ4J4",
+        "Title":  "BAND-MAID ARE ON ANOTHER LEVEL! 🤯🔥 | ENERGETIC – FIRST REACTION!",
+        "Channel":  "DORCAS' REACT",
+        "ChannelId":  "UCoVXdbNEoVNi4BZplaEW9KQ",
+        "Url":  "https://youtu.be/YSrB-opJ4J4",
+        "Thumbnail":  "https://i.ytimg.com/vi/YSrB-opJ4J4/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T12:35:32.0000000Z",
+        "DiscoveredAt":  "2026-11-02T12:45:58.3619661Z",
+        "Duration":  "00:04:33",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "fnvPSYDEVmw",
+        "Title":  "【BAND-MAID】2026.11.02　 α-STATION「GOOD & NEW KYOTO」",
+        "Channel":  "佐々木20XX",
+        "ChannelId":  "UCSYV2UZrnNpuM5vNkSh_Erw",
+        "Url":  "https://youtu.be/fnvPSYDEVmw",
+        "Thumbnail":  "https://i.ytimg.com/vi/fnvPSYDEVmw/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T12:35:31.0000000Z",
+        "DiscoveredAt":  "2026-11-02T12:45:57.0875424Z",
+        "Duration":  "00:18:32",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "eooWgWd1mXI",
         "Title":  "【BAND-MAID】2026.11.02  TOKYO FM「坂本美雨のディアフレンズ」",
         "Channel":  "佐々木20XX",
