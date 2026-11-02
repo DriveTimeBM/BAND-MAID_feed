@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "w26VjAWowbs",
+        "Title":  "BAND-MAID - Sayonakidori / Nightingale (Clone Hero Chart)",
+        "Channel":  "LxstBye",
+        "ChannelId":  "UCOI_GgJF8uYYE_hdPR7iltg",
+        "Url":  "https://youtu.be/w26VjAWowbs",
+        "Thumbnail":  "https://i.ytimg.com/vi/w26VjAWowbs/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T04:56:03.0000000Z",
+        "DiscoveredAt":  "2026-11-02T05:18:24.1376077Z",
+        "Duration":  "00:04:46",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "uxpinJP06bE",
         "Title":  "BAND-MAID - SPIN (OMV) | The Girls DEMOLISHED This! First Ever Reaction!",
         "Channel":  "Zack Reacts",
@@ -26,21 +41,6 @@
         "DiscoveredAt":  "2026-11-02T01:33:24.1879157Z",
         "Duration":  "00:12:29",
         "ViewsAtDiscovery":  3,
-        "Live":  "none",
-        "Status":  "active"
-    },
-    {
-        "schema_version":  1,
-        "VideoId":  "1sz1Teri9HE",
-        "Title":  "Band-Maid | Akasaka Blitz - The Non-Fiction Days",
-        "Channel":  "The Daily Blab",
-        "ChannelId":  "UCrlRMnfXZsDDnm7svcGvcnQ",
-        "Url":  "https://youtu.be/1sz1Teri9HE",
-        "Thumbnail":  "https://i.ytimg.com/vi/1sz1Teri9HE/hqdefault.jpg",
-        "PublishedAt":  "2026-11-02T01:00:13.0000000Z",
-        "DiscoveredAt":  "2026-11-02T01:02:49.9014954Z",
-        "Duration":  "00:05:45",
-        "ViewsAtDiscovery":  0,
         "Live":  "none",
         "Status":  "active"
     },
