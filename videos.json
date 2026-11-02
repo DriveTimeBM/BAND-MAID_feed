@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CJAUllx_G7Y",
+        "Title":  "BAND-MAID – Don’t You Tell Me (Live) | First-Time Reaction",
+        "Channel":  "Big Steve's Musings",
+        "ChannelId":  "UCoowc8JltgYMatVt1ui_K4Q",
+        "Url":  "https://youtu.be/CJAUllx_G7Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/CJAUllx_G7Y/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T15:00:35.0000000Z",
+        "DiscoveredAt":  "2026-11-02T15:29:33.8238652Z",
+        "Duration":  "00:11:08",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "yyaZRWgzHRo",
+        "Title":  "BAND MAID MONDAY! We Hear The NEW TRACK! Spin!!! (BEYBLADE X) #bandmaid",
+        "Channel":  "WavesAcrossTheWater",
+        "ChannelId":  "UC8VWDy9uGVbgrBXwJlRwESQ",
+        "Url":  "https://youtu.be/yyaZRWgzHRo",
+        "Thumbnail":  "https://i.ytimg.com/vi/yyaZRWgzHRo/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T15:00:21.0000000Z",
+        "DiscoveredAt":  "2026-11-02T15:29:32.3806549Z",
+        "Duration":  "00:13:59",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vePlY_wW79Y",
         "Title":  "BAND-MAID / SPIN - Reaction with Rollen (First Listen Official Music Video)",
         "Channel":  "Rollen Green - Reactions - Rants & Rabbit Holes",
