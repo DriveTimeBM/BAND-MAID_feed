@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "eooWgWd1mXI",
+        "Title":  "【BAND-MAID】2026.11.02  TOKYO FM「坂本美雨のディアフレンズ」",
+        "Channel":  "佐々木20XX",
+        "ChannelId":  "UCSYV2UZrnNpuM5vNkSh_Erw",
+        "Url":  "https://youtu.be/eooWgWd1mXI",
+        "Thumbnail":  "https://i.ytimg.com/vi/eooWgWd1mXI/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T12:22:28.0000000Z",
+        "DiscoveredAt":  "2026-11-02T12:24:45.5904402Z",
+        "Duration":  "00:16:07",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Ud-gy52LDQ4",
         "Title":  "BAND MAID  Secret My Lips Purple Reaction",
         "Channel":  "Purple unicorn reaction's",
