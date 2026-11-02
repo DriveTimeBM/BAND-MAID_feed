@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "uxpinJP06bE",
+        "Title":  "BAND-MAID - SPIN (OMV) | The Girls DEMOLISHED This! First Ever Reaction!",
+        "Channel":  "Zack Reacts",
+        "ChannelId":  "UC8SLHBBA-UAM6GNR-z4Lw7A",
+        "Url":  "https://youtu.be/uxpinJP06bE",
+        "Thumbnail":  "https://i.ytimg.com/vi/uxpinJP06bE/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T01:03:30.0000000Z",
+        "DiscoveredAt":  "2026-11-02T01:33:25.3149351Z",
+        "Duration":  "00:10:45",
+        "ViewsAtDiscovery":  42,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "FWLvKxLOaPU",
+        "Title":  "REACTION TO BAND-MAID - CARRY ON LIVING - LIVE",
+        "Channel":  "Cold Fire",
+        "ChannelId":  "UCKboltkZSCKZ0olDaaf9ECQ",
+        "Url":  "https://youtu.be/FWLvKxLOaPU",
+        "Thumbnail":  "https://i.ytimg.com/vi/FWLvKxLOaPU/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T01:00:08.0000000Z",
+        "DiscoveredAt":  "2026-11-02T01:33:24.1879157Z",
+        "Duration":  "00:12:29",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1sz1Teri9HE",
         "Title":  "Band-Maid | Akasaka Blitz - The Non-Fiction Days",
         "Channel":  "The Daily Blab",
