@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Ll9X-SBB238",
+        "Title":  "BAND-MAID's Anime Anthems",
+        "Channel":  "Roch's Rock Radio",
+        "ChannelId":  "UC_PqjeilG8e1jmEkKs38Brg",
+        "Url":  "https://youtu.be/Ll9X-SBB238",
+        "Thumbnail":  "https://i.ytimg.com/vi/Ll9X-SBB238/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T16:12:42.0000000Z",
+        "DiscoveredAt":  "2026-11-02T16:31:26.5197068Z",
+        "Duration":  "00:11:11",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "GP8dO_eqpgE",
+        "Title":  "Back to BAND-MAID | React to BAND-MAID - Toi et moi",
+        "Channel":  "We Watched That 2",
+        "ChannelId":  "UCmDpLB_c3Dt9hBTQ2DUhQ5w",
+        "Url":  "https://youtu.be/GP8dO_eqpgE",
+        "Thumbnail":  "https://i.ytimg.com/vi/GP8dO_eqpgE/hqdefault.jpg",
+        "PublishedAt":  "2026-11-02T16:00:22.0000000Z",
+        "DiscoveredAt":  "2026-11-02T16:31:25.2587346Z",
+        "Duration":  "00:07:56",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "CJAUllx_G7Y",
         "Title":  "BAND-MAID – Don’t You Tell Me (Live) | First-Time Reaction",
         "Channel":  "Big Steve's Musings",

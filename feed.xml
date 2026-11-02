@@ -7,8 +7,28 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 15:29:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:31:27 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAND-MAID's Anime Anthems</title>
+      <link>https://youtu.be/Ll9X-SBB238</link>
+      <guid isPermaLink="false">yt:video:Ll9X-SBB238</guid>
+      <pubDate>Mon, 02 Nov 2026 16:12:42 GMT</pubDate>
+      <dc:creator>Roch's Rock Radio</dc:creator>
+      <category>Roch's Rock Radio</category>
+      <description><![CDATA[<p><a href="https://youtu.be/Ll9X-SBB238"><img src="https://i.ytimg.com/vi/Ll9X-SBB238/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Roch's Rock Radio<br/>Duration: 00:11:11<br/>Views at discovery: 3</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/Ll9X-SBB238/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>Back to BAND-MAID | React to BAND-MAID - Toi et moi</title>
+      <link>https://youtu.be/GP8dO_eqpgE</link>
+      <guid isPermaLink="false">yt:video:GP8dO_eqpgE</guid>
+      <pubDate>Mon, 02 Nov 2026 16:00:22 GMT</pubDate>
+      <dc:creator>We Watched That 2</dc:creator>
+      <category>We Watched That 2</category>
+      <description><![CDATA[<p><a href="https://youtu.be/GP8dO_eqpgE"><img src="https://i.ytimg.com/vi/GP8dO_eqpgE/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: We Watched That 2<br/>Duration: 00:07:56<br/>Views at discovery: 9</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/GP8dO_eqpgE/hqdefault.jpg" />
+    </item>
     <item>
       <title>BAND-MAID – Don’t You Tell Me (Live) | First-Time Reaction</title>
       <link>https://youtu.be/CJAUllx_G7Y</link>
