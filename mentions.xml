@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 22:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:57:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAIDの新曲「BONDS」がパチンコ「e義風堂々!!〜兼続と慶次〜4」で流れる！</title>
+      <link>https://bsky.app/profile/did:plc:4defa5e7oqn6umso5bm42krs/post/3mzen7w5uqy2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4defa5e7oqn6umso5bm42krs/post/3mzen7w5uqy2y</guid>
+      <pubDate>Tue, 03 Nov 2026 01:01:00 GMT</pubDate>
+      <dc:creator>pachiport (pachiport.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAIDの新曲「BONDS」がパチンコ「e義風堂々!!〜兼続と慶次〜4」で流れる！<br/>https://info.pachiport.workers.dev/article/519178</p><p><em>BlueSky &middot; pachiport.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 【新台】ニューギン「e義風堂々！！～兼続と慶次～4」ティザーPVが公開！BAND-MAID新規楽曲搭載！</title>
       <link>https://bsky.app/profile/did:plc:4defa5e7oqn6umso5bm42krs/post/3mzedyysqh22l</link>
@@ -899,15 +908,6 @@
       <dc:creator>佐藤英男 (sato-hideo.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID / SPIN (Official Music Video) Anime &quot;BEYBLADE X&quot; Ending Theme Song<br/>www.youtube.com/watch?v=Z7I1...<br/>アニメ「BEYBLADE X ベイキングダム編」エンディングテーマソング<br/>Composer: BAND-MAID<br/>Lyricist: SAIKI<br/>Arranger: BAND-MAID<br/>#BANDMAID #SPIN #BEYBLADEX</p><p><em>BlueSky &middot; sato-hideo.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID / SPIN (Official Music Video)  アニメ「BEYBLADE X ベイキングダム編」エンディングテ... y...</title>
-      <link>https://bsky.app/profile/did:plc:5d74cuuf3fnnxnfazprisixl/post/3myujq6cunc2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:5d74cuuf3fnnxnfazprisixl/post/3myujq6cunc2o</guid>
-      <pubDate>Tue, 27 Oct 2026 15:15:55 GMT</pubDate>
-      <dc:creator>Jambomax_a (jambomax-a.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID / SPIN (Official Music Video)  アニメ「BEYBLADE X ベイキングダム編」エンディングテ... youtu.be/Z7I13kDOoQk?... @YouTubeより</p><p><em>BlueSky &middot; jambomax-a.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
