@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "etHu-Yxj6bk",
+        "Title":  "Band-Maid - Spin | Reaction | They Got Us Dizzy With Excitement 💫",
+        "Channel":  "Battoosh & Nonna",
+        "ChannelId":  "UCqpXbKhNpin0c7hl1NvmoKw",
+        "Url":  "https://youtu.be/etHu-Yxj6bk",
+        "Thumbnail":  "https://i.ytimg.com/vi/etHu-Yxj6bk/hqdefault.jpg",
+        "PublishedAt":  "2026-11-03T02:20:31.0000000Z",
+        "DiscoveredAt":  "2026-11-03T02:28:08.3656397Z",
+        "Duration":  "00:15:37",
+        "ViewsAtDiscovery":  18,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "8bl1K1WmSPs",
+        "Title":  "THIS IS AN ENDING?! 🔥 | BAND-MAID “SPIN” MV Reaction",
+        "Channel":  "Andrea's Music Corner",
+        "ChannelId":  "UCe4LiRGr2s2jySDPHQcfXrA",
+        "Url":  "https://youtu.be/8bl1K1WmSPs",
+        "Thumbnail":  "https://i.ytimg.com/vi/8bl1K1WmSPs/hqdefault.jpg",
+        "PublishedAt":  "2026-11-03T02:00:09.0000000Z",
+        "DiscoveredAt":  "2026-11-03T02:28:06.8895534Z",
+        "Duration":  "00:08:19",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "B-MFjO3YrC0",
         "Title":  "The Ultimate MAPPA Anime Anthem! BAND-MAID \"Zen\" Reaction & Breakdown",
         "Channel":  "Headbangers Haven",
