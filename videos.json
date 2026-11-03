@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "B-MFjO3YrC0",
+        "Title":  "The Ultimate MAPPA Anime Anthem! BAND-MAID \"Zen\" Reaction & Breakdown",
+        "Channel":  "Headbangers Haven",
+        "ChannelId":  "UClolPUoD7UPJofC00g9MrMw",
+        "Url":  "https://youtu.be/B-MFjO3YrC0",
+        "Thumbnail":  "https://i.ytimg.com/vi/B-MFjO3YrC0/hqdefault.jpg",
+        "PublishedAt":  "2026-11-03T00:54:06.0000000Z",
+        "DiscoveredAt":  "2026-11-03T00:55:53.7207787Z",
+        "Duration":  "00:15:57",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mApebHw9Dq4",
         "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song - Reaction",
         "Channel":  "Xsezz",
