@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "p6g8xNcOjXI",
+        "Title":  "BAND-MAID – Ready to Rock | Live + MV Were Both AMAZING! | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/p6g8xNcOjXI",
+        "Thumbnail":  "https://i.ytimg.com/vi/p6g8xNcOjXI/hqdefault.jpg",
+        "PublishedAt":  "2026-11-03T23:18:29.0000000Z",
+        "DiscoveredAt":  "2026-11-03T23:45:36.1097401Z",
+        "Duration":  "00:11:49",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JbAp5mEvwSY",
         "Title":  "BAND-MAID – Zen | This Anime Opening Goes HARD! | VTUBER REACTS",
         "Channel":  "LunariaTheIdol",
