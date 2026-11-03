@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "8NQwKGnj8cs",
+        "Title":  "Presentación del Proyecto Band-Maid México",
+        "Channel":  "Band-Maid México",
+        "ChannelId":  "UCxKpcbAIBxDpRs1MHvj408A",
+        "Url":  "https://youtu.be/8NQwKGnj8cs",
+        "Thumbnail":  "https://i.ytimg.com/vi/8NQwKGnj8cs/hqdefault.jpg",
+        "PublishedAt":  "2026-11-03T14:27:01.0000000Z",
+        "DiscoveredAt":  "2026-11-03T14:43:47.4492382Z",
+        "Duration":  "00:02:20",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "DaQbxXg3zpI",
         "Title":  "BAND-MAID - Domination",
         "Channel":  "東京外国語大学ダルマダーツ",
