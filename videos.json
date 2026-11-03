@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "V_pQSsfKPwo",
+        "Title":  "An Acoustic Live Masterpiece! The EagleFan Reacts to Band-Maid - Puzzle",
+        "Channel":  "The EagleFan",
+        "ChannelId":  "UC0CCrnpUlrcDW7Hf9iceYtw",
+        "Url":  "https://youtu.be/V_pQSsfKPwo",
+        "Thumbnail":  "https://i.ytimg.com/vi/V_pQSsfKPwo/hqdefault.jpg",
+        "PublishedAt":  "2026-11-03T21:13:57.0000000Z",
+        "DiscoveredAt":  "2026-11-03T22:13:24.2870718Z",
+        "Duration":  "00:13:18",
+        "ViewsAtDiscovery":  19,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qySb1PQzRSA",
         "Title":  "BAND-MAID announce BONDS, the Pachinko song!",
         "Channel":  "Baka Broadcast",
