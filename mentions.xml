@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 15:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:45:02 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Sample of Band Maid's new song, Bonds, looks like it's for an arcade game rat...</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mzgjefcgj22c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mzgjefcgj22c</guid>
+      <pubDate>Tue, 03 Nov 2026 18:57:15 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Sample of Band Maid&#39;s new song, Bonds, looks like it&#39;s for an arcade game rather than an anime.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band-Maid...  www.youtube.com/watch?v=LwbX...</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mzg22yylac2l</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-pop Brasil (mundojpopbrasil.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band Maid  -  Spin  -  27/10/2026.<br/>youtu.be/Z7I13kDOoQk?...</p><p><em>BlueSky &middot; mundojpopbrasil.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] New Band-Maid song is a real face melter.</title>
-      <link>https://bsky.app/profile/did:plc:w6vpq66iy2gjj4d75qayo4v4/post/3myvco5dqsk2h</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:w6vpq66iy2gjj4d75qayo4v4/post/3myvco5dqsk2h</guid>
-      <pubDate>Tue, 27 Oct 2026 22:42:10 GMT</pubDate>
-      <dc:creator>Greg Specter (gregspecter.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>New Band-Maid song is a real face melter.</p><p><em>BlueSky &middot; gregspecter.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
