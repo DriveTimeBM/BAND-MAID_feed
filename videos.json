@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "JbAp5mEvwSY",
+        "Title":  "BAND-MAID – Zen | This Anime Opening Goes HARD! | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/JbAp5mEvwSY",
+        "Thumbnail":  "https://i.ytimg.com/vi/JbAp5mEvwSY/hqdefault.jpg",
+        "PublishedAt":  "2026-11-03T23:12:22.0000000Z",
+        "DiscoveredAt":  "2026-11-03T23:14:49.5088674Z",
+        "Duration":  "00:06:05",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "iUXFyUkuvR4",
+        "Title":  "#112 BAND-MAID / Go easy - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/iUXFyUkuvR4",
+        "Thumbnail":  "https://i.ytimg.com/vi/iUXFyUkuvR4/hqdefault.jpg",
+        "PublishedAt":  "2026-11-03T23:00:22.0000000Z",
+        "DiscoveredAt":  "2026-11-03T23:14:47.8400843Z",
+        "Duration":  "00:10:56",
+        "ViewsAtDiscovery":  21,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "V_pQSsfKPwo",
         "Title":  "An Acoustic Live Masterpiece! The EagleFan Reacts to Band-Maid - Puzzle",
         "Channel":  "The EagleFan",
