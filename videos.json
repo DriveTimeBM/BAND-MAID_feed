@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "qySb1PQzRSA",
+        "Title":  "BAND-MAID announce BONDS, the Pachinko song!",
+        "Channel":  "Baka Broadcast",
+        "ChannelId":  "UCsCDhY3EoeFTYAG6JKtrC5A",
+        "Url":  "https://youtu.be/qySb1PQzRSA",
+        "Thumbnail":  "https://i.ytimg.com/vi/qySb1PQzRSA/hqdefault.jpg",
+        "PublishedAt":  "2026-11-03T19:22:08.0000000Z",
+        "DiscoveredAt":  "2026-11-03T19:44:40.0954359Z",
+        "Duration":  "00:05:18",
+        "ViewsAtDiscovery":  17,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dbpeuyEKtq8",
         "Title":  "BAND-MAID - HATE? | FIRST TIME REACTION - This band has great live energy!!",
         "Channel":  "Reacting 4 Maui",
