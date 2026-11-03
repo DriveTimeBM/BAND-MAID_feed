@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 08:34:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:14:33 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Band-Maid...  www.youtube.com/watch?v=LwbX...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mzg22yylac2l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mzg22yylac2l</guid>
+      <pubDate>Tue, 03 Nov 2026 14:23:34 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid...  www.youtube.com/watch?v=LwbX...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band Maid's masterpiece (at least so far), IMO.</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mzffct7ytk2c</link>
@@ -899,15 +908,6 @@
       <dc:creator>Greg Specter (gregspecter.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>New Band-Maid song is a real face melter.</p><p><em>BlueSky &middot; gregspecter.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 今日リリースのEP 🎵 SPIN - SPIN - Single - BAND-MAID</title>
-      <link>https://bsky.app/profile/did:plc:fqu2ug6b6hadxsxbvahus7jy/post/3myv7jvrbac2f</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fqu2ug6b6hadxsxbvahus7jy/post/3myv7jvrbac2f</guid>
-      <pubDate>Tue, 27 Oct 2026 21:46:07 GMT</pubDate>
-      <dc:creator>たくのん (taknom.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>今日リリースのEP 🎵 SPIN - SPIN - Single - BAND-MAID<br/>#NowPlaying <br/>music.apple.com/jp/album/spi...</p><p><em>BlueSky &middot; taknom.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
