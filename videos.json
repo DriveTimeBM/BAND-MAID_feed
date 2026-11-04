@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Qk-KB2e0HSI",
+        "Title":  "Reaction to BAND MAID - 'Toi Et Moi' - w/Misa & Akane Intro",
+        "Channel":  "CoachCastTV",
+        "ChannelId":  "UCrztTuQpwd8wNh__4Mu0AEQ",
+        "Url":  "https://youtu.be/Qk-KB2e0HSI",
+        "Thumbnail":  "https://i.ytimg.com/vi/Qk-KB2e0HSI/hqdefault.jpg",
+        "PublishedAt":  "2026-11-04T14:00:02.0000000Z",
+        "DiscoveredAt":  "2026-11-04T14:26:26.6802541Z",
+        "Duration":  "00:12:05",
+        "ViewsAtDiscovery":  36,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "4BLuKCx1ZsY",
         "Title":  "Musician reacts to BAND-MAID / Spring ephemeral",
         "Channel":  "Vault of Art",
