@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6LE3xNjNOmE",
+        "Title":  "First Time I Watching | BAND-MAID - HATE? | For My AOS216's Drive-in Review",
+        "Channel":  "AOS216Reacts",
+        "ChannelId":  "UCCFnEPEW0wpRZlccuYiSmBg",
+        "Url":  "https://youtu.be/6LE3xNjNOmE",
+        "Thumbnail":  "https://i.ytimg.com/vi/6LE3xNjNOmE/hqdefault.jpg",
+        "PublishedAt":  "2026-11-04T20:30:28.0000000Z",
+        "DiscoveredAt":  "2026-11-04T20:35:10.7963898Z",
+        "Duration":  "00:10:44",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "IMrbH5couUQ",
+        "Title":  "BAND-MAID/ SPIN (Official Music Video) REACTION ",
+        "Channel":  "Angelo's World",
+        "ChannelId":  "UCbnHnqTT_GDmFxFMJ75adog",
+        "Url":  "https://youtu.be/IMrbH5couUQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/IMrbH5couUQ/hqdefault.jpg",
+        "PublishedAt":  "2026-11-04T20:00:08.0000000Z",
+        "DiscoveredAt":  "2026-11-04T20:35:09.2895539Z",
+        "Duration":  "00:08:40",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Az9q1kAVS1Q",
         "Title":  "Freedom - Band-Maid | First Reaction - Some serious drumming",
         "Channel":  "New Clear Reactor",
