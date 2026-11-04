@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "oe-Wwi6Pbqw",
+        "Title":  "【BAND-MAID WORLD TOUR 2026】BAND-MAID「SCOOOOOP」圧巻のロックパフォーマンス！",
+        "Channel":  "Irshad Khan gurmani",
+        "ChannelId":  "UCbD6BfTL8rWkhyQKjCvEoag",
+        "Url":  "https://youtu.be/oe-Wwi6Pbqw",
+        "Thumbnail":  "https://i.ytimg.com/vi/oe-Wwi6Pbqw/hqdefault.jpg",
+        "PublishedAt":  "2026-11-04T01:42:12.0000000Z",
+        "DiscoveredAt":  "2026-11-04T01:48:55.3426789Z",
+        "Duration":  "00:02:34",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "eLpq7asoTCE",
+        "Title":  "BAND-MAID WORLD TOUR 2026「SPIN」迫力満点のステージで観客を魅了！",
+        "Channel":  "Irshad Khan gurmani",
+        "ChannelId":  "UCbD6BfTL8rWkhyQKjCvEoag",
+        "Url":  "https://youtu.be/eLpq7asoTCE",
+        "Thumbnail":  "https://i.ytimg.com/vi/eLpq7asoTCE/hqdefault.jpg",
+        "PublishedAt":  "2026-11-04T01:24:26.0000000Z",
+        "DiscoveredAt":  "2026-11-04T01:48:54.0562596Z",
+        "Duration":  "00:02:45",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "p6g8xNcOjXI",
         "Title":  "BAND-MAID – Ready to Rock | Live + MV Were Both AMAZING! | VTUBER REACTS",
         "Channel":  "LunariaTheIdol",
