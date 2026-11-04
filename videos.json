@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BjX-NX7bcYU",
+        "Title":  " BAND-MAID – Choose Me | First-Time Reaction & Music Video Review | Bridget React",
+        "Channel":  "Bridget Reacts ",
+        "ChannelId":  "UCoHNxWB9S1bANcSct7vULFA",
+        "Url":  "https://youtu.be/BjX-NX7bcYU",
+        "Thumbnail":  "https://i.ytimg.com/vi/BjX-NX7bcYU/hqdefault.jpg",
+        "PublishedAt":  "2026-11-04T11:47:23.0000000Z",
+        "DiscoveredAt":  "2026-11-04T11:49:57.0831648Z",
+        "Duration":  "00:04:56",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "eY8HCY5dDdg",
         "Title":  "Who the f**k are BAND MAID FaceTime reaction ",
         "Channel":  "Drewski Reacts",
