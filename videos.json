@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "02oEKpnjOqw",
+        "Title":  "Shambles – BAND-MAID Live in Chicago (2026) [Fan Cam] ライブ ファンカム ",
+        "Channel":  "Gaijin in the Pit",
+        "ChannelId":  "UCaMDhEdszf_WklEYVsHLqaQ",
+        "Url":  "https://youtu.be/02oEKpnjOqw",
+        "Thumbnail":  "https://i.ytimg.com/vi/02oEKpnjOqw/hqdefault.jpg",
+        "PublishedAt":  "2026-11-05T18:16:40.0000000Z",
+        "DiscoveredAt":  "2026-11-05T18:43:16.9650824Z",
+        "Duration":  "00:03:44",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "TVRuxGoafk4",
         "Title":  "Red Reacts | Reaction To BAND-MAID #バンドメイド | SPIN",
         "Channel":  "Reds AOB (Any Other Business)",
