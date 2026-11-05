@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 13:12:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:43:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Started Off The Day With</title>
+      <link>https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3mzkydzmtls2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3mzkydzmtls2i</guid>
+      <pubDate>Thu, 05 Nov 2026 13:36:08 GMT</pubDate>
+      <dc:creator>dazedandconfused51 (dazedandconfused51.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Started Off The Day With<br/>#vinyl #nowplaying #TheBand #BlackSabbath #BandMaid</p><p><em>BlueSky &middot; dazedandconfused51.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID on the ‘Playfulness’ of ‘SPIN,’ The ‘BEYBLADE X Bey Kingdom Arc’ En...</title>
       <link>https://bsky.app/profile/did:plc:sobuuoeq2fx72o26vpoclgki/post/3mzj2iccs2i2y</link>
@@ -899,15 +908,6 @@
       <dc:creator>AniShiro (anishiro.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID Releases BEYBLADE X Anime Bey Kingdom Arc Ending Theme Music Video<br/><br/>#anime</p><p><em>BlueSky &middot; anishiro.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID-"Spin"</title>
-      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mywx7y7jcs2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3mywx7y7jcs2z</guid>
-      <pubDate>Wed, 28 Oct 2026 14:22:43 GMT</pubDate>
-      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID-&quot;Spin&quot;<br/>youtu.be/Z7I13kDOoQk<br/><br/>Brand new Japanese Metal<br/>@mal-pram.bsky.social @lightgrw.bsky.social @markfreemymind.bsky.social @brucewayne24.bsky.social @jaychasjohnson.bsky.social</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
