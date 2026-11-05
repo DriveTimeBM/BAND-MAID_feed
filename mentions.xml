@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 14:43:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 22:27:51 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID?????????????</title>
+      <link>https://bsky.app/profile/did:plc:j3fnyxpoepxir43hiffjyhl4/post/3mzltl5ucc2lf</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:j3fnyxpoepxir43hiffjyhl4/post/3mzltl5ucc2lf</guid>
+      <pubDate>Thu, 05 Nov 2026 21:43:18 GMT</pubDate>
+      <dc:creator>BONX. (samopei.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID?????????????</p><p><em>BlueSky &middot; samopei.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Started Off The Day With</title>
       <link>https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3mzkydzmtls2i</link>
@@ -899,15 +908,6 @@
       <dc:creator>AniPlaylist (aniplaylist.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Beyblade X ending 6 &quot;SPIN&quot; by BAND-MAID is also out: <br/>anipl.ist/beyblade-x-e...</p><p><em>BlueSky &middot; aniplaylist.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID Releases BEYBLADE X Anime Bey Kingdom Arc Ending Theme Music Video</title>
-      <link>https://bsky.app/profile/did:plc:nxqlg42xbspbbsvzzsu3k2u2/post/3myxa2fdrt52b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:nxqlg42xbspbbsvzzsu3k2u2/post/3myxa2fdrt52b</guid>
-      <pubDate>Wed, 28 Oct 2026 17:00:39 GMT</pubDate>
-      <dc:creator>AniShiro (anishiro.com)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID Releases BEYBLADE X Anime Bey Kingdom Arc Ending Theme Music Video<br/><br/>#anime</p><p><em>BlueSky &middot; anishiro.com</em></p>]]></description>
     </item>
   </channel>
 </rss>
