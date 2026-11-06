@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "MrIrIouQm6o",
+        "Title":  "BAND-MAID – 'ENERGETIC' REACTION | THIS IS SO MUCH FUN!",
+        "Channel":  "Jeanette Music",
+        "ChannelId":  "UCNFfh0zk_jvV4_IPNExuLeA",
+        "Url":  "https://youtu.be/MrIrIouQm6o",
+        "Thumbnail":  "https://i.ytimg.com/vi/MrIrIouQm6o/hqdefault.jpg",
+        "PublishedAt":  "2026-11-06T11:00:07.0000000Z",
+        "DiscoveredAt":  "2026-11-06T11:04:10.2916164Z",
+        "Duration":  "00:16:07",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "i_GUoQnKaW4",
         "Title":  "New BAND-MAID...and more | cdJapan Unboxing",
         "Channel":  "Wandering Souls Webzine",
