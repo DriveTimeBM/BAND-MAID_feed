@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 04:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:19:11 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
+      <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mzmkj3nild2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mzmkj3nild2f</guid>
+      <pubDate>Fri, 06 Nov 2026 04:33:44 GMT</pubDate>
+      <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID CAMEO???????????? JOHNWICK SHOULD HAVE PUT KPP IN THE MOVIE</title>
       <link>https://bsky.app/profile/did:plc:j3fnyxpoepxir43hiffjyhl4/post/3mzlxcrkppsef</link>
@@ -899,15 +908,6 @@
       <dc:creator>ColaPommes250 (colapommes250.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Choose me von BAND-MAID www.shazam.com/track/362980...</p><p><em>BlueSky &middot; colapommes250.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] caramba BAND-MAID fazendo musica pra Beyblade</title>
-      <link>https://bsky.app/profile/did:plc:bzcgh74xhrro5radpf3ksxbx/post/3myxhaqwdrk2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bzcgh74xhrro5radpf3ksxbx/post/3myxhaqwdrk2o</guid>
-      <pubDate>Wed, 28 Oct 2026 19:09:29 GMT</pubDate>
-      <dc:creator>matinhos (bocchi.deichator.ar)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>caramba BAND-MAID fazendo musica pra Beyblade</p><p><em>BlueSky &middot; bocchi.deichator.ar</em></p>]]></description>
     </item>
   </channel>
 </rss>
