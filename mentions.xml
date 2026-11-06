@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 05:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:50:42 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 7 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mzmp3axezx2c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mzmp3axezx2c</guid>
+      <pubDate>Fri, 06 Nov 2026 05:55:28 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>7 years ago<br/>Before Yesterday MV<br/>milestone<br/>surpassed 2 million views<br/>2019/11/6<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mzmkj3nild2f</link>
@@ -899,15 +908,6 @@
       <dc:creator>AeschTunes (aeschtunes.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Song Review: BAND-MAID – “SPIN”<br/><br/>In October 2026, Japanese hard rock band BAND-MAID released “SPIN,” which is being used as the ending theme for the Bey Kingdom Arc of the BEYBLADE X anime. I have to be forthcoming in this review and admit that I only have minimal knowledge of the original Beyblade…</p><p><em>BlueSky &middot; aeschtunes.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Choose me von BAND-MAID www.shazam.com/track/362980...</title>
-      <link>https://bsky.app/profile/did:plc:sj2q3rwq6ivpyirlrjgdzy5k/post/3myxr5ul36k2u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:sj2q3rwq6ivpyirlrjgdzy5k/post/3myxr5ul36k2u</guid>
-      <pubDate>Wed, 28 Oct 2026 22:06:50 GMT</pubDate>
-      <dc:creator>ColaPommes250 (colapommes250.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Choose me von BAND-MAID www.shazam.com/track/362980...</p><p><em>BlueSky &middot; colapommes250.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
