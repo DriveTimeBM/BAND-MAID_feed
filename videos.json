@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "fJad559v2Xk",
+        "Title":  "BAND-MAID streaming the BUDOKAN live & meeting NEK!",
+        "Channel":  "Baka Broadcast",
+        "ChannelId":  "UCsCDhY3EoeFTYAG6JKtrC5A",
+        "Url":  "https://youtu.be/fJad559v2Xk",
+        "Thumbnail":  "https://i.ytimg.com/vi/fJad559v2Xk/hqdefault.jpg",
+        "PublishedAt":  "2026-11-06T12:13:59.0000000Z",
+        "DiscoveredAt":  "2026-11-06T12:35:47.0443638Z",
+        "Duration":  "00:09:47",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MrIrIouQm6o",
         "Title":  "BAND-MAID – 'ENERGETIC' REACTION | THIS IS SO MUCH FUN!",
         "Channel":  "Jeanette Music",
