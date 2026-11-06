@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 22:27:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:48:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID CAMEO???????????? JOHNWICK SHOULD HAVE PUT KPP IN THE MOVIE</title>
+      <link>https://bsky.app/profile/did:plc:j3fnyxpoepxir43hiffjyhl4/post/3mzlxcrkppsef</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:j3fnyxpoepxir43hiffjyhl4/post/3mzlxcrkppsef</guid>
+      <pubDate>Thu, 05 Nov 2026 22:50:12 GMT</pubDate>
+      <dc:creator>BONX. (samopei.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID CAMEO???????????? JOHNWICK SHOULD HAVE PUT KPP IN THE MOVIE</p><p><em>BlueSky &middot; samopei.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID?????????????</title>
       <link>https://bsky.app/profile/did:plc:j3fnyxpoepxir43hiffjyhl4/post/3mzltl5ucc2lf</link>
@@ -899,15 +908,6 @@
       <dc:creator>matinhos (bocchi.deichator.ar)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>caramba BAND-MAID fazendo musica pra Beyblade</p><p><em>BlueSky &middot; bocchi.deichator.ar</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Beyblade X ending 6 "SPIN" by BAND-MAID is also out:</title>
-      <link>https://bsky.app/profile/did:plc:tjdgcknvr3ohuab64ippu67i/post/3myxaevh54e2r</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tjdgcknvr3ohuab64ippu67i/post/3myxaevh54e2r</guid>
-      <pubDate>Wed, 28 Oct 2026 17:06:31 GMT</pubDate>
-      <dc:creator>AniPlaylist (aniplaylist.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Beyblade X ending 6 &quot;SPIN&quot; by BAND-MAID is also out: <br/>anipl.ist/beyblade-x-e...</p><p><em>BlueSky &middot; aniplaylist.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
