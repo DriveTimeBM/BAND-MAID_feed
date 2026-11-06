@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lE8orO3ajh0",
+        "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song REACTION",
+        "Channel":  "Alexa Takes A Look",
+        "ChannelId":  "UCnZtYNtVW9aFc66sxoOQ0RA",
+        "Url":  "https://youtu.be/lE8orO3ajh0",
+        "Thumbnail":  "https://i.ytimg.com/vi/lE8orO3ajh0/hqdefault.jpg",
+        "PublishedAt":  "2026-11-06T14:00:32.0000000Z",
+        "DiscoveredAt":  "2026-11-06T14:07:30.9467242Z",
+        "Duration":  "00:07:58",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YpmLeiwRSrk",
         "Title":  "BAND-MAID Reaction - SPIN (Official Music Video) | BEYBLADE X Ending Theme | First Time Hearing",
         "Channel":  "Robk Reacts",
