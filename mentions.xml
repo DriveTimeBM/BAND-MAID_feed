@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 12:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:12:47 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Just bought the long archive ticket for the live stream of Band Maid's final ...</title>
+      <link>https://bsky.app/profile/did:plc:6wwcbpk2sz2p2ghjsbe745m3/post/3mznyqi4wus2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6wwcbpk2sz2p2ghjsbe745m3/post/3mznyqi4wus2x</guid>
+      <pubDate>Fri, 06 Nov 2026 18:21:05 GMT</pubDate>
+      <dc:creator>Lumpenbourgeoisie (geariod.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Just bought the long archive ticket for the live stream of Band Maid&#39;s final night at Budokan on November 14th.</p><p><em>BlueSky &middot; geariod.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] band-maid might genuinely be my favorite band at the moment, and it's not bec...</title>
       <link>https://bsky.app/profile/did:plc:erltgwsbrwsaaczshwkupsqi/post/3mznanxbcx223</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Choose me<br/>Album: Daydreaming / Choose me<br/>Release: 7/18/2017<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:6/30/2017<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at CHELSEA HOTEL in Tokyo JP on 2014/10...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3myylljqsgz2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3myylljqsgz2v</guid>
-      <pubDate>Thu, 29 Oct 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at CHELSEA HOTEL in Tokyo JP on 2014/10/29. The opening song was Knockin&#39; on your heart.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
