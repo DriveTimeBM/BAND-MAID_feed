@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 09:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:03:11 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzqc7jtena23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzqc7jtena23</guid>
+      <pubDate>Sat, 07 Nov 2026 16:15:53 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID、新曲「BONDS」が2027年1月導入のパチンコ新機種『e義風堂々!! 〜兼続と慶次〜4』に搭載決定</title>
       <link>https://bsky.app/profile/did:plc:wkorj6lswe56faimd4q5xrrj/post/3mzpivmqzss27</link>
@@ -899,15 +908,6 @@
       <dc:creator>Robert Beveridge (xterminalnoise.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I only get 10?<br/><br/>Zeal and Ardor<br/>Merzbow<br/>Band-Maid<br/>Thou<br/>Aube<br/>Skinny Puppy<br/>An Autumn for Crippled Children<br/>TRNA<br/>Legendary Pink Dots<br/>Clutch<br/><br/>Ask tomorrow, some of those will change.</p><p><em>BlueSky &middot; xterminalnoise.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] "Spin", die neue Single von BAND-MAID hat alles, was ein BAND-MAID Song brauc...</title>
-      <link>https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3myz67kyokc2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3ssngbxroksgpyrbxkf6vy34/post/3myz67kyokc2n</guid>
-      <pubDate>Thu, 29 Oct 2026 11:33:05 GMT</pubDate>
-      <dc:creator>Marc on Drums ← ZURÜCK in die ZUKUNFT ← den Backlash beenden! (marcondrums.eurosky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>&quot;Spin&quot;, die neue Single von BAND-MAID hat alles, was ein BAND-MAID Song braucht, au&#223;er Atempausen.<br/><br/>🤘🔥🎵<br/><br/>Eine Empfehlung:<br/>youtu.be/Z7I13kDOoQk?...</p><p><em>BlueSky &middot; marcondrums.eurosky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
