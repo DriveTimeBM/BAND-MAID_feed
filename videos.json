@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZJAETUvTLaE",
+        "Title":  "This is BAND-MAID's new ENDING SONG for BEYBLADE X! - Animator reacts to \"Spin\" ED Version",
+        "Channel":  "Kaeppster's Corner",
+        "ChannelId":  "UCbsXWBzw0jiatsxbGH3ycDg",
+        "Url":  "https://youtu.be/ZJAETUvTLaE",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZJAETUvTLaE/hqdefault.jpg",
+        "PublishedAt":  "2026-11-07T08:00:17.0000000Z",
+        "DiscoveredAt":  "2026-11-07T08:47:13.4334705Z",
+        "Duration":  "00:07:23",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "YmMCcX65oCw",
         "Title":  "BAND-MAID WORLD TOUR 2026 愛知COMTEC PORTBASEお給仕レポート(Live Report)",
         "Channel":  "いちお盟主のつぶやき",
