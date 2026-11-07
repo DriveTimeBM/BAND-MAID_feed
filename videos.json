@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YcDAJyr2OfM",
+        "Title":  "🇯🇵 BAND-MAID –「ANEMONE」| アメリカ人ドラマー初見リアクション",
+        "Channel":  "Rea Reacts JP",
+        "ChannelId":  "UCJw7aqL3uWdG3lO7cmr8jcw",
+        "Url":  "https://youtu.be/YcDAJyr2OfM",
+        "Thumbnail":  "https://i.ytimg.com/vi/YcDAJyr2OfM/hqdefault.jpg",
+        "PublishedAt":  "2026-11-07T10:00:30.0000000Z",
+        "DiscoveredAt":  "2026-11-07T11:20:28.2482280Z",
+        "Duration":  "00:11:04",
+        "ViewsAtDiscovery":  235,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "uU2LLveyCMg",
         "Title":  "THOSE BACKING VOCALS!! | BAND-MAID “Toi et Moi” Reaction",
         "Channel":  "Riffs and Reactions With Berry",
