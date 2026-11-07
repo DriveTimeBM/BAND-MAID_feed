@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "co6lcbHpT54",
+        "Title":  "Temu BABYMETAL strikes again, BAND-MAID kills it with SPIN",
+        "Channel":  "The Solid Sound Podcast",
+        "ChannelId":  "UCcCkzg1QLY5nSt0GX1Mkq4w",
+        "Url":  "https://youtu.be/co6lcbHpT54",
+        "Thumbnail":  "https://i.ytimg.com/vi/co6lcbHpT54/hqdefault.jpg",
+        "PublishedAt":  "2026-11-07T00:22:05.0000000Z",
+        "DiscoveredAt":  "2026-11-07T01:20:52.3508554Z",
+        "Duration":  "00:54:32",
+        "ViewsAtDiscovery":  65,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "6usuy4rCCNk",
         "Title":  "BAND-MAID - What is justice? Reaction!",
         "Channel":  "The Overreacters",
