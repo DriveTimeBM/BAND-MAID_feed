@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YmMCcX65oCw",
+        "Title":  "BAND-MAID WORLD TOUR 2026 愛知COMTEC PORTBASEお給仕レポート(Live Report)",
+        "Channel":  "いちお盟主のつぶやき",
+        "ChannelId":  "UCcCR42AFcV8WlJWQFmOb_xA",
+        "Url":  "https://youtu.be/YmMCcX65oCw",
+        "Thumbnail":  "https://i.ytimg.com/vi/YmMCcX65oCw/hqdefault.jpg",
+        "PublishedAt":  "2026-11-07T01:40:39.0000000Z",
+        "DiscoveredAt":  "2026-11-07T01:51:29.1717517Z",
+        "Duration":  "01:06:44",
+        "ViewsAtDiscovery":  16,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "co6lcbHpT54",
         "Title":  "Temu BABYMETAL strikes again, BAND-MAID kills it with SPIN",
         "Channel":  "The Solid Sound Podcast",
