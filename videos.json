@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "wFluhzJg61U",
+        "Title":  "Band Maid - Spin Reaction",
+        "Channel":  "We Watched That 2",
+        "ChannelId":  "UCmDpLB_c3Dt9hBTQ2DUhQ5w",
+        "Url":  "https://youtu.be/wFluhzJg61U",
+        "Thumbnail":  "https://i.ytimg.com/vi/wFluhzJg61U/hqdefault.jpg",
+        "PublishedAt":  "2026-11-07T16:00:30.0000000Z",
+        "DiscoveredAt":  "2026-11-07T16:01:44.7122524Z",
+        "Duration":  "00:06:54",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "i0rL3D6OhoY",
         "Title":  "BAND-MAID – FORWARD LIVE… THIS IS PURE ROCK PERFECTION! 😱🔥",
         "Channel":  "DORCAS' REACT",
