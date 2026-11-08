@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LxANGWhXu8Y",
+        "Title":  "🔴 LIVE | Male VTuber Reacts to BAND-MAID Part.3! 🎸 Anime Songs, MVs & Live Performances",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/LxANGWhXu8Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/LxANGWhXu8Y/hqdefault.jpg",
+        "PublishedAt":  "2026-11-08T18:59:36.0000000Z",
+        "DiscoveredAt":  "2026-11-08T19:17:04.0315695Z",
+        "Duration":  "00:09:05",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "M0HrglTJtPg",
         "Title":  "🔴 LIVE | Male VTuber Reacts to BAND-MAID Part.2! 🎸 Anime Songs, MVs & Live Performances",
         "Channel":  "LunariaTheIdol",
