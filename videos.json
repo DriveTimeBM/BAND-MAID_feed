@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bgn5T04uilE",
+        "Title":  "【BAND-MAID】なぜ「Warning!」はBPM195の爆速でも音が濁らないのか？「第2のボーカル」KANAMIと変幻自在の3パートを全楽器実演で徹底解剖！",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/bgn5T04uilE",
+        "Thumbnail":  "https://i.ytimg.com/vi/bgn5T04uilE/hqdefault.jpg",
+        "PublishedAt":  "2026-11-08T12:04:09.0000000Z",
+        "DiscoveredAt":  "2026-11-08T12:18:11.1185965Z",
+        "Duration":  "00:10:11",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hVFE7r4cmK8",
         "Title":  "BAND-MAID-Thrill(Short Bass Cover)",
         "Channel":  "nẻo",
