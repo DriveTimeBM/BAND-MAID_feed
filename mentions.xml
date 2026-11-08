@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 17:03:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 01:10:23 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] #MetalSky</title>
+      <link>https://bsky.app/profile/did:plc:2agy2fppx756epioqoikwyzp/post/3mzqzjyoahs2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2agy2fppx756epioqoikwyzp/post/3mzqzjyoahs2w</guid>
+      <pubDate>Sat, 07 Nov 2026 23:13:20 GMT</pubDate>
+      <dc:creator>bigxic36.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>#MetalSky</p><p><em>BlueSky &middot; bigxic36.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzqc7jtena23</link>
@@ -899,15 +908,6 @@
       <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I only get 10?</title>
-      <link>https://bsky.app/profile/did:plc:qik3cpc27f2sh7pjm6qo4ohe/post/3myzhh4df3s2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qik3cpc27f2sh7pjm6qo4ohe/post/3myzhh4df3s2y</guid>
-      <pubDate>Thu, 29 Oct 2026 14:18:22 GMT</pubDate>
-      <dc:creator>Robert Beveridge (xterminalnoise.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I only get 10?<br/><br/>Zeal and Ardor<br/>Merzbow<br/>Band-Maid<br/>Thou<br/>Aube<br/>Skinny Puppy<br/>An Autumn for Crippled Children<br/>TRNA<br/>Legendary Pink Dots<br/>Clutch<br/><br/>Ask tomorrow, some of those will change.</p><p><em>BlueSky &middot; xterminalnoise.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
