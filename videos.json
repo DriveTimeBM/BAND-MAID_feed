@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "j-D7vde90-4",
+        "Title":  "BAND-MAID / SPIN  (Live) @Ohrenje 🌸Reaction🌸",
+        "Channel":  "Faro & Sofi",
+        "ChannelId":  "UCLQzdUgHF9l_eybT3_Wo22A",
+        "Url":  "https://youtu.be/j-D7vde90-4",
+        "Thumbnail":  "https://i.ytimg.com/vi/j-D7vde90-4/hqdefault.jpg",
+        "PublishedAt":  "2026-11-08T18:02:00.0000000Z",
+        "DiscoveredAt":  "2026-11-08T18:15:41.8828114Z",
+        "Duration":  "00:08:57",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "0DZhyScZVhM",
         "Title":  "LIVE CHAT: Music news / BAND-MAID meet NEK! / New LONESOME_BLUE / Indie bands hit BIG / Q&A + more..",
         "Channel":  "Baka Broadcast",
