@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CTKT7Qxqles",
+        "Title":  "This new BAND-MAID Music Video is PACKED with EASTER EGGS EVERYWHERE! - Animator react to \"Spin\"",
+        "Channel":  "Kaeppster's Corner",
+        "ChannelId":  "UCbsXWBzw0jiatsxbGH3ycDg",
+        "Url":  "https://youtu.be/CTKT7Qxqles",
+        "Thumbnail":  "https://i.ytimg.com/vi/CTKT7Qxqles/hqdefault.jpg",
+        "PublishedAt":  "2026-11-08T08:00:34.0000000Z",
+        "DiscoveredAt":  "2026-11-08T08:46:53.8016316Z",
+        "Duration":  "00:10:50",
+        "ViewsAtDiscovery":  13,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Xkz55wUkKuA",
+        "Title":  "Band Maid DOMINATION The Wiltern",
+        "Channel":  "Music by the 90's Rock band Joshua's Shadow.",
+        "ChannelId":  "UCyNhQzvV0m1F6UDcDMvSzyw",
+        "Url":  "https://youtu.be/Xkz55wUkKuA",
+        "Thumbnail":  "https://i.ytimg.com/vi/Xkz55wUkKuA/hqdefault.jpg",
+        "PublishedAt":  "2026-11-08T08:00:07.0000000Z",
+        "DiscoveredAt":  "2026-11-08T08:46:52.0985874Z",
+        "Duration":  "00:03:55",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lh6nSkBv3eo",
         "Title":  "Band-Maid - After Life (drums backing track)",
         "Channel":  "Drum Solo Tracks",
