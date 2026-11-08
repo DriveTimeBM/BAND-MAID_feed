@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SJXljzD3DAM",
+        "Title":  "BAND-MAID / US Tour Talk with Ryan Mear & NittPicc",
+        "Channel":  "Ohrenje",
+        "ChannelId":  "UCuuctf2ICSjbkuLHv87Uc8A",
+        "Url":  "https://youtu.be/SJXljzD3DAM",
+        "Thumbnail":  "https://i.ytimg.com/vi/SJXljzD3DAM/hqdefault.jpg",
+        "PublishedAt":  "2026-11-08T22:00:05.0000000Z",
+        "DiscoveredAt":  "2026-11-08T22:21:17.0815140Z",
+        "Duration":  "01:06:35",
+        "ViewsAtDiscovery":  61,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "um5umAtMnGc",
         "Title":  "Band-Maid Misa & Kanami Jam Atlanta 2026 #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
