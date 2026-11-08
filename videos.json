@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "qlUZnDWzmqg",
+        "Title":  "BAND-MAID's Miku Has a Softer Side?! | cluppo – With you | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/qlUZnDWzmqg",
+        "Thumbnail":  "https://i.ytimg.com/vi/qlUZnDWzmqg/hqdefault.jpg",
+        "PublishedAt":  "2026-11-08T20:33:22.0000000Z",
+        "DiscoveredAt":  "2026-11-08T20:45:49.9094218Z",
+        "Duration":  "00:06:22",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "BlJUtDF7Eig",
         "Title":  "VTUBER REACTS | BAND-MAID – Unleash!!!!! (Official Music Video) | This Hit Hard",
         "Channel":  "LunariaTheIdol",
