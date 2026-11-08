@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7DEnpgIV0lI",
+        "Title":  "BAND-MAID – Shambles | They Set the Music Video on FIRE?! 🔥 | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/7DEnpgIV0lI",
+        "Thumbnail":  "https://i.ytimg.com/vi/7DEnpgIV0lI/hqdefault.jpg",
+        "PublishedAt":  "2026-11-08T19:46:20.0000000Z",
+        "DiscoveredAt":  "2026-11-08T19:47:43.0150545Z",
+        "Duration":  "00:03:59",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "tC3NdBaKwuk",
+        "Title":  "BAND-MAID – Different | This Anime Opening Does NOT Let Up! 🎸 | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/tC3NdBaKwuk",
+        "Thumbnail":  "https://i.ytimg.com/vi/tC3NdBaKwuk/hqdefault.jpg",
+        "PublishedAt":  "2026-11-08T19:30:11.0000000Z",
+        "DiscoveredAt":  "2026-11-08T19:47:40.8139557Z",
+        "Duration":  "00:05:18",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "LxANGWhXu8Y",
         "Title":  "🔴 LIVE | Male VTuber Reacts to BAND-MAID Part.3! 🎸 Anime Songs, MVs & Live Performances",
         "Channel":  "LunariaTheIdol",
