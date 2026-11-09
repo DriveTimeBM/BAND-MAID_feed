@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "I6_dNxhtGVU",
+        "Title":  "BAND-MAID – DOMINATION (LIVE) 🤯 ARE THEY THE NEW HARD ROCK GOAT?! | BARISTA REACTS",
+        "Channel":  "Black Art Coffee",
+        "ChannelId":  "UCT5UGhD36BW9X7vpRZlWERw",
+        "Url":  "https://youtu.be/I6_dNxhtGVU",
+        "Thumbnail":  "https://i.ytimg.com/vi/I6_dNxhtGVU/hqdefault.jpg",
+        "PublishedAt":  "2026-11-09T09:29:28.0000000Z",
+        "DiscoveredAt":  "2026-11-09T10:19:42.9582677Z",
+        "Duration":  "00:11:53",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "foikT2HtaBc",
         "Title":  "Band Maid from Japan  #guitarpodcast",
         "Channel":  "Podcast Metal From Middle- Earth 🎙 ",
