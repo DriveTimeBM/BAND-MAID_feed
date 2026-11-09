@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 01:55:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 04:12:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND MAIDいいよね</title>
+      <link>https://bsky.app/profile/did:plc:2kit2m6ozi6sweqxtpylmw44/post/3mztszewdjk25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2kit2m6ozi6sweqxtpylmw44/post/3mztszewdjk25</guid>
+      <pubDate>Mon, 09 Nov 2026 01:54:39 GMT</pubDate>
+      <dc:creator>C.room(くろーむ) (croomart88.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND MAIDいいよね</p><p><em>BlueSky &middot; croomart88.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 今日、BAND-MAIDとかのギター掻き鳴らしサブカルチャーロックしか受け付けない耳になってる</title>
+      <link>https://bsky.app/profile/did:plc:wcmwhdbci7kulyxtcur64yy6/post/3mztssrnbz22h</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wcmwhdbci7kulyxtcur64yy6/post/3mztssrnbz22h</guid>
+      <pubDate>Mon, 09 Nov 2026 01:50:58 GMT</pubDate>
+      <dc:creator>ひさめ🪅 (hisame404.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>今日、BAND-MAIDとかのギター掻き鳴らしサブカルチャーロックしか受け付けない耳になってる</p><p><em>BlueSky &middot; hisame404.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Ruin a band by adding a famous person:</title>
       <link>https://bsky.app/profile/did:plc:xrhtyqj7nsrqfp4vwtgeppm2/post/3mztp3mjhak2h</link>
@@ -890,24 +908,6 @@
       <dc:creator>Keith Sowerby (jamesksowerby.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>www.youtube.com/watch?v=Z7I1... Your Friday Brekkie Tune comes from Band-Maid</p><p><em>BlueSky &middot; jamesksowerby.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Youth</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mz34gltzwg25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mz34gltzwg25</guid>
-      <pubDate>Fri, 30 Oct 2026 06:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Youth<br/>Album: Unseen World<br/>Release: 1/19/2021<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2021<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at morph in Tokyo JP on 2014/10/30. The...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mz342hshtk2t</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mz342hshtk2t</guid>
-      <pubDate>Fri, 30 Oct 2026 05:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at morph in Tokyo JP on 2014/10/30. The opening song was Bye My Tears.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
