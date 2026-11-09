@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "JK2iTgk-o_g",
+        "Title":  "BAND-MAID’s Live Power Is Unreal | VTuber Reacts to DOMINATION (Official Live Video)",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/JK2iTgk-o_g",
+        "Thumbnail":  "https://i.ytimg.com/vi/JK2iTgk-o_g/hqdefault.jpg",
+        "PublishedAt":  "2026-11-09T03:46:45.0000000Z",
+        "DiscoveredAt":  "2026-11-09T04:12:48.0025321Z",
+        "Duration":  "00:07:37",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "X7mLk_FggTs",
         "Title":  "Band-Maid - What is justice? (vocals backing track)",
         "Channel":  "Vocal Minus Tracks",
