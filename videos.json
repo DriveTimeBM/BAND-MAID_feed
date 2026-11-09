@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "foikT2HtaBc",
+        "Title":  "Band Maid from Japan  #guitarpodcast",
+        "Channel":  "Podcast Metal From Middle- Earth 🎙 ",
+        "ChannelId":  "UCdoEPYsQGdxtH1EFv2cKbEQ",
+        "Url":  "https://youtu.be/foikT2HtaBc",
+        "Thumbnail":  "https://i.ytimg.com/vi/foikT2HtaBc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-09T04:53:21.0000000Z",
+        "DiscoveredAt":  "2026-11-09T05:13:58.5917399Z",
+        "Duration":  "00:01:11",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "JK2iTgk-o_g",
         "Title":  "BAND-MAID’s Live Power Is Unreal | VTuber Reacts to DOMINATION (Official Live Video)",
         "Channel":  "LunariaTheIdol",
