@@ -7,8 +7,53 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 04:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:45:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Song: Rock in me</title>
+      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzueh4fuy22u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzueh4fuy22u</guid>
+      <pubDate>Mon, 09 Nov 2026 07:06:33 GMT</pubDate>
+      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p><br/>Song: Rock in me<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID TIENOWA<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID TIENOWA<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at Yotsuya LOTUS in Tokyo JP on 2014/11...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue337hhc2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue337hhc2z</guid>
+      <pubDate>Mon, 09 Nov 2026 06:59:49 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at Yotsuya LOTUS in Tokyo JP on 2014/11/9. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 9 years ago Band-Maid played 20 songs at Backstage Club in Munich DE on 2017/...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2zr4462o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2zr4462o</guid>
+      <pubDate>Mon, 09 Nov 2026 06:59:47 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at Backstage Club in Munich DE on 2017/11/9. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 8 years ago Band-Maid played 20 songs at Lodge Room in Los Angeles US on 2018...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2y7vug2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2y7vug2g</guid>
+      <pubDate>Mon, 09 Nov 2026 06:59:46 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>8 years ago Band-Maid played 20 songs at Lodge Room in Los Angeles US on 2018/11/9. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 7 years ago Band-Maid played 23 songs at Rensa in Sendai JP on 2019/11/9. The...</title>
+      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2x23tc2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2x23tc2e</guid>
+      <pubDate>Mon, 09 Nov 2026 06:59:45 GMT</pubDate>
+      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>7 years ago Band-Maid played 23 songs at Rensa in Sendai JP on 2019/11/9. The opening song was endless Story.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND MAIDいいよね</title>
       <link>https://bsky.app/profile/did:plc:2kit2m6ozi6sweqxtpylmw44/post/3mztszewdjk25</link>
@@ -863,51 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID with your host, Dimensi&#243;n Arkadia! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mz47fgxefr2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mz47fgxefr2q</guid>
-      <pubDate>Fri, 30 Oct 2026 16:32:15 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] www.youtube.com/watch?v=zUh6...</title>
-      <link>https://bsky.app/profile/did:plc:xhcm4c6xzdfpwmkmfwort6mx/post/3mz3unl4kns2m</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xhcm4c6xzdfpwmkmfwort6mx/post/3mz3unl4kns2m</guid>
-      <pubDate>Fri, 30 Oct 2026 13:19:57 GMT</pubDate>
-      <dc:creator>Dj ph (dj-ph.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>www.youtube.com/watch?v=zUh6...<br/><br/>Enfin le MV pour Caramel Candid, le groupe que j&#39;attendais pas et &#224; qui tu dis enfin!  apr&#232;s le premier morceau.<br/><br/>Est-ce que j&#39;ai cliqu&#233; la premi&#232;re fois &#224; cause du carr&#233; de la chanteuse ?<br/><br/>Peut-&#234;tre. <br/><br/>Mais je reste pour les m&#234;mes raisons que Band Maid</p><p><em>BlueSky &middot; dj-ph.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID lançou o clipe de SPIN, tema de encerramento de Beyblade X, que já ...</title>
-      <link>https://bsky.app/profile/did:plc:2s64r7xjz53nlrwu3b3walc2/post/3mz3tnwuax22i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2s64r7xjz53nlrwu3b3walc2/post/3mz3tnwuax22i</guid>
-      <pubDate>Fri, 30 Oct 2026 13:02:15 GMT</pubDate>
-      <dc:creator>WB Animes (wbanimes.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID lan&#231;ou o clipe de SPIN, tema de encerramento de Beyblade X, que j&#225; abriu um novo arco. Trilha que pega forte e fecha bem a temporada. #anime #animenews</p><p><em>BlueSky &middot; wbanimes.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] While, obviously, I never expected them to be, it's criminal that neither of ...</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mz3hhg4lss22</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mz3hhg4lss22</guid>
-      <pubDate>Fri, 30 Oct 2026 09:23:52 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>While, obviously, I never expected them to be, it&#39;s criminal that neither of Mindset or I Wish I by Gacharic Spin, nor ANY Band Maid song (I&#39;d go with Forbidden Tale, but Puzzle; Bubble; Alone; Sayonakidori or Hate? would all work too) is on this list.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] www.youtube.com/watch?v=Z7I1... Your Friday Brekkie Tune comes from Band-Maid</title>
-      <link>https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mz35mwahpc2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkao5wsk63kz3gi6kv7m67hb/post/3mz35mwahpc2y</guid>
-      <pubDate>Fri, 30 Oct 2026 06:27:59 GMT</pubDate>
-      <dc:creator>Keith Sowerby (jamesksowerby.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>www.youtube.com/watch?v=Z7I1... Your Friday Brekkie Tune comes from Band-Maid</p><p><em>BlueSky &middot; jamesksowerby.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
