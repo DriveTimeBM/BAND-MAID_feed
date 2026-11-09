@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "dJB_8ftEk6o",
+        "Title":  "BAND-MAID – Thrill | First-Time Reaction",
+        "Channel":  "Big Steve's Musings",
+        "ChannelId":  "UCoowc8JltgYMatVt1ui_K4Q",
+        "Url":  "https://youtu.be/dJB_8ftEk6o",
+        "Thumbnail":  "https://i.ytimg.com/vi/dJB_8ftEk6o/hqdefault.jpg",
+        "PublishedAt":  "2026-11-09T00:00:08.0000000Z",
+        "DiscoveredAt":  "2026-11-09T00:23:32.9700930Z",
+        "Duration":  "00:10:02",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SJXljzD3DAM",
         "Title":  "BAND-MAID / US Tour Talk with Ryan Mear & NittPicc",
         "Channel":  "Ohrenje",
