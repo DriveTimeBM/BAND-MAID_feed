@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 08 Nov 2026 23:52:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:23:42 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] so when are they gonna get BAND-MAID to make an arrangement so we can have a ...</title>
+      <link>https://bsky.app/profile/did:plc:kgki22cr3ws3xqegadeirzs5/post/3mztl6fxoe224</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kgki22cr3ws3xqegadeirzs5/post/3mztl6fxoe224</guid>
+      <pubDate>Sun, 08 Nov 2026 23:34:18 GMT</pubDate>
+      <dc:creator>Freesiappe 🎀 (sunfaded.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>so when are they gonna get BAND-MAID to make an arrangement so we can have a Tsubame song that sounds like this <br/>youtu.be/JBgNx7OXtao?...</p><p><em>BlueSky &middot; sunfaded.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3mztj55vxoi2f</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played 12 songs at Baluardo San Donato in Lucca IT on 2016/10/30. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago Band-Maid played 16 songs at American Dream in East Rutherford US...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mz342fubje23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mz342fubje23</guid>
-      <pubDate>Fri, 30 Oct 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago Band-Maid played 16 songs at American Dream in East Rutherford US on 2022/10/30. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
