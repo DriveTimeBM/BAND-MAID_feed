@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jAoMZV8DdM0",
+        "Title":  "BAND-MAID WORLD TOUR 2026 - Osaka Recap Video",
+        "Channel":  "Nin puzzle",
+        "ChannelId":  "UCCZ3DnDT0dT1-5AuoEGN7GQ",
+        "Url":  "https://youtu.be/jAoMZV8DdM0",
+        "Thumbnail":  "https://i.ytimg.com/vi/jAoMZV8DdM0/hqdefault.jpg",
+        "PublishedAt":  "2026-11-09T15:47:45.0000000Z",
+        "DiscoveredAt":  "2026-11-09T15:53:11.5186588Z",
+        "Duration":  "00:01:19",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "yshPzxuuolI",
         "Title":  "BAND MAID MONDAY! NEW Track! \"Spring Ephemeral\" Live Reaction. #BandMaid",
         "Channel":  "WavesAcrossTheWater",
