@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ESRI5oaTh4E",
+        "Title":  "7th Japan Trip: My 21st Band-Maid Okyuji:: Part 2::: Filmed on 11/3/26",
+        "Channel":  "MorbidGWL",
+        "ChannelId":  "UCwrBgkhT6l5ks9LySRe6XTg",
+        "Url":  "https://youtu.be/ESRI5oaTh4E",
+        "Thumbnail":  "https://i.ytimg.com/vi/ESRI5oaTh4E/hqdefault.jpg",
+        "PublishedAt":  "2026-11-10T00:28:42.0000000Z",
+        "DiscoveredAt":  "2026-11-10T00:33:53.7482661Z",
+        "Duration":  "00:17:18",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XiThUT6nGEI",
         "Title":  "Band-Maid TAKING over Budokan",
         "Channel":  "The Solid Sound Podcast",
