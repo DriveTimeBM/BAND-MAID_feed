@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 03:08:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:39:15 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band Maid at Tokyo FM Part 2 (English subtitles)</title>
+      <link>https://youtu.be/d1YLm6dYFyY</link>
+      <guid isPermaLink="false">yt:video:d1YLm6dYFyY</guid>
+      <pubDate>Tue, 10 Nov 2026 03:11:33 GMT</pubDate>
+      <dc:creator>jmnassar</dc:creator>
+      <category>jmnassar</category>
+      <description><![CDATA[<p><a href="https://youtu.be/d1YLm6dYFyY"><img src="https://i.ytimg.com/vi/d1YLm6dYFyY/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: jmnassar<br/>Duration: 00:08:07<br/>Views at discovery: 1</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/d1YLm6dYFyY/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band Maid at Tokyo FM Part 1 (English subtitles)</title>
       <link>https://youtu.be/o1z4XpxX3NQ</link>
