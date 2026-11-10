@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "XiThUT6nGEI",
+        "Title":  "Band-Maid TAKING over Budokan",
+        "Channel":  "The Solid Sound Podcast",
+        "ChannelId":  "UCcCkzg1QLY5nSt0GX1Mkq4w",
+        "Url":  "https://youtu.be/XiThUT6nGEI",
+        "Thumbnail":  "https://i.ytimg.com/vi/XiThUT6nGEI/hqdefault.jpg",
+        "PublishedAt":  "2026-11-09T23:45:01.0000000Z",
+        "DiscoveredAt":  "2026-11-10T00:03:08.7047711Z",
+        "Duration":  "00:02:20",
+        "ViewsAtDiscovery":  19,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "bR6bUUA1lGo",
+        "Title":  "#BAND-MAID, DOMINATION LIVE AT THE WILTERN 2026 REACTION! 🤘🔥 I WAS THERE! MY OWN CONCERT FOOTAGE! 🇺🇸",
+        "Channel":  "RJS_Reactions",
+        "ChannelId":  "UCfOmuwwHkq0wbruIT0FdLiQ",
+        "Url":  "https://youtu.be/bR6bUUA1lGo",
+        "Thumbnail":  "https://i.ytimg.com/vi/bR6bUUA1lGo/hqdefault.jpg",
+        "PublishedAt":  "2026-11-09T23:44:13.0000000Z",
+        "DiscoveredAt":  "2026-11-10T00:03:06.2161173Z",
+        "Duration":  "00:07:44",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rvB0wR7DtP8",
         "Title":  "OLDEST & NEWEST BAND MAID!! - Maid in Japan & Spin Band Maid Albums Music Reactions 257 (Portrait)",
         "Channel":  "TheLuigiReactor",
