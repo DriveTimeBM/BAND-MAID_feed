@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "6BQ_QzqUThQ",
+        "Title":  "First Time Reaction - Band-Maid - Magie | Official Live Video",
+        "Channel":  "Tristan Reacts",
+        "ChannelId":  "UCucnXR4qmpfnEsPUMSnE_Gw",
+        "Url":  "https://youtu.be/6BQ_QzqUThQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/6BQ_QzqUThQ/hqdefault.jpg",
+        "PublishedAt":  "2026-11-10T12:00:24.0000000Z",
+        "DiscoveredAt":  "2026-11-10T12:24:19.3513680Z",
+        "Duration":  "00:13:44",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3jhEmdVy21g",
         "Title":  "Band-Maid",
         "Channel":  "Frankie Casper",
