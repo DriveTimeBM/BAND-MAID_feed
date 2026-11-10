@@ -7,8 +7,18 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 11:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:53:26 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Band-Maid</title>
+      <link>https://youtu.be/3jhEmdVy21g</link>
+      <guid isPermaLink="false">yt:video:3jhEmdVy21g</guid>
+      <pubDate>Tue, 10 Nov 2026 11:50:50 GMT</pubDate>
+      <dc:creator>Frankie Casper</dc:creator>
+      <category>Frankie Casper</category>
+      <description><![CDATA[<p><a href="https://youtu.be/3jhEmdVy21g"><img src="https://i.ytimg.com/vi/3jhEmdVy21g/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Frankie Casper<br/>Duration: 00:11:06<br/>Views at discovery: 1</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/3jhEmdVy21g/hqdefault.jpg" />
+    </item>
     <item>
       <title>Dice by Band Maid | Reaction!</title>
       <link>https://youtu.be/FeEvd3Yl8B8</link>

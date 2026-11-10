@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3jhEmdVy21g",
+        "Title":  "Band-Maid",
+        "Channel":  "Frankie Casper",
+        "ChannelId":  "UCdUOlAX69uWyEqh-mVz1zEg",
+        "Url":  "https://youtu.be/3jhEmdVy21g",
+        "Thumbnail":  "https://i.ytimg.com/vi/3jhEmdVy21g/hqdefault.jpg",
+        "PublishedAt":  "2026-11-10T11:50:50.0000000Z",
+        "DiscoveredAt":  "2026-11-10T11:53:24.2780561Z",
+        "Duration":  "00:11:06",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "FeEvd3Yl8B8",
         "Title":  "Dice by Band Maid | Reaction!",
         "Channel":  "Cheshires_top_Cat",
