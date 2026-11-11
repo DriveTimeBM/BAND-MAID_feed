@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "SWmy1I1o5ck",
+        "Title":  "BAND-MAID – Choose me | SAIKI AL PIANO 🎹 ¡UNA JOYA DEL J-ROCK! | REACTION",
+        "Channel":  "ROCK AND REACTIONS II (canal secundario)",
+        "ChannelId":  "UC60qmAmvP-GG7pkNGRuCP6w",
+        "Url":  "https://youtu.be/SWmy1I1o5ck",
+        "Thumbnail":  "https://i.ytimg.com/vi/SWmy1I1o5ck/hqdefault.jpg",
+        "PublishedAt":  "2026-11-11T05:00:39.0000000Z",
+        "DiscoveredAt":  "2026-11-11T05:07:18.7867433Z",
+        "Duration":  "00:21:02",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "O_mEY7lFK-Y",
+        "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song - Dave M",
+        "Channel":  "Dave M Channel",
+        "ChannelId":  "UCMNI9VvZu0zy4xICGjBJAGQ",
+        "Url":  "https://youtu.be/O_mEY7lFK-Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/O_mEY7lFK-Y/hqdefault.jpg",
+        "PublishedAt":  "2026-11-11T05:00:03.0000000Z",
+        "DiscoveredAt":  "2026-11-11T05:07:04.1061384Z",
+        "Duration":  "00:14:45",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zeq_QsIcC44",
         "Title":  "BAND-MAID WHEEL OF JACKPOTS | EP. 9",
         "Channel":  "Another Perspective",
