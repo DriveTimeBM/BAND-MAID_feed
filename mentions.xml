@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 07:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:29:16 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] “Rock in me” is such a fun title—very fitting for BAND-MAID’s high-energy wor...</title>
+      <link>https://bsky.app/profile/did:plc:oxgecvyu2upwscfzldzcfnfu/post/3mzxxsvb3aa2q</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:oxgecvyu2upwscfzldzcfnfu/post/3mzxxsvb3aa2q</guid>
+      <pubDate>Tue, 10 Nov 2026 17:31:09 GMT</pubDate>
+      <dc:creator>Deny Ally (denyally.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>“Rock in me” is such a fun title—very fitting for BAND-MAID’s high-energy world domination era.</p><p><em>BlueSky &middot; denyally.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: CROSS</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzwuw4uka622</link>
@@ -899,15 +908,6 @@
       <dc:creator>Ballsack TV Live Feed (feed.ballsack.tv)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID - スリル (Thrill)<br/>MV: 浜田 大士 (Daishi Hamada)<br/>Now streaming on ballsack.tv<br/>#music #ballsacktv #ballsackradio</p><p><em>BlueSky &middot; feed.ballsack.tv</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] The Band-Maid shirt really didn't need to become an excuse for that kind of b...</title>
-      <link>https://bsky.app/profile/did:plc:oxgecvyu2upwscfzldzcfnfu/post/3mz6w5lwygz2a</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:oxgecvyu2upwscfzldzcfnfu/post/3mz6w5lwygz2a</guid>
-      <pubDate>Sat, 31 Oct 2026 18:24:47 GMT</pubDate>
-      <dc:creator>Deny Ally (denyally.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>The Band-Maid shirt really didn&#39;t need to become an excuse for that kind of behavior. Gross.</p><p><em>BlueSky &middot; denyally.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
