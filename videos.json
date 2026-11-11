@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2pzVlE2Z18o",
+        "Title":  "BAND-MAID「SPIN」 初期の声と今の声が大きく変わった事に関して熱く語ります【Room3の見れるラジオ】",
+        "Channel":  "Room3 大阪のお喋り男女バンド",
+        "ChannelId":  "UCQswXB_brSgI_YDiOhzW5VQ",
+        "Url":  "https://youtu.be/2pzVlE2Z18o",
+        "Thumbnail":  "https://i.ytimg.com/vi/2pzVlE2Z18o/hqdefault.jpg",
+        "PublishedAt":  "2026-11-11T08:00:07.0000000Z",
+        "DiscoveredAt":  "2026-11-11T08:49:02.7181760Z",
+        "Duration":  "00:22:38",
+        "ViewsAtDiscovery":  89,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ElAJqtgQfek",
+        "Title":  "Band Maid HATE? The Wiltern",
+        "Channel":  "Music by the 90's Rock band Joshua's Shadow.",
+        "ChannelId":  "UCyNhQzvV0m1F6UDcDMvSzyw",
+        "Url":  "https://youtu.be/ElAJqtgQfek",
+        "Thumbnail":  "https://i.ytimg.com/vi/ElAJqtgQfek/hqdefault.jpg",
+        "PublishedAt":  "2026-11-11T08:00:06.0000000Z",
+        "DiscoveredAt":  "2026-11-11T08:48:44.8874417Z",
+        "Duration":  "00:04:45",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "SWmy1I1o5ck",
         "Title":  "BAND-MAID – Choose me | SAIKI AL PIANO 🎹 ¡UNA JOYA DEL J-ROCK! | REACTION",
         "Channel":  "ROCK AND REACTIONS II (canal secundario)",
