@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "TbuVsQEmJ38",
+        "Title":  "[Clone Hero] BAND-MAID - Bubble (7 Stars, 99%, #2 Score)",
+        "Channel":  "SQUNT67",
+        "ChannelId":  "UC2iRfahqSvXY4NZA8cUyu3w",
+        "Url":  "https://youtu.be/TbuVsQEmJ38",
+        "Thumbnail":  "https://i.ytimg.com/vi/TbuVsQEmJ38/hqdefault.jpg",
+        "PublishedAt":  "2026-11-11T15:08:23.0000000Z",
+        "DiscoveredAt":  "2026-11-11T15:47:29.9454573Z",
+        "Duration":  "00:03:49",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "rmDCmTylKHE",
+        "Title":  "BAND-MAID - MATCHLESS GUM (LIVE) | ¡QUÉ POTENCIA! 😱| Japanese Rock Reaction",
+        "Channel":  "Rock and Reactions",
+        "ChannelId":  "UCqAy-EERjiQYNBVIOj3MY7A",
+        "Url":  "https://youtu.be/rmDCmTylKHE",
+        "Thumbnail":  "https://i.ytimg.com/vi/rmDCmTylKHE/hqdefault.jpg",
+        "PublishedAt":  "2026-11-11T13:00:20.0000000Z",
+        "DiscoveredAt":  "2026-11-11T15:47:28.7428266Z",
+        "Duration":  "00:20:46",
+        "ViewsAtDiscovery":  208,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "LpmHT76rklg",
         "Title":  "We listen to Spin by BAND-MAID for the FIRST TIME! | (REACTION)",
         "Channel":  "The Keep Up",
