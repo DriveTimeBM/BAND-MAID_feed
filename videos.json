@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "mzpmX-5gbuc",
+        "Title":  "BAND-MAID – Sayonakidori (Acoustic) | Wenn die Liebe bleibt… 💔 | German Reaction & Analysis (EN CC)",
+        "Channel":  "Heart & Mind Reactions",
+        "ChannelId":  "UCBNNpgV-2TqzBGZJgCuy87g",
+        "Url":  "https://youtu.be/mzpmX-5gbuc",
+        "Thumbnail":  "https://i.ytimg.com/vi/mzpmX-5gbuc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-12T17:15:29.0000000Z",
+        "DiscoveredAt":  "2026-11-12T17:22:11.1506588Z",
+        "Duration":  "00:36:55",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "mcrHTRFjjMU",
         "Title":  "What makes great BAND MERCH? ...pondering as Band-Maid showcase their Budokan selection",
         "Channel":  "Baka Broadcast",
