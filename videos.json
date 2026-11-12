@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "AVUOPUsTqT8",
+        "Title":  "BAND-MAID | From Maid Cafés to World Stages",
+        "Channel":  "JRok Music",
+        "ChannelId":  "UCIAFIle7-JYdF6tavt3lvhw",
+        "Url":  "https://youtu.be/AVUOPUsTqT8",
+        "Thumbnail":  "https://i.ytimg.com/vi/AVUOPUsTqT8/hqdefault.jpg",
+        "PublishedAt":  "2026-11-12T11:00:26.0000000Z",
+        "DiscoveredAt":  "2026-11-12T11:10:22.4639506Z",
+        "Duration":  "00:03:08",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "IoRuxIfARBA",
         "Title":  "BAND-MAID WHEEL OF JACKPOTS | EP. 10 (BAMBOOZLED)",
         "Channel":  "Another Perspective",
