@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 10:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:14:32 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] day 1 haul…!</title>
+      <link>https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3n24iexmk422j</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3n24iexmk422j</guid>
+      <pubDate>Thu, 12 Nov 2026 12:38:14 GMT</pubDate>
+      <dc:creator>CatUberMona 🚗🐈‍⬛🥡IN JAPAN NOV 11-18! (catubermona.vtubers.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>day 1 haul…!<br/><br/>- drinks and snacks from 7/11<br/>- love live gamers stuff (yohane file, umi keychain, and pulled the pack art card!!!!)<br/>- haru horse bean<br/>- pogeymon cards for da collection<br/>- lisia deck box!<br/>- band maid tour final tix from lawson<br/><br/>more tomorrow…</p><p><em>BlueSky &middot; catubermona.vtubers.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Band Maid and NEK! in studio together. Could be just for some work on the Bud...</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3n244sl4tvs2s</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2 years ago<br/>Letters to You<br/>live debut<br/>Zepp Nagoya, Nagoya, Japan<br/>2024/11/2<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mzcn7kceth27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3mzcn7kceth27</guid>
-      <pubDate>Mon, 02 Nov 2026 05:55:27 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago<br/>glory<br/>MV<br/>released<br/>2018/11/2<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
