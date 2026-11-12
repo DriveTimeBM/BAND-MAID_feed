@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gvkJsqQX_KI",
+        "Title":  "BAND-MAID – From Now On | Pro Guitar Teacher Reacts & Analyzes",
+        "Channel":  "Robbie Guitar Channel",
+        "ChannelId":  "UCug11JLneDcL4NvJdK-3xrg",
+        "Url":  "https://youtu.be/gvkJsqQX_KI",
+        "Thumbnail":  "https://i.ytimg.com/vi/gvkJsqQX_KI/hqdefault.jpg",
+        "PublishedAt":  "2026-11-12T22:19:37.0000000Z",
+        "DiscoveredAt":  "2026-11-12T22:47:42.7551327Z",
+        "Duration":  "00:08:28",
+        "ViewsAtDiscovery":  25,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XqKGjm-JSMI",
         "Title":  "HARD ROCK EXCELLENCE!  BAND-MAID - secret My lips MV Reaction",
         "Channel":  "Tii_Rose Reactions",
