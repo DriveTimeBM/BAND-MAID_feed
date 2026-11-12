@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 01:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:35:51 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] youtube.com/watch?v=xZLN... This is a slightly longer version of the Band Mai...</title>
+      <link>https://bsky.app/profile/did:plc:6wwcbpk2sz2p2ghjsbe745m3/post/3n22reh7kmc2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6wwcbpk2sz2p2ghjsbe745m3/post/3n22reh7kmc2e</guid>
+      <pubDate>Wed, 11 Nov 2026 20:13:41 GMT</pubDate>
+      <dc:creator>Lumpenbourgeoisie (geariod.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>youtube.com/watch?v=xZLN... This is a slightly longer version of the Band Maid/ Nek! Video.</p><p><em>BlueSky &middot; geariod.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] youtube.com/shorts/j3pXB... Nek!, who are opening for Band Maid at Budokan, t...</title>
+      <link>https://bsky.app/profile/did:plc:6wwcbpk2sz2p2ghjsbe745m3/post/3n22hpjndek2e</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6wwcbpk2sz2p2ghjsbe745m3/post/3n22hpjndek2e</guid>
+      <pubDate>Wed, 11 Nov 2026 17:20:56 GMT</pubDate>
+      <dc:creator>Lumpenbourgeoisie (geariod.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>youtube.com/shorts/j3pXB... Nek!, who are opening for Band Maid at Budokan, today released this short of them in the studio being produced by Band Maid. Don&#39;t know if it&#39;s going to be a Nek! single or a collaboration.</p><p><em>BlueSky &middot; geariod.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Freedom - Band Maid</title>
       <link>https://bsky.app/profile/did:plc:ycvcyz5aw4b26zisskjojujz/post/3n236s6fkgk2n</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>— Of BAND-MAID &#39;s songs are based on hard rock and Rock &amp; Roll there are many upbeat numbers, but this song is a mid-tempo tune with intensity.<br/><br/>Misa: We wanted to increase the number of songs not typical of BAND-MAID, but this is especially true of &quot;Awkward&quot;.<br/><br/>Miku: It is Misa’s favourite song, isn</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Awkward</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzaappnufb2k</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzaappnufb2k</guid>
-      <pubDate>Sun, 01 Nov 2026 07:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Awkward<br/>Album: Just Bring It<br/>Release: 1/10/2017<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2017<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played 12 songs at Fira de Barcelona - Gran Via in L'H...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mza4yayhyo2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mza4yayhyo2o</guid>
-      <pubDate>Sun, 01 Nov 2026 05:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played 12 songs at Fira de Barcelona - Gran Via in L&#39;Hospitalet de Llobregat ES on 2016/11/1. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
