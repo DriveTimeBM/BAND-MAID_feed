@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 14:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 01:03:36 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Freedom - Band Maid</title>
+      <link>https://bsky.app/profile/did:plc:ycvcyz5aw4b26zisskjojujz/post/3n236s6fkgk2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ycvcyz5aw4b26zisskjojujz/post/3n236s6fkgk2n</guid>
+      <pubDate>Thu, 12 Nov 2026 00:14:01 GMT</pubDate>
+      <dc:creator>Bob Sacemano (bobsacemano.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Freedom - Band Maid<br/>these girls are great. <br/>www.youtube.com/watch?v=FHpu...</p><p><em>BlueSky &middot; bobsacemano.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I hoped, when Band-Maid announced a year off in 2027, that they would be help...</title>
       <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mzzzzbfk6c25</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played 12 songs at Fira de Barcelona - Gran Via in L&#39;Hospitalet de Llobregat ES on 2016/11/1. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 4 years ago Band-Maid played 16 songs at House of Blues in Chicago US on 2022...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mza4ya7stb2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mza4ya7stb2l</guid>
-      <pubDate>Sun, 01 Nov 2026 05:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>4 years ago Band-Maid played 16 songs at House of Blues in Chicago US on 2022/11/1. The opening song was Sense.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
