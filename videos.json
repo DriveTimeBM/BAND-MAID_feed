@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gFX7uUuheJg",
+        "Title":  "Band-Maid Made a Beyblade Song?! (Reaction)",
+        "Channel":  "TheRedBeardedViking90Reacts",
+        "ChannelId":  "UC3DvAD81C8KaIQQcA-0Xm-g",
+        "Url":  "https://youtu.be/gFX7uUuheJg",
+        "Thumbnail":  "https://i.ytimg.com/vi/gFX7uUuheJg/hqdefault.jpg",
+        "PublishedAt":  "2026-11-13T18:04:59.0000000Z",
+        "DiscoveredAt":  "2026-11-13T18:25:11.8874549Z",
+        "Duration":  "00:07:31",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "xDz6MuNTcjE",
         "Title":  "【セトリネタバレなし】BAND-MAID 日本武道館 Day1 プレイヤー目線のガチ感想！音響・グッズ開封・2028年への想い【WORLD TOUR 2026】",
         "Channel":  "tetsu_guitar",
