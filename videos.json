@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Z5iGbH2wrIY",
+        "Title":  "BAND-MAID – LIVE HIGHLIGHTS at The Wiltern, Los Angeles 2026 | 4K",
+        "Channel":  "odasaku(とある日常)",
+        "ChannelId":  "UCxbXWaOFF_Ly8IPx5R9Lp9Q",
+        "Url":  "https://youtu.be/Z5iGbH2wrIY",
+        "Thumbnail":  "https://i.ytimg.com/vi/Z5iGbH2wrIY/hqdefault.jpg",
+        "PublishedAt":  "2026-11-13T07:36:59.0000000Z",
+        "DiscoveredAt":  "2026-11-13T08:46:24.0382958Z",
+        "Duration":  "00:18:46",
+        "ViewsAtDiscovery":  10,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "dWh4HEzgeFA",
+        "Title":  "Reacting to Toi Et Moi by Band-Maid Including Two Live Performances",
+        "Channel":  "The Smith House Reactions",
+        "ChannelId":  "UCfQeTYw5jS1UryRg8GN3_PQ",
+        "Url":  "https://youtu.be/dWh4HEzgeFA",
+        "Thumbnail":  "https://i.ytimg.com/vi/dWh4HEzgeFA/hqdefault.jpg",
+        "PublishedAt":  "2026-11-13T06:00:34.0000000Z",
+        "DiscoveredAt":  "2026-11-13T08:46:23.0426406Z",
+        "Duration":  "00:12:17",
+        "ViewsAtDiscovery":  36,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "GSpkNbJ0ioE",
         "Title":  "BAND-MAID's \"SPIN\" Is a BEYBLADE Anthem 🤯 (Official MV) REACTION",
         "Channel":  "The Real Shakes - P",
