@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 13 Nov 2026 15:19:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:50:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] FINALLY</title>
+      <link>https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3n27ajsdhc22r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3n27ajsdhc22r</guid>
+      <pubDate>Fri, 13 Nov 2026 14:55:46 GMT</pubDate>
+      <dc:creator>CatUberMona 🚗🐈‍⬛🥡IN JAPAN NOV 11-18! (catubermona.vtubers.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>FINALLY<br/>Day 2 haul!<br/><br/>GAMERS Odaiba<br/>- Rina goods (for a friend!)+Ai T-shirt<br/><br/>Gundam Base<br/>- Miku Haro+Haro nippers<br/>- Gundam Unicorn gacha and kit!<br/><br/>Mugiwara store stickers!<br/>Pokemon Center Mega Tokyo<br/>- card sleeves, earrings, porygon!<br/><br/>BAND MAID TOUR FINAL<br/>- cool shirt! (2XL since no XL) + kuji goods!</p><p><em>BlueSky &middot; catubermona.vtubers.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] 2026.11.13</title>
+      <link>https://bsky.app/profile/did:plc:h2zumwhfwpncgsuyk5fftdqn/post/3n27afgjdg223</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:h2zumwhfwpncgsuyk5fftdqn/post/3n27afgjdg223</guid>
+      <pubDate>Fri, 13 Nov 2026 14:53:19 GMT</pubDate>
+      <dc:creator>えつろう (etsu4446.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2026.11.13<br/>BAND-MAID 日本武道館<br/>BAND-MAID WORLD TOUR 2026 FINAL NIPPON BUDOKAN DAY1</p><p><em>BlueSky &middot; etsu4446.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 地元駅に無事到着！</title>
       <link>https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3n277svu2qk2d</link>
@@ -890,24 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID with your host, Dimensi&#243;n Arkadia! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzdmlha6lq2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzdmlha6lq2d</guid>
-      <pubDate>Mon, 02 Nov 2026 15:16:53 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band-Maid's newest www.youtube.com/watch?v=Z7I1...</title>
-      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mzdm5lwq4k27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3mzdm5lwq4k27</guid>
-      <pubDate>Mon, 02 Nov 2026 15:09:09 GMT</pubDate>
-      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band-Maid&#39;s newest www.youtube.com/watch?v=Z7I1...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
