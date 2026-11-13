@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 13 Nov 2026 14:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:19:57 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 地元駅に無事到着！</title>
+      <link>https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3n277svu2qk2d</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3n277svu2qk2d</guid>
+      <pubDate>Fri, 13 Nov 2026 14:42:58 GMT</pubDate>
+      <dc:creator>くぼんヌ。@ジミコスキー (kubonnu.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>地元駅に無事到着！<br/>ハイディにて明日への燃料を給油！<br/> #bandmaid</p><p><em>BlueSky &middot; kubonnu.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] ←開演前　開演後→</title>
+      <link>https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3n272bmakes2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3n272bmakes2r</guid>
+      <pubDate>Fri, 13 Nov 2026 13:03:49 GMT</pubDate>
+      <dc:creator>くぼんヌ。@ジミコスキー (kubonnu.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>←開演前　開演後→<br/>#bandmaid</p><p><em>BlueSky &middot; kubonnu.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Time of the weekly Myspacing up of the feed...</title>
       <link>https://bsky.app/profile/did:plc:h4lr4u4vc5k23v3bukb7qmr2/post/3n273wpayg227</link>
@@ -890,24 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid&#39;s newest www.youtube.com/watch?v=Z7I1...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 今日職場で聞いてテンション上がった</title>
-      <link>https://bsky.app/profile/did:plc:ctmb6f4mbfgy67pm3bfjb3o7/post/3mzdlxzwaz222</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:ctmb6f4mbfgy67pm3bfjb3o7/post/3mzdlxzwaz222</guid>
-      <pubDate>Mon, 02 Nov 2026 15:06:02 GMT</pubDate>
-      <dc:creator>塩麹。 (siokojio4o.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>今日職場で聞いてテンション上がった<br/>BAND-MAIDさんゲスト回<br/>ベイの話もしてくれた、、<br/><br/>EVENING TAP(19時台) FM802 2026/11/2(月) 19:00-20:00 <br/>radiko.jp/share/?t=202...</p><p><em>BlueSky &middot; siokojio4o.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAIDさんメイド繋がりで冥殿さんのベイとのコラボモデルとか出したら盛り上がりそうだよな〜と思ってる🦈</title>
-      <link>https://bsky.app/profile/did:plc:hcuebginecgj7zlrexdwkplp/post/3mzd6sigqlk2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:hcuebginecgj7zlrexdwkplp/post/3mzd6sigqlk2x</guid>
-      <pubDate>Mon, 02 Nov 2026 11:10:17 GMT</pubDate>
-      <dc:creator>HINA (hina-bey.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAIDさんメイド繋がりで冥殿さんのベイとのコラボモデルとか出したら盛り上がりそうだよな〜と思ってる🦈</p><p><em>BlueSky &middot; hina-bey.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
