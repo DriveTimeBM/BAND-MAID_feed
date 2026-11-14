@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 08:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:07:54 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Plus online gigs for Scandal and Band Maid (3x)</title>
+      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3n2b5yco4l22w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3n2b5yco4l22w</guid>
+      <pubDate>Sat, 14 Nov 2026 09:15:31 GMT</pubDate>
+      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Plus online gigs for Scandal and Band Maid (3x)</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Starting Off The Day With</title>
       <link>https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3n2azmdad3223</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Forbidden tale<br/>Album: Epic Narratives<br/>Release: 9/24/2024<br/>Music: BAND-MAID<br/>Lyrics: Saiki<br/>Arrangement: BAND-MAID<br/>1st Live:10/4/2024<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 20 songs at O2 Academy Islington in London GB on...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzfbbfjtbn2l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzfbbfjtbn2l</guid>
-      <pubDate>Tue, 03 Nov 2026 06:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at O2 Academy Islington in London GB on 2017/11/3. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
