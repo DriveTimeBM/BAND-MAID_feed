@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "jTuNcDbhWew",
+        "Title":  "BAND-MAID, LOVEBITES & MORE: WHY ARE JAPANESE METAL BANDS PAUSING?! 🇯🇵",
+        "Channel":  "Black Art Coffee",
+        "ChannelId":  "UCT5UGhD36BW9X7vpRZlWERw",
+        "Url":  "https://youtu.be/jTuNcDbhWew",
+        "Thumbnail":  "https://i.ytimg.com/vi/jTuNcDbhWew/hqdefault.jpg",
+        "PublishedAt":  "2026-11-14T12:19:43.0000000Z",
+        "DiscoveredAt":  "2026-11-14T12:45:44.4490538Z",
+        "Duration":  "00:10:11",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gmQoHHpeRc4",
         "Title":  "Band Maid CHOOSE ME The Wiltern",
         "Channel":  "Music by the 90's Rock band Joshua's Shadow.",
