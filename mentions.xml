@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 18:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 20:43:32 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Just a couple of shots of my favourite band (Band-Maid) from their November 1...</title>
+      <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3n2c3fk64qc2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3n2c3fk64qc2f</guid>
+      <pubDate>Sat, 14 Nov 2026 18:01:54 GMT</pubDate>
+      <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Just a couple of shots of my favourite band (Band-Maid) from their November 14 performance making a few thousand people very happy at Budokan and being very grateful to the audience that have helped bring them here over the past 13 years. Playing Budokan was a long time dream and they made it.</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 武道館お給仕よりリアル帰宅してストリーミングの武道館お給仕を堪能中！</title>
       <link>https://bsky.app/profile/did:plc:2ypfu2zj6lkanioplr4w5fvs/post/3n2bxqsczvk2z</link>
@@ -899,15 +908,6 @@
       <dc:creator>光-hikari- (hikarigaoka.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>muito curioso minha m&#250;sica favorita da band-maid ser uma baladinha </p><p><em>BlueSky &middot; hikarigaoka.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[Mastodon] https://loops.video/tag/BandMaid https://loops.video/tag/Rock https://loops.v...</title>
-      <link>https://loops.video/v/j8lRS361S_</link>
-      <guid isPermaLink="true">https://loops.video/v/j8lRS361S_</guid>
-      <pubDate>Wed, 04 Nov 2026 10:44:24 GMT</pubDate>
-      <dc:creator>Kingu (Kingu@loops.video)</dc:creator>
-      <category>Mastodon</category>
-      <description><![CDATA[<p>https://loops.video/tag/BandMaid https://loops.video/tag/Rock https://loops.video/tag/Jrock https://loops.video/tag/Music</p><p><em>Mastodon &middot; Kingu@loops.video</em></p>]]></description>
     </item>
   </channel>
 </rss>
