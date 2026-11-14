@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 15:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:36:39 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 2026.11.14</title>
+      <link>https://bsky.app/profile/did:plc:h2zumwhfwpncgsuyk5fftdqn/post/3n2br6gvxyc2p</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:h2zumwhfwpncgsuyk5fftdqn/post/3n2br6gvxyc2p</guid>
+      <pubDate>Sat, 14 Nov 2026 14:58:58 GMT</pubDate>
+      <dc:creator>えつろう (etsu4446.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2026.11.14<br/>BAND-MAID 日本武道館<br/>BAND-MAID WORLD TOUR 2026 FINAL NIPPON BUDOKAN DAY2</p><p><em>BlueSky &middot; etsu4446.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3n2bpjf4ztt2i</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at La Boule Noire in Paris FR on 2017/11/4. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago Band-Maid played 24 songs at PENNY LANE 24 in Sapporo JP on 2018/...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzhrqcw6ji25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzhrqcw6ji25</guid>
-      <pubDate>Wed, 04 Nov 2026 06:59:44 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago Band-Maid played 24 songs at PENNY LANE 24 in Sapporo JP on 2018/11/4. The opening song was DICE.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
