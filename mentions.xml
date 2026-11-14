@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 10:38:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:10:36 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Five concerts I've seen with women lead singers</title>
+      <link>https://bsky.app/profile/did:plc:swlk4d6ptbq72mp5bddzq5r3/post/3n2bft6x5j22u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:swlk4d6ptbq72mp5bddzq5r3/post/3n2bft6x5j22u</guid>
+      <pubDate>Sat, 14 Nov 2026 11:35:49 GMT</pubDate>
+      <dc:creator>Thomas (zhykos.fr)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Five concerts I&#39;ve seen with women lead singers<br/><br/>Evanescence<br/>Babymetal<br/>Blackbriar<br/>Spiritbox<br/>Band Maid<br/><br/>And many more (I think they are my 5 favourites)</p><p><em>BlueSky &middot; zhykos.fr</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] I got to see band-maid live through streaming, doing their final concert of 2...</title>
+      <link>https://bsky.app/profile/did:plc:erltgwsbrwsaaczshwkupsqi/post/3n2beie2sfk2x</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:erltgwsbrwsaaczshwkupsqi/post/3n2beie2sfk2x</guid>
+      <pubDate>Sat, 14 Nov 2026 11:11:52 GMT</pubDate>
+      <dc:creator>Anyanymous (avanillagarden.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I got to see band-maid live through streaming, doing their final concert of 2026, at budokan... had the time of my life</p><p><em>BlueSky &middot; avanillagarden.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] お散歩で見た武道館はBAND-MAIDのお給仕でした！🎸生でReady to Rock聴いてみたいなー！</title>
       <link>https://bsky.app/profile/did:plc:bhxa4osyjdpm6ij4l2k74u63/post/3n2ba5nqljs26</link>
@@ -890,24 +908,6 @@
       <dc:creator>Barry McKinnon (rockyuphill.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid...  www.youtube.com/watch?v=LwbX...</p><p><em>BlueSky &middot; rockyuphill.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Band Maid's masterpiece (at least so far), IMO.</title>
-      <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mzffct7ytk2c</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3mzffct7ytk2c</guid>
-      <pubDate>Tue, 03 Nov 2026 08:12:08 GMT</pubDate>
-      <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Band Maid&#39;s masterpiece (at least so far), IMO.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] ing" means "we are here now." I wrote it with the hope that even if our bodie...</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzfbnr6lbe2p</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzfbnr6lbe2p</guid>
-      <pubDate>Tue, 03 Nov 2026 07:06:39 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>ing&quot; means &quot;we are here now.&quot; I wrote it with the hope that even if our bodies were to disappear, someone might someday pass on this music. I hope our music will remain in the future. I thought it would be wonderful if people in the future who have no idea who BAND-MAID are could learn of their exis</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
