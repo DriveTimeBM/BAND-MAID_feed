@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Q3Ic5DR-DEk",
+        "Title":  "BAND-MAID - SUPER SUNSHINE Put Me In Such a Good Mood | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/Q3Ic5DR-DEk",
+        "Thumbnail":  "https://i.ytimg.com/vi/Q3Ic5DR-DEk/hqdefault.jpg",
+        "PublishedAt":  "2026-11-14T16:45:47.0000000Z",
+        "DiscoveredAt":  "2026-11-14T16:45:53.7732167Z",
+        "Duration":  "00:05:41",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "qr6I8lMyL-8",
         "Title":  "Band-Maid Budokan Day 2 Pre Okyuji  #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
