@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "kr0o_DihrJ4",
+        "Title":  "VTUBER REACTS | BAND-MAID – Present Perfect (Official Live Video) | This Live Hit Different",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/kr0o_DihrJ4",
+        "Thumbnail":  "https://i.ytimg.com/vi/kr0o_DihrJ4/hqdefault.jpg",
+        "PublishedAt":  "2026-11-14T18:05:25.0000000Z",
+        "DiscoveredAt":  "2026-11-14T18:09:44.5212314Z",
+        "Duration":  "00:06:05",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rvi8kRxnKS8",
         "Title":  "BAND-MAID – Dilly-Dally | Live Chemistry Is Unreal! 🎸 | VTUBER REACTS",
         "Channel":  "LunariaTheIdol",
