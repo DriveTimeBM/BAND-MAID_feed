@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 07:33:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:35:24 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Starting Off The Day With</title>
+      <link>https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3n2azmdad3223</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3c7amg4wrb75glu56uwfizy3/post/3n2azmdad3223</guid>
+      <pubDate>Sat, 14 Nov 2026 07:57:14 GMT</pubDate>
+      <dc:creator>dazedandconfused51 (dazedandconfused51.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Starting Off The Day With<br/>Band Maid live from The Budokan<br/>Let&#39;s go it&#39;s showtime</p><p><em>BlueSky &middot; dazedandconfused51.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Woo Hoo!".</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n2awrr6ocp2r</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at O2 Academy Islington in London GB on 2017/11/3. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 2 years ago Band-Maid played 22 songs at Zepp Osaka Bayside in Osaka JP on 20...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzfbberwkw23</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzfbberwkw23</guid>
-      <pubDate>Tue, 03 Nov 2026 06:59:43 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>2 years ago Band-Maid played 22 songs at Zepp Osaka Bayside in Osaka JP on 2024/11/3. The opening song was Forbidden tale.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
