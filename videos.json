@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0CskunbTFTM",
+        "Title":  "EARS TO THE EAST | Budokan tour finale for BAND-MAID | Bocchi Vs Lady's Modesty | and more...",
+        "Channel":  "Ears To The East",
+        "ChannelId":  "UCv9f-JJy6z3E_zs6x1CshXw",
+        "Url":  "https://youtu.be/0CskunbTFTM",
+        "Thumbnail":  "https://i.ytimg.com/vi/0CskunbTFTM/hqdefault.jpg",
+        "PublishedAt":  "2026-11-14T19:00:08.0000000Z",
+        "DiscoveredAt":  "2026-11-14T21:44:40.0658543Z",
+        "Duration":  "02:21:49",
+        "ViewsAtDiscovery":  94,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "8Jzkk3znTu4",
         "Title":  "😱 BAND-MAID、日本武道館ライブ完走！2027年は充電期間へ…新曲＆映像作品リリース決定🔥",
         "Channel":  "🎌 日本のエンターテインメント",
