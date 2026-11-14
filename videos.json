@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "rvi8kRxnKS8",
+        "Title":  "BAND-MAID – Dilly-Dally | Live Chemistry Is Unreal! 🎸 | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/rvi8kRxnKS8",
+        "Thumbnail":  "https://i.ytimg.com/vi/rvi8kRxnKS8/hqdefault.jpg",
+        "PublishedAt":  "2026-11-14T17:10:46.0000000Z",
+        "DiscoveredAt":  "2026-11-14T17:39:04.3023315Z",
+        "Duration":  "00:05:57",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XaHRnqQqVrM",
         "Title":  "【セトリネタバレなし】BAND-MAID 日本武道館 Day2 涙と絆に震えたガチ感想！SAIKIピアノ・KANAMIギター・2028年への約束【WORLD TOUR 2026】",
         "Channel":  "tetsu_guitar",
