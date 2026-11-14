@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 01:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:19:37 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n2algigu7q2t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n2algigu7q2t</guid>
+      <pubDate>Sat, 14 Nov 2026 03:43:25 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Band-Maid final tour at Budokan (until 2028 I think?) and 15th anni Love Live...</title>
+      <link>https://bsky.app/profile/did:plc:thabatsvjork2cgid67nnqe2/post/3n2ak243jw22u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:thabatsvjork2cgid67nnqe2/post/3n2ak243jw22u</guid>
+      <pubDate>Sat, 14 Nov 2026 03:18:36 GMT</pubDate>
+      <dc:creator>𝗱𝗮𝗶𝘆𝗮 ୨୧ (daiya-3710.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Band-Maid final tour at Budokan (until 2028 I think?) and 15th anni Love Live Fest 2....I can&#39;t watch either of them (not because of the Stars merch) ╥﹏╥💔</p><p><em>BlueSky &middot; daiya-3710.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Spin / BAND-MAID</title>
       <link>https://bsky.app/profile/did:plc:6hdfziurxheuwf46hqsjvfto/post/3n2aadcznok25</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>5 years ago<br/>Brand New MAID<br/>vinyl<br/>released<br/>2021/11/3<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] なんばハッチ着</title>
-      <link>https://bsky.app/profile/did:plc:m3av63joml46rl6ugnlxiygo/post/3mzf3zogrss27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:m3av63joml46rl6ugnlxiygo/post/3mzf3zogrss27</guid>
-      <pubDate>Tue, 03 Nov 2026 05:25:57 GMT</pubDate>
-      <dc:creator>momen_tofu (momen-tofu.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>なんばハッチ着<br/>横浜ぶりのお給仕楽しむぞい<br/>#bandmaid</p><p><em>BlueSky &middot; momen-tofu.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAIDの新曲「BONDS」がパチンコ「e義風堂々!!〜兼続と慶次〜4」で流れる！</title>
-      <link>https://bsky.app/profile/did:plc:4defa5e7oqn6umso5bm42krs/post/3mzen7w5uqy2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4defa5e7oqn6umso5bm42krs/post/3mzen7w5uqy2y</guid>
-      <pubDate>Tue, 03 Nov 2026 01:01:00 GMT</pubDate>
-      <dc:creator>pachiport (pachiport.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAIDの新曲「BONDS」がパチンコ「e義風堂々!!〜兼続と慶次〜4」で流れる！<br/>https://info.pachiport.workers.dev/article/519178</p><p><em>BlueSky &middot; pachiport.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
