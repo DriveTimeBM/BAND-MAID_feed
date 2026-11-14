@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 10:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:38:58 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] お散歩で見た武道館はBAND-MAIDのお給仕でした！🎸生でReady to Rock聴いてみたいなー！</title>
+      <link>https://bsky.app/profile/did:plc:bhxa4osyjdpm6ij4l2k74u63/post/3n2ba5nqljs26</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bhxa4osyjdpm6ij4l2k74u63/post/3n2ba5nqljs26</guid>
+      <pubDate>Sat, 14 Nov 2026 09:54:18 GMT</pubDate>
+      <dc:creator>もなみ🏆484 (monamibiz.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>お散歩で見た武道館はBAND-MAIDのお給仕でした！🎸生でReady to Rock聴いてみたいなー！</p><p><em>BlueSky &middot; monamibiz.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Plus online gigs for Scandal and Band Maid (3x)</title>
       <link>https://bsky.app/profile/did:plc:gkdpibctosmyjrzkhht2kc62/post/3n2b5yco4l22w</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>ing&quot; means &quot;we are here now.&quot; I wrote it with the hope that even if our bodies were to disappear, someone might someday pass on this music. I hope our music will remain in the future. I thought it would be wonderful if people in the future who have no idea who BAND-MAID are could learn of their exis</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Forbidden tale</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzfbnnxhsq2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzfbnnxhsq2y</guid>
-      <pubDate>Tue, 03 Nov 2026 07:06:34 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Forbidden tale<br/>Album: Epic Narratives<br/>Release: 9/24/2024<br/>Music: BAND-MAID<br/>Lyrics: Saiki<br/>Arrangement: BAND-MAID<br/>1st Live:10/4/2024<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
