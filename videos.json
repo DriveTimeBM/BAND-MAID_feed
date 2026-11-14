@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "oYYRy7jchEc",
+        "Title":  "Episode 7: Band-Maid @ The Budokan ",
+        "Channel":  "Dave 4Real",
+        "ChannelId":  "UCh2WK-cCtuubLWuuFZVhRpA",
+        "Url":  "https://youtu.be/oYYRy7jchEc",
+        "Thumbnail":  "https://i.ytimg.com/vi/oYYRy7jchEc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-14T14:26:24.0000000Z",
+        "DiscoveredAt":  "2026-11-14T14:35:10.7142655Z",
+        "Duration":  "00:05:43",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ZyZ_RGrWFGA",
+        "Title":  "BAND-MAID Meets BEYBLADE X – This Is How You Do an Anime Ending! | SPIN | Reaction",
+        "Channel":  "BassinatorLP",
+        "ChannelId":  "UCRn7ROePUapwmL24LzcEY3A",
+        "Url":  "https://youtu.be/ZyZ_RGrWFGA",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZyZ_RGrWFGA/hqdefault.jpg",
+        "PublishedAt":  "2026-11-14T13:00:28.0000000Z",
+        "DiscoveredAt":  "2026-11-14T14:35:09.3396194Z",
+        "Duration":  "00:06:28",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oNZfHu_QfDQ",
         "Title":  "Musicians REACT to Band-Maid: Memorable (2023) Official Music Video",
         "Channel":  "Glenn and Adrian's Rock Talk",
