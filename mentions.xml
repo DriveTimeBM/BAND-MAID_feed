@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 13 Nov 2026 15:50:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:17:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Spin / BAND-MAID</title>
+      <link>https://bsky.app/profile/did:plc:6hdfziurxheuwf46hqsjvfto/post/3n2aadcznok25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6hdfziurxheuwf46hqsjvfto/post/3n2aadcznok25</guid>
+      <pubDate>Sat, 14 Nov 2026 00:24:48 GMT</pubDate>
+      <dc:creator>kuma56 (kuma563.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Spin / BAND-MAID<br/>#nowplaying<br/>music.apple.com/jp/album/spi...</p><p><em>BlueSky &middot; kuma563.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] When you have the opportunity to buy an absolutely ridiculous 'large' towel t...</title>
+      <link>https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3n2a7t37wf22c</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:rrpnky2otfaua3goqxzlsg2q/post/3n2a7t37wf22c</guid>
+      <pubDate>Sat, 14 Nov 2026 00:15:43 GMT</pubDate>
+      <dc:creator>Steve Stevers (stevesteverers.whaleoilcandles.com)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>When you have the opportunity to buy an absolutely ridiculous &#39;large&#39; towel the size of a small towel, you just have to do it</p><p><em>BlueSky &middot; stevesteverers.whaleoilcandles.com</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] FINALLY</title>
       <link>https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3n27ajsdhc22r</link>
@@ -890,24 +908,6 @@
       <dc:creator>pachiport (pachiport.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAIDの新曲「BONDS」がパチンコ「e義風堂々!!〜兼続と慶次〜4」で流れる！<br/>https://info.pachiport.workers.dev/article/519178</p><p><em>BlueSky &middot; pachiport.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 【新台】ニューギン「e義風堂々！！～兼続と慶次～4」ティザーPVが公開！BAND-MAID新規楽曲搭載！</title>
-      <link>https://bsky.app/profile/did:plc:4defa5e7oqn6umso5bm42krs/post/3mzedyysqh22l</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4defa5e7oqn6umso5bm42krs/post/3mzedyysqh22l</guid>
-      <pubDate>Mon, 02 Nov 2026 22:16:04 GMT</pubDate>
-      <dc:creator>pachiport (pachiport.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>【新台】ニューギン「e義風堂々！！～兼続と慶次～4」ティザーPVが公開！BAND-MAID新規楽曲搭載！<br/>https://info.pachiport.workers.dev/article/518693</p><p><em>BlueSky &middot; pachiport.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID with your host, D...</title>
-      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzdmlhewco2d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3mzdmlhewco2d</guid>
-      <pubDate>Mon, 02 Nov 2026 15:16:54 GMT</pubDate>
-      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID with your host, Dimensi&#243;n Arkadia! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
     </item>
   </channel>
 </rss>
