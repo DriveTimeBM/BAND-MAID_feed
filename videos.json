@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gIpkHaWOwkI",
+        "Title":  "Band-Maid : What makes their live shows so good?",
+        "Channel":  "Roch's Rock Radio",
+        "ChannelId":  "UC_PqjeilG8e1jmEkKs38Brg",
+        "Url":  "https://youtu.be/gIpkHaWOwkI",
+        "Thumbnail":  "https://i.ytimg.com/vi/gIpkHaWOwkI/hqdefault.jpg",
+        "PublishedAt":  "2026-11-15T19:43:01.0000000Z",
+        "DiscoveredAt":  "2026-11-15T20:19:48.2761580Z",
+        "Duration":  "00:13:10",
+        "ViewsAtDiscovery":  14,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "yDOloFhZT-A",
+        "Title":  "🔥 BAND-MAID、2027年も新曲決定！ライブ休止中も止まらない音楽への情熱🎸",
+        "Channel":  "Japan All news",
+        "ChannelId":  "UCTO1wwFVqd3M9494ucVTXNg",
+        "Url":  "https://youtu.be/yDOloFhZT-A",
+        "Thumbnail":  "https://i.ytimg.com/vi/yDOloFhZT-A/hqdefault.jpg",
+        "PublishedAt":  "2026-11-15T18:33:33.0000000Z",
+        "DiscoveredAt":  "2026-11-15T20:19:47.3601775Z",
+        "Duration":  "00:07:46",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "UIOWn6CtYP4",
         "Title":  "LIVE CHAT: Brand new releases, Bass Day, Band-Maid at the Budokan, Caramel Candid, NEK! and more...!",
         "Channel":  "Baka Broadcast",
