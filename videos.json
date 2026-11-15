@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "7PkDO4f0J9A",
+        "Title":  "REACTION TO BAND-MAID - FREEDOM - OLV",
+        "Channel":  "Cold Fire",
+        "ChannelId":  "UCKboltkZSCKZ0olDaaf9ECQ",
+        "Url":  "https://youtu.be/7PkDO4f0J9A",
+        "Thumbnail":  "https://i.ytimg.com/vi/7PkDO4f0J9A/hqdefault.jpg",
+        "PublishedAt":  "2026-11-15T21:00:10.0000000Z",
+        "DiscoveredAt":  "2026-11-15T21:48:57.2263383Z",
+        "Duration":  "00:20:30",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gIpkHaWOwkI",
         "Title":  "Band-Maid : What makes their live shows so good?",
         "Channel":  "Roch's Rock Radio",
