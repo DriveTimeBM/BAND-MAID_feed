@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Sciq8rzHVIA",
+        "Title":  "I was not expecting to love reacting to BAND-MAIKO \"Gion-cho\" THIS MUCH! Now it's one of my favs!",
+        "Channel":  "JapaGirl Diaries",
+        "ChannelId":  "UCEckk2nuN7w4NxlvsrnU0qg",
+        "Url":  "https://youtu.be/Sciq8rzHVIA",
+        "Thumbnail":  "https://i.ytimg.com/vi/Sciq8rzHVIA/hqdefault.jpg",
+        "PublishedAt":  "2026-11-15T12:00:07.0000000Z",
+        "DiscoveredAt":  "2026-11-15T12:45:51.1111211Z",
+        "Duration":  "00:26:11",
+        "ViewsAtDiscovery":  60,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gkCdPpGoFxc",
         "Title":  "BAND-MAID、5人の絆に感動！世界中のファンを魅了する理由とは？😭🎸",
         "Channel":  "Japan All news",
