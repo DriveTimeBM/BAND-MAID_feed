@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 15 Nov 2026 08:03:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:18:38 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Man, I wish I could have been there.</title>
+      <link>https://bsky.app/profile/did:plc:v4si4sfxvzxecwsqf3rlu5fr/post/3n2dyvrqejc2k</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:v4si4sfxvzxecwsqf3rlu5fr/post/3n2dyvrqejc2k</guid>
+      <pubDate>Sun, 15 Nov 2026 12:22:37 GMT</pubDate>
+      <dc:creator>jasconius.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Man, I wish I could have been there.<br/><br/>#BAND-MAID</p><p><em>BlueSky &middot; jasconius.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] ow, so I thought it might be good to have one.</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n2dhaqa7bm24</link>
@@ -899,15 +908,6 @@
       <dc:creator>billboard (billboard.com)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID on the ‘Playfulness’ of ‘SPIN,’ The ‘BEYBLADE X Bey Kingdom Arc’ Ending Theme: Interview</p><p><em>BlueSky &middot; billboard.com</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: EverGreen</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzkclhnrsj2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzkclhnrsj2b</guid>
-      <pubDate>Thu, 05 Nov 2026 07:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: EverGreen<br/>Album: MAID IN JAPAN<br/>Release: 1/7/2014<br/>Music: 福井昌彦 [Fukui, Masahiko]<br/>Lyrics: 阿久津健太郎 [Akutsu, Kentaro]<br/>Arrangement: BAND-MAID<br/>福井昌彦 [Fukui, Masahiko]<br/>1st Live:2/7/2014<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
