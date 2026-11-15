@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "LIgj5uyskLI",
+        "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song REACTION",
+        "Channel":  "Blender Tutorial ",
+        "ChannelId":  "UC1yfCACXJ4eh8I9TLFNrzQg",
+        "Url":  "https://youtu.be/LIgj5uyskLI",
+        "Thumbnail":  "https://i.ytimg.com/vi/LIgj5uyskLI/hqdefault.jpg",
+        "PublishedAt":  "2026-11-15T14:07:12.0000000Z",
+        "DiscoveredAt":  "2026-11-15T14:19:58.0690555Z",
+        "Duration":  "00:06:41",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "gET96csqv-4",
+        "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song REACTION",
+        "Channel":  "guitarist reacts ",
+        "ChannelId":  "UC8GaaQyOb0LeVykG4hZ5kVA",
+        "Url":  "https://youtu.be/gET96csqv-4",
+        "Thumbnail":  "https://i.ytimg.com/vi/gET96csqv-4/hqdefault.jpg",
+        "PublishedAt":  "2026-11-15T14:06:26.0000000Z",
+        "DiscoveredAt":  "2026-11-15T14:19:54.8870234Z",
+        "Duration":  "00:06:41",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Sciq8rzHVIA",
         "Title":  "I was not expecting to love reacting to BAND-MAIKO \"Gion-cho\" THIS MUCH! Now it's one of my favs!",
         "Channel":  "JapaGirl Diaries",
