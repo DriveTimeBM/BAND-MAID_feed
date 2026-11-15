@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 14 Nov 2026 20:43:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 04:00:34 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] ・HANAがMMA2026にて「J-POP Favorite artist」を受賞</title>
+      <link>https://bsky.app/profile/did:plc:kljzbngvmw7udmeb3gdjxspz/post/3n2cpte3av324</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:kljzbngvmw7udmeb3gdjxspz/post/3n2cpte3av324</guid>
+      <pubDate>Sun, 15 Nov 2026 00:07:31 GMT</pubDate>
+      <dc:creator>トーンの音楽 (musetone.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>・HANAがMMA2026にて「J-POP Favorite artist」を受賞<br/>・BIGHIT MUSICのキム副代表がベスト・プロデューサー賞を受賞<br/>・BAND-MAIDが武道館公演を終え、来年も新曲リリースを予定<br/>・Music Chocolate Festival 2027の開催が決定<br/>・MUSIC AWARDS JAPAN 2027の開催が決定<br/>・音楽専門店「白水堂」が12月31日に閉店<br/>・Travis JapanのCD発売が延期<br/>・STARGLOWが新曲「Aurora」のMVティザー<br/>news.google.com #ニュースまとめ</p><p><em>BlueSky &middot; musetone.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Just a couple of shots of my favourite band (Band-Maid) from their November 1...</title>
       <link>https://bsky.app/profile/did:plc:7oxdhzbxuhbfc7mi6qfmm7cy/post/3n2c3fk64qc2f</link>
@@ -899,15 +908,6 @@
       <dc:creator>J-POP FM 93.1 (jpopfm931pn.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!: <br/>https://grupoentornonoticias.online/public/j-pop-fm-931-xhjpn-fm<br/>Unete a nuestro grupo de WhatsApp!!<br/>https://chat.whatsapp.com/E8FlVXCabBp5vNG3f3sQlb</p><p><em>BlueSky &middot; jpopfm931pn.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] muito curioso minha música favorita da band-maid ser uma baladinha</title>
-      <link>https://bsky.app/profile/did:plc:2ugsfd47hzsvqzqeustqlv7j/post/3mzji4qsmvsbn</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2ugsfd47hzsvqzqeustqlv7j/post/3mzji4qsmvsbn</guid>
-      <pubDate>Wed, 04 Nov 2026 23:13:04 GMT</pubDate>
-      <dc:creator>光-hikari- (hikarigaoka.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>muito curioso minha m&#250;sica favorita da band-maid ser uma baladinha </p><p><em>BlueSky &middot; hikarigaoka.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
