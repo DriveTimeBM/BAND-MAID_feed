@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gkCdPpGoFxc",
+        "Title":  "BAND-MAID、5人の絆に感動！世界中のファンを魅了する理由とは？😭🎸",
+        "Channel":  "Japan All news",
+        "ChannelId":  "UCTO1wwFVqd3M9494ucVTXNg",
+        "Url":  "https://youtu.be/gkCdPpGoFxc",
+        "Thumbnail":  "https://i.ytimg.com/vi/gkCdPpGoFxc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-15T10:30:51.0000000Z",
+        "DiscoveredAt":  "2026-11-15T10:39:15.5102269Z",
+        "Duration":  "00:06:10",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "XkCM4dQcfkE",
         "Title":  "【MASHUP】BAND MAID  Dilemma vs Purple Haze From Stone Free  A Tribute To Jimi Hendrix",
         "Channel":  "@ おみそ",
