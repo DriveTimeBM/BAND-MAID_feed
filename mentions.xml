@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 19:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:11:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I have unironically heard of this band because the drummer for my favorite ba...</title>
+      <link>https://bsky.app/profile/did:plc:6q2rjm4uxwxo2vapzhfjokhf/post/3n2hhe3uwks2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6q2rjm4uxwxo2vapzhfjokhf/post/3n2hhe3uwks2z</guid>
+      <pubDate>Mon, 16 Nov 2026 21:19:09 GMT</pubDate>
+      <dc:creator>Nick / Kjado / KJ (kjado.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I have unironically heard of this band because the drummer for my favorite band (Akane from BAND-MAID) has mentioned them and takes a lot of influence from them</p><p><em>BlueSky &middot; kjado.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Define your musical taste by naming four female artists</title>
+      <link>https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3n2hgnmw5rc2z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:oji5lrrtmt7t553rg27s7jvh/post/3n2hgnmw5rc2z</guid>
+      <pubDate>Mon, 16 Nov 2026 21:06:35 GMT</pubDate>
+      <dc:creator>smiley (smiley.codes)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Define your musical taste by naming four female artists<br/><br/>BAND-MAID<br/>The Warning<br/>Rolling Quartz<br/>LOVEBITES<br/><br/>bsky.app/profile/wiza...</p><p><em>BlueSky &middot; smiley.codes</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID-"Toi Et Moi" (You and I)</title>
       <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3n2h5q2zmls2y</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Rock in me<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID TIENOWA<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID TIENOWA<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at Yotsuya LOTUS in Tokyo JP on 2014/11...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue337hhc2z</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue337hhc2z</guid>
-      <pubDate>Mon, 09 Nov 2026 06:59:49 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at Yotsuya LOTUS in Tokyo JP on 2014/11/9. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 9 years ago Band-Maid played 20 songs at Backstage Club in Munich DE on 2017/...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2zr4462o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2zr4462o</guid>
-      <pubDate>Mon, 09 Nov 2026 06:59:47 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at Backstage Club in Munich DE on 2017/11/9. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
