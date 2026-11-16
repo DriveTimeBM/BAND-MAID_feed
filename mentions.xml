@@ -7,8 +7,26 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 15:32:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:35:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID-"Toi Et Moi" (You and I)</title>
+      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3n2h5q2zmls2y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3n2h5q2zmls2y</guid>
+      <pubDate>Mon, 16 Nov 2026 18:26:53 GMT</pubDate>
+      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID-&quot;Toi Et Moi&quot; (You and I)<br/>youtu.be/_NTozqcillo</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
+    </item>
+    <item>
+      <title>[BlueSky] Define your musical tastes by naming four female artists:</title>
+      <link>https://bsky.app/profile/did:plc:awibwgpgfgdgqnuiqe7ac6el/post/3n2h5kalgms24</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:awibwgpgfgdgqnuiqe7ac6el/post/3n2h5kalgms24</guid>
+      <pubDate>Mon, 16 Nov 2026 18:23:38 GMT</pubDate>
+      <dc:creator>MAESTRO DEL DOLOR 💀♠️🇨🇴 (javienrcardoto.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Define your musical tastes by naming four female artists:<br/>-The warning<br/>-Bunny X (synth wave from NYC)<br/>-Poppy<br/>-BAND-MAID (Saiki with Miku)</p><p><em>BlueSky &middot; javienrcardoto.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 歌だけでなく楽器隊がセンステに立つ構成や、そして手数の多さがたいへんに良かったという感想です</title>
       <link>https://bsky.app/profile/did:plc:bif7dgurci4smgoad5xpwzj2/post/3n2grduo7us2p</link>
@@ -890,24 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>9 years ago Band-Maid played 20 songs at Backstage Club in Munich DE on 2017/11/9. The opening song was Choose me.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 8 years ago Band-Maid played 20 songs at Lodge Room in Los Angeles US on 2018...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2y7vug2g</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2y7vug2g</guid>
-      <pubDate>Mon, 09 Nov 2026 06:59:46 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>8 years ago Band-Maid played 20 songs at Lodge Room in Los Angeles US on 2018/11/9. The opening song was DOMINATION.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 7 years ago Band-Maid played 23 songs at Rensa in Sendai JP on 2019/11/9. The...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2x23tc2e</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3mzue2x23tc2e</guid>
-      <pubDate>Mon, 09 Nov 2026 06:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>7 years ago Band-Maid played 23 songs at Rensa in Sendai JP on 2019/11/9. The opening song was endless Story.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
