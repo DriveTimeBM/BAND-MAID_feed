@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RhqQwJcjEE4",
+        "Title":  "Band Maid - Reload",
+        "Channel":  "Frankie Casper",
+        "ChannelId":  "UCdUOlAX69uWyEqh-mVz1zEg",
+        "Url":  "https://youtu.be/RhqQwJcjEE4",
+        "Thumbnail":  "https://i.ytimg.com/vi/RhqQwJcjEE4/hqdefault.jpg",
+        "PublishedAt":  "2026-11-16T11:55:40.0000000Z",
+        "DiscoveredAt":  "2026-11-16T12:23:18.8840011Z",
+        "Duration":  "00:11:32",
+        "ViewsAtDiscovery":  6,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "EXB-gnTGJ00",
         "Title":  "2026.11.14 BAND-MAID WORLD TOUR 2026 FINAL 日本武道館 LIVE STREAMING LAST",
         "Channel":  "生きた証を残す旅 2",
