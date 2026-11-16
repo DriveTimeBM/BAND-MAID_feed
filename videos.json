@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "5FowAmWJiTA",
+        "Title":  "【BAND-MAID】2026.11.7/14　ABCラジオ「真夜中のカルチャーBOY」",
+        "Channel":  "佐々木20XX",
+        "ChannelId":  "UCSYV2UZrnNpuM5vNkSh_Erw",
+        "Url":  "https://youtu.be/5FowAmWJiTA",
+        "Thumbnail":  "https://i.ytimg.com/vi/5FowAmWJiTA/hqdefault.jpg",
+        "PublishedAt":  "2026-11-16T05:32:11.0000000Z",
+        "DiscoveredAt":  "2026-11-16T05:48:10.6956126Z",
+        "Duration":  "00:16:58",
+        "ViewsAtDiscovery":  9,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dcLZV3fqM0E",
         "Title":  "Spicy reacts to Band Maid/ Spin MV",
         "Channel":  "Spicy x",
