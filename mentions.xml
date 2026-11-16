@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 04:45:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:48:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Bonus picks for female-led groups:</title>
+      <link>https://bsky.app/profile/did:plc:r42m7ucuecp7wggel7xmxfc5/post/3n2fpxut2k22l</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:r42m7ucuecp7wggel7xmxfc5/post/3n2fpxut2k22l</guid>
+      <pubDate>Mon, 16 Nov 2026 04:48:03 GMT</pubDate>
+      <dc:creator>EvryMan (evryman.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Bonus picks for female-led groups:<br/><br/>First Aid Kit<br/>CHVRCHES<br/>Sofi Tukker<br/>BAND-MAID<br/>Yeah Yeah Yeahs<br/>Heart<br/>KiNG MALA</p><p><em>BlueSky &middot; evryman.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I wanna do this for bands/groups with all-female or mostly female artists:</title>
       <link>https://bsky.app/profile/did:plc:ag4q2xvdryfmha4h2o4yaxf7/post/3n2ffqmwirc2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID、新曲「BONDS」が2027年1月導入のパチンコ新機種『e義風堂々!! 〜兼続と慶次〜4』に搭載決定</title>
-      <link>https://bsky.app/profile/did:plc:wkorj6lswe56faimd4q5xrrj/post/3mzpivmqzss27</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:wkorj6lswe56faimd4q5xrrj/post/3mzpivmqzss27</guid>
-      <pubDate>Sat, 07 Nov 2026 08:42:57 GMT</pubDate>
-      <dc:creator>ホビーちゃんねる (hobby-channel.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID、新曲「BONDS」が2027年1月導入のパチンコ新機種『e義風堂々!! 〜兼続と慶次〜4』に搭載決定<br/>#BONDS #e義風堂々兼続と慶次4 #アミューズメント</p><p><em>BlueSky &middot; hobby-channel.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
