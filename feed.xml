@@ -7,8 +7,28 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID video tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 12:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:30:55 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAND-MAID - Alone | Reaction!</title>
+      <link>https://youtu.be/jr4S27PwSoo</link>
+      <guid isPermaLink="false">yt:video:jr4S27PwSoo</guid>
+      <pubDate>Mon, 16 Nov 2026 14:30:20 GMT</pubDate>
+      <dc:creator>Rockin' with Matt</dc:creator>
+      <category>Rockin' with Matt</category>
+      <description><![CDATA[<p><a href="https://youtu.be/jr4S27PwSoo"><img src="https://i.ytimg.com/vi/jr4S27PwSoo/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: Rockin' with Matt<br/>Duration: 00:12:08<br/>Views at discovery: 0</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/jr4S27PwSoo/hqdefault.jpg" />
+    </item>
+    <item>
+      <title>Reaction to BAND-MAID - 'Honkai' Spin Off Live</title>
+      <link>https://youtu.be/2d58y9tM63Y</link>
+      <guid isPermaLink="false">yt:video:2d58y9tM63Y</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:33 GMT</pubDate>
+      <dc:creator>CoachCastTV</dc:creator>
+      <category>CoachCastTV</category>
+      <description><![CDATA[<p><a href="https://youtu.be/2d58y9tM63Y"><img src="https://i.ytimg.com/vi/2d58y9tM63Y/hqdefault.jpg" alt="thumbnail"/></a></p><p>Channel: CoachCastTV<br/>Duration: 00:10:47<br/>Views at discovery: 39</p>]]></description>
+      <media:thumbnail url="https://i.ytimg.com/vi/2d58y9tM63Y/hqdefault.jpg" />
+    </item>
     <item>
       <title>Band Maid - Reload</title>
       <link>https://youtu.be/RhqQwJcjEE4</link>
