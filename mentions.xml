@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 22:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 23:12:30 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I'm also a fan of Poppy and BAND-MAID. Great choices!</title>
+      <link>https://bsky.app/profile/did:plc:4su6g6lkdtlvroqjtdl3datu/post/3n2hlflztts2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:4su6g6lkdtlvroqjtdl3datu/post/3n2hlflztts2n</guid>
+      <pubDate>Mon, 16 Nov 2026 22:31:34 GMT</pubDate>
+      <dc:creator>Boots_33 (boots33.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I&#39;m also a fan of Poppy and BAND-MAID. Great choices!</p><p><em>BlueSky &middot; boots33.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I have unironically heard of this band because the drummer for my favorite ba...</title>
       <link>https://bsky.app/profile/did:plc:6q2rjm4uxwxo2vapzhfjokhf/post/3n2hhe3uwks2z</link>
@@ -899,15 +908,6 @@
       <dc:creator>Fionnbharr (fionnbharr.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Today&#39;s music:<br/><br/>BAND-MAID / SUPER SUNSHINE <br/><br/>youtu.be/LwbXcAY0lhU<br/><br/>#rock #HardRock #japan #music #np #NowPlaying  #MusicSky</p><p><em>BlueSky &middot; fionnbharr.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Rock in me</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzueh4fuy22u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzueh4fuy22u</guid>
-      <pubDate>Mon, 09 Nov 2026 07:06:33 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Rock in me<br/>Album: WORLD DOMINATION<br/>Release: 2/13/2018<br/>Music: BAND-MAID TIENOWA<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID TIENOWA<br/>1st Live:4/3/2018<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
