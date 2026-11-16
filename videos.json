@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3YwUMpvqg_c",
+        "Title":  "本懐 / BAND-MAID Guiter cover",
+        "Channel":  "やよいちゃんとギター",
+        "ChannelId":  "UCun3InwpfJStruK_hpn1fcQ",
+        "Url":  "https://youtu.be/3YwUMpvqg_c",
+        "Thumbnail":  "https://i.ytimg.com/vi/3YwUMpvqg_c/hqdefault.jpg",
+        "PublishedAt":  "2026-11-16T08:46:54.0000000Z",
+        "DiscoveredAt":  "2026-11-16T08:51:30.7557419Z",
+        "Duration":  "00:03:27",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "5FowAmWJiTA",
         "Title":  "【BAND-MAID】2026.11.7/14　ABCラジオ「真夜中のカルチャーBOY」",
         "Channel":  "佐々木20XX",
