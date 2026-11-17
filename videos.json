@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "WmssecV4_1c",
+        "Title":  "First Time Reaction - Band-Maid - Unleash | Official Live Video",
+        "Channel":  "Tristan Reacts",
+        "ChannelId":  "UCucnXR4qmpfnEsPUMSnE_Gw",
+        "Url":  "https://youtu.be/WmssecV4_1c",
+        "Thumbnail":  "https://i.ytimg.com/vi/WmssecV4_1c/hqdefault.jpg",
+        "PublishedAt":  "2026-11-17T12:00:23.0000000Z",
+        "DiscoveredAt":  "2026-11-17T12:17:22.6138961Z",
+        "Duration":  "00:13:20",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "eh015df-K2E",
+        "Title":  "BAND-MAID - SPIN 🔥 THIS ROCK ENERGY IS INSANE! | REACTION",
+        "Channel":  "Philiminizzy Reacts",
+        "ChannelId":  "UCrJvtjKiF9ticFEVRTVUfhA",
+        "Url":  "https://youtu.be/eh015df-K2E",
+        "Thumbnail":  "https://i.ytimg.com/vi/eh015df-K2E/hqdefault.jpg",
+        "PublishedAt":  "2026-11-17T12:00:11.0000000Z",
+        "DiscoveredAt":  "2026-11-17T12:17:20.6875399Z",
+        "Duration":  "00:07:11",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1U149hF2T90",
         "Title":  "BAND-MAID「SPIN」発売記念パネル展 バンドメイド",
         "Channel":  "ぽーずまる Japanese Animation Guide",
