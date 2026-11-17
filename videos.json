@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ivw2-xem3eg",
+        "Title":  "Kanami Composed the Music, Saiki Wrote the Lyrics: BAND-MAID’s Song for NEK!",
+        "Channel":  "Venus Gaijin",
+        "ChannelId":  "UCzXt_lAr9Nvi3-3RfaSmh_Q",
+        "Url":  "https://youtu.be/ivw2-xem3eg",
+        "Thumbnail":  "https://i.ytimg.com/vi/ivw2-xem3eg/hqdefault.jpg",
+        "PublishedAt":  "2026-11-17T03:30:38.0000000Z",
+        "DiscoveredAt":  "2026-11-17T03:48:59.5913307Z",
+        "Duration":  "00:08:07",
+        "ViewsAtDiscovery":  20,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "97lgKR5srf4",
         "Title":  "WHY DO I TASTE LETTUCE??? - A BAND-MAID RECAP",
         "Channel":  "MAID NEWS NETWORK",
