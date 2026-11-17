@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "tUSbB8ozLEs",
+        "Title":  "BAND-MAID / SPIN (Anime \"BEYBLADE X\" Ending Theme Song) Band Cover by KABAANEKO",
+        "Channel":  "カバー猫 KABAANEKO",
+        "ChannelId":  "UCZc9vQ2k1WJfpUVYrX-XzXA",
+        "Url":  "https://youtu.be/tUSbB8ozLEs",
+        "Thumbnail":  "https://i.ytimg.com/vi/tUSbB8ozLEs/hqdefault.jpg",
+        "PublishedAt":  "2026-11-17T14:47:48.0000000Z",
+        "DiscoveredAt":  "2026-11-17T15:48:50.2948857Z",
+        "Duration":  "00:03:42",
+        "ViewsAtDiscovery":  25,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Mpsepc2hbnc",
+        "Title":  "Band-Maid Budokan Recap 2026 #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/Mpsepc2hbnc",
+        "Thumbnail":  "https://i.ytimg.com/vi/Mpsepc2hbnc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-17T14:39:20.0000000Z",
+        "DiscoveredAt":  "2026-11-17T15:48:49.1012999Z",
+        "Duration":  "00:42:57",
+        "ViewsAtDiscovery":  165,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vQrq60SJ6BE",
         "Title":  "BAND-MAID / SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song Reaction ft. Emma",
         "Channel":  "Tim Overman",
