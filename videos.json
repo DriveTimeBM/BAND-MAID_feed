@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "WLiwzwqNrqY",
+        "Title":  "Band Maid ZEN The Wiltern",
+        "Channel":  "Music by the 90's Rock band Joshua's Shadow.",
+        "ChannelId":  "UCyNhQzvV0m1F6UDcDMvSzyw",
+        "Url":  "https://youtu.be/WLiwzwqNrqY",
+        "Thumbnail":  "https://i.ytimg.com/vi/WLiwzwqNrqY/hqdefault.jpg",
+        "PublishedAt":  "2026-11-17T08:00:32.0000000Z",
+        "DiscoveredAt":  "2026-11-17T08:45:51.1489290Z",
+        "Duration":  "00:03:48",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "iBFrvWf7ekc",
+        "Title":  "Last New BAND-MAID!! Reacting to Spring Ephermeral!!",
+        "Channel":  "Adventura",
+        "ChannelId":  "UCkJkuW8Cqs0Ceifr24KrTmA",
+        "Url":  "https://youtu.be/iBFrvWf7ekc",
+        "Thumbnail":  "https://i.ytimg.com/vi/iBFrvWf7ekc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-17T08:00:00.0000000Z",
+        "DiscoveredAt":  "2026-11-17T08:45:50.0556527Z",
+        "Duration":  "00:10:51",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dn3JGNeUP1s",
         "Title":  "🔥 BAND-MAID 2027重大発表！武道館ライブ映像＆世界ツアー密着ドキュメンタリー発売決定！",
         "Channel":  "Japan All news",
