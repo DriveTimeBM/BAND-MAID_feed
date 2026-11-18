@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "L7oEUK-I7bo",
+        "Title":  "Episode 7 : Band-Maid @ Budokan (1st try got blocked)",
+        "Channel":  "Dave 4Real",
+        "ChannelId":  "UCh2WK-cCtuubLWuuFZVhRpA",
+        "Url":  "https://youtu.be/L7oEUK-I7bo",
+        "Thumbnail":  "https://i.ytimg.com/vi/L7oEUK-I7bo/hqdefault.jpg",
+        "PublishedAt":  "2026-11-18T00:56:49.0000000Z",
+        "DiscoveredAt":  "2026-11-18T00:58:54.8061418Z",
+        "Duration":  "00:05:43",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "tbwwHSwGbmU",
+        "Title":  "#113 BAND-MAID / The one - BAND-MAID REACTION - ULTIMATE BAND-MAID RANKING",
+        "Channel":  "K-Ross Reacts",
+        "ChannelId":  "UCgZXTOINoEGu3tK9kVdRj6Q",
+        "Url":  "https://youtu.be/tbwwHSwGbmU",
+        "Thumbnail":  "https://i.ytimg.com/vi/tbwwHSwGbmU/hqdefault.jpg",
+        "PublishedAt":  "2026-11-18T00:30:09.0000000Z",
+        "DiscoveredAt":  "2026-11-18T00:58:52.6645793Z",
+        "Duration":  "00:12:24",
+        "ViewsAtDiscovery":  43,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "OWXsYY_8cwc",
         "Title":  "【BAND-MAID】初の武道館すら狭すぎる…！？SAIKIの第一声で会場が染まったDay1の衝撃🔥【ネタバレなし感想】 #bandmaid",
         "Channel":  "tetsu_guitar",
