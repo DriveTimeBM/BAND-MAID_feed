@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "QYctMYUE6SQ",
+        "Title":  "VTUBER REACTS | BAND-MAID / Thrill (スリル) (Official Live Video)",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/QYctMYUE6SQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/QYctMYUE6SQ/hqdefault.jpg",
+        "PublishedAt":  "2026-11-18T19:05:14.0000000Z",
+        "DiscoveredAt":  "2026-11-18T20:46:30.0844897Z",
+        "Duration":  "00:04:55",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "vr2Sk4MHNDo",
         "Title":  "Should I Even Listen To Another BAND-MAID Song?! | Domination LIVE (Reaction)",
         "Channel":  "BTReactsMusic",
