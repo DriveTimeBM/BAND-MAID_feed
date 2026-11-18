@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "nld8vf8CC74",
+        "Title":  "VTUBER REACTS | BAND-MAID / Don’t you tell ME (Official Live Video)",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/nld8vf8CC74",
+        "Thumbnail":  "https://i.ytimg.com/vi/nld8vf8CC74/hqdefault.jpg",
+        "PublishedAt":  "2026-11-18T17:41:24.0000000Z",
+        "DiscoveredAt":  "2026-11-18T18:34:37.3926553Z",
+        "Duration":  "00:08:05",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "w57COkryfhA",
         "Title":  "WHAT IS THIS BAND?! 😱 BAND-MAID Just BLEW MY MIND! | ALONE Reaction",
         "Channel":  "DORCAS' REACT",
