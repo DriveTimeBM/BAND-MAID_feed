@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "OWXsYY_8cwc",
+        "Title":  "【BAND-MAID】初の武道館すら狭すぎる…！？SAIKIの第一声で会場が染まったDay1の衝撃🔥【ネタバレなし感想】 #bandmaid",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/OWXsYY_8cwc",
+        "Thumbnail":  "https://i.ytimg.com/vi/OWXsYY_8cwc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-17T22:00:39.0000000Z",
+        "DiscoveredAt":  "2026-11-18T00:27:39.5302014Z",
+        "Duration":  "00:01:04",
+        "ViewsAtDiscovery":  158,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "x6SS1wy9Jr4",
+        "Title":  "【BAND-MAID】武道館2Days完走！2027年はライブ休止でも新曲リリースへ",
+        "Channel":  "J-POP速報ステーション",
+        "ChannelId":  "UCeIfom3a2ICKwhbPK0KgCVQ",
+        "Url":  "https://youtu.be/x6SS1wy9Jr4",
+        "Thumbnail":  "https://i.ytimg.com/vi/x6SS1wy9Jr4/hqdefault.jpg",
+        "PublishedAt":  "2026-11-17T21:58:06.0000000Z",
+        "DiscoveredAt":  "2026-11-18T00:27:35.7322997Z",
+        "Duration":  "00:07:04",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "E5knziJhc70",
         "Title":  "My First BAND-MAID Concert! 🇯🇵 | 2026 Nippon Budokan Concert Review & Song Tier List 🤍",
         "Channel":  "roxidoki",
