@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2iciJYVBJxY",
+        "Title":  "BAND-MAID / WORLD TOUR 2026 FINAL NIPPON BUDOKAN (Day2) Fan Edition",
+        "Channel":  "shin.ultra8",
+        "ChannelId":  "UCGlVqoo8AeLf-3oAmEFuNTA",
+        "Url":  "https://youtu.be/2iciJYVBJxY",
+        "Thumbnail":  "https://i.ytimg.com/vi/2iciJYVBJxY/hqdefault.jpg",
+        "PublishedAt":  "2026-11-18T09:00:11.0000000Z",
+        "DiscoveredAt":  "2026-11-18T09:05:56.5026085Z",
+        "Duration":  "01:26:58",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "aG5aif9j3LU",
+        "Title":  "BAND-MAID SAIKI×KANAMIがNEK!「GOLD」プロデュース!武道館で初披露",
+        "Channel":  "音楽の今",
+        "ChannelId":  "UCJb8w5c9gqNzyKpQ9vri0RA",
+        "Url":  "https://youtu.be/aG5aif9j3LU",
+        "Thumbnail":  "https://i.ytimg.com/vi/aG5aif9j3LU/hqdefault.jpg",
+        "PublishedAt":  "2026-11-18T08:56:27.0000000Z",
+        "DiscoveredAt":  "2026-11-18T09:05:54.5463025Z",
+        "Duration":  "00:08:00",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "9mIkzS6VYsk",
         "Title":  "UM... WHAT... - Manners Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
