@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Xy2V3XJCIZ0",
+        "Title":  "VTUBER REACTS to BAND-MAID / Puzzle (Official Live Video) | My Favorite So Far?",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/Xy2V3XJCIZ0",
+        "Thumbnail":  "https://i.ytimg.com/vi/Xy2V3XJCIZ0/hqdefault.jpg",
+        "PublishedAt":  "2026-11-18T14:37:26.0000000Z",
+        "DiscoveredAt":  "2026-11-18T14:41:38.9496722Z",
+        "Duration":  "00:09:02",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "LOm3vK5rC1c",
+        "Title":  "BAND-MAID – HATE? (Live) | That Guitar & Bass Duel Was INSANE! 🎸 | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/LOm3vK5rC1c",
+        "Thumbnail":  "https://i.ytimg.com/vi/LOm3vK5rC1c/hqdefault.jpg",
+        "PublishedAt":  "2026-11-18T14:20:57.0000000Z",
+        "DiscoveredAt":  "2026-11-18T14:41:36.1891700Z",
+        "Duration":  "00:09:59",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3QcCxZF2w0s",
         "Title":  "BAND-MAID – Magie (Live) | That Crowd Energy Is Everything! 🎸 | VTUBER REACTS",
         "Channel":  "LunariaTheIdol",
