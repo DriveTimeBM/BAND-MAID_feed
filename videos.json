@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3QcCxZF2w0s",
+        "Title":  "BAND-MAID – Magie (Live) | That Crowd Energy Is Everything! 🎸 | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/3QcCxZF2w0s",
+        "Thumbnail":  "https://i.ytimg.com/vi/3QcCxZF2w0s/hqdefault.jpg",
+        "PublishedAt":  "2026-11-18T14:07:11.0000000Z",
+        "DiscoveredAt":  "2026-11-18T14:10:17.2641724Z",
+        "Duration":  "00:05:49",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "rJoXzZyTVsQ",
+        "Title":  "KANAMI vs. MISA?! 🤯🔥 | BAND-MAID “HATE?” Live Reaction",
+        "Channel":  "Shep Talk",
+        "ChannelId":  "UCmbsJeIg5WD0RSMuHV5v4Vw",
+        "Url":  "https://youtu.be/rJoXzZyTVsQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/rJoXzZyTVsQ/hqdefault.jpg",
+        "PublishedAt":  "2026-11-18T14:00:34.0000000Z",
+        "DiscoveredAt":  "2026-11-18T14:10:13.7415466Z",
+        "Duration":  "00:09:09",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "deI9her7e8k",
         "Title":  "BAND-MAID WORLD TOUR 2026 - Budokan Day 2 Recap Video",
         "Channel":  "Nin puzzle",
