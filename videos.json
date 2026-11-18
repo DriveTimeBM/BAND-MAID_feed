@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "9mIkzS6VYsk",
+        "Title":  "UM... WHAT... - Manners Band Maid REACTION",
+        "Channel":  "TheLuigiReactor",
+        "ChannelId":  "UCi-NJmj7xZMotUefmF8zP2g",
+        "Url":  "https://youtu.be/9mIkzS6VYsk",
+        "Thumbnail":  "https://i.ytimg.com/vi/9mIkzS6VYsk/hqdefault.jpg",
+        "PublishedAt":  "2026-11-17T22:00:13.0000000Z",
+        "DiscoveredAt":  "2026-11-18T08:46:21.7842932Z",
+        "Duration":  "00:04:31",
+        "ViewsAtDiscovery":  7,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "VpAlWloKY5I",
         "Title":  "Band-Maid and NEK! 2026",
         "Channel":  "Andy's music room",
