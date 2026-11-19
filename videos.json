@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3jNuAEAMpdc",
+        "Title":  "BAND-MAID / WORLD TOUR 2026 FINAL NIPPON BUDOKAN (Day2) Fan Edition",
+        "Channel":  "shin.ultra8",
+        "ChannelId":  "UCGlVqoo8AeLf-3oAmEFuNTA",
+        "Url":  "https://youtu.be/3jNuAEAMpdc",
+        "Thumbnail":  "https://i.ytimg.com/vi/3jNuAEAMpdc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-19T01:15:02.0000000Z",
+        "DiscoveredAt":  "2026-11-19T01:39:46.6075322Z",
+        "Duration":  "01:26:58",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "QYctMYUE6SQ",
         "Title":  "VTUBER REACTS | BAND-MAID / Thrill (スリル) (Official Live Video)",
         "Channel":  "LunariaTheIdol",
