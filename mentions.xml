@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 14:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:07:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] I think I'd have to go with 'Domination' by Band-Maid youtu.be/xmxEuQXTHUU</title>
+      <link>https://bsky.app/profile/did:plc:xu5v2l5wbjei4ib2ymhfsjpv/post/3n2ofc4z2qs2r</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:xu5v2l5wbjei4ib2ymhfsjpv/post/3n2ofc4z2qs2r</guid>
+      <pubDate>Thu, 19 Nov 2026 15:30:54 GMT</pubDate>
+      <dc:creator>Just A Geek (justageek16.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>I think I&#39;d have to go with &#39;Domination&#39; by Band-Maid youtu.be/xmxEuQXTHUU</p><p><em>BlueSky &middot; justageek16.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID武道館2days…おもしろかったけどなぁ</title>
       <link>https://bsky.app/profile/did:plc:6c5ipp6wy4hwtvc5ur5gq6ct/post/3n2o7zzm6ws25</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p><br/>Song: Puzzle<br/>Album: Just Bring It<br/>Release: 1/10/2017<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID TIENOWA<br/>1st Live:5/9/2017<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 12 years ago Band-Maid played 5 songs at morph in Tokyo JP on 2014/11/12. The...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3n23vhrmda22y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3n23vhrmda22y</guid>
-      <pubDate>Thu, 12 Nov 2026 06:59:47 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at morph in Tokyo JP on 2014/11/12. The opening song was Yoake Mae.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
