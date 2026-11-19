@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 16:07:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 22:58:53 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] They’ve been around 13 years now, so not completely new, but their musiciansh...</title>
+      <link>https://bsky.app/profile/did:plc:6atr7qgwbbx67qrkpnyiocdv/post/3n2p42ei7lk2i</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6atr7qgwbbx67qrkpnyiocdv/post/3n2p42ei7lk2i</guid>
+      <pubDate>Thu, 19 Nov 2026 22:18:09 GMT</pubDate>
+      <dc:creator>Simeon K Rabbani (slkrr9.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>They’ve been around 13 years now, so not completely new, but their musicianship is out of this world!</p><p><em>BlueSky &middot; slkrr9.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] I think I'd have to go with 'Domination' by Band-Maid youtu.be/xmxEuQXTHUU</title>
       <link>https://bsky.app/profile/did:plc:xu5v2l5wbjei4ib2ymhfsjpv/post/3n2ofc4z2qs2r</link>
@@ -899,15 +908,6 @@
       <dc:creator>CatUberMona 🚗🐈‍⬛🥡IN JAPAN NOV 11-18! (catubermona.vtubers.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND MAID TICKETS FOR TOMORROW GET!!!</p><p><em>BlueSky &middot; catubermona.vtubers.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: Puzzle</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n23vtuhdg62d</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n23vtuhdg62d</guid>
-      <pubDate>Thu, 12 Nov 2026 07:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: Puzzle<br/>Album: Just Bring It<br/>Release: 1/10/2017<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID TIENOWA<br/>1st Live:5/9/2017<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
