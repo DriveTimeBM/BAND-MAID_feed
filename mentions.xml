@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 08:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:08:04 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID-"Big Dad"</title>
+      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3n2miqifnxc2w</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3n2miqifnxc2w</guid>
+      <pubDate>Wed, 18 Nov 2026 21:27:17 GMT</pubDate>
+      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID-&quot;Big Dad&quot;<br/><br/>youtu.be/tOipIEHAQYY</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Go easy</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n2kynfpamz2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I hoped, when Band-Maid announced a year off in 2027, that they would be helping younger bands be their very best and it seems like they are giving NEK! some help in this new short.<br/><br/>Wish I could be at the Budokan show to see NEK! support Band-Maid.<br/><br/>www.youtube.com/shorts/j3pXB...</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] hosen.</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzzff3mw5y2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3mzzff3mw5y2n</guid>
-      <pubDate>Wed, 11 Nov 2026 07:06:37 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>hosen.<br/><br/>Kobato: The song was created starting from there po.<br/><br/>Saiki: There was some rearranging but it was created with no requirements.<br/><br/>— Band-Maid&#39;s newest &quot;mode&quot; came out on this song?<br/><br/>Saiki: Kanami wanted a song like this for the &quot;servings&quot;. When creating the setlists, she would often be befud</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
