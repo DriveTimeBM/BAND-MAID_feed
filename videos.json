@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "N-oXA02_i8k",
+        "Title":  "BAND-MAID at Nippon Budokan 2026 – A Dream Finally Realized",
+        "Channel":  "Shadic",
+        "ChannelId":  "UCED_h9EvpATVUh-ZC49AW8A",
+        "Url":  "https://youtu.be/N-oXA02_i8k",
+        "Thumbnail":  "https://i.ytimg.com/vi/N-oXA02_i8k/hqdefault.jpg",
+        "PublishedAt":  "2026-11-19T17:32:21.0000000Z",
+        "DiscoveredAt":  "2026-11-19T17:39:10.8384423Z",
+        "Duration":  "00:03:27",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "uHgeCk0TFuE",
         "Title":  "BAND-MAID Did a YU-GI-OH Ending?! | BAND-MAID - glory Reaction (Yu-Gi-Oh! VRAINS ED 4)",
         "Channel":  "Velo City Anime",
