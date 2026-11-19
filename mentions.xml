@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 00:08:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:44:41 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://m...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n2n36nfosg2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n2n36nfosg2o</guid>
+      <pubDate>Thu, 19 Nov 2026 02:57:19 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Why Why Why by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] BAND-MAID-"Big Dad"</title>
       <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3n2miqifnxc2w</link>
@@ -899,15 +908,6 @@
       <dc:creator>Bob Sacemano (bobsacemano.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Freedom - Band Maid<br/>these girls are great. <br/>www.youtube.com/watch?v=FHpu...</p><p><em>BlueSky &middot; bobsacemano.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I hoped, when Band-Maid announced a year off in 2027, that they would be help...</title>
-      <link>https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mzzzzbfk6c25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:dcfkiro6sicedw7zkuxahc6x/post/3mzzzzbfk6c25</guid>
-      <pubDate>Wed, 11 Nov 2026 13:15:50 GMT</pubDate>
-      <dc:creator>-Roboto-Chan- (roboto-chan.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I hoped, when Band-Maid announced a year off in 2027, that they would be helping younger bands be their very best and it seems like they are giving NEK! some help in this new short.<br/><br/>Wish I could be at the Budokan show to see NEK! support Band-Maid.<br/><br/>www.youtube.com/shorts/j3pXB...</p><p><em>BlueSky &middot; roboto-chan.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
