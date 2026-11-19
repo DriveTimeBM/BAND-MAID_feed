@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 08:48:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:35:24 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID武道館2days…おもしろかったけどなぁ</title>
+      <link>https://bsky.app/profile/did:plc:6c5ipp6wy4hwtvc5ur5gq6ct/post/3n2o7zzm6ws25</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6c5ipp6wy4hwtvc5ur5gq6ct/post/3n2o7zzm6ws25</guid>
+      <pubDate>Thu, 19 Nov 2026 13:56:53 GMT</pubDate>
+      <dc:creator>みゅーた (verticaloooz.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID武道館2days…おもしろかったけどなぁ<br/>そら曲やってくれるのもいいけど私たち客側と彼女達の休憩もあっていいし、グッズの紹介もあってもいい(主にさいちゃんがこだわってるんだし)<br/>全員が良しと思えるのって逆に作れるん？あのnoteの主様はそんなモノ書ける？？<br/><br/>極論だけど嫌なら家でBD見てた方がいいんやない？と思ってまう<br/><br/>どの界隈も、好きなら何言ってもいいなんて無いよ</p><p><em>BlueSky &middot; verticaloooz.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] een having more songs like that since Secret My lips, right?</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n2nj4motso26</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>12 years ago Band-Maid played 5 songs at morph in Tokyo JP on 2014/11/12. The opening song was Yoake Mae.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago Band-Maid played 13 songs at SHIBUYA CYCLONE in Tokyo JP on 2016...</title>
-      <link>https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3n23vhq5g7s2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tg26deqkqll7rkuviggyygai/post/3n23vhq5g7s2q</guid>
-      <pubDate>Thu, 12 Nov 2026 06:59:45 GMT</pubDate>
-      <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago Band-Maid played 13 songs at SHIBUYA CYCLONE in Tokyo JP on 2016/11/12. The opening song was Thrill.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
