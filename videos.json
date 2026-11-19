@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gBuoc-SYEVc",
+        "Title":  "Beyblade Burst: All Season Anime Music Video (Edited by me) | SPIN – BAND-MAID",
+        "Channel":  "Pansoft18BBBDB",
+        "ChannelId":  "UC0AEVKmcuYHcnHogh6K-dsQ",
+        "Url":  "https://youtu.be/gBuoc-SYEVc",
+        "Thumbnail":  "https://i.ytimg.com/vi/gBuoc-SYEVc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-19T14:29:05.0000000Z",
+        "DiscoveredAt":  "2026-11-19T14:35:14.3768748Z",
+        "Duration":  "00:03:46",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rqyj8DXoj68",
         "Title":  "BAND-MAID 2026 World Tour - All Recap Videos",
         "Channel":  "Drive Time",
