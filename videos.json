@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "H_S96-QMtw0",
+        "Title":  "BAND-MAID – Warning! | They Came Out Swinging! | VTUBER REACTS (Live)",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/H_S96-QMtw0",
+        "Thumbnail":  "https://i.ytimg.com/vi/H_S96-QMtw0/hqdefault.jpg",
+        "PublishedAt":  "2026-11-20T21:21:16.0000000Z",
+        "DiscoveredAt":  "2026-11-20T21:40:48.0108980Z",
+        "Duration":  "00:07:28",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "TKjMgbE8TqQ",
+        "Title":  "BAND-MAID – without holding back | SAIKI on Keyboard?! | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/TKjMgbE8TqQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/TKjMgbE8TqQ/hqdefault.jpg",
+        "PublishedAt":  "2026-11-20T21:11:02.0000000Z",
+        "DiscoveredAt":  "2026-11-20T21:40:46.7807016Z",
+        "Duration":  "00:04:48",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "STOMZFohTuU",
         "Title":  "BAND-MAID – endless Story | This Live Performance Is Beautiful! | VTUBER REACTS",
         "Channel":  "LunariaTheIdol",
