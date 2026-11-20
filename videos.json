@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "zxe4LnT16Mc",
+        "Title":  "Band Maid BRIGHTEST STAR with Intro The Wiltern",
+        "Channel":  "Music by the 90's Rock band Joshua's Shadow.",
+        "ChannelId":  "UCyNhQzvV0m1F6UDcDMvSzyw",
+        "Url":  "https://youtu.be/zxe4LnT16Mc",
+        "Thumbnail":  "https://i.ytimg.com/vi/zxe4LnT16Mc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-20T08:00:26.0000000Z",
+        "DiscoveredAt":  "2026-11-20T08:45:47.6603280Z",
+        "Duration":  "00:05:42",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "AHDgGTSmjJ8",
+        "Title":  "Reacting to Zen by Band-Maid Including Tokyo Garden Live",
+        "Channel":  "The Smith House Reactions",
+        "ChannelId":  "UCfQeTYw5jS1UryRg8GN3_PQ",
+        "Url":  "https://youtu.be/AHDgGTSmjJ8",
+        "Thumbnail":  "https://i.ytimg.com/vi/AHDgGTSmjJ8/hqdefault.jpg",
+        "PublishedAt":  "2026-11-20T06:00:00.0000000Z",
+        "DiscoveredAt":  "2026-11-20T08:45:46.5987701Z",
+        "Duration":  "00:11:18",
+        "ViewsAtDiscovery":  32,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "eQKBVcsdCcc",
         "Title":  "UNQIUE, BUT FUN!! - Mirage Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
