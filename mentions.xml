@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 22:58:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:47:46 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID-"Warning!"</title>
+      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3n2pe6m45w22t</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3n2pe6m45w22t</guid>
+      <pubDate>Fri, 20 Nov 2026 00:43:41 GMT</pubDate>
+      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID-&quot;Warning!&quot;<br/><br/>Nothing but lies and<br/>Sham—it&#39;s all a blur<br/>My screams won&#39;t leave me<br/>Please save me<br/>Facing life&#39;s struggles with all I have<br/>In the end, whеre&#39;s it leading?<br/>No one knows<br/><br/>youtu.be/9yD3IqrLtPk</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] They’ve been around 13 years now, so not completely new, but their musiciansh...</title>
       <link>https://bsky.app/profile/did:plc:6atr7qgwbbx67qrkpnyiocdv/post/3n2p42ei7lk2i</link>
@@ -899,15 +908,6 @@
       <dc:creator>Sam Inglis (24fpsuk.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band Maid and NEK! in studio together. Could be just for some work on the Budokan support set, but I&#39;m wondering if this is a low key announcement of a collaborative track.</p><p><em>BlueSky &middot; 24fpsuk.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND MAID TICKETS FOR TOMORROW GET!!!</title>
-      <link>https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3n23y3rdhm22u</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3n23y3rdhm22u</guid>
-      <pubDate>Thu, 12 Nov 2026 07:46:46 GMT</pubDate>
-      <dc:creator>CatUberMona 🚗🐈‍⬛🥡IN JAPAN NOV 11-18! (catubermona.vtubers.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND MAID TICKETS FOR TOMORROW GET!!!</p><p><em>BlueSky &middot; catubermona.vtubers.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
