@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cr2Yja_O8Bg",
+        "Title":  "BAND-MAID – Manners + BLACK HOLE | From Groove to Absolute Chaos! | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/cr2Yja_O8Bg",
+        "Thumbnail":  "https://i.ytimg.com/vi/cr2Yja_O8Bg/hqdefault.jpg",
+        "PublishedAt":  "2026-11-20T21:49:46.0000000Z",
+        "DiscoveredAt":  "2026-11-20T22:11:37.6851753Z",
+        "Duration":  "00:09:59",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "H_S96-QMtw0",
         "Title":  "BAND-MAID – Warning! | They Came Out Swinging! | VTUBER REACTS (Live)",
         "Channel":  "LunariaTheIdol",
