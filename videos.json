@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "bpa0LJc17_o",
+        "Title":  "AKANE (BAND-MAID) | The Heartbeat of Japanese Rock – A Tribute to Akane Hirose",
+        "Channel":  "JAPANESE FEMALE ROCK",
+        "ChannelId":  "UCxR5uOW9FnJBfORKdazBfNw",
+        "Url":  "https://youtu.be/bpa0LJc17_o",
+        "Thumbnail":  "https://i.ytimg.com/vi/bpa0LJc17_o/hqdefault.jpg",
+        "PublishedAt":  "2026-11-20T20:43:59.0000000Z",
+        "DiscoveredAt":  "2026-11-20T20:46:11.4745101Z",
+        "Duration":  "00:07:25",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "f21CHCPu38A",
         "Title":  "QUEEN REACTS to BAND MAID – “SHAMBLES” 🤯🔥  THIS LIVE PERFORMANCE IS INSANE!",
         "Channel":  "QueenKafi",
