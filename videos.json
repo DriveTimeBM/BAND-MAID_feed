@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "YnACNunmdsc",
+        "Title":  "【BAND-MAID】Tour Final：武道館2days & また会う日まで【バンドメイド 】",
+        "Channel":  "ろっくんチャンネル",
+        "ChannelId":  "UCtuNE7NClFP7cBxQMrufDKQ",
+        "Url":  "https://youtu.be/YnACNunmdsc",
+        "Thumbnail":  "https://i.ytimg.com/vi/YnACNunmdsc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-21T10:15:07.0000000Z",
+        "DiscoveredAt":  "2026-11-21T11:25:51.9356869Z",
+        "Duration":  "00:04:09",
+        "ViewsAtDiscovery":  31,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Ku4cOgBO9HY",
+        "Title":  "BAND-MAID AKANE涙の武道館！今夜23:59で配信終了・2028年15周年に復活へ",
+        "Channel":  "音楽の今",
+        "ChannelId":  "UCJb8w5c9gqNzyKpQ9vri0RA",
+        "Url":  "https://youtu.be/Ku4cOgBO9HY",
+        "Thumbnail":  "https://i.ytimg.com/vi/Ku4cOgBO9HY/hqdefault.jpg",
+        "PublishedAt":  "2026-11-21T09:30:42.0000000Z",
+        "DiscoveredAt":  "2026-11-21T11:25:50.6213485Z",
+        "Duration":  "00:08:00",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "zTt7T-P8Z70",
         "Title":  "UTTERLY INCREDIBLE!! - Catharsis Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
