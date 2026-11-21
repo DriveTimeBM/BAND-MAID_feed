@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "WBwUEbQB59U",
+        "Title":  "BAND-MAID – onset | This Is Why I Love Instrumental Rock! | VTUBER REACTS",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/WBwUEbQB59U",
+        "Thumbnail":  "https://i.ytimg.com/vi/WBwUEbQB59U/hqdefault.jpg",
+        "PublishedAt":  "2026-11-20T21:01:24.0000000Z",
+        "DiscoveredAt":  "2026-11-21T00:13:51.2940930Z",
+        "Duration":  "00:05:04",
+        "ViewsAtDiscovery":  11,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cr2Yja_O8Bg",
         "Title":  "BAND-MAID – Manners + BLACK HOLE | From Groove to Absolute Chaos! | VTUBER REACTS",
         "Channel":  "LunariaTheIdol",
