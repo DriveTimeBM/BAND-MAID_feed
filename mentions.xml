@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 18:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:46:43 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] still thinking about the BANDMAID concert at the nippon budokan...ough.....re...</title>
+      <link>https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3n2rzppzfe22y</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:3sdakopebhgutjnzwnglprqq/post/3n2rzppzfe22y</guid>
+      <pubDate>Sat, 21 Nov 2026 02:14:24 GMT</pubDate>
+      <dc:creator>CatUberMona 🚗🐈‍⬛🥡IN JAPAN NOV 11-18! (catubermona.vtubers.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>still thinking about the BANDMAID concert at the nippon budokan...ough.....rent free in my mind....</p><p><em>BlueSky &middot; catubermona.vtubers.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 🎥 Our REACTION is live! There's something about watching these ladies absolu...</title>
       <link>https://bsky.app/profile/did:plc:hk2idltwd6wmwso4orsaevbf/post/3n2r4gpudpu2u</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>10 years ago Band-Maid played at UMBER in Shizuoka JP on 2016/11/13. The setlist is unknown.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 3 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3n26cdprw5w2o</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3n26cdprw5w2o</guid>
-      <pubDate>Fri, 13 Nov 2026 05:55:29 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>3 years ago<br/>Rinne MV<br/>milestone<br/>surpassed 2 million views<br/>2023/11/13<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
