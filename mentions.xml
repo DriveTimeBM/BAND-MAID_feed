@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 09:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:26:01 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Samstag gibts die neue EP Spin von Band Maid zu hören. 20 Uhr in Nippon Rockz!</title>
+      <link>https://bsky.app/profile/did:plc:zj5wzrt2kwcmvzjwxbj23kqb/post/3n2ss2zthbg2f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:zj5wzrt2kwcmvzjwxbj23kqb/post/3n2ss2zthbg2f</guid>
+      <pubDate>Sat, 21 Nov 2026 09:30:13 GMT</pubDate>
+      <dc:creator>Japanradio.de (japanradiode.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Samstag gibts die neue EP Spin von Band Maid zu h&#246;ren. 20 Uhr in Nippon Rockz!</p><p><em>BlueSky &middot; japanradiode.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] #jpop #jrock #idol #bandmaid #NEKI</title>
       <link>https://bsky.app/profile/did:plc:6sihfl3lwu5qkbjw4rfyt5m4/post/3n2sqhbftwk24</link>
@@ -899,15 +908,6 @@
       <dc:creator>𝗱𝗮𝗶𝘆𝗮 ୨୧ (daiya-3710.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Band-Maid final tour at Budokan (until 2028 I think?) and 15th anni Love Live Fest 2....I can&#39;t watch either of them (not because of the Stars merch) ╥﹏╥💔</p><p><em>BlueSky &middot; daiya-3710.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Spin / BAND-MAID</title>
-      <link>https://bsky.app/profile/did:plc:6hdfziurxheuwf46hqsjvfto/post/3n2aadcznok25</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:6hdfziurxheuwf46hqsjvfto/post/3n2aadcznok25</guid>
-      <pubDate>Sat, 14 Nov 2026 00:24:48 GMT</pubDate>
-      <dc:creator>kuma56 (kuma563.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Spin / BAND-MAID<br/>#nowplaying<br/>music.apple.com/jp/album/spi...</p><p><em>BlueSky &middot; kuma563.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
