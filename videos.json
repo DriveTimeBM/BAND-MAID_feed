@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "gYlqJ7CNHFk",
+        "Title":  "Band-Maid - anemone (drums backing track)",
+        "Channel":  "Drum Solo Tracks",
+        "ChannelId":  "UCCuIidv3ezvLAR-6DJBtd-w",
+        "Url":  "https://youtu.be/gYlqJ7CNHFk",
+        "Thumbnail":  "https://i.ytimg.com/vi/gYlqJ7CNHFk/hqdefault.jpg",
+        "PublishedAt":  "2026-11-22T23:38:11.0000000Z",
+        "DiscoveredAt":  "2026-11-22T23:39:49.9944228Z",
+        "Duration":  "00:04:26",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "O3BwuLGAVoI",
+        "Title":  "Band-Maid Spin Guitar Solo US Tour #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/O3BwuLGAVoI",
+        "Thumbnail":  "https://i.ytimg.com/vi/O3BwuLGAVoI/hqdefault.jpg",
+        "PublishedAt":  "2026-11-22T23:09:56.0000000Z",
+        "DiscoveredAt":  "2026-11-22T23:39:48.2125943Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  328,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "r9-5Md--mgk",
         "Title":  "WARNING, PEAK INCOMING!! - Warning! Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
