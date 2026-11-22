@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "-rJqJUwbRck",
+        "Title":  "I WAS NOT EXPECTING THIS 😳🤯| Band maid Instrumental performance Reaction ",
+        "Channel":  "Emmanuel React",
+        "ChannelId":  "UCkNErUXDroPLxu88rM4vGsg",
+        "Url":  "https://youtu.be/-rJqJUwbRck",
+        "Thumbnail":  "https://i.ytimg.com/vi/-rJqJUwbRck/hqdefault.jpg",
+        "PublishedAt":  "2026-11-22T14:24:17.0000000Z",
+        "DiscoveredAt":  "2026-11-22T14:45:04.3315785Z",
+        "Duration":  "00:06:25",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "kwk1qE0fpv4",
+        "Title":  "Thank you BAND-MAID！🖤WORLD TOUR 2026 Tour Final",
+        "Channel":  "Smiley Time スマイリータイム",
+        "ChannelId":  "UC_baaXG7DrT5_eC6lvIqPug",
+        "Url":  "https://youtu.be/kwk1qE0fpv4",
+        "Thumbnail":  "https://i.ytimg.com/vi/kwk1qE0fpv4/hqdefault.jpg",
+        "PublishedAt":  "2026-11-22T14:00:08.0000000Z",
+        "DiscoveredAt":  "2026-11-22T14:45:02.5606877Z",
+        "Duration":  "00:16:43",
+        "ViewsAtDiscovery":  295,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "lEbNgohIIXw",
         "Title":  "【BAND-MAID】endless Storyは、なぜエモくて、エンドレスに感じるのか。コード・リズム・楽器をバラバラにして、その正体を紐解きます。",
         "Channel":  "tetsu_guitar",
