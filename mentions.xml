@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 08:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 14:14:21 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n2vp5753mm2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n2vp5753mm2v</guid>
+      <pubDate>Sun, 22 Nov 2026 13:15:43 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] ding, the song still represents the original BAND-MAID-ishness, I think. An a...</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n2v2j2ywkj26</link>
@@ -899,15 +908,6 @@
       <dc:creator>Anyanymous (avanillagarden.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I got to see band-maid live through streaming, doing their final concert of 2026, at budokan... had the time of my life</p><p><em>BlueSky &middot; avanillagarden.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] お散歩で見た武道館はBAND-MAIDのお給仕でした！🎸生でReady to Rock聴いてみたいなー！</title>
-      <link>https://bsky.app/profile/did:plc:bhxa4osyjdpm6ij4l2k74u63/post/3n2ba5nqljs26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bhxa4osyjdpm6ij4l2k74u63/post/3n2ba5nqljs26</guid>
-      <pubDate>Sat, 14 Nov 2026 09:54:18 GMT</pubDate>
-      <dc:creator>もなみ🏆484 (monamibiz.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>お散歩で見た武道館はBAND-MAIDのお給仕でした！🎸生でReady to Rock聴いてみたいなー！</p><p><em>BlueSky &middot; monamibiz.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
