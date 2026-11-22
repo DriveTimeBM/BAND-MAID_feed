@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Z4GIMfPZJbg",
+        "Title":  "Band-Maid - The Dragon Cries [Legendado]",
+        "Channel":  "Forma Sonora",
+        "ChannelId":  "UCdySxZ4xTaiY_CSBgWasUiQ",
+        "Url":  "https://youtu.be/Z4GIMfPZJbg",
+        "Thumbnail":  "https://i.ytimg.com/vi/Z4GIMfPZJbg/hqdefault.jpg",
+        "PublishedAt":  "2026-11-22T15:45:26.0000000Z",
+        "DiscoveredAt":  "2026-11-22T15:46:24.8421557Z",
+        "Duration":  "00:04:17",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "KPN5vpaIVFI",
         "Title":  "BAND-MAID - DOMINATION - ELECTRIC BRIXTON - 4K",
         "Channel":  "John Snow",
