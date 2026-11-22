@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "B3EgnKzOvtk",
+        "Title":  "SPIN - BAND-MAID - ベース [TAB] Bass",
+        "Channel":  "Muya Rizal",
+        "ChannelId":  "UCxS_0_TYNXbjkcOkkZiyy9g",
+        "Url":  "https://youtu.be/B3EgnKzOvtk",
+        "Thumbnail":  "https://i.ytimg.com/vi/B3EgnKzOvtk/hqdefault.jpg",
+        "PublishedAt":  "2026-11-22T15:51:32.0000000Z",
+        "DiscoveredAt":  "2026-11-22T16:17:08.1609187Z",
+        "Duration":  "00:03:44",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Z4GIMfPZJbg",
         "Title":  "Band-Maid - The Dragon Cries [Legendado]",
         "Channel":  "Forma Sonora",
