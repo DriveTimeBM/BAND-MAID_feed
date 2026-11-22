@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "lEbNgohIIXw",
+        "Title":  "【BAND-MAID】endless Storyは、なぜエモくて、エンドレスに感じるのか。コード・リズム・楽器をバラバラにして、その正体を紐解きます。",
+        "Channel":  "tetsu_guitar",
+        "ChannelId":  "UCHMmTR4XfGpa4xaj-Ztn8aw",
+        "Url":  "https://youtu.be/lEbNgohIIXw",
+        "Thumbnail":  "https://i.ytimg.com/vi/lEbNgohIIXw/hqdefault.jpg",
+        "PublishedAt":  "2026-11-22T13:21:06.0000000Z",
+        "DiscoveredAt":  "2026-11-22T13:43:34.8267887Z",
+        "Duration":  "00:17:19",
+        "ViewsAtDiscovery":  18,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "2T6FietOjTE",
         "Title":  "BAND-MAID – FORWARD LIVE AT YOKOHAMA ARENA - 🇩🇰REACTION",
         "Channel":  "NielsensTV",
