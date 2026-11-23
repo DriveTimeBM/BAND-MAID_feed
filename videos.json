@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "blF8V6ZKve8",
+        "Title":  "Band-Maid (Mexico City) Travel Vlog | The Misinformed Adventures of a Metal Vocalist",
+        "Channel":  "JohnReavesLive",
+        "ChannelId":  "UCbcBmBTMsbLxYv-rOyPiRWw",
+        "Url":  "https://youtu.be/blF8V6ZKve8",
+        "Thumbnail":  "https://i.ytimg.com/vi/blF8V6ZKve8/hqdefault.jpg",
+        "PublishedAt":  "2026-11-23T00:00:23.0000000Z",
+        "DiscoveredAt":  "2026-11-23T00:10:40.0304156Z",
+        "Duration":  "00:34:23",
+        "ViewsAtDiscovery":  63,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "igOnOPq5tBY",
+        "Title":  "油断大敵‼︎ DOMINATION/BAND-MAID #コピーバンド #bandmaid",
+        "Channel":  "pam_nore",
+        "ChannelId":  "UCTNnq7RC5isYXsipijMSHBg",
+        "Url":  "https://youtu.be/igOnOPq5tBY",
+        "Thumbnail":  "https://i.ytimg.com/vi/igOnOPq5tBY/hqdefault.jpg",
+        "PublishedAt":  "2026-11-23T00:00:14.0000000Z",
+        "DiscoveredAt":  "2026-11-23T00:10:38.8063354Z",
+        "Duration":  "00:01:01",
+        "ViewsAtDiscovery":  53,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "gYlqJ7CNHFk",
         "Title":  "Band-Maid - anemone (drums backing track)",
         "Channel":  "Drum Solo Tracks",
