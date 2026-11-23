@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "RFB_-YYuQLo",
+        "Title":  "Band Maid Toi et moi extended intro The Wiltern",
+        "Channel":  "Music by the 90's Rock band Joshua's Shadow.",
+        "ChannelId":  "UCyNhQzvV0m1F6UDcDMvSzyw",
+        "Url":  "https://youtu.be/RFB_-YYuQLo",
+        "Thumbnail":  "https://i.ytimg.com/vi/RFB_-YYuQLo/hqdefault.jpg",
+        "PublishedAt":  "2026-11-23T08:00:01.0000000Z",
+        "DiscoveredAt":  "2026-11-23T08:46:56.2591469Z",
+        "Duration":  "00:05:45",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "ogmZuZMTlO0",
+        "Title":  "First Time Reaction - Band-Maid - Endless Story | Official Live Video",
+        "Channel":  "Tristan Reacts",
+        "ChannelId":  "UCucnXR4qmpfnEsPUMSnE_Gw",
+        "Url":  "https://youtu.be/ogmZuZMTlO0",
+        "Thumbnail":  "https://i.ytimg.com/vi/ogmZuZMTlO0/hqdefault.jpg",
+        "PublishedAt":  "2026-11-23T06:00:35.0000000Z",
+        "DiscoveredAt":  "2026-11-23T08:46:55.2331669Z",
+        "Duration":  "00:17:29",
+        "ViewsAtDiscovery":  23,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "z0GgpGAf-QE",
         "Title":  "BAND-MAID SHOWED ME THEIR SOFTER SIDE… AND I'M SPEECHLESS! 🥹❤️ | PAGE REACTION",
         "Channel":  "DORCAS' REACT",
