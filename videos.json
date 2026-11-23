@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "Jlesfmg5wgM",
+        "Title":  "'Hard Rock' done DIFFERENTLY | BAND-MAID 'Yolo' FIRST reaction",
+        "Channel":  "Did That Really Happen - DTRH",
+        "ChannelId":  "UCMy9rVGlMvD_Estj3I5OscQ",
+        "Url":  "https://youtu.be/Jlesfmg5wgM",
+        "Thumbnail":  "https://i.ytimg.com/vi/Jlesfmg5wgM/hqdefault.jpg",
+        "PublishedAt":  "2026-11-23T18:00:13.0000000Z",
+        "DiscoveredAt":  "2026-11-23T18:20:30.5285683Z",
+        "Duration":  "00:10:52",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Ano-ONuOZR0",
+        "Title":  "🔥 EXPLOSIVE GUITAR SOLO! BAND-MAID - I Still Seek Revenge (Live) Reaction! | MJLimey Reviews All",
+        "Channel":  "MJLimey Reviews All",
+        "ChannelId":  "UCRYC6-5K-gpNFS3h6D2T3Ww",
+        "Url":  "https://youtu.be/Ano-ONuOZR0",
+        "Thumbnail":  "https://i.ytimg.com/vi/Ano-ONuOZR0/hqdefault.jpg",
+        "PublishedAt":  "2026-11-23T18:00:06.0000000Z",
+        "DiscoveredAt":  "2026-11-23T18:20:28.5631056Z",
+        "Duration":  "00:08:50",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "PBHtZLFtKtI",
         "Title":  "BAND-MAID / Nov 22 2026 (23 Japan time)",
         "Channel":  "Nin puzzle",
