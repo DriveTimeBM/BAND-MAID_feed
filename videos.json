@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "PBHtZLFtKtI",
+        "Title":  "BAND-MAID / Nov 22 2026 (23 Japan time)",
+        "Channel":  "Nin puzzle",
+        "ChannelId":  "UCCZ3DnDT0dT1-5AuoEGN7GQ",
+        "Url":  "https://youtu.be/PBHtZLFtKtI",
+        "Thumbnail":  "https://i.ytimg.com/vi/PBHtZLFtKtI/hqdefault.jpg",
+        "PublishedAt":  "2026-11-23T16:21:15.0000000Z",
+        "DiscoveredAt":  "2026-11-23T16:45:57.4812805Z",
+        "Duration":  "00:01:41",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "AwfTe0HsaZA",
         "Title":  "BAND MAID MONDAY! Well, \"So, What\" If We Love This Song!? #BANDMAID",
         "Channel":  "WavesAcrossTheWater",
