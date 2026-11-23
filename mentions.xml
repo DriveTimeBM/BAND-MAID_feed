@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 14:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:22:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcani...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n2xcghrtsa2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n2xcghrtsa2v</guid>
+      <pubDate>Mon, 23 Nov 2026 04:33:35 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: Manners by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: After Life by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n2vp5753mm2v</link>
@@ -899,15 +908,6 @@
       <dc:creator>Thomas (zhykos.fr)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Five concerts I&#39;ve seen with women lead singers<br/><br/>Evanescence<br/>Babymetal<br/>Blackbriar<br/>Spiritbox<br/>Band Maid<br/><br/>And many more (I think they are my 5 favourites)</p><p><em>BlueSky &middot; zhykos.fr</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I got to see band-maid live through streaming, doing their final concert of 2...</title>
-      <link>https://bsky.app/profile/did:plc:erltgwsbrwsaaczshwkupsqi/post/3n2beie2sfk2x</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:erltgwsbrwsaaczshwkupsqi/post/3n2beie2sfk2x</guid>
-      <pubDate>Sat, 14 Nov 2026 11:11:52 GMT</pubDate>
-      <dc:creator>Anyanymous (avanillagarden.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I got to see band-maid live through streaming, doing their final concert of 2026, at budokan... had the time of my life</p><p><em>BlueSky &middot; avanillagarden.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
