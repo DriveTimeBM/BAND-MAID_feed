@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 08:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:55:04 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] "Slang rock" band NEK! will release their new digital single "GOLD", co-produ...</title>
+      <link>https://bsky.app/profile/did:plc:46oe4e4l4bpfsqg22aidsadq/post/3n2yymhur2s23</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:46oe4e4l4bpfsqg22aidsadq/post/3n2yymhur2s23</guid>
+      <pubDate>Mon, 23 Nov 2026 20:43:19 GMT</pubDate>
+      <dc:creator>JaME (English Version) (jameworld.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>&quot;Slang rock&quot; band NEK! will release their new digital single &quot;GOLD&quot;, co-produced by BAND-MAID&#39;s SAIKI and KANAMI, on December 16th.<br/><br/>#NEK #BANDMAID #jrock<br/><br/>www.jame-world.com/en/news/1729...</p><p><em>BlueSky &middot; jameworld.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: without holding back</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n2xky2y4jb2b</link>
@@ -899,15 +908,6 @@
       <dc:creator>音楽ナタリー (music.natalie.mu)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>BAND-MAID<br/>武道館ライブ終えて充電期間へ<br/>だけど来年も新曲と映像作品リリース<br/>https://natalie.mu/music/news/698084?utm_source=bluesky&amp;utm_medium=social<br/><br/>#bandmaid</p><p><em>BlueSky &middot; music.natalie.mu</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 📎 【ライブレポ】世界が熱狂したBAND-MAID、約1年のワールドツアーを日本武道館2daysで完走！映像作品発売&amp;新曲リリースも発表</title>
-      <link>https://bsky.app/profile/did:plc:7jrmrtzkxalkgerejxudybb6/post/3n2bpd5qbzk2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:7jrmrtzkxalkgerejxudybb6/post/3n2bpd5qbzk2n</guid>
-      <pubDate>Sat, 14 Nov 2026 14:25:49 GMT</pubDate>
-      <dc:creator>日刊エンタメクリップ (entameclip.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>📎 【ライブレポ】世界が熱狂したBAND-MAID、約1年のワールドツアーを日本武道館2daysで完走！映像作品発売&amp;新曲リリースも発表<br/><br/>【記事を読む】<br/>entameclip.com/news/493952/<br/><br/>#bandmaid  <br/><br/>Photo By MISAKI ITO</p><p><em>BlueSky &middot; entameclip.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
