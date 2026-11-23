@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "z0GgpGAf-QE",
+        "Title":  "BAND-MAID SHOWED ME THEIR SOFTER SIDE… AND I'M SPEECHLESS! 🥹❤️ | PAGE REACTION",
+        "Channel":  "DORCAS' REACT",
+        "ChannelId":  "UCoVXdbNEoVNi4BZplaEW9KQ",
+        "Url":  "https://youtu.be/z0GgpGAf-QE",
+        "Thumbnail":  "https://i.ytimg.com/vi/z0GgpGAf-QE/hqdefault.jpg",
+        "PublishedAt":  "2026-11-23T02:30:07.0000000Z",
+        "DiscoveredAt":  "2026-11-23T02:48:47.8774963Z",
+        "Duration":  "00:05:55",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cMPoyb1t18c",
         "Title":  "Band-Maid: MISA Talks About the Canceled Budokan Show and SAIKI Wants to Play in Brazil!",
         "Channel":  "Venus Gaijin",
