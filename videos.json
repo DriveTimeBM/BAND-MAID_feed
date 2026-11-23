@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "cMPoyb1t18c",
+        "Title":  "Band-Maid: MISA Talks About the Canceled Budokan Show and SAIKI Wants to Play in Brazil!",
+        "Channel":  "Venus Gaijin",
+        "ChannelId":  "UCzXt_lAr9Nvi3-3RfaSmh_Q",
+        "Url":  "https://youtu.be/cMPoyb1t18c",
+        "Thumbnail":  "https://i.ytimg.com/vi/cMPoyb1t18c/hqdefault.jpg",
+        "PublishedAt":  "2026-11-23T01:30:02.0000000Z",
+        "DiscoveredAt":  "2026-11-23T01:47:29.5973267Z",
+        "Duration":  "00:01:24",
+        "ViewsAtDiscovery":  24,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ez8gjq9TkyY",
         "Title":  "Ready to Rock – BAND-MAID Live in Chicago (2026) [Fan Cam] ライブ ファンカム",
         "Channel":  "Gaijin in the Pit",
