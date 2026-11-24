@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BTVugFqghew",
+        "Title":  "Music Teacher Reacts to BAND-MAID / SPIN (Anime \"BEYBLADE X\" Ending Theme Song) by KABAANEKO",
+        "Channel":  "Wave Potter Live",
+        "ChannelId":  "UCwvCMfZvYhtN9M9Hi_4CTXQ",
+        "Url":  "https://youtu.be/BTVugFqghew",
+        "Thumbnail":  "https://i.ytimg.com/vi/BTVugFqghew/hqdefault.jpg",
+        "PublishedAt":  "2026-11-24T17:27:42.0000000Z",
+        "DiscoveredAt":  "2026-11-24T18:52:14.6334253Z",
+        "Duration":  "00:06:21",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oB6vaH_9T8U",
         "Title":  "DON'T WORRY, MORE LIVE BAND!! - Band Maid Live Songs 2 Music Reactions 269",
         "Channel":  "TheLuigiReactor",
