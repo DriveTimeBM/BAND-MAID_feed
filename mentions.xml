@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 21:55:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 04:36:09 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] band-maid rips musically but their fans are a 1990s anime con. like lots and ...</title>
+      <link>https://bsky.app/profile/did:plc:fyru2bazyqgozsbbj6yvglhv/post/3n2zr3vrr2c2v</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:fyru2bazyqgozsbbj6yvglhv/post/3n2zr3vrr2c2v</guid>
+      <pubDate>Tue, 24 Nov 2026 04:01:27 GMT</pubDate>
+      <dc:creator>raiderdrjones.bsky.social</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>band-maid rips musically but their fans are a 1990s anime con. like lots and lots of &quot;I still play legend of the five rings&quot; looking dudes. it was a grim scene. but it&#39;s not their fault.</p><p><em>BlueSky &middot; raiderdrjones.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] "Slang rock" band NEK! will release their new digital single "GOLD", co-produ...</title>
       <link>https://bsky.app/profile/did:plc:46oe4e4l4bpfsqg22aidsadq/post/3n2yymhur2s23</link>
@@ -899,15 +908,6 @@
       <dc:creator>えつろう (etsu4446.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>2026.11.14<br/>BAND-MAID 日本武道館<br/>BAND-MAID WORLD TOUR 2026 FINAL NIPPON BUDOKAN DAY2</p><p><em>BlueSky &middot; etsu4446.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] BAND-MAID</title>
-      <link>https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3n2bpjf4ztt2i</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:bnb5jjzwow6pw5ndth5lpxgg/post/3n2bpjf4ztt2i</guid>
-      <pubDate>Sat, 14 Nov 2026 14:29:11 GMT</pubDate>
-      <dc:creator>音楽ナタリー (music.natalie.mu)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>BAND-MAID<br/>武道館ライブ終えて充電期間へ<br/>だけど来年も新曲と映像作品リリース<br/>https://natalie.mu/music/news/698084?utm_source=bluesky&amp;utm_medium=social<br/><br/>#bandmaid</p><p><em>BlueSky &middot; music.natalie.mu</em></p>]]></description>
     </item>
   </channel>
 </rss>
