@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "2OIBzEe297Y",
+        "Title":  "Japanese Rock Maids - First Time Listening to BAND MAID / DICE (Official Music Video) Reaction",
+        "Channel":  "CinesterCharlie",
+        "ChannelId":  "UCjHb78SUhVm80W14kr1eAXA",
+        "Url":  "https://youtu.be/2OIBzEe297Y",
+        "Thumbnail":  "https://i.ytimg.com/vi/2OIBzEe297Y/hqdefault.jpg",
+        "PublishedAt":  "2026-11-24T00:00:06.0000000Z",
+        "DiscoveredAt":  "2026-11-24T02:03:19.5757338Z",
+        "Duration":  "00:06:27",
+        "ViewsAtDiscovery":  142,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MMZo8NGKKng",
         "Title":  "BAND-MAID - Manners + BLACK HOLE LIVE Reaction | HOW DO THEY DO THIS?! 🤯🔥",
         "Channel":  "Nia Reacts",
