@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "BZ214IJBVxc",
+        "Title":  "Band-Maid - anemone (vocals backing track)",
+        "Channel":  "Vocal Resonance Solo Tracks",
+        "ChannelId":  "UCCybhvRf3id1IE_IAv_WHGw",
+        "Url":  "https://youtu.be/BZ214IJBVxc",
+        "Thumbnail":  "https://i.ytimg.com/vi/BZ214IJBVxc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-25T01:56:24.0000000Z",
+        "DiscoveredAt":  "2026-11-25T02:03:30.9556739Z",
+        "Duration":  "00:04:26",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "rcdcrBSGpPY",
         "Title":  "BAND-MAID REACTION! GEN Z ROCKHEAD REACTS TO ALONE BY BAND-MAID",
         "Channel":  "MilkySmokes",
