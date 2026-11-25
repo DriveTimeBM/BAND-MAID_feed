@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 17:10:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:41:00 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n35m3vfbtb2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n35m3vfbtb2n</guid>
+      <pubDate>Wed, 25 Nov 2026 16:42:36 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] るりちゃん！🍆🙏💕</title>
       <link>https://bsky.app/profile/did:plc:qr424crubitghw5dxprzzsai/post/3n35kqn2jtk2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>Tabby Lavalamp, Duchess of the Oort Cloud (aspirational) (tabbylavalamp.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Have you heard their collab with Band-Maid?</p><p><em>BlueSky &middot; tabbylavalamp.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Define your musical taste by naming four female artists:</title>
-      <link>https://bsky.app/profile/did:plc:cpkalp3nwg7ymq3zktndh3kx/post/3n2eqsdfkfs2q</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:cpkalp3nwg7ymq3zktndh3kx/post/3n2eqsdfkfs2q</guid>
-      <pubDate>Sun, 15 Nov 2026 19:30:11 GMT</pubDate>
-      <dc:creator>TDub says TRANS RIGHTS or GTFO (twkreviews.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Define your musical taste by naming four female artists:<br/><br/>In This Moment<br/>Hanabie.<br/>Evanescence<br/>Band-Maid</p><p><em>BlueSky &middot; twkreviews.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
