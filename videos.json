@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "0GRBdQXvLTk",
+        "Title":  "BAND-MAID – HIDE AND SEEK (LIVE) 😱 WHAT DID I JUST WITNESS?!",
+        "Channel":  "DORCAS' REACT",
+        "ChannelId":  "UCoVXdbNEoVNi4BZplaEW9KQ",
+        "Url":  "https://youtu.be/0GRBdQXvLTk",
+        "Thumbnail":  "https://i.ytimg.com/vi/0GRBdQXvLTk/hqdefault.jpg",
+        "PublishedAt":  "2026-11-25T15:00:27.0000000Z",
+        "DiscoveredAt":  "2026-11-25T17:09:47.9846682Z",
+        "Duration":  "00:03:28",
+        "ViewsAtDiscovery":  4,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "hTAYkpBvPqg",
         "Title":  "REACTION to BAND-MAID - SPIN (Official Music Video) Anime \"BEYBLADE X\" Ending Theme Song",
         "Channel":  "OlehandroZ",
