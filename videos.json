@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xUGVQNE5bTM",
+        "Title":  "BAND-MAID – Beauty of the Beast | BEAUTY AND BRUTAL TALENT?! First Ever Reaction!",
+        "Channel":  "Zack Reacts",
+        "ChannelId":  "UC8SLHBBA-UAM6GNR-z4Lw7A",
+        "Url":  "https://youtu.be/xUGVQNE5bTM",
+        "Thumbnail":  "https://i.ytimg.com/vi/xUGVQNE5bTM/hqdefault.jpg",
+        "PublishedAt":  "2026-11-25T14:29:54.0000000Z",
+        "DiscoveredAt":  "2026-11-25T15:02:36.7202779Z",
+        "Duration":  "00:10:49",
+        "ViewsAtDiscovery":  12,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "oG97BVukOsY",
         "Title":  "BAND-MAID IS TAKING OVER THE WORLD?! 🤯🔥 | “DOMINATION” MV Reaction",
         "Channel":  "Shep Talk",
