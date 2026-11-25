@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "xJx7fG6ua_s",
+        "Title":  "Band Maid at Radio FM802 Part 1",
+        "Channel":  "jmnassar",
+        "ChannelId":  "UCAtLK9VVMIL-3GY0tCAJaEw",
+        "Url":  "https://youtu.be/xJx7fG6ua_s",
+        "Thumbnail":  "https://i.ytimg.com/vi/xJx7fG6ua_s/hqdefault.jpg",
+        "PublishedAt":  "2026-11-25T12:47:15.0000000Z",
+        "DiscoveredAt":  "2026-11-25T12:57:05.5119248Z",
+        "Duration":  "00:10:44",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "MqrH2zCK-D8",
         "Title":  "Band-Maid - I can't live without you (bass backing track)",
         "Channel":  "Bass Pulsewave Minus Tracks",
