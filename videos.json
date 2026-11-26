@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "NpQSl_5N28c",
+        "Title":  "Band-Maid - Hate? (bass backing track)",
+        "Channel":  "Bass Solo Tracks",
+        "ChannelId":  "UC2SArcCVYiYprakPuCWeJXw",
+        "Url":  "https://youtu.be/NpQSl_5N28c",
+        "Thumbnail":  "https://i.ytimg.com/vi/NpQSl_5N28c/hqdefault.jpg",
+        "PublishedAt":  "2026-11-26T01:09:36.0000000Z",
+        "DiscoveredAt":  "2026-11-26T01:32:06.6397735Z",
+        "Duration":  "00:05:07",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ccZ3rT0c94s",
         "Title":  "I GO BALLASTIC TO THIS!! - CHEMICAL REACTION Band Maid REACTION",
         "Channel":  "TheLuigiReactor",
