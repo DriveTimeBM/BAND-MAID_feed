@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "IYJ9WVUbSrY",
+        "Title":  "BAND MAID Protect You Reaction",
+        "Channel":  "Jammer's Metal Mischief",
+        "ChannelId":  "UC2qJjs2b-eH7aYiQxaCdViw",
+        "Url":  "https://youtu.be/IYJ9WVUbSrY",
+        "Thumbnail":  "https://i.ytimg.com/vi/IYJ9WVUbSrY/hqdefault.jpg",
+        "PublishedAt":  "2026-11-26T14:26:40.0000000Z",
+        "DiscoveredAt":  "2026-11-26T14:29:06.8296473Z",
+        "Duration":  "00:06:15",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "GfxkNFXtTZQ",
+        "Title":  "Are LIVE Versions Really Better?! BAND-MAID + LOVEBITES 🎸 #bandmaid  #lovebites",
+        "Channel":  "LunariaTheIdol",
+        "ChannelId":  "UCtHfhJb3-oofzSEaooYqhng",
+        "Url":  "https://youtu.be/GfxkNFXtTZQ",
+        "Thumbnail":  "https://i.ytimg.com/vi/GfxkNFXtTZQ/hqdefault.jpg",
+        "PublishedAt":  "2026-11-26T14:17:55.0000000Z",
+        "DiscoveredAt":  "2026-11-26T14:29:03.5092354Z",
+        "Duration":  "00:19:01",
+        "ViewsAtDiscovery":  1,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "Ua5Vtd4tIvo",
         "Title":  "Band Maid CAGE The Wiltern",
         "Channel":  "Music by the 90's Rock band Joshua's Shadow.",
