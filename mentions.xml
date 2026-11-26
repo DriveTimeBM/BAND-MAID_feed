@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 00:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:06:03 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: htt...</title>
+      <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n36opjqkmb2n</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n36opjqkmb2n</guid>
+      <pubDate>Thu, 26 Nov 2026 03:02:02 GMT</pubDate>
+      <dc:creator>MCAnimeRadio (handle.invalid)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>Now playing on MCAnimeRadio: CHEMICAL REACTION by BAND-MAID! Tune in now: https://mcanimeradio.com</p><p><em>BlueSky &middot; handle.invalid</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] 🎸 NEK! lançará o single digital “GOLD” em 16 de dezembro! A música foi compo...</title>
       <link>https://bsky.app/profile/did:plc:s3fz3schntxmeoqvoqaqtqtp/post/3n36dxvfurk2o</link>
@@ -899,15 +908,6 @@
       <dc:creator>Scott S (scottms.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Define your musical tastes by naming four female artists<br/><br/>Babymetal <br/>Band-maid <br/>Taylor Swift<br/>Sheena Easton</p><p><em>BlueSky &middot; scottms.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] I will cheat and name four all-female bands.</title>
-      <link>https://bsky.app/profile/did:plc:d7vcmkoco2wya4p4udqy7xcl/post/3n2eqxnd2fs2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:d7vcmkoco2wya4p4udqy7xcl/post/3n2eqxnd2fs2y</guid>
-      <pubDate>Sun, 15 Nov 2026 19:33:09 GMT</pubDate>
-      <dc:creator>Graeme K Talboys (kiokiruhaiiro.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>I will cheat and name four all-female bands.<br/><br/>Band-Maid<br/>Lovebites<br/>Hanabie<br/>NEK!</p><p><em>BlueSky &middot; kiokiruhaiiro.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
