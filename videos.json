@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "3hzbzW3q6D4",
+        "Title":  "Wait, This Is LOG HORIZON?! | BAND-MAID - Different Reaction (Log Horizon Season 3 OP)",
+        "Channel":  "Velo City Anime",
+        "ChannelId":  "UCmC_anq7HgqX04eXipS7Xlg",
+        "Url":  "https://youtu.be/3hzbzW3q6D4",
+        "Thumbnail":  "https://i.ytimg.com/vi/3hzbzW3q6D4/hqdefault.jpg",
+        "PublishedAt":  "2026-11-26T15:00:23.0000000Z",
+        "DiscoveredAt":  "2026-11-26T15:00:36.7680555Z",
+        "Duration":  "00:06:12",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "IYJ9WVUbSrY",
         "Title":  "BAND MAID Protect You Reaction",
         "Channel":  "Jammer's Metal Mischief",
