@@ -1,6 +1,21 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "515AW5MqAEs",
+        "Title":  "BAND-MAID's ENTROPY & SPRING EPHEMERAL + NIPPON BUDOKAN REVIEW!🌸Reaction🌸",
+        "Channel":  "Faro & Sofi",
+        "ChannelId":  "UCLQzdUgHF9l_eybT3_Wo22A",
+        "Url":  "https://youtu.be/515AW5MqAEs",
+        "Thumbnail":  "https://i.ytimg.com/vi/515AW5MqAEs/hqdefault.jpg",
+        "PublishedAt":  "2026-11-26T16:00:13.0000000Z",
+        "DiscoveredAt":  "2026-11-26T16:01:54.9798229Z",
+        "Duration":  "00:36:34",
+        "ViewsAtDiscovery":  0,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "3hzbzW3q6D4",
         "Title":  "Wait, This Is LOG HORIZON?! | BAND-MAID - Different Reaction (Log Horizon Season 3 OP)",
         "Channel":  "Velo City Anime",
