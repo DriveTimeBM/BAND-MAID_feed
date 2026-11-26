@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 09:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:29:28 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID / SPIN (Official Music Video)  アニメ「BEYBLADE X ベイキングダム編」エンディングテ... y...</title>
+      <link>https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3n37shvfwvs2g</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:jc7omhjpdqznjiviqv2bvhuq/post/3n37shvfwvs2g</guid>
+      <pubDate>Thu, 26 Nov 2026 13:42:01 GMT</pubDate>
+      <dc:creator>さかざき(`^´69) (red-herring-11250.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID / SPIN (Official Music Video)  アニメ「BEYBLADE X ベイキングダム編」エンディングテ... youtu.be/Z7I13kDOoQk?...</p><p><em>BlueSky &middot; red-herring-11250.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] MISA is a Japanese bassist and musician who rose to prominence as a member of...</title>
       <link>https://bsky.app/profile/did:plc:k7rslm2hwgqb3o254t5g4uds/post/3n37cp42j262x</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Setlist Bot (bandmaidsetlistbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>7 years ago Band-Maid played 23 songs at EIGHT HALL in Kanazawa JP on 2019/11/16. The opening song was endless Story.</p><p><em>BlueSky &middot; bandmaidsetlistbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] 10 years ago</title>
-      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3n2ftqhjkil2n</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3n2ftqhjkil2n</guid>
-      <pubDate>Mon, 16 Nov 2026 05:55:29 GMT</pubDate>
-      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>10 years ago<br/>YOLO<br/>single<br/>released<br/>2016/11/16<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
