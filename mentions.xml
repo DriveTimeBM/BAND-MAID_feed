@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 17:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:29:05 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 🎸 NEK! lançará o single digital “GOLD” em 16 de dezembro! A música foi compo...</title>
+      <link>https://bsky.app/profile/did:plc:s3fz3schntxmeoqvoqaqtqtp/post/3n36dxvfurk2o</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:s3fz3schntxmeoqvoqaqtqtp/post/3n36dxvfurk2o</guid>
+      <pubDate>Wed, 25 Nov 2026 23:49:52 GMT</pubDate>
+      <dc:creator>JaME Brasil + KoME Brasil (jamebr.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>🎸 NEK! lan&#231;ar&#225; o single digital “GOLD” em 16 de dezembro! A m&#250;sica foi composta por KANAMI e escrita por SAIKI, integrantes da BAND-MAID.<br/>#NEK #BANDMAID #GOLD #JRock<br/><br/>🔗Saiba mais: www.jame-world.com/br/news/1729...</p><p><em>BlueSky &middot; jamebr.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Now playing on MCAnimeRadio: BLACK HOLE by BAND-MAID! Tune in now: https://mc...</title>
       <link>https://bsky.app/profile/did:plc:2rzmr3x5w335as2rmeueo7gp/post/3n35m3vfbtb2n</link>
@@ -899,15 +908,6 @@
       <dc:creator>Graeme K Talboys (kiokiruhaiiro.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>I will cheat and name four all-female bands.<br/><br/>Band-Maid<br/>Lovebites<br/>Hanabie<br/>NEK!</p><p><em>BlueSky &middot; kiokiruhaiiro.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Have you heard their collab with Band-Maid?</title>
-      <link>https://bsky.app/profile/did:plc:d7nv6ns6cl2bwmy2o4hmljti/post/3n2eqsl46yc2y</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:d7nv6ns6cl2bwmy2o4hmljti/post/3n2eqsl46yc2y</guid>
-      <pubDate>Sun, 15 Nov 2026 19:30:19 GMT</pubDate>
-      <dc:creator>Tabby Lavalamp, Duchess of the Oort Cloud (aspirational) (tabbylavalamp.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Have you heard their collab with Band-Maid?</p><p><em>BlueSky &middot; tabbylavalamp.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
