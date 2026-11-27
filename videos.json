@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "TJTQuejuh1g",
+        "Title":  "Maid in TUFS / BAND-MAID (cover)",
+        "Channel":  "東京外国語大学ダルマダーツ",
+        "ChannelId":  "UCW_nfUWf7WSxWLuHCfQfHfA",
+        "Url":  "https://youtu.be/TJTQuejuh1g",
+        "Thumbnail":  "https://i.ytimg.com/vi/TJTQuejuh1g/hqdefault.jpg",
+        "PublishedAt":  "2026-11-27T14:44:14.0000000Z",
+        "DiscoveredAt":  "2026-11-27T14:56:46.5344590Z",
+        "Duration":  "00:27:00",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "y_WPLymwZRw",
+        "Title":  "Band-Maid Miku Receives G-Shock Watch #bandmaid #バンドメイド",
+        "Channel":  "Uncle Yoshi",
+        "ChannelId":  "UCYvvxMHBev3FKqybokg_5BA",
+        "Url":  "https://youtu.be/y_WPLymwZRw",
+        "Thumbnail":  "https://i.ytimg.com/vi/y_WPLymwZRw/hqdefault.jpg",
+        "PublishedAt":  "2026-11-27T14:27:00.0000000Z",
+        "DiscoveredAt":  "2026-11-27T14:56:45.4270522Z",
+        "Duration":  "00:01:58",
+        "ViewsAtDiscovery":  399,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "cxqfHk3MQns",
         "Title":  "Band-Maid TOKYOFMG-SHOCK presents THE MOMENT⌚️ #bandmaid #バンドメイド",
         "Channel":  "Uncle Yoshi",
