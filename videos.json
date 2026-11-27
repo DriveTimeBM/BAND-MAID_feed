@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "CnA42UQcX1o",
+        "Title":  "BAND-MAID – 'THE NON-FICTION DAYS REACTION | THEY NEVER MISS!",
+        "Channel":  "Jeanette Music",
+        "ChannelId":  "UCNFfh0zk_jvV4_IPNExuLeA",
+        "Url":  "https://youtu.be/CnA42UQcX1o",
+        "Thumbnail":  "https://i.ytimg.com/vi/CnA42UQcX1o/hqdefault.jpg",
+        "PublishedAt":  "2026-11-27T11:00:03.0000000Z",
+        "DiscoveredAt":  "2026-11-27T11:20:50.7984173Z",
+        "Duration":  "00:16:24",
+        "ViewsAtDiscovery":  44,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "p-vkzuRhFeY",
+        "Title":  "THESE LADIES KNOW HOW TO ROCK! | BAND-MAID “Thrill” Reaction",
+        "Channel":  "Riffs and Reactions With Berry",
+        "ChannelId":  "UCwHEceu0iJDIvhDy6hd0FfQ",
+        "Url":  "https://youtu.be/p-vkzuRhFeY",
+        "Thumbnail":  "https://i.ytimg.com/vi/p-vkzuRhFeY/hqdefault.jpg",
+        "PublishedAt":  "2026-11-27T10:00:20.0000000Z",
+        "DiscoveredAt":  "2026-11-27T11:20:48.6811780Z",
+        "Duration":  "00:09:46",
+        "ViewsAtDiscovery":  55,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "dSkKVdargCA",
         "Title":  "We Needed This Song Today… BAND-MAID “FORWARD” Live 🇯🇵",
         "Channel":  "Max & Sujy React",
