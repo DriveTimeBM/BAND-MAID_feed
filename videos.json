@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "FojP1Mg6Isc",
+        "Title":  "First Time Hearing Band Maid - Entropy Reaction!",
+        "Channel":  "Lil mann™ Reacts",
+        "ChannelId":  "UCSlY9oi5Ra_poD3D3gK2I0A",
+        "Url":  "https://youtu.be/FojP1Mg6Isc",
+        "Thumbnail":  "https://i.ytimg.com/vi/FojP1Mg6Isc/hqdefault.jpg",
+        "PublishedAt":  "2026-11-27T03:48:09.0000000Z",
+        "DiscoveredAt":  "2026-11-27T04:47:02.9501939Z",
+        "Duration":  "00:06:46",
+        "ViewsAtDiscovery":  3,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "iWd-Gds9ohk",
+        "Title":  "QUEEN REACTS to BAND MAID – “START OVER” 🤯🔥  THIS BAND NEVER DISAPPOINTS!",
+        "Channel":  "QueenKafi",
+        "ChannelId":  "UCZs-74rfK5XoS1J7b_6Jhlg",
+        "Url":  "https://youtu.be/iWd-Gds9ohk",
+        "Thumbnail":  "https://i.ytimg.com/vi/iWd-Gds9ohk/hqdefault.jpg",
+        "PublishedAt":  "2026-11-27T03:00:01.0000000Z",
+        "DiscoveredAt":  "2026-11-27T04:47:01.7092219Z",
+        "Duration":  "00:08:31",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "noPhcixzj6c",
         "Title":  "BAND-MAID Documentary / SAIKI Reaction",
         "Channel":  "SidequestswithKJ",
