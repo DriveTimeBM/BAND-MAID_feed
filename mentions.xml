@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 09:08:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 19:32:56 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] BAND-MAID-"From Now On"</title>
+      <link>https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3n3ctxhm3g22f</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:glr56gkn6dxculjueh4e7s4b/post/3n3ctxhm3g22f</guid>
+      <pubDate>Fri, 27 Nov 2026 18:46:36 GMT</pubDate>
+      <dc:creator>Lightning Duck 大 音。龙男 (lightningduck.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>BAND-MAID-&quot;From Now On&quot;<br/>youtu.be/a6ZSvmnkS00</p><p><em>BlueSky &middot; lightningduck.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Song: Brand-New Road</title>
       <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n3bmtoivbx2s</link>
@@ -899,15 +908,6 @@
       <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>hosen.<br/><br/>Kobato: The song was created starting from there po.<br/><br/>Saiki: There was some rearranging but it was created with no requirements.<br/><br/>— Band-Maid&#39;s newest &quot;mode&quot; came out on this song?<br/><br/>Saiki: Kanami wanted a song like this for the &quot;servings&quot;. When creating the setlists, she would often be befud</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Song: hide-and-seek</title>
-      <link>https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n2fxpjceyt2b</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:tuke7omcysqtdhxlmez5p4gr/post/3n2fxpjceyt2b</guid>
-      <pubDate>Mon, 16 Nov 2026 07:06:32 GMT</pubDate>
-      <dc:creator>Band-Maid Song of the Day Bot (bandmaidsongbot.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p><br/>Song: hide-and-seek<br/>Album: glory<br/>Release: 1/15/2019<br/>Music: BAND-MAID<br/>Lyrics: 小鳩ミク [Kobato, Miku]<br/>Arrangement: BAND-MAID<br/>1st Live:5/9/2019<br/>#bandmaid</p><p><em>BlueSky &middot; bandmaidsongbot.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
