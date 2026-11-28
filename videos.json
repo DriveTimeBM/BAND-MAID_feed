@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "G85EuDgFM8A",
+        "Title":  "QUEEN REACTS to BAND MAID – “SUPER SUNSHINE” 🤯☀️  THIS SONG IS PURE JOY!",
+        "Channel":  "QueenKafi",
+        "ChannelId":  "UCZs-74rfK5XoS1J7b_6Jhlg",
+        "Url":  "https://youtu.be/G85EuDgFM8A",
+        "Thumbnail":  "https://i.ytimg.com/vi/G85EuDgFM8A/hqdefault.jpg",
+        "PublishedAt":  "2026-11-28T02:00:27.0000000Z",
+        "DiscoveredAt":  "2026-11-28T04:25:20.2372922Z",
+        "Duration":  "00:07:33",
+        "ViewsAtDiscovery":  23,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "Nrj4uEG_Mko",
+        "Title":  "Band-Maid - CHEMICAL REACTION (drums backing track)",
+        "Channel":  "Drum Solo Tracks",
+        "ChannelId":  "UCCuIidv3ezvLAR-6DJBtd-w",
+        "Url":  "https://youtu.be/Nrj4uEG_Mko",
+        "Thumbnail":  "https://i.ytimg.com/vi/Nrj4uEG_Mko/hqdefault.jpg",
+        "PublishedAt":  "2026-11-28T01:58:03.0000000Z",
+        "DiscoveredAt":  "2026-11-28T04:25:18.9117649Z",
+        "Duration":  "00:04:13",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "1krYoro-1QY",
         "Title":  "【BAND-MAID】2026.11.27_ TOKYO FM「THE MOMENT」",
         "Channel":  "佐々木20XX",
