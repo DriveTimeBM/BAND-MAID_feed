@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 04:25:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:41:50 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] friday is BAND-MAID day just FYI so get your ears around the best bass player...</title>
+      <link>https://bsky.app/profile/did:plc:qzgy45vpvfpvbjsqhqjapghf/post/3n3dvvb6py22z</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:qzgy45vpvfpvbjsqhqjapghf/post/3n3dvvb6py22z</guid>
+      <pubDate>Sat, 28 Nov 2026 04:53:50 GMT</pubDate>
+      <dc:creator>hammancheez but festive too early (hammancheez.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>friday is BAND-MAID day just FYI so get your ears around the best bass player in Japan</p><p><em>BlueSky &middot; hammancheez.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] Reproduciendo ahora en J-POP FM 93.1: Shambles de BAND-MAID! Sintonizanos!:</title>
       <link>https://bsky.app/profile/did:plc:uiz3agx7lu4tqalvtnfwwn3q/post/3n3dtkwnj7l2g</link>
@@ -899,15 +908,6 @@
       <dc:creator>phagras.bsky.social</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Define your musical taste by naming four female artists<br/><br/>Band-Maid (Yes I&#39;m cheating by listing five S-tier artists in one)<br/>Tatiana Shmayluk<br/>Kate Bush<br/>Siobhan Fahey</p><p><em>BlueSky &middot; phagras.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Define your musical taste by naming four female artists. I’ll go with more cu...</title>
-      <link>https://bsky.app/profile/did:plc:snjxuajunpwjybbvzxp3fdks/post/3n2etbb4ifc2v</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:snjxuajunpwjybbvzxp3fdks/post/3n2etbb4ifc2v</guid>
-      <pubDate>Sun, 15 Nov 2026 20:14:19 GMT</pubDate>
-      <dc:creator>Moth (theabyssofwhoa.bsky.social)</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Define your musical taste by naming four female artists. I’ll go with more current bands. <br/>BAND-MAID<br/>Amyl &amp; The Sniffers<br/>The Toksin<br/>Ecca Vandal</p><p><em>BlueSky &middot; theabyssofwhoa.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
