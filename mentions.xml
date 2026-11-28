@@ -7,8 +7,17 @@
     <language>en-us</language>
     <ttl>30</ttl>
     <generator>BAND-MAID social mentions tracker (PowerShell)</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 06:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:12:18 GMT</lastBuildDate>
     <atom:link href="https://drivetimebm.github.io/BAND-MAID_feed/mentions.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[BlueSky] 2 years ago</title>
+      <link>https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3n3dzdipd5e2u</link>
+      <guid isPermaLink="true">https://bsky.app/profile/did:plc:z6bckn3fsm424nfxj2jl5i52/post/3n3dzdipd5e2u</guid>
+      <pubDate>Sat, 28 Nov 2026 05:55:27 GMT</pubDate>
+      <dc:creator>Band-Maid OTD bot (bandmaidotdbot.bsky.social)</dc:creator>
+      <category>BlueSky</category>
+      <description><![CDATA[<p>2 years ago<br/>OOPARTS<br/>trivia<br/>the only Band-Maid song never played live<br/>2024/11/28<br/><br/>* Band-Maid OTD *</p><p><em>BlueSky &middot; bandmaidotdbot.bsky.social</em></p>]]></description>
+    </item>
     <item>
       <title>[BlueSky] friday is BAND-MAID day just FYI so get your ears around the best bass player...</title>
       <link>https://bsky.app/profile/did:plc:qzgy45vpvfpvbjsqhqjapghf/post/3n3dvvb6py22z</link>
@@ -899,15 +908,6 @@
       <dc:creator>kitchyfinks.bsky.social</dc:creator>
       <category>BlueSky</category>
       <description><![CDATA[<p>Define your musical taste by naming four female artists:<br/><br/>-Kesha<br/>-Carly Rae Jepsen<br/>-Brittney Spears<br/>-BAND-MAID</p><p><em>BlueSky &middot; kitchyfinks.bsky.social</em></p>]]></description>
-    </item>
-    <item>
-      <title>[BlueSky] Define your musical taste by naming four female artists</title>
-      <link>https://bsky.app/profile/did:plc:n47436rdg62xxyaidgq4qy4g/post/3n2evyq6uds26</link>
-      <guid isPermaLink="true">https://bsky.app/profile/did:plc:n47436rdg62xxyaidgq4qy4g/post/3n2evyq6uds26</guid>
-      <pubDate>Sun, 15 Nov 2026 21:03:14 GMT</pubDate>
-      <dc:creator>phagras.bsky.social</dc:creator>
-      <category>BlueSky</category>
-      <description><![CDATA[<p>Define your musical taste by naming four female artists<br/><br/>Band-Maid (Yes I&#39;m cheating by listing five S-tier artists in one)<br/>Tatiana Shmayluk<br/>Kate Bush<br/>Siobhan Fahey</p><p><em>BlueSky &middot; phagras.bsky.social</em></p>]]></description>
     </item>
   </channel>
 </rss>
