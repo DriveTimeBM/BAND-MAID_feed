@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "JR_1tZRhOqw",
+        "Title":  "🇯🇵 BAND-MAID –「Toi et moi」| アメリカ人ドラマー初見リアクション",
+        "Channel":  "Rea Reacts JP",
+        "ChannelId":  "UCJw7aqL3uWdG3lO7cmr8jcw",
+        "Url":  "https://youtu.be/JR_1tZRhOqw",
+        "Thumbnail":  "https://i.ytimg.com/vi/JR_1tZRhOqw/hqdefault.jpg",
+        "PublishedAt":  "2026-11-28T11:00:32.0000000Z",
+        "DiscoveredAt":  "2026-11-28T11:04:30.0039324Z",
+        "Duration":  "00:10:26",
+        "ViewsAtDiscovery":  2,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "JcR3NZ4O6C8",
+        "Title":  "バンドメイド Band Maid - Lock and Load (live in Munich) [Multicam]",
+        "Channel":  "j7128 🔊",
+        "ChannelId":  "UCCXMGSvgHIilsD5gxWs7AvQ",
+        "Url":  "https://youtu.be/JcR3NZ4O6C8",
+        "Thumbnail":  "https://i.ytimg.com/vi/JcR3NZ4O6C8/hqdefault.jpg",
+        "PublishedAt":  "2026-11-28T10:00:37.0000000Z",
+        "DiscoveredAt":  "2026-11-28T11:04:28.5769472Z",
+        "Duration":  "00:03:59",
+        "ViewsAtDiscovery":  5,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "ZpWzK68FJsE",
         "Title":  "First Time Reaction - Band-Maid - Freedom | Official Live Video",
         "Channel":  "Tristan Reacts",
