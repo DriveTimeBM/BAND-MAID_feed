@@ -1,6 +1,36 @@
 [
     {
         "schema_version":  1,
+        "VideoId":  "ZpWzK68FJsE",
+        "Title":  "First Time Reaction - Band-Maid - Freedom | Official Live Video",
+        "Channel":  "Tristan Reacts",
+        "ChannelId":  "UCucnXR4qmpfnEsPUMSnE_Gw",
+        "Url":  "https://youtu.be/ZpWzK68FJsE",
+        "Thumbnail":  "https://i.ytimg.com/vi/ZpWzK68FJsE/hqdefault.jpg",
+        "PublishedAt":  "2026-11-28T06:00:26.0000000Z",
+        "DiscoveredAt":  "2026-11-28T06:41:41.2614775Z",
+        "Duration":  "00:14:42",
+        "ViewsAtDiscovery":  8,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
+        "VideoId":  "78LBhCU2OHA",
+        "Title":  "BETTER THAN SLASH? | Rappers FIRST TIME REACTION To BAND-MAID 'FREEDOM' (Official Live Video)",
+        "Channel":  "Street Champs",
+        "ChannelId":  "UC47fBj1FOPDdXf-HGKejtQg",
+        "Url":  "https://youtu.be/78LBhCU2OHA",
+        "Thumbnail":  "https://i.ytimg.com/vi/78LBhCU2OHA/hqdefault.jpg",
+        "PublishedAt":  "2026-11-28T06:00:18.0000000Z",
+        "DiscoveredAt":  "2026-11-28T06:41:39.9654495Z",
+        "Duration":  "00:11:16",
+        "ViewsAtDiscovery":  64,
+        "Live":  "none",
+        "Status":  "active"
+    },
+    {
+        "schema_version":  1,
         "VideoId":  "G85EuDgFM8A",
         "Title":  "QUEEN REACTS to BAND MAID – “SUPER SUNSHINE” 🤯☀️  THIS SONG IS PURE JOY!",
         "Channel":  "QueenKafi",
